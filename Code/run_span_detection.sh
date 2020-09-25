@@ -13,10 +13,10 @@ biotags='B,I,O,O-'
 closer_biotags='B,I'
 
 ##Path to the BIO- format tokenized files that were preprocessed
-tokenized_file_path='/Users/MaylaB/Dropbox/Documents/0_Thesis_stuff-Larry_Sonia/Negacy_seq_2_seq_NER_model/ConceptRecognition/Tokenized_Files/'
+tokenized_file_path='../Output_Folders/Tokenized_Files/'
 
 ##Path to for where to save the models
-save_models_path='/Users/MaylaB/Dropbox/Documents/0_Thesis_stuff-Larry_Sonia/Negacy_seq_2_seq_NER_model/ConceptRecognition/PythonScripts/'
+save_models_path='../Models/SPAN_DETECTION/'
 
 ##the algorithm to use
 algo='LSTM' #CRF, LSTM, LSTM-CRF, char_embeddings, BIOBERT
