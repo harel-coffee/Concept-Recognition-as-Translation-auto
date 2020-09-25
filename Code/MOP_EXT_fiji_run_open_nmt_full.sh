@@ -43,7 +43,7 @@ echo "CURRENT ONTOLOGY: $ont"
 #declare -a arr=('CHEBI' 'CL' 'GO_BP' 'GO_CC' 'GO_MF' 'MOP' 'NCBITaxon' 'PR' 'SO' 'UBERON')
 
 #declare -a arr=('no_duplicates' 'random_ids' 'shuffled_ids')
-declare -a arr=('full_files')
+declare -a arr=('full_files' 'no_duplicates' 'random_ids' 'shuffled_ids' 'alphabetical')
 
 declare -a mod=('model-char_step_100000')
 
