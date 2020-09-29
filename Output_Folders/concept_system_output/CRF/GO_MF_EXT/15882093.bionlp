@@ -1,0 +1,44 @@
+T542	GO_EXT:transcription_factor 241 262	transcription factors
+T543	GO_EXT:transcription_factor 586 606	transcription factor
+T544	GO_EXT:0004565 1138 1153	β - galactosidase
+T545	GO_EXT:transcription_factor 3375 3396	transcription factors
+T546	GO_EXT:transcription_factor 4105 4126	transcription factors
+T547	GO_EXT:transcription_factor 4214 4235	transcription factors
+T548	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 4297 4301	bind
+T549	GO_EXT:transcription_factor 6695 6716	transcription factors
+T550	GO_EXT:0004565 7046 7061	β - galactosidase
+T551	GO_EXT:0008910 7062 7065	neo
+T552	GO_EXT:0004565 7380 7395	β - galactosidase
+T553	GO:0097617 7530 7543	hybridization
+T554	GO_EXT:0004565 8293 8308	β - galactosidase
+T555	GO_EXT:0015925 8739 8742	gal
+T556	GO_EXT:0015925 9044 9047	gal
+T557	GO_EXT:transcription_factor 14107 14128	transcription factors
+T558	GO_EXT:transcription_factor 14255 14276	transcription factors
+T559	GO_EXT:0004565 15551 15566	β - galactosidase
+T560	GO_EXT:0004565 16568 16583	β - galactosidase
+T561	GO_EXT:transcription_factor 17212 17232	transcription factor
+T562	GO_EXT:transcription_factor 27473 27494	transcription factors
+T563	GO_EXT:transcription_factor 27736 27757	transcription factors
+T564	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 30429 30436	binding
+T565	GO_EXT:transcription_factor 31539 31560	transcription factors
+T566	GO_EXT:0015925 32592 32595	gal
+T567	GO_EXT:transcription_factor 35480 35501	transcription factors
+T568	GO_EXT:0004565 37117 37132	β - galactosidase
+T569	GO_EXT:recombinase 38019 38030	recombinase
+T570	GO:0097617 38265 38278	hybridization
+T571	GO_EXT:0004565 38285 38300	β - galactosidase
+T572	GO_EXT:0004886 38552 38554	RT
+T573	GO_EXT:0004565 39784 39799	β - galactosidase
+T574	GO_EXT:0004565 42707 42722	β - galactosidase
+T575	GO_EXT:0004565 43252 43267	β - galactosidase
+T576	GO_EXT:0004565 46814 46836	βgeo - β - galactosidase
+T577	GO_EXT:0008910 46837 46840	neo
+T578	GO_EXT:0015666 47031 47050	Restriction enzymes
+T579	GO:0097617 47240 47250	hybridized
+T580	GO:0097617 49295 49308	hybridization
+T581	GO_EXT:0004565 51775 51790	β - galactosidase
+T582	GO:0097617 52142 52155	hybridization
+T583	GO_EXT:0015666 53136 53155	Restriction enzymes
+T584	GO:0097617 53381 53391	hybridized
+T585	GO_EXT:0015925 54962 54965	gal

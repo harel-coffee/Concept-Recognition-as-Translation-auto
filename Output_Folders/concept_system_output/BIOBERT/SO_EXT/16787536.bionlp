@@ -1,0 +1,374 @@
+T5404	SO_EXT:0000704 422 429	genetic
+T5405	SO_EXT:sequence_deletion_entity_or_process 430 438	deletion
+T5406	SO_EXT:0000704 490 494	gene
+T5407	SO_EXT:sequence_deletion_entity_or_process 495 503	deletion
+T5408	SO_EXT:wild_type_entity_or_quality 723 732	wild - type
+T5409	SO_EXT:sequence_altered_entity 838 845	mutants
+T5410	SO_EXT:sequence_altered_entity 948 955	mutants
+T5411	SO_EXT:sequence_altered_entity 1096 1103	mutants
+T5412	SO_EXT:sequence_altered_entity 1162 1169	mutants
+T5413	SO_EXT:sequence_deletion_entity_or_process 4384 4392	deletion
+T5414	SO_EXT:0000704 4414 4418	gene
+T5415	SO_EXT:sequence_nullness_or_absence 4476 4479	-/-
+T5416	SO_EXT:0000704 4543 4547	gene
+T5417	SO_EXT:0000704 4595 4599	gene
+T5418	SO_EXT:sequence_cloning_process 4604 4610	cloned
+T5419	SO_EXT:0001421 4632 4643	exon - intron
+T5420	SO_EXT:0000852 4664 4674;4675 4678	portion of ...
+T5421	SO_EXT:0000028 4694 4698	...gene
+T5422	SO_EXT:0000704 4716 4720	gene
+T5423	SO_EXT:0001644 4721 4737	targeting vector
+T5424	SO_EXT:sequence_nullness 4763 4767	null
+T5425	SO_EXT:sequence_alteration_entity_or_process 4768 4776	mutation
+T5426	SO_EXT:sequence_deletion_entity_or_process 4785 4793	deletion
+T5427	SO_EXT:0000147 4797 4802	exons
+T5428	SO_EXT:engineered_biological_sequence 4846 4855	construct
+T5429	SO_EXT:sequence_cloned_entity 4920 4926	clones
+T5430	GO_SO_EXT:sequence_rearrangement_process 4986 4999	recombination
+T5431	SO_EXT:sequence_upstreamness 5039 5047	upstream
+T5432	SO_EXT:sequence_downstreamness 5052 5062	downstream
+T5433	SO:0000357 5063 5071	flanking
+T5434	CHEBI_SO_EXT:molecular_probe 5072 5078	probes
+T5435	SO_EXT:sequence_cloned_entity 5102 5108	clones
+T5436	SO_EXT:0001023 5520 5526	allele
+T5437	SO_EXT:sequence_deletion_entity_or_process 5548 5556	deletion
+T5438	SO_EXT:0000704 5578 5582	gene
+T5439	SO_EXT:0000417 5633 5640	domains
+T5440	SO_EXT:0000704 5769 5773	gene
+T5441	SO_EXT:0000704 5829 5833	gene
+T5442	SO_EXT:0000147 5834 5839	exons
+T5443	SO_EXT:wild_type_entity_or_quality 5927 5936	wild - type
+T5444	SO_EXT:0001023 5950 5957	alleles
+T5445	CHEBI_SO_EXT:DNA 5988 5991	DNA
+T5446	CHEBI_SO_EXT:molecular_probe 5992 5998	probes
+T5447	SO_EXT:0000147 6056 6061	exons
+T5448	SO_EXT:0000205 6069 6091	untranslated sequences
+T5449	SO_EXT:0000167 6097 6105	promoter
+T5450	SO:0001030 6138 6141	ATG
+T5451	SO_EXT:biological_sequence 6142 6151	sequences
+T5452	SO_EXT:0000346 6157 6162	loxP -
+T5453	SO:0000359 6162 6168	floxed
+T5454	SO_EXT:0005853 6174 6183	cassettes
+T5455	SO_EXT:sequence_insertion_process 6189 6197	inserted
+T5456	SO_EXT:0000147 6203 6207	exon
+T5457	SO_EXT:0000028 6214 6216	bp
+T5458	SO_EXT:sequence_upstreamness 6217 6225	upstream
+T5459	SO_EXT:0000028 6252 6254	bp
+T5460	SO_EXT:sequence_downstreamness 6255 6265	downstream
+T5461	SO_EXT:0000315 6289 6318	transcription initiation site
+T5462	SO_EXT:sequence_substitution_entity_or_process 6335 6346	replacement
+T5463	SO_EXT:0000147 6366 6370	exon
+T5464	GO_SO_EXT:sequence_rearrangement_process 6385 6398	recombination
+T5465	SO_EXT:engineered_biological_sequence 6421 6430	construct
+T5466	SO_EXT:sequence_deletion_entity_or_process 6464 6472	deletion
+T5467	SO_EXT:0000147 6476 6480	exon
+T5468	SO_EXT:coding_sequence 6483 6498	coding sequence
+T5469	SO_EXT:0000147 6510 6515	exons
+T5470	CHEBI_SO_EXT:DNA 6577 6580	DNA
+T5471	SO_EXT:wild_type_entity_or_quality 6601 6610	wild - type
+T5472	SO_EXT:wild_type_entity_or_quality 6612 6614	WT
+T5473	SO_EXT:sequence_nullness_or_absence 6629 6634	(-/+)
+T5474	SO_EXT:sequence_cloned_entity 6643 6649	clones
+T5475	CHEBI_SO_EXT:molecular_probe 6666 6672	probes
+T5476	SO_EXT:wild_type_entity_or_quality 6716 6725	wild - type
+T5477	SO_EXT:0001023 6726 6732	allele
+T5478	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 6744 6746	kb
+T5479	SO_EXT:0001023 6769 6775	allele
+T5480	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 6789 6791	kb
+T5481	SO_EXT:genomic_DNA 6802 6813	genomic DNA
+T5482	CHEBI_SO_EXT:molecular_probe 6875 6880	probe
+T5483	SO_EXT:wild_type_entity_or_quality 6900 6909	wild - type
+T5484	SO_EXT:0001023 6910 6916	allele
+T5485	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 6932 6934	kb
+T5486	SO_EXT:0001023 6957 6963	allele
+T5487	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 6975 6977	kb
+T5488	SO_EXT:genomic_DNA 6988 6999	genomic DNA
+T5489	CHEBI_SO_EXT:molecular_probe 7050 7055	probe
+T5490	GO_SO_EXT:sequence_rearrangement_process 7091 7102	recombinant
+T5491	SO_EXT:0001023 7103 7109	allele
+T5492	SO_EXT:sequence_cloned_entity 7145 7150	clone
+T5493	CHEBI_SO_EXT:DNA 7196 7199	DNA
+T5494	SO_EXT:wild_type_entity_or_quality 7207 7216	wild - type
+T5495	SO_EXT:wild_type_entity_or_quality 7218 7220	WT
+T5496	SO_EXT:sequence_nullness_or_absence 7260 7265	(-/+)
+T5497	SO_EXT:0000147 7286 7290	exon
+T5498	SO_EXT:sequence_deletion_entity_or_process 7295 7303	deletion
+T5499	SO_EXT:genotype_or_entity_with_genotype 7334 7343	Genotypic
+T5500	SO_EXT:wild_type_entity_or_quality 7439 7448	wild - type
+T5501	SO_EXT:0000704 7625 7629	gene
+T5502	SO_EXT:sequence_deletion_entity_or_process 7630 7638	deletion
+T5503	SO_EXT:wild_type_entity_or_quality 7772 7781	wild - type
+T5504	SO_EXT:genotype_or_entity_with_genotype 7904 7913	genotypic
+T5505	SO_EXT:wild_type_entity_or_quality 7950 7959	wild - type
+T5506	SO_EXT:wild_type_entity_or_quality 8001 8010	wild - type
+T5507	SO_EXT:genotype_or_entity_with_genotype 8285 8293	Genotype
+T5508	SO_EXT:0000147 8342 8347	exon1
+T5509	SO_EXT:normal_or_wild_type_or_present 8349 8353	+/-)
+T5510	SO_EXT:wild_type_entity_or_quality 8435 8444	wild - type
+T5511	SO_EXT:genotype_or_entity_with_genotype 8484 8493	genotypic
+T5512	SO_EXT:0000704 9165 9169	gene
+T5513	SO_EXT:sequence_deletion_entity_or_process 9170 9178	deletion
+T5514	SO_EXT:0000147 9182 9187	exons
+T5515	SO_EXT:sequence_nullness 9212 9216	null
+T5516	SO_EXT:0000112 9258 9264	primer
+T5517	CHEBI_SO_EXT:base 9301 9302;9303 9306	...' ...
+T5518	SO_EXT:0000833 9310 9320;9321 9343	regions of ... transcript
+T5519	CHEBI_SO_EXT:mRNA 9356 9360	mRNA
+T5520	SO_EXT:0000112 9386 9392	primer
+T5521	CHEBI_SO_EXT:RNA 9404 9407	RNA
+T5522	SO_EXT:sequence_deletion_entity_or_process 9668 9676	deletion
+T5523	SO_EXT:0000673 9711 9722	transcripts
+T5524	SO_EXT:0000673 9779 9790	transcripts
+T5525	CHEBI_SO_EXT:RNA 9794 9797	RNA
+T5526	SO_EXT:0000243 9816 9821	(+/-)
+T5527	SO_EXT:sequence_nullness 9826 9830	null
+T5528	SO_EXT:sequence_upstreamness 9831 9836	(-/-)
+T5529	SO_EXT:0000112 9862 9868	primer
+T5530	SO_EXT:0000833 9896 9905;9906 9928	region of ... transcript
+T5531	SO_EXT:0000673 9956 9966	transcript
+T5532	SO_EXT:0000112 9987 9993	primer
+T5533	SO_EXT:0000833 10021 10030;10031 10053	region of ... transcript
+T5534	SO_EXT:0000673 10081 10091	transcript
+T5535	SO_EXT:wild_type_entity_or_quality 10285 10294	wild - type
+T5536	SO_EXT:sequence_altered_entity 10333 10339	Mutant
+T5537	SO_EXT:wild_type_entity_or_quality 10390 10399	wild - type
+T5538	SO_EXT:sequence_altered_entity 10477 10483	mutant
+T5539	SO_EXT:wild_type_entity_or_quality 10758 10767	wild - type
+T5540	SO_EXT:wild_type_entity_or_quality 11038 11047	wild - type
+T5541	SO_EXT:sequence_altered_entity 11056 11062	mutant
+T5542	SO_EXT:sequence_altered_entity 11076 11082	Mutant
+T5543	SO_EXT:sequence_nullness 11238 11242	null
+T5544	SO_EXT:sequence_altered_entity 11279 11285	mutant
+T5545	SO_EXT:wild_type_entity_or_quality 11384 11393	wild - type
+T5546	SO_EXT:sequence_altered_entity 11484 11491	mutants
+T5547	SO_EXT:sequence_altered_entity 11571 11577	mutant
+T5548	SO_EXT:sequence_altered_entity 11611 11617	mutant
+T5549	SO_EXT:sequence_altered_entity 11764 11771	mutants
+T5550	SO_EXT:wild_type_entity_or_quality 11866 11875	wild - type
+T5551	SO_EXT:sequence_altered_entity 12232 12239	mutants
+T5552	SO_EXT:wild_type_entity_or_quality 12288 12297	wild - type
+T5553	SO_EXT:sequence_altered_entity 12306 12312	mutant
+T5554	SO_EXT:wild_type_entity_or_quality 12712 12721	wild - type
+T5555	SO_EXT:sequence_altered_entity 12750 12756	Mutant
+T5556	SO_EXT:null_sequence_entity 12832 12837	nulls
+T5557	SO_EXT:wild_type_entity_or_quality 13010 13019	wild - type
+T5558	SO_EXT:wild_type_entity_or_quality 13272 13281	wild - type
+T5559	SO_EXT:wild_type_entity_or_quality 13614 13623	wild - type
+T5560	SO_EXT:sequence_altered_entity 13647 13653	mutant
+T5561	SO_EXT:wild_type_entity_or_quality 13873 13882	wild - type
+T5562	SO_EXT:genotype_or_entity_with_genotype 14037 14046	genotypic
+T5563	SO_EXT:sequence_altered_entity 14332 14339	mutants
+T5564	SO_EXT:wild_type_entity_or_quality 14373 14382	wild - type
+T5565	SO_EXT:wild_type_entity_or_quality 14454 14463	wild - type
+T5566	SO_EXT:sequence_altered_entity 14616 14623	mutants
+T5567	SO_EXT:wild_type_entity_or_quality 14750 14759	wild - type
+T5568	SO_EXT:sequence_alteration_process 14831 14839	labeling
+T5569	SO_EXT:sequence_altered_entity 15068 15075	mutants
+T5570	SO_EXT:sequence_alteration_process 15117 15124	labeled
+T5571	SO_EXT:wild_type_entity_or_quality 15183 15192	wild - type
+T5572	SO_EXT:wild_type_entity_or_quality 15194 15196	WT
+T5573	SO_EXT:wild_type_entity_or_quality 15250 15259	wild - type
+T5574	SO_EXT:wild_type_entity_or_quality 15435 15444	wild - type
+T5575	SO_EXT:sequence_alteration_process 15581 15588	labeled
+T5576	SO_EXT:sequence_altered_entity 15622 15629	mutants
+T5577	SO_EXT:wild_type_entity_or_quality 15654 15663	wild - type
+T5578	SO_EXT:wild_type_entity_or_quality 15780 15789	wild - type
+T5579	SO_EXT:sequence_altered_entity 15860 15866	mutant
+T5580	SO_EXT:sequence_altered_entity 16034 16041	mutants
+T5581	SO_EXT:sequence_altered_entity 16183 16190	mutants
+T5582	SO_EXT:sequence_altered_entity 16287 16294	mutants
+T5583	SO_EXT:sequence_altered_entity 16512 16519	mutants
+T5584	SO_EXT:sequence_altered_entity 16995 17001	mutant
+T5585	SO_EXT:sequence_altered_entity 17174 17180	mutant
+T5586	SO_EXT:sequence_altered_entity 17665 17672	mutants
+T5587	SO_EXT:wild_type_entity_or_quality 17777 17786	wild - type
+T5588	SO_EXT:sequence_altered_entity 17804 17810	mutant
+T5589	SO_EXT:sequence_altered_entity 18310 18317	mutants
+T5590	SO_EXT:sequence_altered_entity 18402 18408	mutant
+T5591	SO_EXT:sequence_altered_entity 18568 18574	mutant
+T5592	SO_EXT:0005853 18860 18868	cassette
+T5593	SO_EXT:sequence_insertion_process 18869 18877	inserted
+T5594	SO_EXT:0000704 18895 18899	gene
+T5595	SO_EXT:sequence_altered_entity 18927 18933	mutant
+T5596	SO_EXT:sequence_altered_entity 19046 19053	mutants
+T5597	SO_EXT:sequence_altered_entity 19185 19191	mutant
+T5598	SO_EXT:sequence_altered_entity 19374 19380	mutant
+T5599	SO_EXT:0000704 19402 19406	gene
+T5600	SO_EXT:sequence_altered_entity 19760 19766	mutant
+T5601	SO_EXT:sequence_alteration_process 20458 20466	labeling
+T5602	SO_EXT:0001023 20488 20493	label
+T5603	SO_EXT:0000704 20650 20654	gene
+T5604	SO_EXT:sequence_alteration_process 20712 20720	labeling
+T5605	SO_EXT:sequence_altered_entity 21590 21597	mutants
+T5606	SO_EXT:null_sequence_entity 21641 21646	nulls
+T5607	SO_EXT:sequence_nullness 21675 21679	null
+T5608	SO_EXT:sequence_altered_entity 21751 21758	mutants
+T5609	SO_EXT:0000704 21848 21855	genetic
+T5610	SO_EXT:sequence_altered_entity 21873 21880	mutants
+T5611	SO_EXT:sequence_altered_entity 21947 21953	mutant
+T5612	SO_EXT:sequence_altered_entity 21990 21997	mutants
+T5613	SO_EXT:sequence_altered_entity 22082 22089	mutants
+T5614	SO_EXT:sequence_altered_entity 22261 22268	mutants
+T5615	SO_EXT:wild_type_entity_or_quality 22446 22455	wild - type
+T5616	SO_EXT:sequence_altered_entity 22589 22596	mutants
+T5617	SO_EXT:sequence_altered_entity 22775 22782	mutants
+T5618	SO_EXT:sequence_altered_entity 23100 23107	mutants
+T5619	SO_EXT:0000704 23131 23136	genes
+T5620	SO_EXT:0000704 24113 24120	genetic
+T5621	SO_EXT:sequence_altered_entity 24359 24366	mutants
+T5622	SO_EXT:null_sequence_entity 24462 24467	nulls
+T5623	SO_EXT:null_sequence_entity 24966 24971	nulls
+T5624	SO_EXT:sequence_nullness_or_absence 25055 25058	-/-
+T5625	SO_EXT:sequence_altered_entity 25059 25066	mutants
+T5626	SO_EXT:null_sequence_entity 25113 25118	nulls
+T5627	SO_EXT:sequence_nullness 25258 25262	null
+T5628	SO_EXT:sequence_alteration_entity_or_process 26524 26533	mutations
+T5629	SO_EXT:sequence_alteration_entity_or_process 26961 26970	mutations
+T5630	SO_EXT:0000147 26981 26986	exons
+T5631	SO_EXT:sequence_variant_or_variation 27076 27083	variant
+T5632	SO_EXT:0000673 27084 27095	transcripts
+T5633	CHEBI_SO_EXT:polypeptide 27100 27112	polypeptides
+T5634	SO_EXT:0000315 27140 27167	transcriptional start sites
+T5635	SO_EXT:0000323 27184 27212	translation initiation sites
+T5636	SO_EXT:sequence_altered_entity 27234 27241	mutants
+T5637	CHEBI_SO_EXT:polypeptide 27342 27353	polypeptide
+T5638	CHEBI_SO_EXT:polypeptide 27444 27456	polypeptides
+T5639	SO_EXT:0000417 27488 27494	module
+T5640	SO_EXT:0000417 27510 27516	domain
+T5641	SO_EXT:0000417 27533 27539	domain
+T5642	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 27579 27593	amino terminal
+T5643	CHEBI_SO_EXT:polypeptide 27654 27666	polypeptides
+T5644	CHEBI_SO_EXT:polypeptide 27832 27844	polypeptides
+T5645	SO_EXT:sequence_alteration_entity_or_process 28055 28064	mutations
+T5646	SO_EXT:0000704 28083 28087	gene
+T5647	SO_EXT:sequence_altered_entity 28229 28236	mutants
+T5648	CHEBI_SO_EXT:polypeptide 28261 28273	polypeptides
+T5649	CHEBI_SO_EXT:polypeptide 28342 28354	polypeptides
+T5650	SO_EXT:0001644 28752 28768	Targeting vector
+T5651	SO_EXT:sequence_altered_entity 28794 28800	mutant
+T5652	CHEBI_SO_EXT:deoxyribonucleotide 28818 28838	deoxyoligonucleotide
+T5653	SO_EXT:0000112 28839 28846	primers
+T5654	SO_EXT:cDNA 28927 28931	cDNA
+T5655	SO_EXT:biological_sequence 28932 28941	sequences
+T5656	SO_EXT:biological_conservation_process_or_quality 28942 28951	conserved
+T5657	SO_EXT:cDNA 29061 29065	cDNA
+T5658	CHEBI_SO_EXT:RNA 29096 29099	RNA
+T5659	SO_EXT:0000028 29327 29329	bp
+T5660	SO_EXT:cDNA 29412 29416	cDNA
+T5661	SO_EXT:biological_sequence 29417 29425	sequence
+T5662	SO_EXT:cDNA 29446 29450	cDNA
+T5663	CHEBI_SO_EXT:molecular_probe 29465 29470	probe
+T5664	SO_EXT:0001026 29500 29507	genomic
+T5665	SO_EXT:0001026 29517 29523	Genome
+T5666	SO_EXT:0000153 29545 29548	BAC
+T5667	SO_EXT:sequence_cloned_entity 29549 29554	clone
+T5668	CHEBI_SO_EXT:DNA 29577 29580	DNA
+T5669	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 29599 29601	kb
+T5670	SO_EXT:0000153 29609 29612	BAC
+T5671	SO_EXT:sequence_cloned_entity 29613 29618	clone
+T5672	SO_EXT:0000188 29653 29659	intron
+T5673	SO_EXT:0000147 29660 29664	exon
+T5674	SO_EXT:0000852 29688 29698;29699 29702	portion of ...
+T5675	SO_EXT:0000028 29711 29715	...gene
+T5676	SO_EXT:0000147 29749 29754	exons
+T5677	SO_EXT:biological_sequence 29797 29805	sequence
+T5678	SO_EXT:0000153 29809 29812	BAC
+T5679	SO_EXT:sequence_cloned_entity 29813 29818	clone
+T5680	GO_SO_EXT:chromosome 29856 29866;29867 29868	chromosome ...
+T5681	SO_EXT:0001026 29869 29876	genomic
+T5682	SO_EXT:0000149 29877 29883	contig
+T5683	SO_EXT:sequence_substitution_entity_or_process 29920 29931	replacement
+T5684	SO_EXT:0001644 29937 29953	targeting vector
+T5685	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 29981 29983	kb
+T5686	SO_EXT:0000147 30010 30015	exons
+T5687	SO_EXT:0000704 30045 30049	gene
+T5688	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 30089 30091	kb
+T5689	SO_EXT:0000147 30130 30134	exon
+T5690	SO_EXT:sequence_insertion_entity_or_process 30150 30159	insertion
+T5691	SO_EXT:0000346 30247 30251	loxP
+T5692	SO:0000359 30252 30258;30258 30259	floxed ...
+T5693	SO_EXT:0005853 30260 30268	cassette
+T5694	CHEBI_SO_EXT:nucleotide 30272 30283	nucleotides
+T5695	SO_EXT:0005853 30353 30361	cassette
+T5696	SO_EXT:engineered_biological_sequence 30395 30404	construct
+T5697	SO_EXT:0001644 30420 30436	targeting vector
+T5698	SO_EXT:sequence_linearization 30441 30451	linearized
+T5699	SO_EXT:engineered_biological_sequence 30571 30580	construct
+T5700	SO_EXT:sequence_cloned_entity 30695 30701	clones
+T5701	GO_SO_EXT:sequence_rearrangement_process 30732 30745	recombination
+T5702	SO_EXT:sequence_cloned_entity 30817 30823	clones
+T5703	SO_EXT:0001023 31095 31101	allele
+T5704	SO_EXT:0000704 31168 31175	genetic
+T5705	SO_EXT:genotype_or_entity_with_genotype 31189 31198	Genotypes
+T5706	CHEBI_SO_EXT:DNA 31319 31322	DNA
+T5707	CHEBI_SO_EXT:DNA 31413 31416	DNA
+T5708	SO_EXT:0000112 31468 31474	primer
+T5709	SO_EXT:wild_type_entity_or_quality 31531 31540	wild - type
+T5710	SO_EXT:0001023 31549 31555	allele
+T5711	SO_EXT:genomic_DNA 31590 31601	genomic DNA
+T5712	SO_EXT:0000203 31637 31643	...strand
+T5713	SO_EXT:0000112 31644 31650	primer
+T5714	SO:0000077 31731 31740	antisense
+T5715	SO_EXT:0000112 31748 31754	primer
+T5716	SO_EXT:0000028 32000 32002	bp
+T5717	SO_EXT:0001023 32035 32041	allele
+T5718	SO_EXT:0000203 32091 32097	...strand
+T5719	SO_EXT:0000112 32098 32104	primer
+T5720	SO:0000077 32176 32185	antisense
+T5721	SO_EXT:0000112 32193 32199	primer
+T5722	SO_EXT:0000028 32434 32436	bp
+T5723	SO_EXT:sequence_altered_entity 32559 32565	mutant
+T5724	SO_EXT:sequence_altered_entity 32782 32788	mutant
+T5725	SO_EXT:genotype_or_entity_with_genotype 32859 32868	genotypic
+T5726	SO_EXT:null_sequence_entity 32895 32900	nulls
+T5727	SO_EXT:normal_or_wild_type_or_present 33007 33010	+/-
+T5728	SO_EXT:sequence_cloned_entity 33320 33325	clone
+T5729	SO_EXT:0000417 33555 33561	domain
+T5730	CHEBI_SO_EXT:RNA 33918 33921	RNA
+T5731	SO_EXT:cDNA 34018 34022	cDNA
+T5732	CHEBI_SO_EXT:RNA 34046 34049	RNA
+T5733	SO_EXT:0000673 34125 34135	transcript
+T5734	SO_EXT:0000112 34192 34198	primer
+T5735	SO_EXT:0000673 34232 34242	transcript
+T5736	SO_EXT:0000121 34280 34286	...primer
+T5737	SO_EXT:0000121 34309 34323	forward primer
+T5738	SO_EXT:0000147 34372 34376	exon
+T5739	SO_EXT:0000132 34405 34419	reverse primer
+T5740	SO_EXT:0000147 34466 34470	exon
+T5741	SO_EXT:0000028 34663 34665	bp
+T5742	SO_EXT:0000121 34672 34680	...' primer
+T5743	SO_EXT:0000121 34703 34717	forward primer
+T5744	SO_EXT:0000147 34766 34770	exon
+T5745	SO_EXT:0000132 34800 34814	reverse primer
+T5746	SO_EXT:0000147 34865 34869	exon
+T5747	SO_EXT:0000028 35063 35065	bp
+T5748	SO_EXT:0000673 35083 35093	transcript
+T5749	SO_EXT:0000121 35127 35141	forward primer
+T5750	SO_EXT:0000132 35209 35223	reverse primer
+T5751	SO_EXT:0000028 35458 35460	bp
+T5752	SO_EXT:0000673 35480 35490	transcript
+T5753	SO_EXT:0000121 35500 35514	forward primer
+T5754	SO_EXT:0000132 35585 35599	reverse primer
+T5755	SO_EXT:0000028 35841 35843	bp
+T5756	SO_EXT:0000673 35860 35870	transcript
+T5757	SO_EXT:0000121 35880 35894	forward primer
+T5758	SO_EXT:0000132 35964 35978	reverse primer
+T5759	SO_EXT:0000028 36222 36224	bp
+T5760	SO_EXT:sequence_alteration_process 36291 36298	labeled
+T5761	SO_EXT:sequence_alteration_process 37096 37103	labeled
+T5762	SO_EXT:0001644 37310 37326	targeting vector
+T5763	SO_EXT:genotype_or_entity_with_genotype 37474 37483	genotypic
+T5764	SO_EXT:sequence_nullness 37500 37504	null
+T5765	SO_EXT:cDNA 37742 37746	cDNA
+T5766	SO_EXT:biological_sequence 37747 37756	sequences
+T5767	SO_EXT:0000153 37789 37792	BAC
+T5768	SO_EXT:0001644 37814 37830	targeting vector
+T5769	SO_EXT:0001644 37911 37927	targeting vector
+T5770	SO_EXT:0000440 37948 37954	vector
+T5771	SO_EXT:sequence_nullness 38101 38105	null
+T5772	SO_EXT:0000315 38366 38396	transcription initiation sites
+T5773	SO_EXT:biological_sequence 38485 38493	sequence
+T5774	SO_EXT:0000204 38505 38511	5 ' UTR
+T5775	SO_EXT:0000147 38515 38519	exon
+T5776	SO_EXT:engineered_biological_sequence 38560 38569	construct
+T5777	SO_EXT:0000704 38962 38966	Gene

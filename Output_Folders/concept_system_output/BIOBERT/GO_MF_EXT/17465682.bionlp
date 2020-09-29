@@ -1,0 +1,40 @@
+T1346	GO_EXT:0004872 156 164	receptor
+T1347	GO_EXT:0004872 1678 1686	receptor
+T1348	GO_EXT:0005125 3550 3558	cytokine
+T1349	GO_EXT:0005125 3637 3646	Cytokines
+T1350	GO_EXT:0004872 4243 4251	receptor
+T1351	GO_EXT:0004872 4286 4294	receptor
+T1352	GO_EXT:biological_mover_or_transporter 12220 12232	transporter4
+T1353	GO_PR_EXT:insulin_receptor 14889 14905	insulin receptor
+T1354	CHEBI_GO_EXT:antioxidant 18207 18218	antioxidant
+T1355	GO_EXT:0016788 21625 21655	stearoyl - coenzyme A desaturase
+T1356	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 21695 21702	binding
+T1357	GO_EXT:0004738 21888 21907	DAG acyltransferase
+T1358	CHEBI_GO_SO_EXT:enzyme 21917 21923	enzyme
+T1359	GO_MOP_EXT:catalysis 21924 21934	catalysing
+T1360	CHEBI_GO_EXT:hormone 22085 22092	hormone
+T1361	GO_EXT:0016298 22103 22109	lipase
+T1362	CHEBI_GO_SO_EXT:enzyme 22127 22133	enzyme
+T1363	GO_EXT:0004402 22324 22330	...lipase
+T1364	GO_EXT:0004784 22727 22747	superoxide dismutase
+T1365	GO_PR_EXT:glutathione_disulfide_reductase 22823 22843	gluthatione synthase
+T1366	GO_EXT:0004601 22869 22879	peroxidase
+T1367	GO_PR_EXT:glutathione_disulfide_reductase 22892 22916	gluthatione transferases
+T1368	GO_PR_EXT:fatty_acid_synthase 23819 23838	fatty acid synthase
+T1369	GO_EXT:0008081 23854 23876	fatty acid translocase
+T1370	GO_PR_EXT:fatty_acid_synthase 23878 23881	FAT
+T1371	GO_PR_EXT:long_chain_acyl_CoA_dehydrogenase 24268 24272	Lcad
+T1372	GO_PR_EXT:phosphoenolpyruvate_carboxykinase 25006 25039	phosphoenolpyruvate carboxykinase
+T1373	GO_PR_EXT:glucose_6_phosphatase 25055 25076	glucose - 6 - phosphatase
+T1374	CHEBI_GO_EXT:hormone 33121 33128	hormone
+T1375	GO_EXT:0016298 33139 33145	lipase
+T1376	GO_EXT:0004402 33172 33178	...lipase
+T1377	CHEBI_GO_SO_EXT:enzyme 38662 38671	Enzymatic
+T1378	GO_EXT:0004886 40788 40790	RT
+T1379	GO_PR_EXT:beta3_adrenergic_receptor 41488 41525	extracellular signal - regulated kinase
+T1380	GO_EXT:0016874 42502 42510	liberase
+T1381	GO_EXT:0008066 48318 48337	glucose transporter
+T1382	GO_EXT:0004872 48519 48527	receptor
+T1383	GO_EXT:0004872 48578 48586	receptor
+T1384	GO_EXT:0015666 48641 48658	stearoyl - coenzyme
+T1385	GO_EXT:0016887 48661 48671	desaturase

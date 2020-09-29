@@ -1,0 +1,36 @@
+T1025	CHEBI_GO_EXT:ligand 284 290	ligand
+T1026	GO_EXT:0004872 2037 2045	receptor
+T1027	GO_EXT:0004872 2206 2214	receptor
+T1028	CHEBI_GO_EXT:ligand 2345 2352	ligands
+T1029	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 2422 2429	binding
+T1030	GO_EXT:0004872 2635 2643	receptor
+T1031	GO_PR_EXT:low_density_lipoprotein_receptor 2661 2693	low density lipoprotein receptor
+T1032	GO_PR_EXT:low_density_lipoprotein_receptor 2695 2699	LDLR
+T1033	GO_PR_EXT:insulin_receptor 2907 2914	insulin
+T1034	GO_EXT:0004402 2915 2919	...like
+T1035	GO_PR_EXT:growth_hormone 2920 2936	growth factor II
+T1036	GO_EXT:0004872 2937 2945	receptor
+T1037	GO_EXT:0004872 2975 2983	receptor
+T1038	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 2989 2994	binds
+T1039	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 3880 3885	bound
+T1040	CHEBI_GO_EXT:ligand 5653 5659	Ligand
+T1041	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 5660 5667	binding
+T1042	GO_EXT:0008910 6169 6173	neoR
+T1043	GO:0097617 6852 6862	hybridized
+T1044	GO:0097617 7027 7037	hybridized
+T1045	GO_EXT:0004886 9218 9220	RT
+T1046	GO_EXT:0004886 9734 9736	RT
+T1047	CHEBI_GO_EXT:ligand 23628 23634	ligand
+T1048	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 23635 23642	binding
+T1049	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 23739 23746	binding
+T1050	CHEBI_GO_EXT:ligand 23863 23869	ligand
+T1051	GO_PR_EXT:glucose_6_phosphate_dehydrogenase 24065 24092	retinaldehyde dehydrogenase
+T1052	GO_EXT:0060090 24889 24896	adaptor
+T1053	GO_EXT:0004872 25316 25325	receptors
+T1054	CHEBI_GO_EXT:antagonist 25571 25582	antagonists
+T1055	GO_EXT:0008910 30241 30245	neoR
+T1056	GO_EXT:0004886 33895 33897	RT
+T1057	GO_EXT:0001055 34068 34070	...II
+T1058	GO_EXT:0003964 34071 34092	Reverse Transcriptase
+T1059	GO_PR_EXT:glyceraldehyde_3_phosphate_dehydrogenase 35077 35082	GAPDH
+T1060	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 36424 36431	binding

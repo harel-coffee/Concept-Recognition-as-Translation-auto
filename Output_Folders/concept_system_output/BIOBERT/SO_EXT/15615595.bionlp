@@ -1,0 +1,135 @@
+T2320	SO_EXT:0000704 236 243	Genetic
+T2321	SO_EXT:0000704 298 303	genes
+T2322	SO_EXT:sequence_alteration_process 482 493	mutagenesis
+T2323	SO_EXT:0000704 509 513	gene
+T2324	SO_EXT:sequence_alteration_process 1243 1254	mutagenesis
+T2325	SO_EXT:0000704 1722 1729	genetic
+T2326	SO_EXT:0000704 1759 1764	genes
+T2327	SO_EXT:0000704 1984 1989	genes
+T2328	SO_EXT:sequence_alteration_process 2021 2028	mutated
+T2329	SO_EXT:0000704 2243 2254	genetically
+T2330	SO_EXT:genotype_or_entity_with_genotype 2313 2321	genotype
+T2331	SO_EXT:transgenic_entity 2348 2358	transgenic
+T2332	SO_EXT:0000704 2390 2395	genes
+T2333	SO_EXT:0001026 2401 2407	genome
+T2334	SO_EXT:sequence_alteration_process 2413 2424	mutagenesis
+T2335	SO_EXT:gene_trap_or_trap_construct 2442 2451	gene - trap
+T2336	SO_EXT:sequence_insertion_entity_or_process 2470 2479	insertion
+T2337	SO_EXT:sequence_alteration_process 2594 2605	mutagenesis
+T2338	SO_EXT:0001026 2653 2660	genomic
+T2339	SO_EXT:sequence_alteration_process 3555 3566	mutagenesis
+T2340	SO_EXT:0001026 3975 3981	genome
+T2341	SO_EXT:sequence_alteration_process 4032 4043	mutagenesis
+T2342	SO_EXT:sequence_alteration_entity_or_process 4123 4132	mutations
+T2343	SO_EXT:0000704 4142 4146	gene
+T2344	SO_EXT:0001026 4160 4166	genome
+T2345	SO_EXT:sequence_altered_entity 4212 4218	mutant
+T2346	SO_EXT:0001026 4320 4326	genome
+T2347	SO_EXT:sequence_alteration_process 4343 4354	mutagenesis
+T2348	SO_EXT:sequence_altered_entity 4459 4466	mutants
+T2349	SO_EXT:sequence_alteration_process 5446 5457	mutagenesis
+T2350	SO_EXT:sequence_altered_entity 5545 5551	mutant
+T2351	CHEBI_SO_EXT:molecular_probe 7023 7028	probe
+T2352	SO_EXT:sequence_nullness_or_absence 9779 9783	-/-)
+T2353	SO_EXT:0000704 9970 9974	gene
+T2354	SO_EXT:sequence_rescue_process 10098 10104	rescue
+T2355	SO_EXT:sequence_nullness_or_absence 10144 10147	-/-
+T2356	SO_EXT:genotype_or_entity_with_genotype 10241 10250	genotypes
+T2357	SO_EXT:wild_type_entity_or_quality 10263 10272	wild - type
+T2358	SO_EXT:sequence_nullness_or_absence 10283 10287	+/-,
+T2359	SO_EXT:sequence_nullness_or_absence 10297 10301	-/-,
+T2360	SO_EXT:sequence_nullness_or_absence 10314 10318	-/-:
+T2361	SO_EXT:sequence_nullness_or_absence 10324 10328	-/-,
+T2362	SO_EXT:sequence_nullness_or_absence 10340 10344	-/-:
+T2363	SO_EXT:sequence_nullness_or_absence 10350 10354	+/-,
+T2364	SO_EXT:sequence_nullness_or_absence 10364 10368	+/-,
+T2365	SO_EXT:sequence_nullness_or_absence 10382 10386	-/-.
+T2366	SO_EXT:genotype_or_entity_with_genotype 10476 10484	genotype
+T2367	SO_EXT:sequence_nullness_or_absence 12169 12172	-/-
+T2368	SO_EXT:wild_type_entity_or_quality 13251 13260	wild - type
+T2369	SO_EXT:wild_type_entity_or_quality 14146 14155	wild - type
+T2370	SO_EXT:sequence_nullness_or_absence 14249 14252	-/-
+T2371	SO_EXT:sequence_nullness_or_absence 14655 14659	-/-)
+T2372	SO_EXT:0000704 14689 14693	gene
+T2373	SO_EXT:sequence_nullness_or_absence 15119 15122	-/-
+T2374	SO_EXT:sequence_altered_entity 15267 15274	mutants
+T2375	SO_EXT:sequence_nullness_or_absence 15354 15357	-/-
+T2376	SO_EXT:sequence_nullness_or_absence 15514 15517	-/-
+T2377	SO_EXT:sequence_altered_entity 15612 15619	mutants
+T2378	SO_EXT:wild_type_entity_or_quality 15808 15817	wild - type
+T2379	SO_EXT:sequence_nullness_or_absence 15893 15896	-/-
+T2380	SO_EXT:wild_type_entity_or_quality 16062 16071	wild - type
+T2381	SO_EXT:normal_or_wild_type_or_present 16080 16083	+/-
+T2382	SO_EXT:sequence_nullness_or_absence 16252 16255	-/-
+T2383	SO_EXT:sequence_altered_entity 16616 16622	mutant
+T2384	SO:0000359 16639 16651	loxP - flanked
+T2385	SO_EXT:0005853 16671 16679	cassette
+T2386	SO_EXT:sequence_nullness_or_absence 16851 16854	-/-
+T2387	SO_EXT:normal_or_wild_type_or_present 16899 16902	+/+
+T2388	SO_EXT:normal_or_wild_type_or_present 16914 16917	+/-
+T2389	SO_EXT:sequence_nullness_or_absence 16993 16996	-/-
+T2390	SO_EXT:wild_type_entity_or_quality 17079 17088	wild - type
+T2391	SO_EXT:sequence_nullness_or_absence 17158 17161	-/-
+T2392	SO_EXT:sequence_nullness_or_absence 17180 17183	-/-
+T2393	SO_EXT:sequence_altered_entity 17184 17190	mutant
+T2394	SO_EXT:sequence_altered_entity 17335 17341	mutant
+T2395	SO_EXT:wild_type_entity_or_quality 17403 17412	wild - type
+T2396	SO_EXT:sequence_nullness_or_absence 17523 17526	-/-
+T2397	SO_EXT:wild_type_entity_or_quality 17630 17634	wild
+T2398	SO_EXT:0000203 17635 17639	...type
+T2399	SO_EXT:sequence_nullness_or_absence 17918 17921	-/-
+T2400	SO_EXT:sequence_nullness_or_absence 18181 18184	-/-
+T2401	SO_EXT:wild_type_entity_or_quality 18342 18351	wild - type
+T2402	SO_EXT:sequence_nullness_or_absence 18929 18932	-/-
+T2403	SO_EXT:sequence_nullness_or_absence 19205 19208	-/-
+T2404	SO_EXT:normal_or_wild_type_or_present 19366 19369	+/+
+T2405	SO_EXT:sequence_nullness_or_absence 19379 19382	-/-
+T2406	SO_EXT:sequence_nullness_or_absence 19488 19491	-/-
+T2407	SO_EXT:wild_type_entity_or_quality 19820 19829	wild - type
+T2408	SO_EXT:wild_type_entity_or_quality 19831 19833	wt
+T2409	SO_EXT:sequence_nullness_or_absence 19867 19870	-/-
+T2410	SO_EXT:wild_type_entity_or_quality 19939 19948	wild - type
+T2411	SO_EXT:wild_type_entity_or_quality 20010 20012	wt
+T2412	SO_EXT:sequence_nullness_or_absence 20090 20093	-/-
+T2413	SO_EXT:wild_type_entity_or_quality 20140 20149	wild - type
+T2414	SO_EXT:sequence_nullness_or_absence 20438 20441	-/-
+T2415	SO_EXT:wild_type_entity_or_quality 20626 20635	wild - type
+T2416	SO_EXT:sequence_nullness_or_absence 21942 21945	-/-
+T2417	SO_EXT:sequence_nullness_or_absence 22034 22037	-/-
+T2418	SO_EXT:wild_type_entity_or_quality 22052 22061	wild - type
+T2419	SO_EXT:sequence_nullness_or_absence 22242 22245	-/-
+T2420	SO_EXT:sequence_nullness_or_absence 22326 22329	-/-
+T2421	SO_EXT:sequence_nullness_or_absence 22489 22492	-/-
+T2422	SO_EXT:0000704 22530 22534	gene
+T2423	SO_EXT:gene_trap_or_trap_construct 22586 22595	gene - trap
+T2424	SO_EXT:sequence_nullness_or_absence 22904 22907	-/-
+T2425	SO_EXT:sequence_nullness_or_absence 23824 23827	-/-
+T2426	SO_EXT:wild_type_entity_or_quality 23863 23872	wild - type
+T2427	SO_EXT:sequence_altered_entity 23892 23898	mutant
+T2428	SO_EXT:sequence_altered_entity 24034 24040	mutant
+T2429	SO_EXT:0000704 25146 25150	gene
+T2430	SO_EXT:sequence_nullness_or_absence 25377 25380	-/-
+T2431	SO_EXT:sequence_altered_entity 25549 25555	mutant
+T2432	SO_EXT:0000704 25616 25623	genetic
+T2433	SO_EXT:0000704 26073 26078	genes
+T2434	SO_EXT:0001023 26168 26175	alleles
+T2435	SO_EXT:0000704 26179 26184	genes
+T2436	SO_EXT:0001026 26247 26253	genome
+T2437	SO_EXT:sequence_alteration_process 26263 26274	mutagenesis
+T2438	SO_EXT:sequence_altered_entity 26525 26531	mutant
+T2439	SO_EXT:sequence_altered_entity 26653 26659	mutant
+T2440	SO_EXT:sequence_altered_entity 26720 26727	mutants
+T2441	SO_EXT:sequence_alteration_process 26994 27005	mutagenesis
+T2442	SO_EXT:normal_or_wild_type_or_present 28069 28072	+/+
+T2443	SO_EXT:sequence_nullness_or_absence 28082 28085	-/-
+T2444	SO_EXT:genotype_or_entity_with_genotype 28207 28216	genotypes
+T2445	SO_EXT:sequence_nullness_or_absence 28687 28690	-/-
+T2446	SO_EXT:sequence_alteration_process 29342 29353	mutagenesis
+T2447	SO_EXT:sequence_alteration_process 29505 29516	mutagenesis
+T2448	SO_EXT:0000704 29555 29562	genetic
+T2449	SO_EXT:sequence_nullness_or_absence 29672 29675	-/-
+T2450	SO_EXT:sequence_nullness_or_absence 29687 29690	-/-
+T2451	SO_EXT:sequence_nullness_or_absence 29706 29709	-/-
+T2452	SO_EXT:sequence_nullness_or_absence 33109 33112	-/-
+T2453	SO_EXT:sequence_altered_entity 33113 33120	mutants
+T2454	CHEBI_SO_EXT:molecular_probe 33509 33514	probe

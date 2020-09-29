@@ -1,0 +1,41 @@
+T184	GO_PR_EXT:MAP_kinase 126 158	mitogen activated protein kinase
+T185	GO:0097617 462 475	hybridisation
+T186	GO_PR_EXT:medium_chain_acyl_CoA_dehydrogenase 1046 1078	Mitogen activated protein kinase
+T187	GO_PR_EXT:MAP_kinase 1080 1084	MAPK
+T188	GO_PR_EXT:MAP_kinase 1737 1748	MAPK kinase
+T189	GO_PR_EXT:MAP_kinase 1788 1806	MAPK kinase kinase
+T190	GO_PR_EXT:MAP_kinase 1906 1910	MAPK
+T191	GO_EXT:0004887 2117 2136	MAPK kinase kinases
+T192	CHEBI_GO_EXT:histone_deacetylase_inhibitor 2326 2343	kinase inhibitors
+T193	GO_PR_EXT:MAP_kinase 2437 2441	MAPK
+T194	GO_EXT:transcription_factor 3425 3445	transcription factor
+T195	GO_PR_EXT:MAP_kinase 3942 3946	MAPK
+T196	GO_EXT:0004887 7115 7127	MAPK kinases
+T197	GO_PR_EXT:thymidine_kinase 7406 7422	thymidine kinase
+T198	GO_EXT:0016301 10248 10254	kinase
+T199	GO:0097617 10284 10297	hybridisation
+T200	GO_EXT:0016301 10361 10368	kinases
+T201	GO:0097617 11093 11107	hybridisations
+T202	GO:0097617 11718 11731	hybridisation
+T203	GO:0097617 12428 12441	hybridisation
+T204	GO:0097617 13015 13028	hybridisation
+T205	GO:0097617 20889 20902	hybridisation
+T206	GO_EXT:0016301 31078 31084	kinase
+T207	GO_EXT:0003796 31394 31411	several receptors
+T208	GO_PR_EXT:MAP_kinase 31430 31434	MAPK
+T209	GO:0097617 31731 31744	hybridisation
+T210	GO:0097617 32316 32329	hybridisation
+T211	GO:0097617 32733 32746	hybridisation
+T212	GO_EXT:0016301 33785 33792	kinases
+T213	GO_EXT:0004714 34354 34378	receptor tyrosine kinase
+T214	CHEBI_GO_EXT:ligand 34398 34404	ligand
+T215	GO_EXT:0004872 34480 34489	receptors
+T216	GO_EXT:0004872 34710 34719	receptors
+T217	GO:0097617 36242 36255	hybridisation
+T218	GO_PR_EXT:thymidine_kinase 38775 38791	thymidine kinase
+T219	GO_EXT:0008910 39023 39026	neo
+T220	GO:0097617 40371 40384	hybridisation
+T221	GO:0097617 40492 40505	hybridisation
+T222	GO_PR_EXT:DNA_nucleotidylexotransferase 41093 41130	terminal deoxynucleotidyl transferase
+T223	CHEBI_GO_EXT:chemoattractant_or_chemoattraction 42093 42113	proteinase inhibitor
+T224	GO_EXT:0004601 42522 42532	peroxidase

@@ -1,0 +1,52 @@
+T920	GO_EXT:0004738 1400 1429	Eph receptor tyrosine kinases
+T921	GO_PR_EXT:ephrin_receptor 2681 2694	Eph receptors
+T922	GO_PR_EXT:ephrin_receptor 2759 2772	Eph receptors
+T923	GO_EXT:0004872 2808 2816	receptor
+T924	CHEBI_GO_EXT:ligand 2817 2823	ligand
+T925	GO_EXT:0004872 2843 2851	receptor
+T926	CHEBI_GO_EXT:ligand 2856 2862	ligand
+T927	GO_PR_EXT:ephrin_receptor 3081 3094	Eph receptors
+T928	GO_PR_EXT:ephrin_receptor 3213 3226	Eph receptors
+T929	GO_EXT:0015267 3375 3383	channels
+T930	GO_PR_EXT:ephrin_receptor 5021 5034	Eph receptors
+T931	GO_EXT:0004872 8974 8983	receptors
+T932	GO_EXT:0004872 9040 9049	receptors
+T933	GO_PR_EXT:alkaline_phosphatase 12103 12123	alkaline phosphatase
+T934	GO_PR_EXT:MAP_kinase 14097 14101	MAPK
+T935	GO_EXT:0004565 16279 16294	β - galactosidase
+T936	GO_EXT:0015925 16334 16337	gal
+T937	GO_EXT:0004872 16873 16881	receptor
+T938	GO_EXT:0004872 19599 19607	receptor
+T939	GO_PR_EXT:ephrin_receptor 20115 20130	Eph - B2 receptor
+T940	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 20945 20952	binding
+T941	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 21249 21256	binding
+T942	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 22209 22216	binding
+T943	GO_EXT:0015925 23848 23851	gal
+T944	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 24084 24091	binding
+T945	GO_EXT:transcription_factor 28252 28272	transcription factor
+T946	GO_EXT:transcription_factor 28326 28346	transcription factor
+T947	GO_EXT:transcription_factor 28416 28437	transcription factors
+T948	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 29893 29900	binding
+T949	GO_PR_EXT:ephrin_receptor 29917 29930	Eph receptors
+T950	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 30196 30203	binding
+T951	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 30515 30522	binding
+T952	GO_EXT:0016301 32637 32644	kinases
+T953	GO_EXT:0016301 32704 32711	kinases
+T954	GO_PR_EXT:MAP_kinase 32964 32968	MAPK
+T955	GO_PR_EXT:ephrin_receptor 33107 33120	Eph receptors
+T956	GO_PR_EXT:ephrin_receptor 35515 35528	Eph receptors
+T957	GO_PR_EXT:ephrin_receptor 35934 35947	Eph receptors
+T958	GO_PR_EXT:ephrin_receptor 37057 37070	Eph receptors
+T959	GO_PR_EXT:ephrin_receptor 37302 37315	Eph receptors
+T960	GO_EXT:phosphoglycerate_kinase 38598 38601	PGK
+T961	GO:0097617 39656 39669	hybridization
+T962	GO:0097617 39688 39701	hybridization
+T963	GO:0097617 39816 39829	hybridization
+T964	GO_PR_EXT:ephrin_receptor 41143 41158	Eph - B2 receptor
+T965	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 42815 42822	binding
+T966	GO:0097617 45452 45465	hybridization
+T967	GO_PR_EXT:alkaline_phosphatase 48964 48984	alkaline phosphatase
+T968	GO:0097617 50639 50652	hybridization
+T969	GO:0097617 51028 51041	hybridization
+T970	GO_EXT:0015925 52860 52863	gal
+T971	GO_PR_EXT:ephrin_receptor 53777 53792	Eph - B2 receptor

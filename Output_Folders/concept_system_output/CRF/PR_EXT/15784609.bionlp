@@ -1,0 +1,84 @@
+T1624	PR_EXT:vascuar_endothelial_growth_factor 736 770	vascular endothelial growth factor
+T1625	PR_EXT:vascuar_endothelial_growth_factor 772 776	VEGF
+T1626	PR_EXT:000017364 985 991	VEGF - A
+T1627	CHEBI_PR_EXT:protein 992 999	protein
+T1628	PR_EXT:000017364 3542 3548	VEGF - A
+T1629	PR_EXT:000033987 6247 6251	lacZ
+T1630	CHEBI_PR_EXT:protein 9858 9865	protein
+T1631	GO_PR_EXT:parathyroid_hormone 10622 10647	puromycin acyltransferase
+T1632	PR_EXT:000033987 11068 11072	lacZ
+T1633	PR_EXT:000033987 11127 11131	LacZ
+T1634	PR_EXT:000033987 11345 11349	LacZ
+T1635	PR_EXT:vascuar_endothelial_growth_factor 11421 11425	VEGF
+T1636	CHEBI_PR_EXT:protein 12134 12141	protein
+T1637	PR_EXT:vascuar_endothelial_growth_factor 12295 12299	VEGF
+T1638	PR_EXT:000011141 12425 12431	Nestin
+T1639	PR_EXT:000001224 12470 12477	Podocin
+T1640	PR_EXT:000011141 12825 12831	Nestin
+T1641	PR_EXT:000001224 12839 12846	Podocin
+T1642	PR_EXT:000011141 13021 13027	Nestin
+T1643	PR_EXT:000001224 13078 13085	Podocin
+T1644	PR_EXT:000017364 13323 13329	VEGF - A
+T1645	PR_EXT:vascuar_endothelial_growth_factor 13519 13523	VEGF
+T1646	PR_EXT:vascuar_endothelial_growth_factor 14037 14041	VEGF
+T1647	PR_EXT:vascuar_endothelial_growth_factor 14147 14151	VEGF
+T1648	PR_EXT:vascuar_endothelial_growth_factor 14906 14910	VEGF
+T1649	CHEBI_PR_EXT:protein 15135 15142	protein
+T1650	PR_EXT:000017364 15306 15316	VEGF - A - 164
+T1651	CHEBI_PR_EXT:protein 15317 15324	protein
+T1652	PR_EXT:000017364 15380 15390	VEGF - A - 164
+T1653	CHEBI_PR_EXT:protein 15391 15398	protein
+T1654	PR_EXT:vascuar_endothelial_growth_factor 15818 15822	VEGF
+T1655	PR_EXT:vascuar_endothelial_growth_factor 15973 15977	VEGF
+T1656	PR_EXT:vascuar_endothelial_growth_factor 16381 16385	VEGF
+T1657	PR_EXT:vascuar_endothelial_growth_factor 17212 17216	VEGF
+T1658	CHEBI_PR_EXT:protein 17401 17408	protein
+T1659	PR_EXT:vascuar_endothelial_growth_factor 17828 17832	VEGF
+T1660	PR_EXT:vascuar_endothelial_growth_factor 17992 17996	VEGF
+T1661	PR_EXT:000017364 18605 18615	VEGF - A - 164
+T1662	CHEBI_PR_EXT:protein 18616 18623	protein
+T1663	PR_EXT:000017364 18837 18843	VEGF - A
+T1664	CHEBI_PR_EXT:protein 18844 18851	protein
+T1665	PR_EXT:vascuar_endothelial_growth_factor 18883 18887	VEGF
+T1666	PR_EXT:000007563 18948 18952	Flt1
+T1667	PR_EXT:000008840 18980 19004	hepatocyte growth factor
+T1668	PR_EXT:000008534 19006 19009	HGF
+T1669	PR_EXT:vascuar_endothelial_growth_factor 19112 19116	VEGF
+T1670	PR_EXT:vascuar_endothelial_growth_factor 19253 19257	VEGF
+T1671	PR_EXT:vascuar_endothelial_growth_factor 19443 19447	VEGF
+T1672	PR_EXT:vascuar_endothelial_growth_factor 19558 19562	VEGF
+T1673	PR_EXT:vascuar_endothelial_growth_factor 19950 19954	VEGF
+T1674	PR_EXT:vascuar_endothelial_growth_factor 20953 20957	VEGF
+T1675	PR_EXT:vascuar_endothelial_growth_factor 21030 21034	VEGF
+T1676	PR_EXT:vascuar_endothelial_growth_factor 21307 21311	VEGF
+T1677	PR_EXT:vascuar_endothelial_growth_factor 21405 21409	VEGF
+T1678	PR_EXT:vascuar_endothelial_growth_factor 21650 21654	VEGF
+T1679	PR_EXT:000011141 21763 21769	Nestin
+T1680	PR_EXT:000017364 21821 21827	VEGF - A
+T1681	PR_EXT:000011141 21905 21911	Nestin
+T1682	PR_EXT:vascuar_endothelial_growth_factor 21954 21958	VEGF
+T1683	PR_EXT:vascuar_endothelial_growth_factor 22755 22759	VEGF
+T1684	PR_EXT:vascuar_endothelial_growth_factor 22856 22860	VEGF
+T1685	PR_EXT:vascuar_endothelial_growth_factor 23031 23035	VEGF
+T1686	CHEBI_PR_EXT:protein 23476 23484	proteins
+T1687	PR_EXT:000003918 23496 23503	albumin
+T1688	PR_EXT:vascuar_endothelial_growth_factor 23742 23746	VEGF
+T1689	CHEBI_PR_EXT:protein 24214 24222	proteins
+T1690	PR_EXT:000016043 26788 26799	Tetracyclin
+T1691	PR_EXT:000033987 26813 26817	lacZ
+T1692	PR_EXT:000033987 26906 26910	lacZ
+T1693	PR_EXT:000006928 27563 27567	EGFP
+T1694	CHEBI_PR_EXT:protein 27568 27575	protein
+T1695	PR_EXT:vascuar_endothelial_growth_factor 27949 27953	VEGF
+T1696	PR_EXT:vascuar_endothelial_growth_factor 28205 28209	VEGF
+T1697	PR_EXT:vascuar_endothelial_growth_factor 28336 28340	VEGF
+T1698	PR_EXT:000011141 29474 29480	Nestin
+T1699	PR_EXT:vascuar_endothelial_growth_factor 29523 29527	VEGF
+T1700	PR_EXT:vascuar_endothelial_growth_factor 29794 29798	VEGF
+T1701	PR_EXT:000001224 29947 29954	Podocin
+T1702	PR_EXT:vascuar_endothelial_growth_factor 30086 30090	VEGF
+T1703	PR_EXT:vascuar_endothelial_growth_factor 30166 30170	VEGF
+T1704	PR_EXT:vascuar_endothelial_growth_factor 30265 30269	VEGF
+T1705	PR_EXT:vascuar_endothelial_growth_factor 30306 30310	VEGF
+T1706	PR_EXT:vascuar_endothelial_growth_factor 30847 30851	VEGF
+T1707	PR_EXT:vascuar_endothelial_growth_factor 30888 30892	VEGF

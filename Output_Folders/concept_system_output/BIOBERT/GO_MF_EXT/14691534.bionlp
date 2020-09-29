@@ -1,0 +1,40 @@
+T302	GO_EXT:0016791 1255 1266	phosphatase
+T303	GO_EXT:0016791 5869 5880	phosphatase
+T304	GO_EXT:0008083 6035 6049	growth factors
+T305	GO_PR_EXT:phosphoenolpyruvate_carboxykinase 6059 6084	phosphoinositide 3 - kinase
+T306	GO_PR_EXT:protein_disulfide_isomerase 6086 6090	PI3K
+T307	GO_PR_EXT:protein_disulfide_isomerase 7154 7158	PI3K
+T308	GO_EXT:0008910 8629 8632	Neo
+T309	GO_EXT:0008910 8777 8780	Neo
+T310	GO_EXT:0004886 10809 10811	RT
+T311	GO_EXT:0008910 15037 15040	Neo
+T312	GO_EXT:recombinase 15185 15196	recombinase
+T313	GO_EXT:0008910 15409 15412	Neo
+T314	GO_PR_EXT:alkaline_phosphatase 23380 23383	Akt
+T315	GO_EXT:0016301 23384 23390	kinase
+T316	GO_PR_EXT:protein_disulfide_isomerase 28200 28204	PI3K
+T317	GO_PR_EXT:protein_disulfide_isomerase 31503 31507	PI3K
+T318	GO_EXT:0008910 37295 37298	neo
+T319	GO_EXT:0008910 37556 37559	neo
+T320	GO_EXT:0004886 39181 39183	RT
+T321	GO_EXT:0004402 39834 39872	hypoxanthine phosphoribosyltransferase
+T322	GO:00487617 40637 40655	protease inhibitor
+T323	GO_EXT:0004601 43409 43419	peroxidase
+T324	GO_EXT:0004629 45805 45830	phosphoribosyltransferase
+T325	GO_PR_EXT:protein_disulfide_isomerase 46028 46032	PI3K
+T326	GO_PR_EXT:phosphoenolpyruvate_carboxykinase 46035 46060	phosphoinositide 3 - kinase
+T327	GO_EXT:0016791 46161 46172	phosphatase
+T328	GO_PR_EXT:alkaline_phosphatase 46972 46975	Akt
+T329	GO_PR_EXT:hydroxymethylglutaryl_CoA_reductase 47347 47351	Hprt
+T330	GO_EXT:0008910 47602 47605	Neo
+T331	GO_EXT:0008910 47946 47949	Neo
+T332	GO_PR_EXT:thymidine_kinase 47973 47989	thymidine kinase
+T333	GO_PR_EXT:thymidine_kinase 48000 48002	TK
+T334	GO:0097617 48226 48239	hybridization
+T335	GO:0097617 48342 48355	hybridization
+T336	GO_EXT:0008910 49052 49055	neo
+T337	GO_EXT:0016591 52076 52080	mTOR
+T338	GO_PR_EXT:protein_disulfide_isomerase 54845 54849	PI3K
+T339	GO_PR_EXT:alkaline_phosphatase 54850 54853	AKT
+T340	GO_EXT:0016591 54858 54862	mTOR
+T341	CHEBI_GO_SO_EXT:enzyme 54863 54872	enzymatic

@@ -1,0 +1,18 @@
+T342	GO_PR_EXT:phosphoenolpyruvate_carboxykinase 2863 2880	...- thymidine kinase
+T343	GO_EXT:recombinase 3015 3026	recombinase
+T344	GO_EXT:0004736 3717 3744	hygromycin - thymidine kinase
+T345	GO_PR_EXT:thymidine_kinase 3752 3754	TK
+T346	GO_PR_EXT:alkaline_phosphatase 4641 4661	alkaline phosphatase
+T347	GO_PR_EXT:alkaline_phosphatase 5539 5559	alkaline phosphatase
+T348	GO_EXT:0004886 5596 5598	RT
+T349	GO_EXT:0004886 6052 6054	RT
+T350	GO_EXT:transcription_factor 8540 8560	transcription factor
+T351	GO_EXT:0004402 10094 10095	...-
+T352	GO_PR_EXT:thymidine_kinase 10095 10111	thymidine kinase
+T353	GO_PR_EXT:thymidine_kinase 10138 10140	TK
+T354	GO_PR_EXT:thymidine_kinase 10416 10418	TK
+T355	GO_EXT:0004886 11207 11209	RT
+T356	GO_PR_EXT:glyceraldehyde_3_phosphate_dehydrogenase 11295 11299	Gapd
+T357	GO_EXT:0004886 11315 11317	RT
+T358	GO_PR_EXT:alkaline_phosphatase 11356 11376	Alkaline phosphatase
+T359	GO_PR_EXT:alkaline_phosphatase 11527 11547	alkaline phosphatase

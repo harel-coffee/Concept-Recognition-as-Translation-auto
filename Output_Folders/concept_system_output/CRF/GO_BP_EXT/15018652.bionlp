@@ -1,0 +1,59 @@
+T633	GO:0001708 72 90	cell specification
+T634	GO:0023051 164 174	signalling
+T635	GO:0007281 459 482	germ cell specification
+T636	GO:0048468 523 539	cell development
+T637	GO:0009790 1027 1040	embryogenesis
+T638	GO:0001708 1079 1097	cell specification
+T639	GO:0009790 1223 1236	embryogenesis
+T640	GO_EXT:biological_direction_or_guidance 1304 1310	direct
+T641	GO:0009566 1455 1468	fertilization
+T642	GO:0023051 1652 1662	signalling
+T643	GO:0006936 1702 1718	primitive embryo
+T644	GO:0006412 1833 1843	translated
+T645	GO:0007281 1915 1938	germ cell specification
+T646	GO:0007281 2221 2244	germ cell specification
+T647	GO:0010467 2292 2302	expression
+T648	GO:0010467 2997 3007	expression
+T649	GO:0048468 3465 3481	cell development
+T650	GO:0001708 4431 4449	cell specification
+T651	GO:0010467 4627 4637	expression
+T652	GO:0010467 4802 4811	expressed
+T653	GO:0010467 4876 4886	expression
+T654	GO:0007283 5016 5031	spermatogenesis
+T655	GO:0001708 5362 5380	cell specification
+T656	GO:0048468 5405 5421	cell development
+T657	GO_SO_EXT:sequence_rearrangement_process 5596 5598	RT
+T658	GO:0010467 5615 5630	gene expression
+T659	GO_SO_EXT:sequence_rearrangement_process 6052 6054	RT
+T660	GO:0010467 6099 6108	expressed
+T661	GO:0009790 6246 6267	embryonic development
+T662	GO:0007618 6690 6695	mated
+T663	GO:0009790 6915 6928	embryogenesis
+T664	GO:0007566 6964 6976	implantation
+T665	GO:0007566 7581 7593	implantation
+T666	GO:0007566 7631 7643	implantation
+T667	GO:0007618 7784 7791	matings
+T668	GO:0007618 7965 7972	matings
+T669	GO:0010467 8497 8507	expression
+T670	GO_EXT:transcription 8540 8553	transcription
+T671	GO:0007566 8584 8596	implantation
+T672	GO:0010467 8836 8846	expression
+T673	GO:0010467 8961 8971	expression
+T674	GO:0010467 9033 9040	express
+T675	GO:0009790 9199 9213;9214 9226	development of ... embryos
+T676	GO:0010467 9311 9321	expression
+T677	CHEBI_GO_EXT:biological_process_or_quality_or_role 9426 9436	biological
+T678	GO:0001708 9548 9566	cell specification
+T679	GO:0009790 9750 9763	embryogenesis
+T680	GO:0006413 9951 9973	translation initiation
+T681	GO:0009294 10222 10233	transfected
+T682	GO_SO_EXT:sequence_rearrangement_process 10258 10268	recombined
+T683	GO:0009294 10454 10466	transfection
+T684	GO:0010467 10490 10500	expressing
+T685	GO_SO_EXT:sequence_rearrangement_process 11207 11209	RT
+T686	GO:0010467 11264 11274	expression
+T687	GO_SO_EXT:sequence_rearrangement_process 11315 11317	RT
+T688	GO:0007565 11501 11510	gestation
+T689	GO:0010467 12241 12251	expression
+T690	GO_EXT:breeding 12274 12278	bred
+T691	CHEBI_GO_EXT:biological_process_or_quality_or_role 12681 12691	biological

@@ -1,0 +1,63 @@
+T1549	GO:0016265 217 222	death
+T1550	GO:0023051 308 317	signaling
+T1551	GO:0007507 343 360	heart development
+T1552	GO:0007507 990 1009	cardiac development
+T1553	GO:0016265 1433 1438	death
+T1554	GO:0007620 3030 3036	coitum
+T1555	GO:0007565 3161 3170	gestation
+T1556	CHEBI_GO_EXT:biological_process_or_quality_or_role 3631 3638	biology
+T1557	GO_EXT:breeding 5579 5587	breeding
+T1558	GO:0003207 6033 6040;6041 6067	cardiac ... malformations
+T1559	GO:0065007 6194 6205	controlling
+T1560	GO:0007416 6254 6272	artery development
+T1561	GO:0048538 6429 6447	thymus development
+T1562	GO:0021954 7972 7994;7994 8015	central nervous system ... organs
+T1563	GO:0048513 11997 12010	organogenesis
+T1564	GO:0051301 12937 12944	passing
+T1565	GO_EXT:fatality_or_lethality 14514 14523	lethality
+T1566	GO:0061036 14825 14843;14844 14880	differentiation of ... organs during embryogenesis
+T1567	GO:0007567 14941 14950	perinatal
+T1568	GO_EXT:fatality_or_lethality 14951 14960	lethality
+T1569	GO_EXT:biological_growth_entity_or_process 14962 14968	growth
+T1570	GO_RO_EXT:developmental_differentiation_process 15016 15031	differentiation
+T1571	GO:0009790 15081 15094	embryogenesis
+T1572	GO:0007567 15326 15335	perinatal
+T1573	GO_EXT:fatality_or_lethality 15336 15345	lethality
+T1574	GO_EXT:breeding 16695 16703	breeding
+T1575	GO_EXT:biological_growth_entity_or_process 17205 17211	growth
+T1576	GO:0010467 22506 22516	expression
+T1577	GO:0007507 22542 22559	heart development
+T1578	GO:0010467 22727 22737	expression
+T1579	GO_RO_EXT:developmental_differentiation_process 22966 22981	differentiation
+T1580	GO_RO_EXT:developmental_differentiation_process 23120 23135	differentiation
+T1581	GO:0060976 23254 23280	cardiovascular development
+T1582	GO_RO_EXT:developmental_differentiation_process 23310 23325	differentiation
+T1583	GO:0010467 23356 23366	expression
+T1584	GO:0010467 23514 23524	expression
+T1585	GO:0010467 23640 23650	expression
+T1586	GO:0010467 23715 23725	expression
+T1587	GO:0003207 24242 24249;24250 24276	cardiac ... malformations
+T1588	GO:0007565 24285 24294	gestation
+T1589	GO:0007565 24386 24395	gestation
+T1590	GO:0007565 24478 24487	gestation
+T1591	GO:0007567 25114 25123	perinatal
+T1592	GO_EXT:fatality_or_lethality 25124 25133	lethality
+T1593	GO:0007565 25174 25185	gestational
+T1594	GO_EXT:fatality_or_lethality 25186 25195	lethality
+T1595	GO:0006113 25821 25831	relocation
+T1596	GO_EXT:breeding 25852 25860	breeding
+T1597	GO:0007565 26033 26042	gestation
+T1598	GO:0007507 27477 27494	heart development
+T1599	GO:0065007 27608 27619	controlling
+T1600	GO:0048538 27677 27695	thymus development
+T1601	GO:0048538 27783 27801	thymus development
+T1602	GO:0043277 27946 27974	clearance of apoptotic cells
+T1603	GO:0006915 28012 28021	apoptosis
+T1604	GO:0043277 28036 28060	apoptotic cell clearance
+T1605	GO:0007507 28101 28118	heart development
+T1606	GO:0043277 28167 28194	location of apoptotic cells
+T1607	GO:0043277 28320 28344	apoptotic cell clearance
+T1608	GO:0007507 29112 29131	cardiac development
+T1609	GO:0007507 29225 29242	heart development
+T1610	GO:0007507 29599 29618	cardiac development
+T1611	GO:0010467 32612 32622	Expression

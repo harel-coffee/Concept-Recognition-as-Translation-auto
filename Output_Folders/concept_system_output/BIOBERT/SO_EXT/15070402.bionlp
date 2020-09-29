@@ -1,0 +1,225 @@
+T1715	SO_EXT:gene_product 30 42	gene product
+T1716	SO_EXT:0000704 210 217	genetic
+T1717	SO_EXT:0000704 339 343	gene
+T1718	SO_EXT:sequence_coding_function 401 408	encodes
+T1719	SO_EXT:gene_product 794 806	gene product
+T1720	SO_EXT:0000704 1028 1032	gene
+T1721	SO_EXT:0001080 1193 1204	coiled - coil
+T1722	SO_EXT:0000417 1205 1211	domain
+T1723	SO_EXT:0000704 2818 2822	gene
+T1724	SO_EXT:sequence_alteration_entity_or_process 2910 2919	mutations
+T1725	SO_EXT:0000704 2987 2991	gene
+T1726	SO_EXT:sequence_alteration_process 3098 3105	mutated
+T1727	SO_EXT:0001023 3111 3117	allele
+T1728	SO_EXT:0000855 3276 3285	orthologs
+T1729	SO_EXT:0000704 3298 3302	gene
+T1730	SO_EXT:0000673 3459 3470	transcripts
+T1731	SO_EXT:0000704 3566 3570	gene
+T1732	SO_EXT:sequence_coding_function 3743 3750	encodes
+T1733	SO_EXT:sequence_or_structure_motif 3789 3794	motif
+T1734	SO_EXT:0000417 3828 3834	domain
+T1735	SO_EXT:0000417 3846 3853	domains
+T1736	SO_EXT:0001080 3857 3868	coiled - coil
+T1737	SO_EXT:sequence_or_structure_motif 3909 3914	motif
+T1738	SO_EXT:0000417 3975 3981	domain
+T1739	SO_EXT:sequence_or_structure_motif 4008 4013	motif
+T1740	SO_EXT:0000417 4066 4072	domain
+T1741	SO_EXT:sequence_alteration_entity_or_process 4298 4309	alterations
+T1742	CHEBI_SO_EXT:C_terminus_or_C_terminal_region 4342 4352	C - terminal
+T1743	SO_EXT:sequence_altered_entity 4377 4384	Mutants
+T1744	SO_EXT:sequence_alteration_entity_or_process 4406 4415	mutations
+T1745	SO_EXT:wild_type_entity_or_quality 4490 4499	wild - type
+T1746	SO_EXT:engineered_biological_sequence 5659 5668	construct
+T1747	CHEBI_SO_EXT:C_terminus_or_C_terminal_region 5686 5696	C - terminal
+T1748	SO_EXT:0001080 5764 5775	coiled - coil
+T1749	SO_EXT:sequence_repeat_unit_or_region 5787 5794	repeats
+T1750	SO_EXT:0000417 5812 5818	domain
+T1751	SO_EXT:sequence_cloned_entity 5918 5924	clones
+T1752	SO_EXT:0000673 5990 6000	transcript
+T1753	SO_EXT:0000236 6030 6033	ORF
+T1754	SO_EXT:0000028 6041 6043	bp
+T1755	SO_EXT:0000028 6065 6067	bp
+T1756	SO_EXT:0000345 6103 6106	EST
+T1757	SO_EXT:sequence_cloned_entity 6149 6155	clones
+T1758	SO_EXT:0000236 6168 6171	ORF
+T1759	SO_EXT:0000028 6179 6181	bp
+T1760	SO_EXT:biological_sequence 6207 6215	sequence
+T1761	SO_EXT:0000673 6235 6246	transcripts
+T1762	SO_EXT:cDNA 6272 6276	cDNA
+T1763	SO_EXT:sequence_cloned_entity 6389 6394	clone
+T1764	SO_EXT:0001080 6566 6577	coiled - coil
+T1765	SO_EXT:0000153 6606 6610	...coil
+T1766	SO_EXT:engineered_biological_sequence 6631 6640	construct
+T1767	SO_EXT:engineered_biological_sequence 6707 6717	constructs
+T1768	SO_EXT:0001080 6732 6743	coiled - coil
+T1769	SO_EXT:sequence_cloned_entity 6792 6797	clone
+T1770	SO:0000857 6914 6922	homology
+T1771	SO_EXT:sequence_fusion_process 7109 7114	fused
+T1772	SO_EXT:0000417 7137 7143	domain
+T1773	SO_EXT:sequence_cloned_entity 7180 7185	clone
+T1774	SO_EXT:sequence_fusion_process 7186 7191	fused
+T1775	SO_EXT:0000417 7214 7220	domain
+T1776	SO_EXT:engineered_biological_sequence 7232 7242	constructs
+T1777	SO_EXT:0000417 7271 7278	domains
+T1778	SO_EXT:sequence_fusion_process 7279 7284	fused
+T1779	CHEBI_SO_EXT:DNA 7297 7300	DNA
+T1780	SO_EXT:0000417 7309 7315	domain
+T1781	SO_EXT:sequence_cloned_entity 7438 7444	clones
+T1782	SO_EXT:sequence_truncation_process 7517 7526	truncated
+T1783	SO_EXT:sequence_altered_entity 7527 7534	mutants
+T1784	CHEBI_SO_EXT:leucine 7634 7641	leucine
+T1785	CHEBI_SO_EXT:leucine 7643 7646	Leu
+T1786	CHEBI_SO_EXT:glutamic_acid 7693 7696	Glu
+T1787	SO_EXT:0000417 7762 7769	domains
+T1788	SO_EXT:0001080 7775 7786	coiled - coil
+T1789	SO_EXT:0000417 7787 7793	domain
+T1790	SO_EXT:sequence_repeat_unit_or_region 7823 7829	repeat
+T1791	SO_EXT:0000417 7839 7845	domain
+T1792	CHEBI_SO_EXT:amino_acid 7851 7861	Amino acid
+T1793	SO_EXT:biological_sequence 7862 7870	sequence
+T1794	CHEBI_SO_EXT:amino_acid 7973 7984	Amino acids
+T1795	SO_EXT:biological_conservation_process_or_quality 8056 8065	Conserved
+T1796	CHEBI_SO_EXT:amino_acid 8066 8077	amino acids
+T1797	SO:0000857 8266 8274	homology
+T1798	CHEBI_SO_EXT:amino_acid 8357 8359	aa
+T1799	SO_EXT:0001023 8659 8665	tagged
+T1800	SO_EXT:0001023 8693 8699	tagged
+T1801	SO_EXT:engineered_biological_sequence 8739 8749	constructs
+T1802	SO_EXT:0001023 9158 9164	tagged
+T1803	SO_EXT:engineered_biological_sequence 9165 9175	constructs
+T1804	SO_EXT:sequence_altered_entity 9271 9277	mutant
+T1805	SO_EXT:sequence_fusion_entity_or_process 9278 9285	fusions
+T1806	SO_EXT:biological_sequence 9416 9424	sequence
+T1807	SO_EXT:cDNA 9589 9593	cDNA
+T1808	SO_EXT:biological_sequence 9594 9603	sequences
+T1809	SO_EXT:0000345 9616 9620	ESTs
+T1810	SO_EXT:0000704 9649 9653	gene
+T1811	SO_EXT:0000147 9698 9703	exons
+T1812	SO_EXT:coding_sequence 9741 9754	coding region
+T1813	SO_EXT:0000704 9766 9770	gene
+T1814	GO_SO_EXT:chromosome 9810 9820	...chromosome
+T1815	SO_EXT:cDNA 9908 9913	cDNAs
+T1816	SO_EXT:sequence_coding_function 9914 9920	encode
+T1817	SO_EXT:0000417 9989 9996	domains
+T1818	SO_EXT:0000188 10031 10038	coiled -
+T1819	SO_EXT:0000188 10038 10042	coil
+T1820	CHEBI_SO_EXT:C_terminus_or_C_terminal_region 10057 10067	C - terminus
+T1821	SO:0000857 10125 10133	homology
+T1822	SO_EXT:0000673 10355 10365	transcript
+T1823	SO_EXT:0001023 10676 10682	tagged
+T1824	SO_EXT:0001023 10721 10727	tagged
+T1825	CHEBI_SO_EXT:tattyttRNA 11132 11135	tag
+T1826	SO_EXT:0001080 11446 11457	coiled - coil
+T1827	SO_EXT:0001023 11532 11538	tagged
+T1828	SO_EXT:engineered_biological_sequence 11699 11709	constructs
+T1829	SO_EXT:0001080 11732 11743	coiled - coil
+T1830	CHEBI_SO_EXT:mRNA 12079 12083	mRNA
+T1831	SO_EXT:sequence_cloned_entity 12144 12149	clone
+T1832	CHEBI_SO_EXT:molecular_probe 12214 12219	probe
+T1833	CHEBI_SO_EXT:mRNA 12231 12235	mRNA
+T1834	SO_EXT:0000673 12691 12701	transcript
+T1835	SO_EXT:0000673 13486 13496	transcript
+T1836	SO_EXT:0000673 13671 13681	transcript
+T1837	SO_EXT:0000673 13842 13852	transcript
+T1838	SO_EXT:0000673 14261 14271	transcript
+T1839	SO_EXT:0000673 14996 15006	transcript
+T1840	SO_EXT:0001023 15732 15738	tagged
+T1841	CHEBI_SO_EXT:tattyttRNA 15865 15868	tag
+T1842	SO_EXT:0001023 15919 15925	tagged
+T1843	SO_EXT:0001023 16026 16032	tagged
+T1844	SO_EXT:engineered_biological_sequence 17171 17180	construct
+T1845	SO_EXT:sequence_truncation_process 17228 17237	truncated
+T1846	SO_EXT:sequence_altered_entity 17238 17244	mutant
+T1847	SO_EXT:sequence_altered_entity 17275 17281	mutant
+T1848	SO_EXT:0001080 17307 17318	coiled - coil
+T1849	SO_EXT:0000417 17319 17325	domain
+T1850	SO_EXT:sequence_altered_entity 18481 18487	mutant
+T1851	CHEBI_SO_EXT:C_terminus_or_C_terminal_region 18550 18560	C - terminal
+T1852	SO_EXT:sequence_altered_entity 18564 18571	mutants
+T1853	SO_EXT:sequence_altered_entity 18620 18626	mutant
+T1854	SO_EXT:0001080 18650 18661	coiled - coil
+T1855	SO_EXT:engineered_biological_sequence 18774 18783	construct
+T1856	SO_EXT:0001080 18823 18834	coiled - coil
+T1857	SO_EXT:0000417 18835 18841	domain
+T1858	SO_EXT:0000417 18955 18961	domain
+T1859	SO_EXT:0001080 19179 19190	coiled - coil
+T1860	SO_EXT:0000417 19191 19197	domain
+T1861	SO_EXT:sequence_fusion_entity_or_process 21077 21083	fusion
+T1862	SO_EXT:sequence_fusion_entity_or_process 21145 21151	fusion
+T1863	CHEBI_SO_EXT:mRNA 24939 24944	marks
+T1864	SO_EXT:gene_product 25700 25712	gene product
+T1865	SO_EXT:0000704 25920 25924	gene
+T1866	SO_EXT:sequence_coding_function 25938 25945	encodes
+T1867	SO_EXT:biological_sequence 25992 26000	sequence
+T1868	SO:0000857 26001 26009	homology
+T1869	SO_EXT:gene_product 26027 26039	gene product
+T1870	SO_EXT:0000854 26162 26169	paralog
+T1871	SO_EXT:0000417 26399 26406	domains
+T1872	CHEBI_SO_EXT:peptide_or_peptide_region 26414 26421	peptide
+T1873	SO_EXT:biological_sequence 26422 26430	sequence
+T1874	SO_EXT:0000704 27566 27570	gene
+T1875	SO_EXT:sequence_alteration_process 28079 28086	mutated
+T1876	SO_EXT:sequence_alteration_entity_or_process 28122 28131	mutations
+T1877	SO_EXT:0000704 28230 28235	genes
+T1878	SO:0000857 30154 30162	homology
+T1879	CHEBI_SO_EXT:C_terminus_or_C_terminal_region 30172 30182	C - terminal
+T1880	SO_EXT:0001080 30224 30235	coiled - coil
+T1881	SO_EXT:0001528 31230 31262	post - translational modifications
+T1882	SO_EXT:gene_product 32299 32311	gene product
+T1883	SO_EXT:0000155 32787 32794	Plasmid
+T1884	SO_EXT:engineered_biological_sequence 32795 32805	constructs
+T1885	SO_EXT:0000440 32827 32834	vectors
+T1886	SO_EXT:sequence_deletion_entity_or_process 32901 32909	deletion
+T1887	SO_EXT:sequence_altered_entity 32910 32917	mutants
+T1888	SO_EXT:sequence_deletion_process 32962 32969	excised
+T1889	SO_EXT:0000440 32985 32992	vectors
+T1890	SO_EXT:sequence_cloning_process 33002 33008	cloned
+T1891	SO_EXT:0000440 33038 33045	vectors
+T1892	SO_EXT:cDNA 33088 33092	cDNA
+T1893	SO_EXT:0000112 33144 33151	primers
+T1894	SO_EXT:0000345 33164 33168	ESTs
+T1895	SO_EXT:biological_sequence 33169 33178	sequences
+T1896	CHEBI_SO_EXT:RNA 33198 33201	RNA
+T1897	SO_EXT:0000006 33219 33230	PCR product
+T1898	SO_EXT:sequence_cloning_process 33240 33246	cloned
+T1899	SO_EXT:0000440 33302 33309	vectors
+T1900	CHEBI_SO_EXT:tyrosine 33365 33369	tags
+T1901	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 33388 33398	N - terminus
+T1902	SO_EXT:0000851 33399 33408;33409 33428	region of ... coding region
+T1903	SO_EXT:sequence_cloning_process 33457 33463	cloned
+T1904	SO_EXT:0000440 33489 33495	vector
+T1905	SO_EXT:sequence_fusion_process 33496 33501	fused
+T1906	SO_EXT:0000417 33524 33530	domain
+T1907	SO_EXT:sequence_cloning_process 33636 33642	cloned
+T1908	SO_EXT:0000440 33653 33659	vector
+T1909	CHEBI_SO_EXT:DNA 33683 33686	DNA
+T1910	SO_EXT:0000417 33695 33701	domain
+T1911	SO_EXT:cDNA 33805 33809	cDNA
+T1912	SO_EXT:sequence_cloning_process 33818 33824	cloned
+T1913	SO_EXT:0000417 33868 33874	domain
+T1914	SO_EXT:sequence_cloned_entity 33911 33917	clones
+T1915	CHEBI_SO_EXT:leucine 33976 33983	Leucine
+T1916	SO_EXT:sequence_cloned_entity 34003 34009	clones
+T1917	SO_EXT:0000704 34056 34061	genes
+T1918	SO_EXT:0000440 34589 34595	vector
+T1919	CHEBI_SO_EXT:DNA 34703 34706	DNA
+T1920	SO_EXT:sequence_fusion_process 36275 36280	fused
+T1921	SO_EXT:sequence_fusion_entity_or_process 36652 36658	fusion
+T1922	SO_EXT:0000417 36678 36684	domain
+T1923	CHEBI_SO_EXT:molecular_probe 37253 37259	Probes
+T1924	CHEBI_SO_EXT:molecular_probe 38454 38460	Probes
+T1925	CHEBI_SO_EXT:RNA 38839 38842	RNA
+T1926	SO_EXT:sequence_cloned_entity 38886 38892	clones
+T1927	SO_EXT:0000028 38926 38928	bp
+T1928	CHEBI_SO_EXT:nucleotide 38962 38964	nt
+T1929	SO_EXT:coding_sequence 38982 38995	coding region
+T1930	SO_EXT:sequence_linearization 39001 39011	linearized
+T1931	CHEBI_GO_SO_EXT:enzyme 39045 39052	enzymes
+T1932	SO:0000077 39083 39092	antisense
+T1933	SO_EXT:sequence_alteration_process 39097 39104	labeled
+T1934	CHEBI_SO_EXT:riboprobe 39105 39114	riboprobe
+T1935	CHEBI_SO_EXT:RNA 39163 39166	RNA
+T1936	CHEBI_SO_EXT:molecular_probe 39537 39542	probe
+T1937	CHEBI_SO_EXT:RNA 39659 39662	RNA
+T1938	SO_EXT:sequence_cloning_process 39883 39890	cloning
+T1939	SO_EXT:0000440 39914 39921	vectors

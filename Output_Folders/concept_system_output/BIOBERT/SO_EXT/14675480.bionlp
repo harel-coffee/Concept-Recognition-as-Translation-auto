@@ -1,0 +1,303 @@
+T808	SO_EXT:0000704 339 343	gene
+T809	SO_EXT:0000704 373 377	gene
+T810	SO_EXT:sequence_nullness_or_absence 686 689	-/-
+T811	SO_EXT:0001060 1360 1368	isoforms
+T812	SO:0001817 1697 1700	Thr
+T813	SO_EXT:sequence_or_structure_motif 1709 1714	motif
+T814	SO:0000077 3119 3128	antisense
+T815	CHEBI_SO_EXT:oligonucleotide 3129 3145	oligonucleotides
+T816	SO_EXT:engineered_biological_sequence 3176 3186	constructs
+T817	SO_EXT:sequence_nullness_or_absence 3517 3520	-/-
+T818	SO_EXT:sequence_nullness_or_absence 3680 3683	-/-
+T819	SO_EXT:0001060 3947 3955	isoforms
+T820	SO_EXT:sequence_nullness_or_absence 4075 4078	-/-
+T821	SO_EXT:0000704 4284 4288	gene
+T822	SO_EXT:0000704 4707 4711	gene
+T823	SO_EXT:0000147 4742 4747	exons
+T824	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 4761 4763	kb
+T825	SO_EXT:0001026 4767 4774	genomic
+T826	SO_EXT:biological_sequence 4775 4783	sequence
+T827	SO_EXT:0000147 4795 4800	exons
+T828	SO_EXT:sequence_coding_function 4808 4815	encoded
+T829	SO_EXT:biological_sequence 4820 4828	sequence
+T830	SO_EXT:0000204 4848 4870	5 ' untranslated region
+T831	SO_EXT:0000147 4886 4891	exons
+T832	SO_EXT:0000203 4910 4931	' untranslated region
+T833	SO_EXT:0000154 4935 4939	...exon
+T834	SO_EXT:biological_sequence 4957 4965	sequence
+T835	SO_EXT:0001644 4968 4984	targeting vector
+T836	SO_EXT:sequence_deletion_process 5001 5007	delete
+T837	SO_EXT:0000147 5008 5013	exons
+T838	SO_EXT:0000440 5081 5087	vector
+T839	SO_EXT:sequence_cloned_entity 5226 5232	clones
+T840	SO_EXT:normal_or_wild_type_or_present 5246 5249	+/-
+T841	SO_EXT:wild_type_entity_or_quality 5294 5303	wild type
+T842	SO_EXT:normal_or_wild_type_or_present 5333 5336	+/-
+T843	SO_EXT:wild_type_entity_or_quality 5371 5380	wild type
+T844	SO_EXT:normal_or_wild_type_or_present 5389 5392	+/-
+T845	SO_EXT:sequence_nullness_or_absence 5414 5417	-/-
+T846	SO_EXT:sequence_alteration_entity_or_process 5965 5973	mutation
+T847	SO_EXT:sequence_cloned_entity 6050 6056	clones
+T848	SO_EXT:sequence_deletion_entity_or_process 6062 6070	deletion
+T849	SO_EXT:0000704 6088 6092	gene
+T850	SO_EXT:biological_sequence 6105 6113	sequence
+T851	SO_EXT:sequence_coding_function 6114 6122	encoding
+T852	CHEBI_SO_EXT:amino_acid 6127 6138	amino acids
+T853	SO_EXT:0005853 6188 6196	cassette
+T854	SO_EXT:0000610 6210 6234	polyadenylation sequence
+T855	SO_EXT:0000704 6249 6253	gene
+T856	SO_EXT:0000147 6261 6266	exons
+T857	SO_EXT:0000704 6297 6301	gene
+T858	SO_EXT:sequence_insertion_entity_or_process 6303 6312	insertion
+T859	SO_EXT:0005853 6329 6337	cassette
+T860	SO_EXT:0000147 6414 6418	exon
+T861	SO_EXT:0000147 6429 6433	exon
+T862	SO_EXT:0000147 6459 6463	exon
+T863	SO_EXT:0000704 6482 6486	gene
+T864	GO_SO_EXT:frameshift_entity_or_process 6511 6522	frame shift
+T865	SO_EXT:sequence_alteration_entity_or_process 6523 6531	mutation
+T866	SO_EXT:wild_type_entity_or_quality 6749 6758	wild type
+T867	SO_EXT:normal_or_wild_type_or_present 6778 6781	+/-
+T868	SO_EXT:normal_or_wild_type_or_present 6846 6849	+/-
+T869	SO_EXT:wild_type_entity_or_quality 6870 6879	wild type
+T870	SO_EXT:sequence_nullness_or_absence 6941 6944	-/-
+T871	SO_EXT:sequence_truncation_process 6988 6997	truncated
+T872	SO_EXT:sequence_nullness_or_absence 7023 7026	-/-
+T873	SO_EXT:0001644 7284 7300	targeting vector
+T874	SO_EXT:sequence_deletion_process 7304 7310	delete
+T875	SO_EXT:0000147 7311 7316	exons
+T876	SO_EXT:0000704 7344 7348	gene
+T877	SO_EXT:0005853 7394 7402	cassette
+T878	SO_EXT:0005853 7423 7431	cassette
+T879	SO_EXT:sequence_alteration_process 7461 7467	marker
+T880	CHEBI_SO_EXT:DNA 7505 7508	DNA
+T881	CHEBI_SO_EXT:molecular_probe 7590 7595	probe
+T882	SO_EXT:0001644 7606 7622	targeting vector
+T883	SO_EXT:wild_type_entity_or_quality 7644 7653	wild type
+T884	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 7658 7660	kb
+T885	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 7687 7689	kb
+T886	CHEBI_SO_EXT:DNA 7717 7720	DNA
+T887	CHEBI_SO_EXT:molecular_probe 7834 7839	probe
+T888	SO:0001030 8157 8159	**
+T889	SO_EXT:wild_type_entity_or_quality 8284 8293	wild type
+T890	SO_EXT:wild_type_entity_or_quality 8378 8387	wild type
+T891	SO_EXT:sequence_nullness_or_absence 9334 9337	-/-
+T892	SO_EXT:sequence_altered_entity 9338 9344	mutant
+T893	SO_EXT:normal_or_wild_type_or_present 9402 9405	+/-
+T894	SO_EXT:wild_type_entity_or_quality 9523 9532	wild type
+T895	SO_EXT:sequence_nullness_or_absence 9541 9544	-/-
+T896	SO_EXT:wild_type_entity_or_quality 9609 9611	WT
+T897	SO_EXT:sequence_nullness_or_absence 9620 9623	-/-
+T898	SO_EXT:sequence_nullness_or_absence 9748 9751	-/-
+T899	SO_EXT:wild_type_entity_or_quality 9793 9802	wild type
+T900	SO_EXT:sequence_nullness_or_absence 9816 9819	-/-
+T901	SO_EXT:wild_type_entity_or_quality 9871 9880	wild type
+T902	SO_EXT:sequence_nullness_or_absence 9923 9926	-/-
+T903	SO_EXT:sequence_nullness_or_absence 10131 10134	-/-
+T904	SO:0000077 10304 10313	antisense
+T905	CHEBI_SO_EXT:riboprobe 10314 10324	RNA probes
+T906	CHEBI_SO_EXT:mRNA 11889 11893	mRNA
+T907	SO_EXT:wild_type_entity_or_quality 12461 12470	wild - type
+T908	SO:0000077 12513 12522	antisense
+T909	CHEBI_SO_EXT:riboprobe 12523 12533	RNA probes
+T910	CHEBI_SO_EXT:RNA 12566 12569	RNA
+T911	CHEBI_SO_EXT:molecular_probe 12570 12575	probe
+T912	SO_EXT:wild_type_entity_or_quality 13048 13057	wild - type
+T913	SO:0000077 13123 13132	antisense
+T914	CHEBI_SO_EXT:riboprobe 13133 13143	RNA probes
+T915	SO_EXT:wild_type_entity_or_quality 13649 13658	Wild type
+T916	SO_EXT:wild_type_entity_or_quality 13853 13862	wild type
+T917	SO_EXT:sequence_nullness_or_absence 13871 13874	-/-
+T918	SO_EXT:wild_type_entity_or_quality 13949 13958	wild type
+T919	SO_EXT:wild_type_entity_or_quality 14655 14657	WT
+T920	SO_EXT:wild_type_entity_or_quality 14800 14802	WT
+T921	SO_EXT:wild_type_entity_or_quality 14988 14997	wild type
+T922	SO_EXT:sequence_nullness_or_absence 15006 15009	-/-
+T923	SO_EXT:genotype_or_entity_with_genotype 15094 15103	genotypes
+T924	SO_EXT:wild_type_entity_or_quality 15112 15121	wild type
+T925	SO_EXT:sequence_nullness_or_absence 15437 15440	-/-
+T926	SO_EXT:sequence_nullness_or_absence 15587 15590	-/-
+T927	SO_EXT:wild_type_entity_or_quality 15633 15642	wild type
+T928	SO_EXT:sequence_nullness_or_absence 15652 15655	-/-
+T929	SO_EXT:sequence_altered_entity 15656 15662	mutant
+T930	SO_EXT:normal_or_wild_type_or_present 15722 15725	+/-
+T931	SO_EXT:wild_type_entity_or_quality 15832 15841	wild type
+T932	SO_EXT:sequence_nullness_or_absence 15850 15853	-/-
+T933	SO_EXT:sequence_altered_entity 15854 15860	mutant
+T934	SO_EXT:wild_type_entity_or_quality 15939 15948	wild type
+T935	SO_EXT:sequence_nullness_or_absence 16076 16079	-/-
+T936	SO_EXT:sequence_nullness_or_absence 16166 16169	-/-
+T937	SO_EXT:sequence_nullness_or_absence 16259 16262	-/-
+T938	SO_EXT:wild_type_entity_or_quality 16624 16633	wild type
+T939	SO_EXT:sequence_nullness_or_absence 16642 16645	-/-
+T940	SO_EXT:genotype_or_entity_with_genotype 16732 16741	genotypes
+T941	SO_EXT:wild_type_entity_or_quality 16801 16810	wild type
+T942	SO_EXT:sequence_nullness_or_absence 16938 16941	-/-
+T943	SO_EXT:wild_type_entity_or_quality 17046 17055	wild type
+T944	SO_EXT:sequence_nullness_or_absence 17065 17068	-/-
+T945	SO_EXT:sequence_nullness_or_absence 17319 17322	-/-
+T946	SO_EXT:sequence_nullness_or_absence 17466 17469	-/-
+T947	SO_EXT:wild_type_entity_or_quality 17490 17492	WT
+T948	SO_EXT:sequence_nullness_or_absence 17552 17555	-/-
+T949	SO_EXT:wild_type_entity_or_quality 17635 17644	wild type
+T950	SO_EXT:sequence_nullness_or_absence 17653 17656	-/-
+T951	SO_EXT:sequence_nullness_or_absence 17858 17861	-/-
+T952	SO_EXT:sequence_nullness_or_absence 17969 17972	-/-
+T953	SO_EXT:wild_type_entity_or_quality 18001 18010	wild type
+T954	SO_EXT:wild_type_entity_or_quality 18086 18095	wild type
+T955	SO_EXT:sequence_nullness_or_absence 18106 18109	-/-
+T956	SO_EXT:sequence_nullness_or_absence 18127 18130	-/-
+T957	SO_EXT:sequence_nullness_or_absence 18275 18278	-/-
+T958	SO_EXT:sequence_nullness_or_absence 18400 18403	-/-
+T959	SO_EXT:wild_type_entity_or_quality 18558 18567	wild type
+T960	SO_EXT:sequence_nullness_or_absence 18576 18579	-/-
+T961	SO_EXT:sequence_nullness_or_absence 18678 18681	-/-
+T962	SO_EXT:sequence_nullness_or_absence 18791 18794	-/-
+T963	SO_EXT:wild_type_entity_or_quality 18826 18835	wild type
+T964	SO_EXT:sequence_nullness_or_absence 18964 18967	-/-
+T965	SO_EXT:wild_type_entity_or_quality 18998 19007	wild type
+T966	SO_EXT:sequence_nullness_or_absence 19488 19491	-/-
+T967	SO_EXT:wild_type_entity_or_quality 19512 19521	wild type
+T968	SO_EXT:wild_type_entity_or_quality 19714 19723	wild type
+T969	SO_EXT:sequence_nullness_or_absence 19731 19734	-/-
+T970	SO_EXT:wild_type_entity_or_quality 19858 19867	wild type
+T971	SO_EXT:sequence_nullness_or_absence 19876 19879	-/-
+T972	SO_EXT:wild_type_entity_or_quality 20107 20116	wild type
+T973	SO_EXT:sequence_nullness_or_absence 20125 20128	-/-
+T974	SO_EXT:wild_type_entity_or_quality 20244 20253	wild type
+T975	SO_EXT:sequence_nullness_or_absence 20262 20265	-/-
+T976	SO_EXT:wild_type_entity_or_quality 20429 20438	wild type
+T977	SO_EXT:sequence_nullness_or_absence 20447 20450	-/-
+T978	SO_EXT:sequence_nullness_or_absence 20560 20563	-/-
+T979	SO_EXT:wild_type_entity_or_quality 20832 20841	wild type
+T980	SO_EXT:sequence_nullness_or_absence 20850 20853	-/-
+T981	SO:0000077 20911 20920	antisense
+T982	CHEBI_SO_EXT:RNA 20921 20924	RNA
+T983	CHEBI_SO_EXT:molecular_probe 20925 20930	probe
+T984	SO_EXT:wild_type_entity_or_quality 21002 21011	Wild type
+T985	SO_EXT:sequence_nullness_or_absence 21020 21023	-/-
+T986	SO_EXT:sequence_nullness_or_absence 21232 21235	-/-
+T987	SO_EXT:wild_type_entity_or_quality 21256 21265	wild type
+T988	SO_EXT:sequence_nullness_or_absence 21287 21290	-/-
+T989	SO_EXT:sequence_nullness_or_absence 21589 21592	-/-
+T990	SO_EXT:sequence_nullness_or_absence 21914 21917	-/-
+T991	SO_EXT:sequence_nullness_or_absence 22093 22096	-/-
+T992	SO_EXT:wild_type_entity_or_quality 22101 22110	wild type
+T993	SO_EXT:sequence_nullness_or_absence 22218 22221	-/-
+T994	SO_EXT:sequence_nullness_or_absence 22348 22351	-/-
+T995	SO_EXT:wild_type_entity_or_quality 22368 22377	wild type
+T996	SO_EXT:sequence_nullness_or_absence 22485 22488	-/-
+T997	SO_EXT:sequence_nullness_or_absence 22551 22554	-/-
+T998	SO_EXT:wild_type_entity_or_quality 22612 22621	wild type
+T999	SO_EXT:sequence_nullness_or_absence 22741 22744	-/-
+T1000	SO_EXT:sequence_nullness_or_absence 23094 23097	-/-
+T1001	SO_EXT:wild_type_entity_or_quality 23174 23183	wild type
+T1002	SO_EXT:wild_type_entity_or_quality 23232 23241	wild type
+T1003	SO_EXT:sequence_nullness_or_absence 23302 23305	-/-
+T1004	SO_EXT:sequence_nullness_or_absence 23519 23522	-/-
+T1005	SO_EXT:wild_type_entity_or_quality 23548 23557	wild type
+T1006	SO_EXT:sequence_nullness_or_absence 23605 23608	-/-
+T1007	SO_EXT:wild_type_entity_or_quality 23702 23711	wild type
+T1008	SO_EXT:sequence_nullness_or_absence 23768 23771	-/-
+T1009	SO_EXT:sequence_nullness_or_absence 24169 24172	-/-
+T1010	SO_EXT:wild_type_entity_or_quality 24438 24447	wild type
+T1011	SO_EXT:sequence_nullness_or_absence 24532 24535	-/-
+T1012	SO_EXT:wild_type_entity_or_quality 24599 24608	Wild type
+T1013	SO_EXT:sequence_nullness_or_absence 24617 24620	-/-
+T1014	SO_EXT:sequence_nullness_or_absence 24944 24947	-/-
+T1015	SO_EXT:sequence_nullness_or_absence 25053 25056	-/-
+T1016	SO_EXT:wild_type_entity_or_quality 25120 25129	wild type
+T1017	SO_EXT:sequence_nullness_or_absence 25140 25143	-/-
+T1018	SO_EXT:sequence_nullness_or_absence 25304 25307	-/-
+T1019	SO_EXT:sequence_nullness_or_absence 25360 25363	-/-
+T1020	SO_EXT:sequence_nullness_or_absence 25487 25490	-/-
+T1021	SO_EXT:wild_type_entity_or_quality 25555 25564	wild type
+T1022	SO_EXT:sequence_nullness_or_absence 25573 25576	-/-
+T1023	SO_EXT:wild_type_entity_or_quality 25601 25610	wild type
+T1024	SO_EXT:sequence_nullness_or_absence 25686 25689	-/-
+T1025	SO_EXT:sequence_nullness_or_absence 25823 25826	-/-
+T1026	SO_EXT:sequence_nullness_or_absence 25901 25904	-/-
+T1027	SO_EXT:sequence_nullness_or_absence 26066 26069	-/-
+T1028	SO_EXT:wild_type_entity_or_quality 26090 26099	wild type
+T1029	SO_EXT:sequence_nullness_or_absence 26469 26472	-/-
+T1030	SO_EXT:sequence_nullness_or_absence 26575 26578	-/-
+T1031	SO_EXT:sequence_nullness_or_absence 26760 26763	-/-
+T1032	SO_EXT:wild_type_entity_or_quality 26933 26942	wild type
+T1033	SO_EXT:sequence_nullness_or_absence 26951 26954	-/-
+T1034	SO_EXT:sequence_nullness_or_absence 27141 27144	-/-
+T1035	SO_EXT:wild_type_entity_or_quality 27273 27282	wild type
+T1036	SO_EXT:wild_type_entity_or_quality 27323 27332	wild type
+T1037	SO_EXT:sequence_nullness_or_absence 27343 27346	-/-
+T1038	SO_EXT:sequence_nullness_or_absence 27481 27484	-/-
+T1039	SO_EXT:sequence_nullness_or_absence 28127 28130	-/-
+T1040	SO_EXT:sequence_truncation_process 28611 28620	truncated
+T1041	SO_EXT:sequence_deletion_process 28872 28879	deleted
+T1042	SO_EXT:0000842 28893 28902;28903 28916	region of ... gene
+T1043	SO_EXT:sequence_nullness_or_absence 29180 29183	-/-
+T1044	SO_EXT:wild_type_entity_or_quality 29322 29331	wild type
+T1045	SO_EXT:sequence_nullness_or_absence 29720 29723	-/-
+T1046	SO_EXT:0000704 29745 29752	genetic
+T1047	SO_EXT:sequence_nullness_or_absence 30446 30449	-/-
+T1048	SO_EXT:wild_type_entity_or_quality 30454 30463	wild type
+T1049	SO_EXT:sequence_nullness_or_absence 30559 30562	-/-
+T1050	SO_EXT:sequence_nullness_or_absence 30740 30743	-/-
+T1051	SO_EXT:sequence_nullness_or_absence 30982 30985	-/-
+T1052	SO_EXT:sequence_nullness_or_absence 32176 32179	-/-
+T1053	SO_EXT:wild_type_entity_or_quality 32200 32204	wild
+T1054	CHEBI_SO_EXT:RNA 32721 32724	RNA
+T1055	SO_EXT:wild_type_entity_or_quality 33103 33112	wild type
+T1056	SO_EXT:0000704 34230 34237	genetic
+T1057	CHEBI_SO_EXT:tyrosine 34363 34371	tyrosine
+T1058	SO_EXT:0000167 34956 34964	promoter
+T1059	SO_EXT:sequence_nullness_or_absence 35012 35015	-/-
+T1060	SO_EXT:sequence_nullness_or_absence 35120 35123	-/-
+T1061	SO_EXT:sequence_rescue_process 35498 35504	rescue
+T1062	SO_EXT:sequence_nullness_or_absence 35680 35683	-/-
+T1063	SO_EXT:sequence_nullness_or_absence 35700 35703	-/-
+T1064	SO_EXT:sequence_nullness_or_absence 36386 36389	-/-
+T1065	SO_EXT:sequence_nullness_or_absence 36711 36714	-/-
+T1066	SO_EXT:sequence_nullness_or_absence 37196 37199	-/-
+T1067	SO_EXT:0000040 38072 38085	genomic clone
+T1068	SO_EXT:0000153 38136 38139	BAC
+T1069	SO_EXT:0001026 38140 38147	genomic
+T1070	SO_EXT:0000345 38175 38178	EST
+T1071	SO_EXT:0000105 38188 38190;38191 38198	...of ... BAC
+T1072	SO_EXT:0001644 38313 38329	targeting vector
+T1073	SO_EXT:biological_sequence 38357 38365	sequence
+T1074	SO_EXT:sequence_deletion_process 38369 38375	delete
+T1075	SO_EXT:0000147 38376 38381	exons
+T1076	SO_EXT:0000704 38401 38405	gene
+T1077	SO_EXT:0000440 38411 38417	vector
+T1078	SO_EXT:sequence_cloning_process 38469 38476	cloning
+T1079	SO_EXT:0000006 38519 38530	PCR product
+T1080	SO_EXT:0000112 38551 38558	primers
+T1081	SO_EXT:0005853 38633 38641	cassette
+T1082	SO_EXT:0000112 38704 38711	primers
+T1083	SO_EXT:0005853 38792 38800	cassette
+T1084	SO_EXT:0001644 38814 38830	targeting vector
+T1085	SO_EXT:sequence_linearization 38835 38845	linearised
+T1086	SO_EXT:0001644 39164 39180	targeting vector
+T1087	CHEBI_SO_EXT:molecular_probe 39184 39189	probe
+T1088	SO_EXT:0001644 39206 39222	targeting vector
+T1089	SO_EXT:0000112 39254 39261	primers
+T1090	CHEBI_SO_EXT:molecular_probe 39317 39322	probe
+T1091	CHEBI_SO_EXT:DNA 39342 39345	DNA
+T1092	SO_EXT:0000112 39843 39850	primers
+T1093	SO_EXT:wild_type_entity_or_quality 39919 39928	wild type
+T1094	SO_EXT:0001023 40009 40016	alleles
+T1095	SO_EXT:genotype_or_entity_with_genotype 40071 40079	genotype
+T1096	CHEBI_SO_EXT:molecular_probe 40552 40558	Probes
+T1097	CHEBI_SO_EXT:amino_acid 40599 40609	amino acid
+T1098	SO_EXT:0000028 40624 40626	bp
+T1099	SO_EXT:0000028 40706 40708	bp
+T1100	SO_EXT:0000112 40756 40763	primers
+T1101	SO_EXT:0000006 40879 40891	PCR products
+T1102	SO_EXT:sequence_cloning_process 40897 40903	cloned
+T1103	SO:0000077 40929 40938	antisense
+T1104	SO_EXT:biological_sequence 40939 40947	sequence
+T1105	SO_EXT:0000167 40977 40985	promoter
+T1106	CHEBI_SO_EXT:deoxyribonucleotide 41102 41118	deoxynucleotidyl
+T1107	SO_EXT:sequence_linearization 41148 41157	labelling
+T1108	SO_EXT:wild_type_entity_or_quality 41800 41809	wild type
+T1109	SO_EXT:sequence_nullness_or_absence 41820 41823	-/-
+T1110	SO_EXT:sequence_cloned_entity 43210 43215	clone

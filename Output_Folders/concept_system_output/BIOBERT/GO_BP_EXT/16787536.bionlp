@@ -1,0 +1,149 @@
+T3424	GO:0006867 284 302	ligand endocytosis
+T3425	GO:0009790 459 480	embryonic development
+T3426	GO_EXT:fatality_or_lethality 528 534	lethal
+T3427	GO:0016265 540 545	death
+T3428	GO:0007620 583 589	coitum
+T3429	GO:0007631 1053 1059	somite
+T3430	GO:0043452 1449 1458;1459 1469	uptake of ...
+T3431	GO:0006936 1491 1502	...lipoprotein
+T3432	GO:0009790 1559 1580	embryonic development
+T3433	GO:0007416 1606 1626	formation of somites
+T3434	GO:0030294 1628 1647	...definitive endoderm
+T3435	GO:0098506 1718 1726;1726 1750	maternal ... embryo transport of HDL
+T3436	GO:0010467 1814 1823	expressed
+T3437	GO:0006897 2196 2205	endocytic
+T3438	GO:0098657 2289 2295	uptake
+T3439	GO:0046903 2476 2485	secretory
+T3440	GO:0006897 2625 2634	endocytic
+T3441	GO:0006897 2766 2777	endocytosis
+T3442	GO:0006897 2817 2828	endocytosis
+T3443	GO_EXT:biological_growth_entity_or_process 2920 2926	growth
+T3444	GO:0006897 2965 2974	endocytic
+T3445	GO_EXT:biological_routing_or_transport 3280 3289	transport
+T3446	GO:0010467 3414 3423	expressed
+T3447	GO:0036508 3501 3509;3509 3542	maternal ... embryonic transport of nutrients
+T3448	GO:0098657 3651 3657	uptake
+T3449	GO:0007565 3857 3865	pregnant
+T3450	GO:0010453 3958 3978	embryonic resorption
+T3451	GO_EXT:biological_growth_entity_or_process 4057 4063	growth
+T3452	GO_EXT:biological_growth_entity_or_process 4180 4186	growth
+T3453	GO:0009790 4422 4443	embryonic development
+T3454	GO_SO_EXT:sequence_rearrangement_process 4986 4999	recombination
+T3455	GO:0060074 5174 5185	transferred
+T3456	GO:0060073 6069 6081	untranslated
+T3457	GO_EXT:transcription 6289 6313	transcription initiation
+T3458	GO_SO_EXT:sequence_rearrangement_process 6385 6398	recombination
+T3459	GO_SO_EXT:sequence_rearrangement_process 7091 7102	recombinant
+T3460	GO_EXT:fatality_or_lethality 7323 7332	lethality
+T3461	GO:0007618 7413 7420	matings
+T3462	GO_EXT:fatality_or_lethality 7561 7570	lethality
+T3463	GO_EXT:fatality_or_lethality 7800 7809	lethality
+T3464	GO:0007618 7975 7982	matings
+T3465	GO_EXT:fatality_or_lethality 8227 8236	lethality
+T3466	GO:0007618 8354 8361	matings
+T3467	GO:0007618 8557 8564	matings
+T3468	GO:0016265 8917 8920	die
+T3469	GO_SO_EXT:sequence_rearrangement_process 9218 9220	RT
+T3470	GO:0010467 9695 9702	express
+T3471	GO_SO_EXT:sequence_rearrangement_process 9734 9736	RT
+T3472	GO:0010467 9757 9767	expression
+T3473	GO:0010467 9967 9977	expression
+T3474	GO:0010467 10092 10102	expression
+T3475	GO_EXT:biological_growth_entity_or_process 10666 10672	growth
+T3476	GO:0007618 10869 10875	mating
+T3477	GO:0007369 11304 11316	gastrulation
+T3478	GO:0048534 12012 12037	hematopoietic development
+T3479	GO:0030097 12141 12154	hematopoietic
+T3480	GO_EXT:fatality_or_lethality 13988 13997	lethality
+T3481	GO:0001572 14170 14192	blood vessel formation
+T3482	GO:0007618 14220 14227	matings
+T3483	GO:0001572 14298 14320	blood vessel formation
+T3484	GO:0097102 16321 16340;16341 16366	dysmorphogenesis of ... vasculature
+T3485	GO:0030995 17394 17406;17407 17420	formation of ... epithelium
+T3486	GO:0046155 17584 17597;17598 17601	specification ...
+T3487	GO:0030534 17602 17620;17621 17644	differentiation of ... endoderm
+T3488	GO:0010467 18834 18844	expression
+T3489	GO:0010467 18913 18923	expression
+T3490	GO:0010467 19145 19154	expressed
+T3491	GO_EXT:biological_direction_or_guidance 19237 19243	direct
+T3492	GO:0055085 19244 19268	cell surface trafficking
+T3493	GO:0010467 19330 19340	expression
+T3494	GO:0010467 19480 19490	expression
+T3495	GO:0010467 19685 19695	expressing
+T3496	GO:0098657 20211 20217	uptake
+T3497	GO:0043452 20318 20327;20328 20336	uptake of ...
+T3498	GO:0010467 20589 20599	expressing
+T3499	GO:0010467 20624 20634	expression
+T3500	GO:0043452 20798 20807;20808 20811	uptake of ...
+T3501	GO:0010467 21353 21362	expressed
+T3502	GO:0016265 21486 21494	membrane
+T3503	GO:0001705 21905 21923	...mesoderm formation
+T3504	GO:0001755 22128 22141	somitogenesis
+T3505	GO:0043603 22367 22376;22377 22389	uptake of ... HDL
+T3506	GO:0030090 22641 22650;22651 22672;22673 22688	formation ... of ... epithelia
+T3507	GO:0046155 22862 22875;22876 22879	specification ...
+T3508	GO:0030534 22880 22898;22899 22922	differentiation of ... endoderm
+T3509	GO:0007369 22943 22955	gastrulation
+T3510	GO_EXT:biological_recruitment 22963 22974	recruitment
+T3511	GO_EXT:biological_growth_entity_or_process 23187 23193	growth
+T3512	GO:0065007 23201 23208	control
+T3513	GO:0048572 23213 23243	formation of paraxial mesoderm
+T3514	GO:0006897 23333 23342	endocytic
+T3515	GO:0010467 23388 23398	expression
+T3516	GO:0006611 23455 23467;23468 23492	transport of ... maternal nutrients
+T3517	GO_EXT:biological_routing_or_transport 23555 23566	transported
+T3518	GO:0046903 23790 23799	secretory
+T3519	GO_EXT:fatality_or_lethality 24170 24179	lethality
+T3520	GO_EXT:biological_mover_or_transporter 24310 24318	...rotation
+T3521	GO_EXT:fatality_or_lethality 24422 24431	lethality
+T3522	GO:0016265 24492 24495	die
+T3523	GO:0007566 24496 24507	perinatally
+T3524	GO:0001503 24529 24545;24546 24559	morphogenesis of ... forebrain
+T3525	GO:0010467 24699 24708	expressed
+T3526	GO:0007369 25138 25150	gastrulation
+T3527	GO:0006897 25204 25215	endocytosis
+T3528	GO_EXT:fatality_or_lethality 25240 25249	lethality
+T3529	GO:0006897 25306 25315	endocytic
+T3530	GO:0010467 25326 25335	expressed
+T3531	GO:0098657 25621 25627	uptake
+T3532	GO:0009790 25811 25820	embryonic
+T3533	GO:0036340 25821 25834;25835 25864	uptake of HDL ... circulation
+T3534	GO:0010467 25934 25943	expresses
+T3535	GO:0036268 26067 26075	taken up
+T3536	GO_EXT:biological_routing_or_transport 26165 26174	delivered
+T3537	GO:0000267 26273 26282	localized
+T3538	GO:0046903 26322 26331	secretory
+T3539	GO_EXT:fatality_or_lethality 26513 26522	lethality
+T3540	GO_EXT:biological_routing_or_transport 26585 26594	targeting
+T3541	GO:0046661 26620 26633	malabsorption
+T3542	GO:0009455 26637 26648	... B12
+T3543	GO:0009790 26703 26724	embryonic development
+T3544	GO_SO_EXT:transcriptional_start_entity_or_process 27140 27161	transcriptional start
+T3545	GO:0006413 27184 27206	translation initiation
+T3546	GO:0006415 27263 27289	termination of translation
+T3547	GO:0010467 27315 27322	express
+T3548	GO:0035376 27723 27729	...uptake
+T3549	GO:0009790 27787 27808	embryonic development
+T3550	GO_EXT:biological_routing_or_transport 27979 27990	trafficking
+T3551	GO:0035556 28109 28134	intracellular trafficking
+T3552	GO:0009790 28162 28183	embryonic development
+T3553	GO:0010467 28237 28244	express
+T3554	GO:0010467 28412 28422	expression
+T3555	GO:0009790 28557 28570	embryogenesis
+T3556	GO:0046693 28591 28612	formation of endoderm
+T3557	GO:0007596 28617 28624	...somites
+T3558	GO:0098506 28698 28706;28706 28730	maternal ... embryo transport of HDL
+T3559	GO_SO_EXT:sequence_rearrangement_process 30732 30745	recombination
+T3560	GO:0060074 30878 30889	transferred
+T3561	GO:0042331 31302 31312	postcoitum
+T3562	GO:0007618 32480 32487	matings
+T3563	GO:0007565 32967 32975	pregnant
+T3564	GO:0007618 33022 33029	matings
+T3565	GO_SO_EXT:sequence_rearrangement_process 33895 33897	RT
+T3566	GO:0007618 33974 33981	matings
+T3567	GO:0007565 36782 36790	pregnant
+T3568	GO:0042331 37180 37190	postcoitum
+T3569	GO:0065007 37523 37531	maternal
+T3570	GO:0042889 37532 37545	HDL transport
+T3571	GO:0007566 38029 38041	implantation
+T3572	GO_EXT:transcription 38366 38379	transcription

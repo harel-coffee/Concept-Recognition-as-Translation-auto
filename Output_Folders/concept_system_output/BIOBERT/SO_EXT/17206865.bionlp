@@ -1,0 +1,387 @@
+T7453	SO_EXT:sequence_truncation_entity_or_process 113 123	truncation
+T7454	SO_EXT:0001023 124 131	alleles
+T7455	SO_EXT:0000704 145 149	gene
+T7456	SO_EXT:0000704 316 323	genetic
+T7457	SO_EXT:sequence_truncation_entity_or_process 436 446	truncation
+T7458	SO_EXT:sequence_alteration_entity_or_process 447 456	mutations
+T7459	SO_EXT:sequence_rescue_process 738 745	rescued
+T7460	SO_EXT:cDNA 778 782	cDNA
+T7461	SO_EXT:0001023 819 826	alleles
+T7462	SO_EXT:sequence_altered_entity 913 919	mutant
+T7463	SO_EXT:0001023 920 926	allele
+T7464	SO_EXT:wild_type_entity_or_quality 1305 1314	wild - type
+T7465	SO_EXT:sequence_altered_entity 1318 1324	mutant
+T7466	SO_EXT:0001023 1325 1332	alleles
+T7467	SO_EXT:0000704 1357 1361	gene
+T7468	SO_EXT:sequence_altered_entity 1427 1433	mutant
+T7469	SO_EXT:0001023 1434 1441	alleles
+T7470	SO_EXT:0000704 1550 1557	genetic
+T7471	SO_EXT:sequence_alteration_entity_or_process 1577 1586	mutations
+T7472	SO_EXT:0000704 1600 1604	gene
+T7473	SO_EXT:sequence_altered_entity 2132 2138	Mutant
+T7474	SO_EXT:0001023 2139 2146	alleles
+T7475	SO_EXT:0000704 2154 2158	gene
+T7476	SO_EXT:0001023 2328 2335	alleles
+T7477	SO_EXT:sequence_alteration_entity_or_process 3164 3172	mutation
+T7478	SO_EXT:biological_conservation_process_or_quality 3462 3471	conserved
+T7479	SO_EXT:sequence_alteration_entity_or_process 4200 4209	mutations
+T7480	SO_EXT:0000704 4213 4218	genes
+T7481	SO_EXT:0000704 4848 4855	genetic
+T7482	SO_EXT:sequence_alteration_entity_or_process 5040 5049	mutations
+T7483	SO_EXT:sequence_alteration_entity_or_process 5114 5123	mutations
+T7484	SO_EXT:0000704 5174 5179	genes
+T7485	SO_EXT:sequence_alteration_process 5180 5187	mutated
+T7486	SO_EXT:sequence_altered_entity 5528 5534	mutant
+T7487	SO_EXT:sequence_alteration_process 5576 5584	modified
+T7488	SO_EXT:gene_trap_or_trap_construct 5945 5954	gene - trap
+T7489	SO_EXT:sequence_altered_entity 5961 5967	mutant
+T7490	SO_EXT:0000704 6043 6050	genetic
+T7491	SO_EXT:sequence_alteration_entity_or_process 6063 6072	mutations
+T7492	SO_EXT:0001023 6153 6159	allele
+T7493	SO_EXT:sequence_coding_function 6180 6186	encode
+T7494	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 6190 6200	N - terminal
+T7495	SO_EXT:0000319 6266 6276	stop codon
+T7496	SO_EXT:0001023 6292 6299	alleles
+T7497	SO_EXT:sequence_coding_function 6375 6381	encode
+T7498	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 6386 6396	N - terminus
+T7499	SO_EXT:0001023 6511 6518	alleles
+T7500	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 6596 6606	N - terminus
+T7501	CHEBI_SO_EXT:mRNA 6846 6850	mRNA
+T7502	SO_EXT:0000296 6872 6883	Interfering
+T7503	CHEBI_SO_EXT:RNA 6884 6887	RNA
+T7504	SO_EXT:0000646 7327 7348	short interfering RNA
+T7505	SO_EXT:0000646 7350 7355	siRNA
+T7506	SO_EXT:biological_sequence 7400 7408	sequence
+T7507	SO_EXT:0000646 7529 7534	siRNA
+T7508	SO_EXT:0000646 7567 7572	siRNA
+T7509	SO_EXT:biological_sequence 7573 7582	sequences
+T7510	SO_EXT:0000646 7849 7854	siRNA
+T7511	CHEBI_SO_EXT:mRNA 7899 7903	mRNA
+T7512	SO_EXT:0000646 7951 7957	siRNAs
+T7513	CHEBI_SO_EXT:mRNA 8093 8097	mRNA
+T7514	SO_EXT:0000646 8155 8160	siRNA
+T7515	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 8265 8275	N - terminal
+T7516	CHEBI_SO_EXT:amino_acid 8279 8290	amino acids
+T7517	SO_EXT:0000236 8298 8316	open reading frame
+T7518	SO_EXT:0000646 8559 8564	siRNA
+T7519	SO_EXT:0000704 8657 8662	Genes
+T7520	SO_EXT:0000704 8791 8796	genes
+T7521	CHEBI_SO_EXT:mRNA 9114 9118	mRNA
+T7522	SO_EXT:0000704 9241 9246	genes
+T7523	CHEBI_SO_EXT:mRNA 9267 9271	mRNA
+T7524	SO_EXT:0000704 9326 9330	gene
+T7525	SO_EXT:sequence_coding_function 9334 9341	encodes
+T7526	CHEBI_SO_EXT:mRNA 9582 9586	mRNA
+T7527	SO_EXT:0000646 9653 9658	siRNA
+T7528	SO_EXT:0000646 9736 9741	siRNA
+T7529	SO_EXT:0000646 10255 10260	siRNA
+T7530	SO_EXT:0000646 10379 10384	siRNA
+T7531	SO_EXT:0000997 10873 10881	Fragment
+T7532	SO_EXT:sequence_rescue_process 10908 10914	Rescue
+T7533	SO_EXT:0001023 11030 11037	alleles
+T7534	SO_EXT:sequence_coding_function 11130 11136	encode
+T7535	SO_EXT:0001587 11137 11165	premature termination codons
+T7536	SO_EXT:0000147 11169 11174	exons
+T7537	SO_EXT:0001023 11212 11219	alleles
+T7538	SO_EXT:sequence_upstreamness 11225 11226	5
+T7539	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 11228 11236	...terminus
+T7540	SO_EXT:0000704 11244 11248	gene
+T7541	SO_EXT:sequence_coding_function 11249 11256	encodes
+T7542	SO_EXT:0000236 11267 11285	open reading frame
+T7543	SO_EXT:sequence_truncation_process 11373 11382	truncated
+T7544	SO_EXT:cDNA 11386 11390	cDNA
+T7545	SO_EXT:sequence_rescue_process 11403 11409	rescue
+T7546	SO_EXT:cDNA 11478 11482	cDNA
+T7547	SO_EXT:sequence_coding_function 11483 11491	encoding
+T7548	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 11496 11506	N - terminal
+T7549	CHEBI_SO_EXT:amino_acid 11513 11524	amino acids
+T7550	SO_EXT:0000147 11540 11545	exons
+T7551	SO_EXT:0000646 11599 11604	siRNA
+T7552	SO_EXT:0000646 11617 11622	siRNA
+T7553	SO_EXT:biological_sequence 11623 11631	sequence
+T7554	SO_EXT:0000704 11650 11654	gene
+T7555	SO_EXT:cDNA 11665 11669	cDNA
+T7556	SO_EXT:0000673 11744 11754	transcript
+T7557	SO_EXT:cDNA 11781 11785	cDNA
+T7558	SO_EXT:sequence_coding_function 11786 11794	encoding
+T7559	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 11799 11809	N - terminus
+T7560	SO_EXT:0000646 11858 11863	siRNA
+T7561	SO_EXT:cDNA 11943 11947	cDNA
+T7562	SO_EXT:0000646 11960 11965	siRNA
+T7563	SO_EXT:sequence_rescue_process 11987 11995	rescuing
+T7564	SO_EXT:cDNA 12055 12059	cDNA
+T7565	CHEBI_SO_EXT:mRNA 12104 12108	mRNA
+T7566	SO_EXT:0000147 12167 12172	exons
+T7567	CHEBI_SO_EXT:mRNA 12196 12200	mRNA
+T7568	SO_EXT:0000673 12252 12262	transcript
+T7569	SO_EXT:cDNA 12287 12291	cDNA
+T7570	SO_EXT:cDNA 12329 12333	cDNA
+T7571	SO_EXT:0000673 12377 12387	transcript
+T7572	CHEBI_SO_EXT:mRNA 12450 12454	mRNA
+T7573	SO_EXT:cDNA 12492 12496	cDNA
+T7574	SO_EXT:sequence_coding_function 12497 12504	encoded
+T7575	SO_EXT:0000673 12505 12515	transcript
+T7576	SO_EXT:0000646 12556 12561	siRNA
+T7577	SO_EXT:cDNA 12616 12620	cDNA
+T7578	SO_EXT:sequence_truncation_entity_or_process 12668 12678	truncation
+T7579	SO_EXT:0001023 12679 12685	allele
+T7580	SO_EXT:0000704 12699 12703	gene
+T7581	SO_EXT:sequence_truncation_entity_or_process 12857 12867	truncation
+T7582	SO_EXT:sequence_alteration_entity_or_process 12868 12876	mutation
+T7583	SO_EXT:0000147 12880 12884	exon
+T7584	SO_EXT:0000704 12901 12905	gene
+T7585	SO_EXT:0000704 12929 12933	gene
+T7586	SO_EXT:sequence_altered_entity 12942 12948	mutant
+T7587	SO_EXT:sequence_coding_function 12972 12978	encode
+T7588	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 12983 12993	N - terminal
+T7589	CHEBI_SO_EXT:amino_acid 13000 13011	amino acids
+T7590	SO_EXT:0001023 13067 13073	allele
+T7591	CHEBI_SO_EXT:mRNA 13122 13126	mRNA
+T7592	SO_EXT:wild_type_entity_or_quality 13164 13173	wild - type
+T7593	CHEBI_SO_EXT:mRNA 13257 13261	mRNA
+T7594	SO_EXT:sequence_altered_entity 13279 13285	mutant
+T7595	SO_EXT:wild_type_entity_or_quality 13341 13350	wild - type
+T7596	SO_EXT:sequence_altered_entity 13390 13396	mutant
+T7597	SO_EXT:0001587 13530 13550	premature stop codon
+T7598	SO_EXT:0001023 13551 13557	allele
+T7599	SO_EXT:0000704 13571 13575	gene
+T7600	CHEBI_SO_EXT:mRNA 13596 13600	mRNA
+T7601	SO_EXT:wild_type_entity_or_quality 13721 13730	wild - type
+T7602	SO_EXT:wild_type_entity_or_quality 13841 13850	wild - type
+T7603	SO_EXT:sequence_altered_entity 13961 13967	mutant
+T7604	SO_EXT:0000673 13974 13984	transcript
+T7605	SO_EXT:sequence_altered_entity 14097 14103	mutant
+T7606	CHEBI_SO_EXT:mRNA 14110 14114	mRNA
+T7607	SO_EXT:0000646 14135 14140	siRNA
+T7608	SO_EXT:wild_type_entity_or_quality 14256 14265	wild - type
+T7609	SO_EXT:sequence_altered_entity 14354 14360	Mutant
+T7610	SO_EXT:sequence_altered_entity 14623 14629	mutant
+T7611	SO_EXT:wild_type_entity_or_quality 14667 14676	wild - type
+T7612	SO_EXT:sequence_altered_entity 14951 14957	mutant
+T7613	SO_EXT:sequence_altered_entity 15000 15006	mutant
+T7614	SO_EXT:0000704 15473 15480	genetic
+T7615	SO_EXT:sequence_altered_entity 15995 16002	mutants
+T7616	SO_EXT:sequence_alteration_process 16158 16164	marker
+T7617	SO_EXT:sequence_alteration_process 16201 16207	marker
+T7618	SO_EXT:wild_type_entity_or_quality 16253 16262	wild - type
+T7619	SO_EXT:sequence_altered_entity 16286 16292	mutant
+T7620	SO_EXT:sequence_alteration_process 16318 16325	labeled
+T7621	SO_EXT:sequence_alteration_process 16390 16397	labeled
+T7622	SO_EXT:wild_type_entity_or_quality 16427 16436	wild - type
+T7623	SO_EXT:sequence_alteration_process 16494 16501	labeled
+T7624	SO_EXT:sequence_altered_entity 16541 16548	mutants
+T7625	SO_EXT:wild_type_entity_or_quality 16734 16743	wild - type
+T7626	SO_EXT:sequence_altered_entity 16748 16754	mutant
+T7627	SO_EXT:sequence_alteration_process 16767 16773	marker
+T7628	SO_EXT:wild_type_entity_or_quality 16887 16896	wild - type
+T7629	SO_EXT:sequence_altered_entity 17356 17362	mutant
+T7630	SO_EXT:wild_type_entity_or_quality 17553 17562	wild - type
+T7631	SO_EXT:0000704 17969 17974	genes
+T7632	SO_EXT:0001026 18005 18011	genome
+T7633	CHEBI_SO_EXT:amino_acid 18022 18032	amino acid
+T7634	SO_EXT:biological_sequence 18033 18041	sequence
+T7635	CHEBI_SO_EXT:leucine 18069 18076	leucine
+T7636	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 18093 18103	N - terminus
+T7637	SO_EXT:sequence_fusion_entity_or_process 18297 18303	fusion
+T7638	CHEBI_SO_EXT:C_terminus_or_C_terminal_region 18311 18321	C - terminus
+T7639	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 18335 18336	N
+T7640	SO_EXT:sequence_alteration_process 18656 18664	modified
+T7641	SO_EXT:sequence_alteration_process 18959 18966	mutated
+T7642	SO_EXT:0000704 18979 18983	gene
+T7643	CHEBI_SO_EXT:mRNA 19073 19077	mRNA
+T7644	SO_EXT:0000646 19233 19238	siRNA
+T7645	SO_EXT:0000646 19300 19306	siRNAs
+T7646	CHEBI_SO_EXT:mRNA 19338 19342	mRNA
+T7647	SO_EXT:0000646 19448 19454	siRNAs
+T7648	SO_EXT:0000646 19486 19491	siRNA
+T7649	CHEBI_SO_EXT:mRNA 19516 19520	mRNA
+T7650	SO_EXT:0000646 19620 19625	siRNA
+T7651	SO_EXT:sequence_rescue_process 19645 19652	rescued
+T7652	SO_EXT:0000646 19733 19738	siRNA
+T7653	SO_EXT:0000646 19823 19828	siRNA
+T7654	SO_EXT:sequence_altered_entity 20014 20020	mutant
+T7655	SO_EXT:0000646 20071 20076	siRNA
+T7656	SO_EXT:sequence_truncation_process 20130 20139	truncated
+T7657	SO_EXT:sequence_coding_function 20154 20161	encoded
+T7658	SO_EXT:sequence_altered_entity 20169 20175	mutant
+T7659	SO_EXT:0001023 20176 20183	alleles
+T7660	CHEBI_SO_EXT:mRNA 20191 20195	mRNA
+T7661	SO_EXT:sequence_altered_entity 20203 20209	mutant
+T7662	SO_EXT:wild_type_entity_or_quality 20265 20274	wild - type
+T7663	SO_EXT:0001587 20307 20327	premature stop codon
+T7664	SO_EXT:sequence_altered_entity 20352 20358	mutant
+T7665	SO_EXT:wild_type_entity_or_quality 20477 20486	wild - type
+T7666	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 20587 20597	N - terminus
+T7667	SO_EXT:sequence_altered_entity 20640 20646	mutant
+T7668	SO_EXT:sequence_altered_entity 20725 20731	mutant
+T7669	SO_EXT:0001023 20732 20738	allele
+T7670	SO_EXT:sequence_altered_entity 20785 20791	mutant
+T7671	SO_EXT:sequence_altered_entity 20833 20839	mutant
+T7672	CHEBI_SO_EXT:mRNA 20846 20850	mRNA
+T7673	SO_EXT:sequence_rescue_process 20989 20996	rescued
+T7674	SO_EXT:cDNA 21005 21009	cDNA
+T7675	SO_EXT:sequence_coding_function 21010 21018	encoding
+T7676	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 21028 21038	N - terminal
+T7677	CHEBI_SO_EXT:amino_acid 21045 21056	amino acids
+T7678	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 21087 21097	N - terminus
+T7679	SO_EXT:nonsense_quality_or_entity 21164 21172	nonsense
+T7680	GO_SO_EXT:frameshift_entity_or_process 21177 21187	frameshift
+T7681	SO_EXT:sequence_alteration_entity_or_process 21188 21197	mutations
+T7682	SO_EXT:genotype_or_entity_with_genotype 21266 21274	genotype
+T7683	SO_EXT:0001023 21477 21484	alleles
+T7684	SO_EXT:sequence_coding_function 21508 21514	encode
+T7685	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 21519 21529	N - terminus
+T7686	SO_EXT:sequence_truncation_entity_or_process 21617 21627	truncation
+T7687	SO_EXT:sequence_alteration_entity_or_process 21658 21667	mutations
+T7688	SO_EXT:0000147 21687 21692	exons
+T7689	SO_EXT:0001023 21839 21846	alleles
+T7690	SO_EXT:sequence_altered_entity 21874 21880	mutant
+T7691	SO_EXT:0001023 21887 21894	alleles
+T7692	SO_EXT:sequence_alteration_entity_or_process 21992 22001	mutations
+T7693	SO_EXT:0000704 22545 22552	genetic
+T7694	SO_EXT:0000704 23144 23151	genetic
+T7695	SO_EXT:0000704 23443 23450	genetic
+T7696	SO_EXT:sequence_alteration_entity_or_process 23451 23459	mutation
+T7697	SO_EXT:0000704 23467 23472	genes
+T7698	SO_EXT:0000704 23678 23685	genetic
+T7699	SO_EXT:0000704 23721 23726	genes
+T7700	SO_EXT:sequence_altered_entity 24879 24885	mutant
+T7701	SO_EXT:sequence_altered_entity 25240 25246	mutant
+T7702	SO_EXT:sequence_alteration_entity_or_process 25610 25618	mutation
+T7703	SO_EXT:wild_type_entity_or_quality 25626 25635	wild - type
+T7704	SO_EXT:0001023 25636 25642	allele
+T7705	SO_EXT:sequence_alteration_process 25717 25728	mutagenesis
+T7706	SO_EXT:0001415 25738 25752	nontransformed
+T7707	SO_EXT:0000704 26202 26209	genetic
+T7708	SO_EXT:epigenetic_modification_entity_or_process 26217 26227	epigenetic
+T7709	SO_EXT:0001023 26300 26306	allele
+T7710	SO_EXT:0000704 26972 26979	genetic
+T7711	SO_EXT:wild_type_entity_or_quality 27073 27082	wild - type
+T7712	CHEBI_SO_EXT:glutamine 27508 27517	glutamine
+T7713	CHEBI_SO_EXT:RNA 27690 27693	RNA
+T7714	SO_EXT:0000646 27783 27788	siRNA
+T7715	SO_EXT:0000646 27860 27865	siRNA
+T7716	SO_EXT:biological_sequence 27866 27875	sequences
+T7717	SO_EXT:0000646 28025 28030	SiRNA
+T7718	CHEBI_SO_EXT:DNA 28251 28254	DNA
+T7719	SO_EXT:engineered_biological_sequence 28255 28265	constructs
+T7720	SO_EXT:cDNA 28284 28288	cDNA
+T7721	CHEBI_SO_EXT:mRNA 28315 28319	mRNA
+T7722	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 28321 28331	N - terminus
+T7723	CHEBI_SO_EXT:amino_acid 28333 28335	aa
+T7724	SO_EXT:sequence_cloning_process 28350 28356	cloned
+T7725	SO_EXT:0000440 28374 28380	vector
+T7726	SO_EXT:0000155 28443 28450	plasmid
+T7727	CHEBI_SO_EXT:RNA 28453 28456	RNA
+T7728	SO_EXT:sequence_alteration_process 28471 28479	labeling
+T7729	SO_EXT:0000646 28557 28562	siRNA
+T7730	SO_EXT:0000646 28583 28589	siRNAs
+T7731	SO_EXT:0000646 28765 28770	siRNA
+T7732	SO_EXT:0000704 28813 28817	gene
+T7733	SO_EXT:0000646 28921 28926	siRNA
+T7734	SO_EXT:0000646 28994 29000	siRNAs
+T7735	CHEBI_SO_EXT:RNA 29016 29019	RNA
+T7736	CHEBI_SO_EXT:RNA 29073 29076	RNA
+T7737	SO_EXT:cDNA 29202 29206	cDNA
+T7738	SO_EXT:sequence_coding_function 29211 29215	cRNA
+T7739	CHEBI_SO_EXT:RNA 29246 29249	RNA
+T7740	SO_EXT:sequence_alteration_process 29427 29435	labeling
+T7741	SO_EXT:0000704 29550 29555	genes
+T7742	SO_EXT:0000704 29586 29590	gene
+T7743	CHEBI_SO_EXT:molecular_probe 29961 29970	probesets
+T7744	SO_EXT:0000704 30014 30019	genes
+T7745	SO_EXT:0000704 30070 30075	genes
+T7746	SO_EXT:0000646 30244 30249	siRNA
+T7747	SO_EXT:0000646 30575 30580	siRNA
+T7748	CHEBI_SO_EXT:molecular_probe 30786 30792	Probes
+T7749	SO_EXT:sequence_altered_entity 31471 31477	mutant
+T7750	SO_EXT:0000704 31556 31564	genetics
+T7751	SO_EXT:sequence_altered_entity 31573 31579	Mutant
+T7752	SO_EXT:0000704 31687 31694	genetic
+T7753	CHEBI_SO_EXT:peptide_or_peptide_region 32884 32892	peptides
+T7754	CHEBI_SO_EXT:amino_acid 32921 32932	amino acids
+T7755	CHEBI_SO_EXT:molecular_probe 33251 33257	Probes
+T7756	SO_EXT:wild_type_entity_or_quality 33351 33360	Wild - type
+T7757	SO_EXT:genotype_or_entity_with_genotype 34351 34359	Genotype
+T7758	SO_EXT:0001023 34394 34400	allele
+T7759	SO_EXT:0001023 34450 34456	allele
+T7760	SO_EXT:genotype_or_entity_with_genotype 34485 34493	genotype
+T7761	SO_EXT:sequence_alteration_entity_or_process 34566 34574	mutation
+T7762	SO_EXT:0001026 34657 34663	genome
+T7763	SO_EXT:sequence_assembly_entity_or_process 34664 34672	assembly
+T7764	SO_EXT:0000704 34751 34755	gene
+T7765	SO_EXT:sequence_altered_entity 34759 34765	mutant
+T7766	SO_EXT:nonsense_quality_or_entity 34779 34787	nonsense
+T7767	SO_EXT:sequence_alteration_entity_or_process 34788 34796	mutation
+T7768	SO_EXT:0000147 34800 34804	exon
+T7769	SO_EXT:0001026 34868 34875	genomic
+T7770	SO_EXT:cDNA 34892 34896	cDNA
+T7771	SO_EXT:0001026 34909 34915	genome
+T7772	SO_EXT:normal_or_wild_type_or_present 35212 35214	+/
+T7773	SO_EXT:normal_or_wild_type_or_present 35232 35235	+/+
+T7774	SO_EXT:sequence_altered_entity 35258 35264	mutant
+T7775	SO_EXT:0000704 35631 35635	Gene
+T7776	SO_EXT:0000704 35681 35685	Gene
+T7777	SO_EXT:0000704 35710 35715	genes
+T7778	SO_EXT:0000646 35786 35792	siRNAs
+T7779	SO_EXT:0000646 35817 35822	siRNA
+T7780	SO_EXT:cDNA 36018 36022	cDNA
+T7781	SO_EXT:0000646 36741 36746	siRNA
+T7782	SO_EXT:0000646 36749 36770	short interfering RNA
+T7783	SO_EXT:0000646 37063 37068	siRNA
+T7784	SO_EXT:0000646 37104 37110	siRNAs
+T7785	SO_EXT:0000646 37261 37267	siRNAs
+T7786	CHEBI_SO_EXT:molecular_probe 37354 37360	probes
+T7787	SO_EXT:0000147 37390 37395	exons
+T7788	SO_EXT:0000147 37408 37413	exons
+T7789	SO_EXT:0000646 37457 37463	siRNAs
+T7790	CHEBI_SO_EXT:mRNA 37502 37506	mRNA
+T7791	CHEBI_SO_EXT:mRNA 37527 37531	mRNA
+T7792	SO_EXT:0000646 37556 37562	siRNAs
+T7793	SO_EXT:0000646 37621 37626	siRNA
+T7794	SO_EXT:0000646 38026 38031	siRNA
+T7795	SO_EXT:0000646 38270 38275	siRNA
+T7796	SO_EXT:0000646 38288 38293	siRNA
+T7797	SO_EXT:0000646 38306 38311	siRNA
+T7798	SO_EXT:0000704 38399 38404	genes
+T7799	SO_EXT:0000646 38532 38537	siRNA
+T7800	SO_EXT:0000646 38578 38584	siRNAs
+T7801	CHEBI_SO_EXT:mRNA 38606 38610	mRNA
+T7802	SO_EXT:0000646 38699 38704	siRNA
+T7803	SO_EXT:0000646 38791 38796	siRNA
+T7804	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 38962 38972	N - Terminal
+T7805	SO_EXT:0000646 39045 39050	siRNA
+T7806	SO_EXT:cDNA 39081 39085	cDNA
+T7807	SO_EXT:engineered_biological_sequence 39086 39095	construct
+T7808	SO_EXT:sequence_rescue_process 39096 39103	rescues
+T7809	SO_EXT:0000646 39183 39188	siRNA
+T7810	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 39193 39203	N - terminal
+T7811	SO_EXT:cDNA 39268 39272	cDNA
+T7812	CHEBI_SO_EXT:mRNA 39319 39323	mRNA
+T7813	SO_EXT:0000646 39336 39341	siRNA
+T7814	CHEBI_SO_EXT:mRNA 39386 39390	mRNA
+T7815	SO_EXT:cDNA 39432 39436	cDNA
+T7816	SO_EXT:0000646 39458 39463	siRNA
+T7817	SO_EXT:cDNA 39465 39469	cDNA
+T7818	SO_EXT:cDNA 39480 39484	cDNA
+T7819	SO_EXT:0000646 39497 39502	siRNA
+T7820	CHEBI_SO_EXT:mRNA 39536 39540	mRNA
+T7821	SO_EXT:0001023 39569 39575	allele
+T7822	SO_EXT:0000704 39609 39613	gene
+T7823	SO_EXT:wild_type_entity_or_quality 39662 39671	wild - type
+T7824	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 39701 39711	N - terminal
+T7825	SO_EXT:sequence_altered_entity 39747 39753	mutant
+T7826	SO_EXT:0000646 40135 40140	siRNA
+T7827	SO_EXT:wild_type_entity_or_quality 40348 40357	wild - type
+T7828	SO_EXT:wild_type_entity_or_quality 40454 40463	wild - type
+T7829	SO_EXT:wild_type_entity_or_quality 40974 40978	wild
+T7830	SO_EXT:0000203 40979 40983	...type
+T7831	SO_EXT:sequence_altered_entity 41176 41182	Mutant
+T7832	SO_EXT:wild_type_entity_or_quality 41320 41329	wild - type
+T7833	SO_EXT:wild_type_entity_or_quality 41679 41688	wild - type
+T7834	SO_EXT:sequence_alteration_process 41924 41931	labeled
+T7835	SO_EXT:wild_type_entity_or_quality 42237 42246	wild - type
+T7836	SO_EXT:sequence_alteration_process 42296 42303	labeled
+T7837	SO_EXT:sequence_altered_entity 42374 42380	mutant
+T7838	SO_EXT:wild_type_entity_or_quality 42390 42392	WT
+T7839	SO_EXT:wild_type_entity_or_quality 42394 42403	wild - type

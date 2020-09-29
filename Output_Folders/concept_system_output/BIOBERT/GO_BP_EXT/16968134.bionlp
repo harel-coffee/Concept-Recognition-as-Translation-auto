@@ -1,0 +1,340 @@
+T3829	GO:0007622 27 40	Communication
+T3830	GO:0001503 270 280;281 319	Sorting of ... cells
+T3831	GO:0009048 330 344	X - inactivation
+T3832	GO:0010467 435 445	expression
+T3833	GO_RO_EXT:developmental_differentiation_process 709 724	differentiation
+T3834	GO:0001503 728 738	osteogenic
+T3835	GO:0007620 777 790	communication
+T3836	GO:0065007 888 897	regulates
+T3837	GO:0065007 1088 1098	regulating
+T3838	GO:0065007 1194 1204	regulation
+T3839	GO:0065007 1442 1450	regulate
+T3840	GO:0051216 1524 1534	patterning
+T3841	GO:0048870 1672 1684	cell sorting
+T3842	GO:0048870 1722 1734	cell sorting
+T3843	GO:0009048 2008 2022	X - inactivation
+T3844	GO:0010467 2043 2053	expression
+T3845	GO:0009887 2389 2403;2404 2431	development of ... bones
+T3846	GO:0002255 2891 2908	signaling cascade
+T3847	GO:0065007 2966 2976	regulation
+T3848	GO_PATO_EXT:biological_adhesion_entity_or_process 2995 3003	adhesion
+T3849	GO:0065007 3107 3115	regulate
+T3850	GO:0007620 3129 3142	communication
+T3851	GO:0010467 3199 3209	expression
+T3852	GO:0051320 3427 3434	passage
+T3853	GO:0001501 3916 3936	skeletal development
+T3854	GO:0048870 4178 4190	cell sorting
+T3855	GO:0030154 4261 4279;4280 4298	differentiation of ... cells
+T3856	GO:0010468 4489 4503	overexpression
+T3857	GO:0065007 4611 4621	regulation
+T3858	GO_EXT:reaction_or_response 4661 4669	response
+T3859	GO_RO_EXT:developmental_differentiation_process 4897 4912	differentiation
+T3860	GO:0009887 5716 5730;5731 5748	development of ... bones
+T3861	GO:0060070 6649 6658	...signaling
+T3862	GO:0007601 6812 6821	migration
+T3863	GO:0010467 6880 6889	expressed
+T3864	GO:0065007 7121 7128	control
+T3865	GO:0007618 7246 7251	mated
+T3866	GO_EXT:bone_development_or_ossification 7926 7940	bone formation
+T3867	GO:0009887 8363 8377;8378 8393	development of ... bones
+T3868	GO:0006900 8758 8770	Cell - Sorting
+T3869	GO:0010467 8909 8919	expression
+T3870	GO:0010467 9210 9220	expression
+T3871	GO:0010467 9337 9346	expressed
+T3872	GO:0010467 9381 9391	expression
+T3873	GO:0010467 9470 9479	expressed
+T3874	GO_RO_EXT:developmental_differentiation_process 9620 9635	differentiation
+T3875	GO:0010467 9650 9659	expressed
+T3876	GO:0010467 9798 9808	expression
+T3877	GO:0007416 9926 9948	formation of vibrissae
+T3878	GO:0010467 10001 10011	expression
+T3879	GO:0010467 10073 10083	Expression
+T3880	GO:0010467 10163 10173	expression
+T3881	GO:0010467 10247 10257	expression
+T3882	GO:0009048 10440 10454	X - inactivation
+T3883	GO:0010467 10478 10488	expression
+T3884	GO:0010467 10727 10737	expression
+T3885	GO:0001503 10956 10966	Osteogenic
+T3886	GO_RO_EXT:developmental_differentiation_process 10967 10982	Differentiation
+T3887	GO:0009293 11211 11217	...tissue
+T3888	GO:0065007 11375 11382	control
+T3889	GO:0016477 11383 11395;11396 11407	migration of ... cells
+T3890	GO:0051705 11447 11459;11460 11475	migration of ... progenitors
+T3891	GO:0007601 11759 11768	migration
+T3892	GO:0008283 11841 11854	proliferation
+T3893	GO:0007049 11858 11862;11863 11871	cell ...
+T3894	GO:0060347 11992 12008	bone development
+T3895	GO_RO_EXT:developmental_differentiation_process 12078 12093	differentiation
+T3896	GO_RO_EXT:developmental_differentiation_process 12172 12187	differentiation
+T3897	GO_RO_EXT:developmental_differentiation_process 12243 12258	differentiation
+T3898	GO_EXT:biological_growth_entity_or_process 12497 12503	growth
+T3899	GO_RO_EXT:developmental_differentiation_process 12536 12551	differentiation
+T3900	GO:0007601 12888 12897	migration
+T3901	GO_RO_EXT:developmental_differentiation_process 12959 12974	differentiation
+T3902	GO_RO_EXT:developmental_differentiation_process 13033 13048	differentiation
+T3903	GO:0001503 13118 13128	osteogenic
+T3904	GO_RO_EXT:developmental_differentiation_process 13225 13238	differentiate
+T3905	GO:0001503 13283 13293	osteogenic
+T3906	GO_RO_EXT:developmental_differentiation_process 13294 13309	differentiation
+T3907	GO_RO_EXT:developmental_differentiation_process 13401 13414	differentiate
+T3908	GO:0010467 13539 13549	expression
+T3909	GO:0010467 13677 13687	expression
+T3910	GO:0065007 13774 13782	regulate
+T3911	GO:0001503 13816 13826	Osteogenic
+T3912	GO_RO_EXT:developmental_differentiation_process 13827 13842	Differentiation
+T3913	GO:0065007 13993 14001	regulate
+T3914	GO:0001503 14002 14012	osteogenic
+T3915	GO_RO_EXT:developmental_differentiation_process 14013 14028	differentiation
+T3916	GO:0010467 14060 14070	expression
+T3917	GO_RO_EXT:developmental_differentiation_process 14617 14632	differentiating
+T3918	GO:0010467 14639 14648	expressed
+T3919	GO:0010467 15149 15159	expression
+T3920	GO:0001503 15792 15802	osteogenic
+T3921	GO_RO_EXT:developmental_differentiation_process 15803 15818	differentiation
+T3922	GO:0051178 15887 15899	localization
+T3923	GO:0010467 16271 16278	express
+T3924	GO:0065007 16806 16815	Regulates
+T3925	GO_EXT:positive_regulation 16886 16898	up - regulated
+T3926	GO:0060070 17166 17183	... signaling
+T3927	GO:0060070 17201 17221	... signaling
+T3928	GO:0065007 17228 17236	regulate
+T3929	GO:0010467 17410 17420	expressing
+T3930	GO:0007129 17446 17454	transfer
+T3931	GO:0010467 17490 17500	expressing
+T3932	GO:0010467 17619 17629	expressing
+T3933	GO:0010467 17647 17657	expressing
+T3934	GO:0010467 17789 17796	express
+T3935	GO:0010467 17966 17976	expressing
+T3936	GO:0007129 18010 18018	transfer
+T3937	GO:0007129 18170 18178	transfer
+T3938	GO:0010467 18305 18315	expressing
+T3939	GO:0007129 18488 18496	transfer
+T3940	GO:0060074 18608 18619	transferred
+T3941	GO:0010467 18766 18776	expressing
+T3942	GO:0009640 18863 18883	establishment of GJC
+T3943	GO:0065007 18992 19000	regulate
+T3944	GO:0001887 19153 19161	localize
+T3945	GO:0009294 19327 19338	transfected
+T3946	GO:0010467 19340 19350	Expression
+T3947	GO:0010467 19466 19476	expressing
+T3948	GO:0001887 19827 19835	localize
+T3949	GO:0010467 20021 20031	expressing
+T3950	GO_SO_EXT:sequence_rearrangement_process 20053 20064	recombinant
+T3951	GO:0065007 20475 20485	Regulation
+T3952	GO:0048870 20518 20530	Cell Sorting
+T3953	GO_SO_EXT:sequence_rearrangement_process 20641 20652	recombinant
+T3954	GO:0009294 21425 21436	transfected
+T3955	GO:0010467 21565 21574	expressed
+T3956	GO:0010467 21613 21623	expression
+T3957	GO_PATO_EXT:phosphorylation_process 21659 21674	phosphorylation
+T3958	GO:0065007 21761 21769	regulate
+T3959	GO:0010467 21839 21849	expressing
+T3960	GO_PATO_EXT:phosphorylation_process_or_quality 21930 21944	phosphorylated
+T3961	GO_PATO_EXT:phosphorylation_process_or_quality 21952 21968	unphosphorylated
+T3962	GO_PATO_EXT:phosphorylation_process_or_quality 21992 22006	phosphorylated
+T3963	GO_PATO_EXT:phosphorylation_process_or_quality 22094 22110	unphosphorylated
+T3964	GO_PATO_EXT:phosphorylation_process_or_quality 22394 22408	phosphorylated
+T3965	GO_PATO_EXT:phosphorylation_process_or_quality 22462 22478	unphosphorylated
+T3966	GO:0000267 22562 22571	localized
+T3967	GO:0000267 22675 22684	localized
+T3968	GO:0051178 22720 22732	localization
+T3969	GO:0055016 22844 22865	calvarial development
+T3970	GO:0048731 23242 23261	sternum development
+T3971	GO:0010467 23932 23942	expressing
+T3972	GO:0060070 24058 24067	...signaling
+T3973	GO:0060347 24180 24196	bone development
+T3974	GO:0001887 24236 24244	localize
+T3975	GO:0065007 24312 24322	regulation
+T3976	GO:0009294 24477 24488	transfected
+T3977	GO_EXT:trypsinization 24599 24613	trypsinization
+T3978	GO:0009294 24630 24641	transfected
+T3979	GO:0006880 24654 24668	overexpressing
+T3980	GO:0009294 24691 24704	untransfected
+T3981	GO:0002545 24802 24805	...GJC
+T3982	GO:0010467 24841 24855	Overexpression
+T3983	GO:0065007 25064 25074	regulation
+T3984	GO:0010468 25226 25240	overexpression
+T3985	GO_EXT:breeding 25259 25263	bred
+T3986	GO:0010468 25712 25726	overexpression
+T3987	GO:0010468 25952 25966	overexpression
+T3988	GO:0060347 26365 26381	bone development
+T3989	GO:0010468 26479 26493	overexpression
+T3990	GO:0065007 26714 26724	regulation
+T3991	GO:0042461 26982 26996;26997 27012	development of ... skull vault
+T3992	GO:0007567 27292 27297	birth
+T3993	GO:0001503 27340 27352	ossification
+T3994	GO:0055016 27880 27901	calvarial development
+T3995	GO_EXT:fatality_or_lethality 27951 27960	lethality
+T3996	GO_EXT:transcription 28252 28265	transcription
+T3997	GO_EXT:transcription 28326 28339	transcription
+T3998	GO_EXT:transcription 28416 28429	transcription
+T3999	GO:0065007 28438 28446	regulate
+T4000	GO_RO_EXT:developmental_differentiation_process 28447 28462	differentiation
+T4001	GO_EXT:biological_growth_entity_or_process 28531 28537	growth
+T4002	GO:0016265 28744 28747	die
+T4003	GO:0007567 28751 28756	birth
+T4004	GO:0010467 28976 28986	expression
+T4005	GO:0010467 29040 29050	expression
+T4006	GO:0065007 29064 29072	controls
+T4007	GO:0060347 29317 29333	bone development
+T4008	GO:0035825 29351 29360	...formation
+T4009	GO:0010467 29408 29417	expressed
+T4010	GO_EXT:bone_development_or_ossification 29616 29630	bone formation
+T4011	GO:0023051 30087 30096	signaling
+T4012	GO:0051178 30498 30510	localization
+T4013	GO:0001503 30587 30597	Osteogenic
+T4014	GO_RO_EXT:developmental_differentiation_process 30598 30613	Differentiation
+T4015	GO_RO_EXT:developmental_differentiation_process 30784 30799	differentiation
+T4016	GO:0001503 31150 31160	osteogenic
+T4017	GO:0030154 31161 31179;31180 31193	differentiation of ... cells
+T4018	GO:0010468 31263 31277	overexpression
+T4019	GO:0001503 31460 31470	osteogenic
+T4020	GO_RO_EXT:developmental_differentiation_process 31471 31486	differentiation
+T4021	GO:0065007 31559 31569	regulation
+T4022	GO:0001503 31778 31790	ossification
+T4023	GO:0007565 32325 32337	gap junction
+T4024	GO:0023051 32447 32456	signaling
+T4025	GO:0001503 32479 32489	osteogenic
+T4026	GO_RO_EXT:developmental_differentiation_process 32490 32505	differentiation
+T4027	GO:0007268 32529 32548	signal transduction
+T4028	GO:0042633 32549 32557	cascades
+T4029	GO:0023051 32682 32691	signaling
+T4030	GO_EXT:positive_regulation 32745 32764	positive regulators
+T4031	GO:0001503 32768 32778	osteogenic
+T4032	GO_RO_EXT:developmental_differentiation_process 32779 32794	differentiation
+T4033	GO_RO_EXT:developmental_differentiation_process 32843 32858	differentiation
+T4034	GO:0000187 32964 32979	MAPK activation
+T4035	GO:0001887 33144 33152	localize
+T4036	GO:0006897 33193 33204	endocytosis
+T4037	GO:0006897 33311 33322	endocytosis
+T4038	GO:0065007 33352 33362	regulation
+T4039	GO:0006897 33612 33623	endocytosis
+T4040	GO:0065007 33640 33649	regulated
+T4041	GO:0002254 33656 33683	signal transduction cascade
+T4042	GO:0023051 33734 33743	signaling
+T4043	GO:0065007 33744 33753	regulates
+T4044	GO:0006897 33772 33783	endocytosis
+T4045	GO_PATO_EXT:phosphorylation_process 33796 33811	phosphorylation
+T4046	GO:0006469 33836 33860	Tyrosine phosphorylation
+T4047	GO:0065007 33905 33914	regulated
+T4048	GO_PATO_EXT:phosphorylation_process_or_quality 33991 34005	phosphorylated
+T4049	GO_PATO_EXT:phosphorylation_process_or_quality 34064 34080	unphosphorylated
+T4050	GO:0065007 34265 34275	Regulation
+T4051	GO:0048870 34287 34299	Cell Sorting
+T4052	GO:0010468 34553 34567	overexpression
+T4053	GO:0048870 34585 34597	cell sorting
+T4054	GO:0065007 34622 34632	regulation
+T4055	GO:0065007 34805 34815	regulation
+T4056	GO_PATO_EXT:biological_adhesion_entity_or_process 35029 35037	adhesion
+T4057	GO:0010468 35064 35078	overexpression
+T4058	GO_PATO_EXT:biological_adhesion_entity_or_process 35136 35144	adhesion
+T4059	GO:0008219 35173 35189	Sorting of cells
+T4060	GO:0006880 35190 35204	overexpressing
+T4061	GO:0065007 35290 35300	regulation
+T4062	GO:0048870 35323 35335	cell sorting
+T4063	GO:0048870 35444 35456	cell sorting
+T4064	GO:0065007 35586 35596	regulating
+T4065	GO:0048870 35694 35706	cell sorting
+T4066	GO:0051216 36170 36180	patterning
+T4067	GO:0010467 36259 36269	expressing
+T4068	GO:0007620 36344 36357	communication
+T4069	GO:0006897 36516 36527	endocytosis
+T4070	GO:0010468 36828 36842	overexpression
+T4071	GO:0065007 37022 37032	regulating
+T4072	GO:0065007 37114 37124	regulating
+T4073	GO:0007620 37140 37153	communication
+T4074	GO:0065007 37181 37191	regulation
+T4075	GO_EXT:regulator 37335 37345	regulators
+T4076	GO:0051216 37379 37389	patterning
+T4077	GO:0009790 37397 37418	embryonic development
+T4078	GO_SO_EXT:sequence_rearrangement_process 37819 37832	recombination
+T4079	GO:0010467 38606 38616	expression
+T4080	GO_SO_EXT:sequence_rearrangement_process 38692 38702	recombined
+T4081	GO:0009294 41092 41103	transfected
+T4082	GO:0010467 41109 41119	expression
+T4083	GO:0010467 41256 41266	expressing
+T4084	GO_EXT:trypsinization 41461 41472	trypsinized
+T4085	GO:0009294 41529 41540	transfected
+T4086	GO:0010467 41563 41573	expressing
+T4087	GO:0007129 41613 41621	Transfer
+T4088	GO:0019836 41702 41719	GJC establishment
+T4089	GO:0060074 41822 41833	transferred
+T4090	GO:0007129 41884 41892	transfer
+T4091	GO:0019835 42196 42201	lysis
+T4092	GO:0019835 42864 42869	lysis
+T4093	GO:0009294 43007 43018	transfected
+T4094	GO:0010467 43027 43037	expression
+T4095	GO:0009294 43078 43090	transfection
+T4096	GO:0009294 43704 43715	transfected
+T4097	GO:0010467 43744 43754	expression
+T4098	GO:0009294 43790 43802	transfection
+T4099	GO_EXT:trypsinization 43815 43826	trypsinized
+T4100	GO:0009294 43939 43951	transfection
+T4101	GO_EXT:biological_patterning_process 44879 44889	Patterning
+T4102	GO:0051216 45195 45205	patterning
+T4103	GO:0010467 45565 45575	expression
+T4104	GO:0001503 45741 45751	Osteogenic
+T4105	GO_RO_EXT:developmental_differentiation_process 45752 45767	Differentiation
+T4106	GO_RO_EXT:developmental_differentiation_process 46707 46722	differentiation
+T4107	GO_RO_EXT:developmental_differentiation_process 46897 46912	Differentiating
+T4108	GO:0010467 47106 47116	Expression
+T4109	GO:0010467 48600 48610	expression
+T4110	GO:0010467 48708 48718	expression
+T4111	GO:0007620 49113 49126	communication
+T4112	GO:0010467 50556 50566	Expression
+T4113	GO:0010467 50769 50778	expressed
+T4114	GO:0010467 50891 50901	Expression
+T4115	GO:0010467 50965 50974	expressed
+T4116	GO:0010467 51335 51345	expression
+T4117	GO:0001503 51428 51438	Osteogenic
+T4118	GO_RO_EXT:developmental_differentiation_process 51439 51454	Differentiation
+T4119	GO:0001503 51583 51593	osteogenic
+T4120	GO:0001503 51810 51820	osteogenic
+T4121	GO_RO_EXT:developmental_differentiation_process 51821 51836	differentiation
+T4122	GO:0001503 52328 52338	Osteogenic
+T4123	GO_RO_EXT:developmental_differentiation_process 52339 52354	Differentiation
+T4124	GO:0009566 53563 53571	...Junction
+T4125	GO:0007622 53572 53585	Communication
+T4126	GO:0010467 53612 53622	expressing
+T4127	GO:0010467 53717 53727	expressing
+T4128	GO:0010467 53735 53745	expressing
+T4129	GO:0060073 53794 53805	Transfer of
+T4130	GO:0007129 53892 53900	transfer
+T4131	GO:0010467 53955 53964	expressed
+T4132	GO:0009294 54053 54064	transfected
+T4133	GO:0010467 54115 54125	expression
+T4134	GO:0060074 54217 54228	transferred
+T4135	GO:0007129 54307 54315	Transfer
+T4136	GO:0007129 54470 54478	transfer
+T4137	GO:0060041 54572 54584	transferring
+T4138	GO:0060041 54611 54623	transferring
+T4139	GO:0007129 54712 54720	transfer
+T4140	GO:0001887 54906 54914	localize
+T4141	GO:0009294 55083 55094	transfected
+T4142	GO:0010467 55338 55348	expressing
+T4143	GO:0008152 55362 55371	localizes
+T4144	GO:0008152 55476 55485	localizes
+T4145	GO:0010467 55748 55758	expressing
+T4146	GO:0010467 55933 55943	expressing
+T4147	GO:0065007 56112 56122	Regulation
+T4148	GO:0048870 56146 56158	Cell Sorting
+T4149	GO:0009294 56195 56206	transfected
+T4150	GO_PATO_EXT:phosphorylation_process_or_quality 56596 56610	phosphorylated
+T4151	GO_PATO_EXT:phosphorylation_process_or_quality 56648 56662	phosphorylated
+T4152	GO:0009294 56729 56740	transfected
+T4153	GO:0051178 56799 56811	localization
+T4154	GO:0051178 56888 56900	localization
+T4155	GO:0010467 57313 57323	expressing
+T4156	GO:0006880 57391 57405	overexpressing
+T4157	GO:0010467 57502 57512	expressing
+T4158	GO:0010467 57543 57553	expressing
+T4159	GO:0016458 57700 57714	Overexpressing
+T4160	GO:0007362 58313 58354	Establishment of Developmental Boundaries
+T4161	GO:0007567 58375 58380	...- talk
+T4162	GO:0008152 58440 58449	localizes
+T4163	GO:0065007 58486 58496	regulation
+T4164	GO:0007622 58589 58602	...communication
+T4165	GO:0051216 58627 58637	patterning
+T4166	GO:0010467 58709 58716	express
+T4167	GO:0006897 58949 58960	endocytosis
+T4168	GO:0007568 59055 59062	Sorting

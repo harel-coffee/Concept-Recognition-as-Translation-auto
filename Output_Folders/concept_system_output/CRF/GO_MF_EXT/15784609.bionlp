@@ -1,0 +1,28 @@
+T408	GO_EXT:recombinase 580 591	recombinase
+T409	GO_EXT:0008083 757 770	growth factor
+T410	GO_EXT:recombinase 2154 2165	recombinase
+T411	GO_EXT:recombinase 2465 2476	recombinase
+T412	GO_EXT:recombinase 3146 3157	recombinase
+T413	GO_EXT:recombinase 3761 3772	recombinase
+T414	CHEBI_GO_SO_EXT:enzyme 4013 4019	enzyme
+T415	GO_EXT:polymerase 4217 4227	polymerase
+T416	CHEBI_GO_SO_EXT:enzyme 4632 4639	enzymes
+T417	GO_EXT:phosphoglycerate_kinase 5750 5753	PGK
+T418	GO_EXT:recombinase 6970 6981	recombinase
+T419	GO:0097617 7612 7622	hybridized
+T420	GO_EXT:0008910 7764 7767	neo
+T421	GO:0097617 7979 7992	hybridization
+T422	GO_EXT:polymerase 8151 8161	polymerase
+T423	GO_EXT:0008910 9623 9626	neo
+T424	GO_EXT:recombinase 10599 10610	recombinase
+T425	GO_EXT:0004691 10622 10647	puromycin acyltransferase
+T426	GO_EXT:phosphoglycerate_kinase 10660 10663	PGK
+T427	GO_EXT:0015925 11228 11231	gal
+T428	GO_EXT:phosphoglycerate_kinase 13151 13154	PGK
+T429	GO_EXT:0008910 13155 13158	neo
+T430	GO:0097617 14966 14979	hybridization
+T431	GO_EXT:0008083 18991 19004	growth factor
+T432	GO_EXT:0008083 21740 21753	growth factor
+T433	CHEBI_GO_EXT:hormone 24192 24199	hormone
+T434	GO:0097617 26534 26544	hybridized
+T435	GO_EXT:0008910 26581 26584	neo

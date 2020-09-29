@@ -1,0 +1,200 @@
+T52	GO_PR_EXT:protein_disulfide_isomerase 20 33	PDGF Receptor
+T53	GO_EXT:0008083 130 154	growth factor β receptor
+T54	GO_EXT:0004714 260 284	receptor tyrosine kinase
+T55	GO_EXT:0004872 402 410	receptor
+T56	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 499 506	binding
+T57	GO_PR_EXT:protein_disulfide_isomerase 634 640	PDGFRβ
+T58	GO_EXT:0004872 697 705	receptor
+T59	GO_EXT:0004872 795 803	receptor
+T60	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 945 952	binding
+T61	GO_EXT:0004714 1310 1335	receptor tyrosine kinases
+T62	GO_EXT:0004886 1337 1341	RTKs
+T63	GO_EXT:0004872 1436 1445	receptors
+T64	GO_EXT:0004872 1726 1734	receptor
+T65	GO_EXT:0004872 1816 1824	receptor
+T66	GO_EXT:0004886 2050 2054	RTKs
+T67	GO_EXT:0004872 2110 2118	receptor
+T68	GO_PR_EXT:protein_disulfide_isomerase 2169 2172	RTK
+T69	GO_PR_EXT:protein_disulfide_isomerase 2236 2239	RTK
+T70	GO_EXT:0004872 2329 2338	receptors
+T71	GO_EXT:0008083 2761 2783	growth factor receptor
+T72	GO_EXT:0004791 2836 2858	phosphatidylinositol 3
+T73	GO_EXT:0004402 2860 2866	...kinase
+T74	GO_PR_EXT:protein_disulfide_isomerase 2868 2872	PI3K
+T75	GO_PR_EXT:fatty_acid_synthase 2882 2895	family kinase
+T76	GO_PR_EXT:stearoyl_CoA_desaturase 2897 2900	SFK
+T77	GO_EXT:0004872 3089 3097	receptor
+T78	GO_EXT:0008083 3200 3222	growth factor receptor
+T79	CHEBI_GO_EXT:ligand 3345 3351	ligand
+T80	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 3352 3359	binding
+T81	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 3494 3501	binding
+T82	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 3940 3944	bind
+T83	GO_EXT:0004871 4239 4257	signal transducers
+T84	GO_EXT:0001055 4273 4275	...of
+T85	GO_EXT:0004629 4393 4420	phosphotyrosine phosphatase
+T86	GO_EXT:0004629 4502 4515	phospholipase
+T87	GO_EXT:0004872 4906 4914	receptor
+T88	GO_PR_EXT:protein_disulfide_isomerase 4938 4944	PDGFRβ
+T89	GO_PR_EXT:protein_disulfide_isomerase 5312 5318	PDGFRβ
+T90	GO_PR_EXT:protein_disulfide_isomerase 5821 5827	PDGFRβ
+T91	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 5864 5871	binding
+T92	GO_EXT:0004872 5885 5893	receptor
+T93	GO_PR_EXT:protein_disulfide_isomerase 6432 6438	PDGFRβ
+T94	GO_EXT:0004872 6497 6505	receptor
+T95	GO_PR_EXT:protein_disulfide_isomerase 6661 6664	RTK
+T96	GO_PR_EXT:protein_disulfide_isomerase 6802 6808	PDGFRβ
+T97	GO_EXT:0004872 6850 6858	receptor
+T98	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 7446 7453	binding
+T99	GO_PR_EXT:protein_disulfide_isomerase 7526 7532	PDGFRβ
+T100	GO_PR_EXT:beta_adrenergic_receptor 7534 7536	βT
+T101	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 7647 7654	binding
+T102	GO_PR_EXT:beta_adrenergic_receptor 7781 7783	βT
+T103	GO_EXT:0016301 8288 8294	kinase
+T104	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 8326 8333	binding
+T105	GO_EXT:0004872 8404 8412	receptor
+T106	GO_EXT:0016301 8416 8422	kinase
+T107	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 8494 8498	bind
+T108	CHEBI_GO_EXT:ligand 8499 8505	ligand
+T109	GO_EXT:0004872 8518 8526	receptor
+T110	GO_PR_EXT:beta_adrenergic_receptor 8593 8595	βT
+T111	GO_PR_EXT:protein_disulfide_isomerase 8661 8667	PDGFRβ
+T112	GO_PR_EXT:protein_disulfide_isomerase 8829 8835	PDGFRβ
+T113	GO_EXT:0016301 8836 8842	kinase
+T114	GO_EXT:0004872 8897 8905	receptor
+T115	GO_EXT:0016301 8940 8946	kinase
+T116	GO_PR_EXT:protein_disulfide_isomerase 8972 8975	RTK
+T117	GO_EXT:0004366 8977 9002	vascular endothelial cell
+T118	GO_EXT:0008083 9003 9025	growth factor receptor
+T119	GO_EXT:0004565 9389 9404	β - galactosidase
+T120	GO_PR_EXT:protein_disulfide_isomerase 9831 9837	PDGFRβ
+T121	GO_PR_EXT:protein_disulfide_isomerase 10061 10067	PDGFRβ
+T122	GO_PR_EXT:protein_disulfide_isomerase 12292 12298	PDGFRα
+T123	GO_EXT:0015026 12450 12460	coreceptor
+T124	GO_PR_EXT:protein_disulfide_isomerase 12470 12476	PDGFRβ
+T125	GO_PR_EXT:protein_disulfide_isomerase 13579 13585	PDGFRβ
+T126	GO_PR_EXT:protein_disulfide_isomerase 15244 15250	PDGFRβ
+T127	GO_EXT:0004872 15461 15469	receptor
+T128	GO_PR_EXT:protein_disulfide_isomerase 15551 15557	PDGFRβ
+T129	GO_EXT:0004872 15968 15976	receptor
+T130	GO_EXT:0004872 16335 16343	receptor
+T131	GO_PR_EXT:protein_disulfide_isomerase 16594 16600	PDGFRβ
+T132	GO_EXT:0004872 18082 18090	receptor
+T133	GO_PR_EXT:protein_disulfide_isomerase 18924 18930	PDGFRβ
+T134	GO_EXT:0004872 20103 20111	receptor
+T135	GO_EXT:0016301 20208 20214	kinase
+T136	GO_EXT:0004872 20231 20239	receptor
+T137	GO_EXT:0016301 20430 20436	kinase
+T138	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 20498 20505	binding
+T139	GO_EXT:0004872 20633 20642	receptors
+T140	GO_EXT:0004872 20825 20834	receptors
+T141	CHEBI_GO_EXT:ligand 21388 21394	ligand
+T142	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 21947 21954	binding
+T143	GO_MOP_EXT:catalysis 22194 22203	catalytic
+T144	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 22478 22485	binding
+T145	GO_EXT:0004143 22675 22697	...signal - related kinases
+T146	GO_PR_EXT:alkaline_phosphatase 22788 22791	AKT
+T147	GO_EXT:0004872 22924 22932	receptor
+T148	GO_EXT:0004872 23206 23214	receptor
+T149	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 23345 23352	binding
+T150	GO_EXT:0004872 23365 23373	receptor
+T151	GO_EXT:0004872 23491 23499	receptor
+T152	GO_EXT:0004872 23536 23545	receptors
+T153	GO_EXT:0016301 23639 23645	kinase
+T154	GO_PR_EXT:protein_disulfide_isomerase 23669 23672	RTK
+T155	GO_EXT:0016015 24244 24254	morphogens
+T156	GO_EXT:0004872 24481 24489	receptor
+T157	GO_EXT:0004872 24773 24781	receptor
+T158	GO_PR_EXT:protein_disulfide_isomerase 25678 25684	PDGFRβ
+T159	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 25737 25744	binding
+T160	GO:00487617 25748 25767	signal transduction
+T161	GO_EXT:0004872 25791 25799	receptor
+T162	GO_EXT:0016301 25848 25854	kinase
+T163	GO_EXT:0004872 26096 26104	receptor
+T164	GO_EXT:0016301 26116 26122	kinase
+T165	GO_PR_EXT:protein_disulfide_isomerase 26212 26217	PDGFR
+T166	GO_EXT:0004872 26402 26410	receptor
+T167	GO_PR_EXT:protein_disulfide_isomerase 26475 26481	PDGFRβ
+T168	GO_EXT:0004872 26568 26576	receptor
+T169	GO_EXT:0016301 26604 26610	kinase
+T170	GO_EXT:0004872 26661 26669	receptor
+T171	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 27182 27186	bind
+T172	GO_EXT:0004872 27526 27534	receptor
+T173	GO_EXT:0004872 28514 28522	receptor
+T174	GO_PR_EXT:protein_disulfide_isomerase 29000 29004	PI3K
+T175	GO_EXT:0004872 30015 30023	receptor
+T176	GO_EXT:0004872 30323 30331	receptor
+T177	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 30372 30379	binding
+T178	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 30485 30492	binding
+T179	GO_EXT:0004872 30660 30668	receptor
+T180	GO_EXT:0004872 30732 30740	receptor
+T181	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 30955 30962	binding
+T182	GO_EXT:0004872 31002 31010	receptor
+T183	GO_EXT:0016301 31034 31040	kinase
+T184	GO_PR_EXT:beta_adrenergic_receptor 31069 31071	βT
+T185	GO_EXT:0016301 31111 31117	kinase
+T186	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 31149 31156	binding
+T187	GO_EXT:0004872 31178 31186	receptor
+T188	GO_EXT:0004872 31288 31297	receptors
+T189	GO_PR_EXT:low_density_lipoprotein_receptor 31544 31576	low - density lipoprotein receptor
+T190	GO_PR_EXT:MAP_kinase 32245 32255	MAP kinase
+T191	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 32376 32383	binding
+T192	GO_PR_EXT:protein_disulfide_isomerase 32431 32437	PDGFRβ
+T193	GO_PR_EXT:protein_disulfide_isomerase 32660 32663	RTK
+T194	GO_PR_EXT:protein_disulfide_isomerase 34138 34142	PDGF
+T195	CHEBI_GO_EXT:ligand 34143 34149	ligand
+T196	GO_EXT:0004872 34727 34735	receptor
+T197	GO_EXT:0004872 34849 34857	receptor
+T198	GO_PR_EXT:protein_disulfide_isomerase 34980 34983	RTK
+T199	GO_PR_EXT:beta_adrenergic_receptor 35493 35495	βT
+T200	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 35977 35984	binding
+T201	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 36068 36075	binding
+T202	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 36366 36373	binding
+T203	GO_EXT:phosphoglycerate_kinase 36554 36557	PGK
+T204	GO_EXT:0008910 36558 36561	neo
+T205	GO_PR_EXT:protein_disulfide_isomerase 36965 36974	PDGFRαGFP
+T206	GO_EXT:0004565 37793 37808	β - galactosidase
+T207	GO_EXT:0015925 38534 38537	Gal
+T208	GO_EXT:0004872 39701 39709	Receptor
+T209	GO_PR_EXT:protein_disulfide_isomerase 40025 40031	PDGFRβ
+T210	GO_PR_EXT:protein_disulfide_isomerase 40103 40109	PDGFRα
+T211	GO_PR_EXT:protein_disulfide_isomerase 40802 40808	PDGFRβ
+T212	GO_EXT:0016301 40814 40820	kinase
+T213	GO_PR_EXT:estrogen_receptor 41718 41721	ERK
+T214	GO_PR_EXT:beta3_adrenergic_receptor 41724 41759	extracellular signal - related kinase
+T215	GO_PR_EXT:MAP_kinase 41815 41825	MAP kinase
+T216	GO_PR_EXT:MAP_kinase 41828 41860	mitogen - activated protein kinase
+T217	GO_EXT:0008083 41920 41933	growth factor
+T218	GO_PR_EXT:protein_disulfide_isomerase 41935 41940	PDGFR
+T219	GO_EXT:0008083 41960 41973	growth factor
+T220	GO_EXT:0004872 41974 41982	receptor
+T221	GO_PR_EXT:protein_disulfide_isomerase 41984 41988	PI3K
+T222	GO_EXT:0004791 41991 42013	phosphatidylinositol 3
+T223	GO_EXT:0004402 42015 42021	...kinase
+T224	GO_EXT:0004629 42030 42043	phospholipase
+T225	GO_PR_EXT:protein_disulfide_isomerase 42048 42051	RTK
+T226	GO_EXT:0004714 42054 42078	receptor tyrosine kinase
+T227	GO_PR_EXT:stearoyl_CoA_desaturase 42080 42083	SFK
+T228	GO_PR_EXT:stearoyl_CoA_desaturase 42086 42103	Src family kinase
+T229	GO_EXT:0004629 42164 42191	phosphotyrosine phosphatase
+T230	GO_EXT:biological_mover_or_transporter 42237 42247	transducer
+T231	GO_PR_EXT:protein_disulfide_isomerase 42390 42396	PDGFRβ
+T232	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 42537 42544	binding
+T233	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 42647 42654	binding
+T234	GO_EXT:0016301 42709 42715	kinase
+T235	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 42882 42889	binding
+T236	GO_EXT:phosphoglycerate_kinase 43188 43191	PGK
+T237	GO_EXT:0008910 43192 43195	neo
+T238	GO_EXT:0015666 43205 43223	Restriction enzyme
+T239	GO_EXT:0015666 43587 43606	Restriction enzymes
+T240	GO_EXT:0004565 44595 44610	β - galactosidase
+T241	GO_EXT:0004565 45493 45508	β - galactosidase
+T242	GO_PR_EXT:protein_disulfide_isomerase 45537 45543	PDGFRα
+T243	GO_EXT:0004565 45719 45734	β - galactosidase
+T244	GO_EXT:0004565 45921 45936	β - Galactosidase
+T245	GO_EXT:0004565 46403 46418	β - galactosidase
+T246	GO_EXT:0004565 46542 46557	β - Galactosidase
+T247	GO_EXT:0004872 46856 46864	receptor
+T248	GO_EXT:0004872 46946 46954	receptor
+T249	GO_PR_EXT:protein_disulfide_isomerase 47833 47839	PDGFRβ
+T250	GO_PR_EXT:protein_disulfide_isomerase 48358 48364	PDGFRβ
+T251	GO_PR_EXT:estrogen_receptor 48378 48381	ERK

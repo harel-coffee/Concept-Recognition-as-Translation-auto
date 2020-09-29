@@ -1,0 +1,259 @@
+T4752	GO:0007567 47 53	Kidney
+T4753	GO:0042384 54 66	Ciliogenesis
+T4754	GO:0044838 71 90	Cellular Quiescence
+T4755	GO_EXT:detection_or_sensing_of_stimulus 269 276	sensory
+T4756	GO:0008152 381 390	localizes
+T4757	GO:0007599 488 506	formation of cilia
+T4758	GO_EXT:reaction_or_response 670 678	response
+T4759	GO:0010467 894 903	expressed
+T4760	GO:0034651 947 962	cilia formation
+T4761	GO_PATO_EXT:aging_or_agedness 981 985	Aged
+T4762	GO:0006915 1091 1100	apoptosis
+T4763	GO:0008283 1104 1117	proliferation
+T4764	GO:0070270 1381 1400	kidney ciliogenesis
+T4765	GO:0008152 1663 1672	metabolic
+T4766	GO_EXT:detection_or_sensing_of_stimulus 1793 1800	sensing
+T4767	GO:0016265 1894 1899	death
+T4768	GO:0034651 2231 2246	cilia formation
+T4769	GO:0008283 2445 2467	cellular proliferation
+T4770	GO:0008219 2472 2482	cell death
+T4771	GO:0042384 2540 2552	ciliogenesis
+T4772	GO:0007605 2810 2817	hearing
+T4773	GO:0016265 3029 3034	death
+T4774	GO_EXT:detection_or_sensing_of_stimulus 3835 3842	sensory
+T4775	GO:0051454 3868 3900	mechanosensation of lumenal flow
+T4776	GO:0007179 3923 3938;3939 3962	transduction of ... signaling
+T4777	GO:0045333 3983 3988;3988 3989	... Wnt ...
+T4778	GO_EXT:biological_routing_or_transport 4011 4017	...growth
+T4779	GO:0042730 4034 4042	...pathways
+T4780	GO:0000267 4530 4539	localized
+T4781	GO:0023051 4594 4603	signaling
+T4782	GO_EXT:reaction_or_response 4607 4615	response
+T4783	GO:0007631 4782 4789	ciliary
+T4784	GO:0015031 4790 4807	protein transport
+T4785	GO:0000267 5288 5297	localized
+T4786	GO:0015031 5423 5444	transport of proteins
+T4787	GO_EXT:biological_routing_or_transport 5635 5644	transport
+T4788	GO:0034651 6462 6477	cilia formation
+T4789	GO:0010467 6578 6588	expression
+T4790	GO:0034651 6674 6689	cilia formation
+T4791	GO:0042384 6905 6917	Ciliogenesis
+T4792	GO:0002147 6980 6996	cilium formation
+T4793	GO:0009745 7050 7067;7068 7081	cell ciliogenesis ... signaling
+T4794	GO:0007599 7430 7448	formation of cilia
+T4795	GO:0009294 7545 7557	transfection
+T4796	GO:0042384 8043 8055	ciliogenesis
+T4797	GO:0051178 8453 8465	localization
+T4798	GO_EXT:transcription 8619 8634	Transcriptional
+T4799	GO:0065007 8635 8645	Regulation
+T4800	GO:0015031 8688 8704	Mechanosensation
+T4801	GO_EXT:transcription 8706 8721	Transcriptional
+T4802	GO:0065007 8806 8815	regulated
+T4803	GO:0042384 8823 8835	ciliogenesis
+T4804	GO_EXT:transcription 8979 8994	transcriptional
+T4805	GO_EXT:reaction_or_response 8995 9003	response
+T4806	GO:0042384 9020 9032	ciliogenesis
+T4807	GO:0042384 9058 9070	ciliogenesis
+T4808	GO:0042384 9286 9298	ciliogenesis
+T4809	GO:0000267 9352 9361	localized
+T4810	GO_EXT:biological_routing_or_transport 9416 9425	targeting
+T4811	GO_EXT:biological_routing_or_transport 9505 9514	transport
+T4812	GO_EXT:positive_regulation 9592 9603	upregulated
+T4813	GO:0042384 9614 9626	ciliogenesis
+T4814	GO_EXT:transcription 9771 9784	transcription
+T4815	GO:0042384 9824 9836	ciliogenesis
+T4816	GO_EXT:reaction_or_response 10093 10101	response
+T4817	GO_EXT:reaction_or_response 10155 10163	response
+T4818	GO_EXT:reaction_or_response 10274 10281	respond
+T4819	GO:0007631 10519 10524	cilia
+T4820	GO:0022605 10525 10538;10539 10562	biogenesis of ... epithelial cells
+T4821	GO_EXT:transcription 10597 10612	transcriptional
+T4822	GO_EXT:reaction_or_response 10828 10835	respond
+T4823	GO:0045210 10915 10930	Cilia Formation
+T4824	GO:0042384 10999 11011	Ciliogenesis
+T4825	GO:0034651 11410 11425	cilia formation
+T4826	GO:0009294 11452 11463	transfected
+T4827	GO:0010467 11763 11773	expression
+T4828	GO:0009294 11833 11845	transfection
+T4829	GO:0006936 11915 11929	cotransfection
+T4830	GO:0009294 12060 12072	transfection
+T4831	GO:0009294 12275 12286	transfected
+T4832	GO:0006936 12307 12321	cotransfection
+T4833	GO:0006936 12532 12546	cotransfection
+T4834	GO:0010467 12589 12599	expression
+T4835	GO:0042384 12723 12735	ciliogenesis
+T4836	GO:0010467 12750 12760	expression
+T4837	GO:0010467 13102 13112	expression
+T4838	GO:0000267 13411 13420	localized
+T4839	GO:0010467 13943 13953	expression
+T4840	GO:0034651 14009 14024	cilia formation
+T4841	GO:0042384 14199 14211	ciliogenesis
+T4842	GO:0042592 14333 14344	Homeostasis
+T4843	GO:0008152 14455 14464	metabolic
+T4844	GO_EXT:detection_or_sensing_of_stimulus 14469 14476	sensory
+T4845	GO:0007283 15295 15310	sperm formation
+T4846	GO_EXT:biological_routing_or_transport 15349 15358	transport
+T4847	GO_PATO_EXT:aging_or_agedness 15971 15975	aged
+T4848	GO:0008283 16663 16685	cellular proliferation
+T4849	GO:0006915 16690 16699	apoptosis
+T4850	GO:0008283 16778 16791	proliferation
+T4851	GO_PATO_EXT:apoptotic_process_or_quality 16825 16834	apoptotic
+T4852	GO:0008283 16861 16874	proliferation
+T4853	GO:0008283 16931 16944	proliferation
+T4854	GO:0007281 17323 17333	epithelial
+T4855	GO:0006915 17334 17348	cell apoptosis
+T4856	GO:0043277 17796 17809;17810 17813	proliferation ...
+T4857	GO:0072577 17814 17843	apoptosis of epithelial cells
+T4858	GO:0051178 18180 18192	Localization
+T4859	GO_EXT:biological_routing_or_transport 18691 18700	transport
+T4860	GO:0007567 19014 19020	kidney
+T4861	GO:0042384 19021 19033	ciliogenesis
+T4862	GO:0010467 19343 19353	expression
+T4863	GO:0007416 19385 19397;19398 19413	formation of ... cilia
+T4864	GO:0006936 19656 19670	cotransfection
+T4865	GO:0042450 19916 19935	biogenesis of cilia
+T4866	GO:0000267 20392 20401	localized
+T4867	GO:0010467 20706 20715	expressed
+T4868	GO:0042384 20861 20873	ciliogenesis
+T4869	GO:0034651 21132 21147	cilia formation
+T4870	GO:0007631 21164 21172	nonsense
+T4871	GO_SO_EXT:frameshift_entity_or_process 21177 21187	frameshift
+T4872	GO:0015690 22005 22029	intraflagellar transport
+T4873	GO_EXT:biological_recruitment 22047 22052	motor
+T4874	GO_EXT:detection_or_sensing_of_stimulus 22165 22172	sensing
+T4875	GO:0031128 22196 22235	transduction of intracellular signaling
+T4876	GO:0065007 22241 22251	regulation
+T4877	GO:0009653 22255 22268	morphogenetic
+T4878	GO:0016037 22377 22393	sensing of light
+T4879	GO:0007608 22398 22407	olfaction
+T4880	GO:0015031 22527 22543	mechanosensation
+T4881	GO_EXT:reaction_or_response 22627 22635	response
+T4882	GO:0023051 22741 22750	signaling
+T4883	GO_EXT:biological_growth_entity_or_process 22834 22840	growth
+T4884	GO:0001887 22863 22871	localize
+T4885	GO:0051178 22914 22926	localization
+T4886	GO:0023043 22943 22965	signaling transduction
+T4887	GO:0048160 23016 23028;23029 23052	formation of ... epithelial cilia
+T4888	GO:0007616 23098 23112	mechanosensory
+T4889	GO:0023051 23113 23122	signaling
+T4890	GO:0016265 23310 23315	death
+T4891	GO:0016055 23578 23589	Wnt pathway
+T4892	GO:0051178 23728 23740	Localization
+T4893	GO:0043577 23839 23859;23860 23863	protein transport to ...
+T4894	GO_EXT:detection_or_sensing_of_stimulus 23929 23934	sense
+T4895	GO:0065007 23952 23959	control
+T4896	GO:0008283 23960 23978	cell proliferation
+T4897	GO:0010467 24030 24040	expression
+T4898	GO:0060070 24108 24129	canonical Wnt pathway
+T4899	GO:0060070 24188 24209	canonical Wnt pathway
+T4900	GO_EXT:biological_routing_or_transport 24239 24242	...Wnt
+T4901	GO:0045333 24269 24280	...Wnt pathway
+T4902	GO:0051301 24335 24348	cell division
+T4903	GO:0065007 24485 24493	regulate
+T4904	GO:0007631 24535 24542	ciliary
+T4905	GO:0015031 24543 24560	protein transport
+T4906	GO:0007267 24627 24650	cell polarity signaling
+T4907	GO:0051301 24677 24690	cell division
+T4908	GO:0044838 25035 25054	cellular quiescence
+T4909	GO_PATO_EXT:apoptotic_process_or_quality 25084 25093	apoptotic
+T4910	GO:0008283 25098 25111	proliferating
+T4911	GO:0023051 25433 25442	signaling
+T4912	GO:0008283 25448 25470	cellular proliferation
+T4913	GO:0010226 25709 25728	somatic mutagenesis
+T4914	GO:0007269 25738 25752	nontransformed
+T4915	GO:0010467 25883 25893	expression
+T4916	GO:0031649 25928 25940	cystogenesis
+T4917	GO:0000267 26025 26034	localized
+T4918	GO:0010467 26035 26045	expression
+T4919	GO:0006915 26085 26094	apoptosis
+T4920	GO:0008283 26099 26112	proliferation
+T4921	GO:0010467 26254 26264	expression
+T4922	GO:0007631 26355 26360	cilia
+T4923	GO:0007568 26493 26498	aging
+T4924	GO:0008283 26726 26739	proliferation
+T4925	GO:0006915 26743 26752	apoptosis
+T4926	GO:0008283 26884 26897	proliferating
+T4927	GO:0006915 26904 26913	apoptosis
+T4928	GO:0042384 27302 27314	ciliogenesis
+T4929	GO:0034651 27523 27538	cilia formation
+T4930	GO:0010467 27750 27760	expression
+T4931	GO:0016246 27764 27768	RNAi
+T4932	GO:0016246 27826 27830	RNAi
+T4933	GO:0016246 28088 28092	RNAi
+T4934	GO:0009294 28093 28105	transfection
+T4935	GO:0009294 28160 28171	transfected
+T4936	GO:0009294 28512 28523	transfected
+T4937	GO_EXT:biological_direction_or_guidance 28590 28598	directed
+T4938	GO:0009294 28622 28633	transfected
+T4939	GO:0009294 28739 28750	transfected
+T4940	GO:0009294 28771 28782	transfected
+T4941	GO:0010467 28813 28828	gene expression
+T4942	GO:0009294 28868 28879	transfected
+T4943	GO:0009294 28927 28938	transfected
+T4944	GO:0009294 28977 28988	transfected
+T4945	GO:0010467 29345 29362	expression_manual
+T4946	GO_EXT:transcription 29383 29396	transcription
+T4947	GO:0010467 29586 29601	gene expression
+T4948	GO:0042384 29616 29628	ciliogenesis
+T4949	GO:0009294 29641 29652	transfected
+T4950	GO:0010467 29680 29690	expression
+T4951	GO:0009294 29737 29748	transfected
+T4952	GO:0010467 29792 29802	expression
+T4953	GO:0010467 29932 29942	expression
+T4954	GO:0010467 30091 30101	expression
+T4955	GO:0009294 30121 30132	transfected
+T4956	GO:0009294 30196 30207	transfected
+T4957	GO_EXT:transcription 30293 30308	transcriptional
+T4958	GO:0042384 30342 30354	ciliogenesis
+T4959	GO_EXT:transcription 30408 30421	transcription
+T4960	GO:0065007 30422 30432	regulation
+T4961	GO:0042384 30449 30461	ciliogenesis
+T4962	GO:0040007 30499 30504	grown
+T4963	GO:0009294 30526 30537	transfected
+T4964	GO:0016246 30549 30553	RNAi
+T4965	GO:0040007 30635 30640	grown
+T4966	GO:0034651 30664 30679	cilia formation
+T4967	GO:0051320 33443 33450	passage
+T4968	GO:0061525 33554 33567;33568 33599	generation of ... epithelial cells
+T4969	GO:0007566 33607 33616	postnatal
+T4970	GO_EXT:biological_growth_entity_or_process 34015 34021	growth
+T4971	GO_PATO_EXT:aging_or_agedness 35373 35377	Aged
+T4972	GO:0010467 35631 35646	Gene Expression
+T4973	GO:0010467 35681 35696	Gene expression
+T4974	GO:0009294 35763 35774	transfected
+T4975	GO:0009294 35842 35853	transfected
+T4976	GO:0015690 36595 36619	intraflagellar transport
+T4977	GO:0010467 36823 36833	Expression
+T4978	GO:0009294 37012 37024	transfection
+T4979	GO:0009294 37026 37038	transfection
+T4980	GO:0009294 37073 37085	transfection
+T4981	GO_EXT:biological_direction_or_guidance 37111 37119	directed
+T4982	GO:0007411 37200 37217	axoneme extension
+T4983	GO:0009294 37232 37244	transfection
+T4984	GO:0042384 37589 37601	ciliogenesis
+T4985	GO:0010467 37671 37681	expression
+T4986	GO_PATO_EXT:aging_or_agedness 37689 37699	acetylated
+T4987	GO_EXT:transcription 37761 37776	Transcriptional
+T4988	GO:0042384 37792 37804	Ciliogenesis
+T4989	GO:0015031 37843 37859	Mechanosensation
+T4990	GO:0042384 37898 37914	cilia biogenesis
+T4991	GO:0009294 37975 37987	transfection
+T4992	GO:0009294 38002 38013	transfected
+T4993	GO_EXT:positive_regulation 38206 38218	upregulation
+T4994	GO:0042384 38244 38256	ciliogenesis
+T4995	GO:0042384 38382 38394	ciliogenesis
+T4996	GO:0010467 38439 38449	expression
+T4997	GO:0010467 38482 38492	expression
+T4998	GO:0034651 38630 38645	cilia formation
+T4999	GO_EXT:reaction_or_response 38887 38895	response
+T5000	GO:0007605 39020 39034	Cotransfection
+T5001	GO:0034651 39112 39127	cilia formation
+T5002	GO:0009294 39210 39221	transfected
+T5003	GO:0010467 39247 39257	expression
+T5004	GO:0010468 39407 39421	overexpression
+T5005	GO:0010467 39516 39526	expression
+T5006	GO:0010467 39609 39624	gene expression
+T5007	GO:0034651 40109 40124	cilia formation
+T5008	GO:0010467 41963 41973	expressing
+T5009	GO:0008283 42027 42040	proliferating
+T5010	GO_PATO_EXT:apoptotic_process_or_quality 42175 42184	apoptotic

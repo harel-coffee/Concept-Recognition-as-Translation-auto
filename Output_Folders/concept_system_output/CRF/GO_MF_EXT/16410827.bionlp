@@ -1,0 +1,56 @@
+T681	CHEBI_GO_EXT:ligand 10 16	Ligand
+T682	CHEBI_GO_EXT:ligand 601 608	ligands
+T683	CHEBI_GO_EXT:ligand 665 671	ligand
+T684	CHEBI_GO_EXT:ligand 2599 2605	ligand
+T685	GO_EXT:0004872 5270 5278	receptor
+T686	CHEBI_GO_EXT:ligand 5287 5294	ligands
+T687	GO_EXT:0004872 5382 5391	receptors
+T688	CHEBI_GO_EXT:ligand 5413 5420	ligands
+T689	GO_EXT:0004872 5695 5703	receptor
+T690	GO_EXT:transcription_factor 5886 5907	transcription factors
+T691	GO_EXT:transcription_factor 6258 6278	transcription factor
+T692	CHEBI_GO_EXT:ligand 6889 6896	ligands
+T693	GO_EXT:recombinase 7577 7588	recombinase
+T694	GO_EXT:0004872 8596 8605	receptors
+T695	GO_EXT:recombinase 8813 8824	recombinase
+T696	GO_EXT:recombinase 8953 8964	recombinase
+T697	GO_EXT:0004886 9858 9860	RT
+T698	GO_EXT:0004886 11748 11750	RT
+T699	GO_EXT:recombinase 12245 12256	recombinase
+T700	GO:0097617 12632 12645	hybridization
+T701	GO_EXT:0008083 13031 13053	growth factor receptor
+T702	GO:0097617 13327 13340	hybridization
+T703	GO_EXT:recombinase 13499 13510	recombinase
+T704	GO_EXT:recombinase 13699 13710	recombinase
+T705	GO_EXT:recombinase 13914 13925	recombinase
+T706	GO:0097617 14120 14133	hybridization
+T707	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 21941 21946	binds
+T708	CHEBI_GO_EXT:ligand 24224 24230	ligand
+T709	GO_EXT:transcription_factor 25072 25092	transcription factor
+T710	CHEBI_GO_EXT:ligand 31090 31096	ligand
+T711	CHEBI_GO_EXT:ligand 35487 35493	ligand
+T712	GO_EXT:0008083 35990 36003	growth factor
+T713	GO_EXT:transcription_factor 36023 36043	transcription factor
+T714	CHEBI_GO_EXT:ligand 36582 36589	ligands
+T715	CHEBI_GO_EXT:ligand 39766 39772	ligand
+T716	CHEBI_GO_EXT:ligand 40288 40294	ligand
+T717	CHEBI_GO_EXT:ligand 40404 40411	ligands
+T718	GO:0097617 44405 44418	hybridization
+T719	GO_EXT:0005391 45354 45365	Jag1floxneo
+T720	GO_EXT:0005391 46464 46475	Jag1floxneo
+T721	GO_EXT:0005391 46522 46533	Jag1floxneo
+T722	GO_EXT:0005391 46534 46545	Jag1floxneo
+T723	GO_EXT:0005391 46568 46579	Jag1floxneo
+T724	GO_EXT:0005391 46858 46869	Jag1floxneo
+T725	GO_EXT:recombinase 46883 46894	recombinase
+T726	GO_EXT:recombinase 47313 47324	recombinase
+T727	GO_EXT:0005391 47362 47373	Jag1floxneo
+T728	GO:0097617 50512 50525	hybridization
+T729	GO_EXT:0004886 50530 50532	RT
+T730	GO:0097617 50719 50732	hybridization
+T731	GO:0097617 51052 51065	hybridization
+T732	GO:0097617 51348 51361	hybridization
+T733	GO_EXT:0004886 51486 51488	RT
+T734	GO_EXT:0003964 51742 51763	reverse transcriptase
+T735	GO_EXT:0008083 52678 52691	growth factor
+T736	CHEBI_GO_EXT:ligand 53181 53187	ligand

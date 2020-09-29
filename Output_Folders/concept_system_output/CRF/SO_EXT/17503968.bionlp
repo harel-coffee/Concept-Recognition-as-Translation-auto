@@ -1,0 +1,47 @@
+T7667	SO_EXT:0000198 1391 1397	N - type
+T7668	SO_EXT:0000198 1509 1515	N - type
+T7669	SO_EXT:sequence_nullness_or_absence 4806 4809	−/−
+T7670	SO_EXT:0000198 5817 5823	N - type
+T7671	SO_EXT:sequence_alteration_entity_or_process 11029 11037	mutation
+T7672	SO_EXT:0000704 11052 11056	gene
+T7673	SO_EXT:wild_type_entity_or_quality 11262 11271	wild - type
+T7674	SO_EXT:wild_type_entity_or_quality 11569 11578	wild - type
+T7675	SO_EXT:0000235 17169 17175	N - Type
+T7676	SO_EXT:0000198 17820 17826	N - type
+T7677	SO_EXT:0000198 18193 18199	N - type
+T7678	SO_EXT:0000198 18530 18536	N - type
+T7679	SO_EXT:sequence_fusion_entity_or_process 18866 18872	fusion
+T7680	SO_EXT:0000235 19117 19123	N - Type
+T7681	SO_EXT:0000198 19229 19235	N - type
+T7682	SO_EXT:0000198 19897 19903	N - type
+T7683	SO_EXT:0000198 21203 21209	N - type
+T7684	SO_EXT:0000198 21356 21362	N - type
+T7685	SO_EXT:0000704 22250 22257	genetic
+T7686	SO_EXT:sequence_nullness_or_absence 22286 22289	−/−
+T7687	SO_EXT:sequence_nullness_or_absence 22311 22314	−/−
+T7688	SO_EXT:sequence_alteration_entity_or_process 22527 22535	mutation
+T7689	SO_EXT:sequence_nullness_or_absence 23085 23088	−/−
+T7690	SO_EXT:0000704 23089 23096	genetic
+T7691	CHEBI_SO_EXT:arginine 26745 26753	arginine
+T7692	SO_EXT:polymorphism 27982 27994	polymorphism
+T7693	SO_EXT:sequence_variant_or_variation 28113 28120	variant
+T7694	SO_EXT:polymorphism 28337 28349	polymorphism
+T7695	SO_EXT:polymorphism 28781 28793	polymorphism
+T7696	SO_EXT:polymorphism 29100 29112	polymorphism
+T7697	SO_EXT:sequence_variant_or_variation 29447 29454	variant
+T7698	SO_EXT:0000198 30028 30034	N - type
+T7699	SO_EXT:0000198 30305 30311	N - type
+T7700	SO_EXT:0000198 32055 32061	N - type
+T7701	SO_EXT:0000198 32236 32242	N - type
+T7702	SO_EXT:0000198 32433 32439	N - type
+T7703	SO_EXT:sequence_alteration_entity_or_process 34183 34191	mutation
+T7704	SO_EXT:0000704 34206 34210	gene
+T7705	SO_EXT:wild_type_entity_or_quality 34515 34524	wild - type
+T7706	SO_EXT:sequence_truncation_process 41191 41200	Truncated
+T7707	CHEBI_SO_EXT:glutamic_acid 42983 42986	glu
+T7708	SO_EXT:0000235 44696 44702	N - Type
+T7709	SO_EXT:0000235 45379 45385	N - Type
+T7710	SO_EXT:0000198 45420 45426	N - type
+T7711	SO_EXT:0000198 45523 45529	N - type
+T7712	SO_EXT:0000198 46219 46225	N - type
+T7713	SO_EXT:0000198 47020 47026	N - type

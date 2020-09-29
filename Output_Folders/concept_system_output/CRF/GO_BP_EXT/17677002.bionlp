@@ -1,0 +1,124 @@
+T5175	GO:0010467 765 774	expressed
+T5176	GO:0010467 824 839	Gene expression
+T5177	GO_EXT:negative_regulation 887 902	down - regulation
+T5178	GO:0065007 1175 1188	dysregulation
+T5179	GO:0065007 2163 2172	regulates
+T5180	GO:0010467 2177 2187	expression
+T5181	GO:0065007 3324 3332	modulate
+T5182	GO:0010467 3337 3347	expression
+T5183	GO:0010467 3510 3520	expression
+T5184	GO:0006396 3861 3875	RNA processing
+T5185	GO:0008380 3893 3901	splicing
+T5186	GO:0006396 3907 3919	mRNA editing
+T5187	GO:0006412 3947 3958	translation
+T5188	GO_PATO_EXT:biological_behavior 4449 4459	behavioral
+T5189	GO_EXT:neurotransmission 4494 4511	neurotransmission
+T5190	GO:0007268 4633 4654	synaptic transmission
+T5191	GO:0065007 4663 4673	regulating
+T5192	GO:0006396 4674 4688	RNA processing
+T5193	GO:0010467 4858 4873	gene expression
+T5194	GO:0010467 4970 4980	expression
+T5195	GO:0007129 5475 5483	transfer
+T5196	GO:0010467 5523 5532	expressed
+T5197	GO:0010467 5686 5696	expression
+T5198	GO_EXT:fatality_or_lethality 6524 6533	lethality
+T5199	GO:0006936 6831 6842	contraction
+T5200	GO_EXT:reaction_or_response 6972 6980	response
+T5201	GO_EXT:biological_growth_entity_or_process 7890 7896	growth
+T5202	GO:0007567 9825 9829	born
+T5203	GO:0016265 9874 9878	died
+T5204	GO:0007618 9906 9913	matings
+T5205	GO:0045333 10070 10081	respiratory
+T5206	GO:0007567 10219 10228	perinatal
+T5207	GO_EXT:fatality_or_lethality 10229 10238	lethality
+T5208	GO:0007618 10308 10315	matings
+T5209	GO_EXT:fatality_or_lethality 10952 10958	lethal
+T5210	GO:0065007 12055 12064	modulated
+T5211	GO:0010467 12939 12949	expression
+T5212	GO:0008380 13129 13135	splice
+T5213	GO:0008380 13269 13277	splicing
+T5214	GO_SO_EXT:sequence_rearrangement_process 13486 13488	RT
+T5215	GO:0010467 13642 13652	expression
+T5216	GO:0010467 13825 13835	Expression
+T5217	GO:0010467 14041 14050	expressed
+T5218	GO:0008380 15428 15434	splice
+T5219	GO:0008380 15502 15508	splice
+T5220	GO:0010467 15845 15855	Expression
+T5221	GO_SO_EXT:sequence_rearrangement_process 16310 16312	RT
+T5222	GO:0010467 16468 16478	expression
+T5223	GO:0010467 16840 16850	expression
+T5224	GO:0010467 17112 17122	expression
+T5225	GO:0010467 17241 17251	expression
+T5226	GO:0007608 17328 17337	olfactory
+T5227	GO:0010467 17421 17431	expression
+T5228	GO:0010467 17488 17498	expression
+T5229	GO:0010467 17667 17677	expression
+T5230	GO:0022008 17791 17803	neurogenesis
+T5231	GO:0010467 17856 17866	Expression
+T5232	GO:0007608 18090 18099	olfactory
+T5233	GO:0021562 18351 18369	signal development
+T5234	GO:0007608 18756 18765	olfactory
+T5235	GO_EXT:negative_regulation 18802 18816	Down - Regulated
+T5236	GO:0065007 19138 19150	dysregulated
+T5237	GO:0010467 19265 19274	expressed
+T5238	GO_EXT:negative_regulation 19680 19694	down - regulated
+T5239	GO_EXT:negative_regulation 19857 19871	down - regulated
+T5240	GO_EXT:detection_or_sensing_of_stimulus 20187 20194	sensory
+T5241	GO:0065007 20318 20327	regulates
+T5242	GO:0006887 20328 20338	exocytosis
+T5243	GO:0007268 20342 20363	synaptic transmission
+T5244	GO_EXT:biological_routing_or_transport 20390 20401	trafficking
+T5245	GO:0010467 20597 20606	expressed
+T5246	GO:0010467 20635 20645	expression
+T5247	GO:0010467 20779 20789	expression
+T5248	GO:0010467 20867 20877	expression
+T5249	GO:0010467 21444 21454	expression
+T5250	GO:0010467 21514 21524	Expression
+T5251	GO:0000380 21872 21892	alternative splicing
+T5252	GO:0043631 21893 21908	polyadenylation
+T5253	GO:0010467 22059 22069	expression
+T5254	GO:0007567 22171 22180	perinatal
+T5255	GO_EXT:fatality_or_lethality 22181 22190	lethality
+T5256	GO:0010467 22267 22277	expression
+T5257	GO:0010467 22594 22604	expression
+T5258	GO:0010467 23018 23027	expressed
+T5259	GO_EXT:negative_regulation 23712 23727	down - regulating
+T5260	GO:0010467 23743 23753	expression
+T5261	GO:0010467 24360 24370	expression
+T5262	GO_EXT:negative_regulation 24768 24783	down - regulation
+T5263	GO_EXT:transcription 26118 26131	transcription
+T5264	GO_EXT:negative_regulation 27169 27183	down - regulated
+T5265	GO:0007268 27418 27439	synaptic transmission
+T5266	GO_EXT:negative_regulation 27445 27460	down - regulation
+T5267	GO:0010467 27545 27555	expression
+T5268	GO:0007268 27796 27821	serotonergic transmission
+T5269	GO:0010467 27898 27908	expression
+T5270	GO:0007268 28085 28110	serotonergic transmission
+T5271	GO:0051091 28361 28403	up - regulation of serotonergic transmission
+T5272	GO:0010467 28552 28562	expression
+T5273	GO:0010467 28786 28795	expressed
+T5274	GO:0010467 28932 28942	expression
+T5275	GO:0065007 29005 29013	regulate
+T5276	GO:0000380 29014 29034	alternative splicing
+T5277	GO:0008380 29123 29129	splice
+T5278	GO:0006396 29294 29305	RNA editing
+T5279	GO:0006412 29322 29333	translation
+T5280	GO:0016070 29403 29417	RNA metabolism
+T5281	GO:0006412 29463 29474	translation
+T5282	GO:0006396 29710 29724	RNA processing
+T5283	GO_EXT:transcription 29763 29776	transcription
+T5284	GO:0016070 29826 29840	RNA metabolism
+T5285	GO:0010467 30440 30450	expression
+T5286	GO:0007566 30833 30842	implanted
+T5287	GO:0007631 31109 31112	fed
+T5288	GO_EXT:reaction_or_response 31985 31993	response
+T5289	GO_EXT:reaction_or_response 32104 32112	response
+T5290	GO_EXT:biological_routing_or_transport 36134 36142	reverse -
+T5291	GO_EXT:transcription 36142 36155	transcription
+T5292	GO:0001171 36428 36447	reverse transcribed
+T5293	GO:0010467 39090 39100	expression
+T5294	GO:0010467 40608 40618	Expression
+T5295	GO_EXT:negative_regulation 40747 40761	Down - regulated
+T5296	GO_EXT:positive_regulation 40813 40825	up - regulated
+T5297	GO:0010467 41674 41689	Gene Expression
+T5298	GO_SO_EXT:sequence_rearrangement_process 42106 42108	RT

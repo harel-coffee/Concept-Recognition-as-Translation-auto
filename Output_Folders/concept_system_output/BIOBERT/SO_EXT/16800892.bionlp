@@ -1,0 +1,825 @@
+T5778	SO_EXT:0000704 12 16	gene
+T5779	SO_EXT:gene_trap_or_trap_construct 65 74	gene - trap
+T5780	SO_EXT:0000319 75 85	transposon
+T5781	SO_EXT:sequence_alteration_process 121 132	mutagenesis
+T5782	SO_EXT:0000193 149 170	transposable elements
+T5783	SO_EXT:0000704 195 206	geneticists
+T5784	SO_EXT:0000319 335 345	transposon
+T5785	SO_EXT:sequence_insertion_entity_or_process 404 415	insertional
+T5786	SO_EXT:0000319 450 460	transposon
+T5787	SO_EXT:0000440 461 467	vector
+T5788	SO_EXT:0000704 600 605	genes
+T5789	SO_EXT:0000319 631 641	transposon
+T5790	SO_EXT:0000704 718 722	gene
+T5791	SO_EXT:0000704 770 774	gene
+T5792	SO_EXT:0000319 899 909	transposon
+T5793	SO_EXT:gene_trap_or_trap_construct 916 925	gene - trap
+T5794	SO_EXT:0000704 1044 1049	genes
+T5795	SO_EXT:0000167 1096 1104	promoter
+T5796	SO_EXT:gene_trap_or_trap_construct 1130 1139	gene trap
+T5797	SO_EXT:gene_trap_or_trap_construct 1196 1205	gene - trap
+T5798	SO_EXT:0000440 1211 1217	vector
+T5799	SO_EXT:0000319 1238 1251	transposition
+T5800	SO_EXT:sequence_cloned_entity 1268 1274	clones
+T5801	SO_EXT:0000902 1320 1329	transgene
+T5802	SO_EXT:transgenic_entity 1368 1378	transgenic
+T5803	SO_EXT:gene_trap_or_trap_construct 1397 1406	gene - trap
+T5804	SO_EXT:0000440 1411 1418	vectors
+T5805	SO_EXT:0000704 1508 1512	gene
+T5806	SO_EXT:sequence_insertion_entity_or_process 1513 1523	insertions
+T5807	SO_EXT:0000440 1572 1578	vector
+T5808	SO_EXT:gene_trap_or_trap_construct 1619 1628	gene - trap
+T5809	SO_EXT:0000704 1665 1669	gene
+T5810	SO_EXT:0000704 1743 1748	genes
+T5811	SO_EXT:sequence_alteration_process 1893 1901	mutating
+T5812	SO_EXT:0000704 1940 1945	genes
+T5813	SO_EXT:0000440 2049 2055	vector
+T5814	SO_EXT:gene_trap_or_trap_construct 2065 2074	gene - trap
+T5815	SO_EXT:0000704 2127 2132	genes
+T5816	SO_EXT:0000704 2271 2275	gene
+T5817	SO_EXT:0000704 2349 2357	genetics
+T5818	SO_EXT:0000704 2404 2408	gene
+T5819	SO_EXT:biological_sequence 2467 2476	sequences
+T5820	SO_EXT:0000319 2507 2517	transposon
+T5821	SO_EXT:0000193 2578 2599	transposable elements
+T5822	SO_EXT:sequence_insertion_entity_or_process 2680 2691	insertional
+T5823	SO_EXT:0000319 2744 2754	transposon
+T5824	SO_EXT:sequence_alteration_entity_or_process 2838 2847	mutations
+T5825	SO_EXT:sequence_alteration_entity_or_process 2946 2955	mutations
+T5826	SO_EXT:0000704 3004 3009	genes
+T5827	SO_EXT:0000704 3093 3100	genetic
+T5828	SO_EXT:0000704 3149 3156	genetic
+T5829	SO_EXT:0000704 3205 3210	genes
+T5830	SO_EXT:0000704 3307 3312	genes
+T5831	SO_EXT:0000704 3384 3388	gene
+T5832	SO_EXT:0000704 3522 3526	gene
+T5833	SO_EXT:sequence_altered_entity 3541 3547	mutant
+T5834	SO_EXT:gene_product 3592 3604	gene product
+T5835	SO_EXT:0000319 3753 3763	transposon
+T5836	SO_EXT:0000319 3795 3805	transposon
+T5837	SO_EXT:gene_trap_or_trap_construct 3812 3821	gene trap
+T5838	SO_EXT:0000704 3901 3906	genes
+T5839	SO_EXT:0000319 3939 3949	transposon
+T5840	SO_EXT:sequence_insertion_entity_or_process 3972 3983	insertional
+T5841	SO_EXT:sequence_alteration_entity_or_process 3984 3993	mutations
+T5842	SO_EXT:0000704 4031 4036;4037 4040	gene - ...
+T5843	SO_EXT:0000610 4041 4051	polyA - trap
+T5844	SO_EXT:0000318 4052 4070	transposon vectors
+T5845	SO_EXT:0000440 4084 4091	vectors
+T5846	CHEBI_SO_EXT:mRNA 4132 4136	mRNA
+T5847	SO_EXT:coding_sequence 4150 4166	coding sequences
+T5848	SO_EXT:0000704 4293 4298	genes
+T5849	SO_EXT:0000902 4486 4495	transgene
+T5850	SO_EXT:0000167 4526 4534	promoter
+T5851	SO_EXT:0000167 4644 4652	promoter
+T5852	SO_EXT:gene_trap_or_trap_construct 4756 4765	gene - trap
+T5853	SO_EXT:0000319 4766 4776	transposon
+T5854	SO_EXT:0000440 4777 4783	vector
+T5855	SO_EXT:0000667 4793 4799	insert
+T5856	SO_EXT:0000704 4813 4817	gene
+T5857	SO_EXT:gene_trap_or_trap_construct 4932 4941	gene - trap
+T5858	SO_EXT:sequence_alteration_entity_or_process 4951 4957	mutate
+T5859	SO_EXT:0000704 4958 4963	genes
+T5860	SO_EXT:0000902 5087 5097	transgenes
+T5861	SO_EXT:0000319 5222 5232	transposon
+T5862	SO_EXT:transgenic_entity 5342 5352	transgenic
+T5863	SO_EXT:sequence_rescue_process 5367 5373	rescue
+T5864	SO_EXT:sequence_altered_entity 5379 5385	mutant
+T5865	SO_EXT:gene_trap_or_trap_construct 5441 5450	gene - trap
+T5866	SO_EXT:0000319 5468 5478	transposon
+T5867	SO_EXT:gene_trap_or_trap_construct 5485 5494	gene - trap
+T5868	SO_EXT:0000440 5499 5505	vector
+T5869	SO_EXT:gene_trap_or_trap_construct 5571 5580	gene - trap
+T5870	SO_EXT:0000440 5585 5591	vector
+T5871	SO_EXT:0000902 5676 5685	transgene
+T5872	SO_EXT:gene_trap_or_trap_construct 5750 5759	gene - trap
+T5873	SO_EXT:sequence_coding_function 5777 5783	encode
+T5874	SO_EXT:splice_acceptor 5799 5814	splice acceptor
+T5875	SO_EXT:0000243 5854 5883	internal ribosomal entry site
+T5876	SO_EXT:0000243 5885 5889	IRES
+T5877	SO_EXT:coding_sequence 5911 5926	coding sequence
+T5878	SO_EXT:0000551 5972 5994	polyadenylation signal
+T5879	SO_EXT:terminal_inverted_repeat_unit_or_region 6107 6141	inverted terminal repeat sequences
+T5880	SO_EXT:0000319 6174 6187	transposition
+T5881	SO_EXT:0000319 6232 6242	stop codon
+T5882	SO_EXT:biological_sequence 6243 6252	sequences
+T5883	SO_EXT:0000717 6261 6274	reading frame
+T5884	SO_EXT:sequence_upstreamness 6280 6288	upstream
+T5885	SO_EXT:0000243 6296 6300	IRES
+T5886	SO_EXT:0000319 6317 6327	transposon
+T5887	SO_EXT:0000440 6328 6334	vector
+T5888	SO_EXT:sequence_alteration_process 6362 6370	modified
+T5889	SO_EXT:splice_acceptor 6384 6399	splice acceptor
+T5890	SO_EXT:0000704 6454 6458	gene
+T5891	CHEBI_SO_EXT:epitope 6475 6482	epitope
+T5892	CHEBI_SO_EXT:tattyttRNA 6483 6486	tag
+T5893	SO_EXT:0000319 6517 6527	transposon
+T5894	SO_EXT:gene_trap_or_trap_construct 6545 6554	gene trap
+T5895	SO_EXT:0000704 6566 6570	gene
+T5896	SO_EXT:sequence_insertion_entity_or_process 6587 6596	insertion
+T5897	SO_EXT:0000704 6610 6614	gene
+T5898	SO_EXT:0000236 6641 6659	open reading frame
+T5899	SO_EXT:biological_conservation_process_or_quality 6669 6678	conserved
+T5900	SO_EXT:0000147 6714 6718	exon
+T5901	CHEBI_SO_EXT:epitope 6727 6734	epitope
+T5902	SO_EXT:sequence_truncation_process 6757 6766	truncated
+T5903	CHEBI_SO_EXT:peptide_or_peptide_region 6767 6774	peptide
+T5904	SO_EXT:gene_trap_or_trap_construct 6815 6824	gene - trap
+T5905	SO_EXT:0000704 6849 6853	gene
+T5906	SO_EXT:gene_trap_or_trap_construct 6864 6873	gene - trap
+T5907	SO_EXT:0000319 6874 6884	transposon
+T5908	SO_EXT:0000188 6898 6904	intron
+T5909	SO_EXT:0000704 6910 6914	gene
+T5910	SO_EXT:sequence_upstreamness 6951 6959	upstream
+T5911	SO_EXT:0000147 6960 6964	exon
+T5912	SO_EXT:0000243 6985 6989	IRES
+T5913	SO_EXT:0000079 7017 7028	bicistronic
+T5914	SO_EXT:microsatellite_unit_or_region 7029 7042	messenger RNA
+T5915	SO_EXT:0000704 7074 7078	gene
+T5916	CHEBI_SO_EXT:peptide_or_peptide_region 7079 7086	peptide
+T5917	SO_EXT:sequence_truncation_process 7090 7099	truncated
+T5918	SO_EXT:0000319 7114 7125	stop codons
+T5919	SO_EXT:sequence_upstreamness 7144 7152	upstream
+T5920	SO_EXT:0000243 7160 7164	IRES
+T5921	SO_EXT:0000243 7170 7174	IRES
+T5922	SO_EXT:0000236 7245 7263	open reading frame
+T5923	CHEBI_SO_EXT:mRNA 7293 7297	mRNA
+T5924	SO_EXT:0000440 7318 7324	vector
+T5925	SO_EXT:sequence_insertion_entity_or_process 7329 7338	insertion
+T5926	SO_EXT:0000704 7346 7350	gene
+T5927	SO_EXT:sequence_alteration_entity_or_process 7399 7405	mutate
+T5928	SO_EXT:0000704 7410 7414	gene
+T5929	SO_EXT:splice_acceptor 7479 7494	splice acceptor
+T5930	SO_EXT:transgenic_entity 7537 7547	transgenic
+T5931	SO_EXT:gene_trap_or_trap_construct 7592 7601	gene - trap
+T5932	SO_EXT:0000704 7642 7646	gene
+T5933	SO_EXT:0005853 7693 7701	cassette
+T5934	SO_EXT:sequence_cloning_process 7706 7712	cloned
+T5935	SO_EXT:0000440 7744 7750	vector
+T5936	SO_EXT:0000902 7863 7872	transgene
+T5937	SO_EXT:0000440 7931 7937	vector
+T5938	SO_EXT:0000155 7938 7945	plasmid
+T5939	SO_EXT:gene_trap_or_trap_construct 7995 8004	gene - trap
+T5940	SO_EXT:0001026 8049 8055	genome
+T5941	SO_EXT:0005853 8067 8075	cassette
+T5942	SO_EXT:0000440 8151 8157	vector
+T5943	SO_EXT:gene_trap_or_trap_construct 8167 8176	gene - trap
+T5944	SO_EXT:0005853 8181 8189	cassette
+T5945	SO_EXT:0000319 8241 8251	transposon
+T5946	SO_EXT:0000704 8274 8278	gene
+T5947	SO_EXT:sequence_cloned_entity 8386 8391	clone
+T5948	SO_EXT:0000319 8418 8428	transposon
+T5949	SO_EXT:0005853 8469 8477	cassette
+T5950	SO_EXT:splice_acceptor 8491 8506;8506 8507	splice acceptor ...
+T5951	SO_EXT:0000243 8507 8511	IRES
+T5952	SO_EXT:0005853 8516 8524	cassette
+T5953	SO_EXT:transgenic_entity 8635 8645	transgenic
+T5954	SO_EXT:sequence_cloned_entity 8646 8652	clones
+T5955	SO_EXT:sequence_cloned_entity 8931 8937	clones
+T5956	SO_EXT:sequence_cloned_entity 9040 9045	clone
+T5957	SO_EXT:sequence_cloned_entity 9120 9126	clones
+T5958	SO_EXT:sequence_cloned_entity 9175 9180	clone
+T5959	SO_EXT:gene_trap_or_trap_construct 9209 9218	gene trap
+T5960	SO_EXT:sequence_upstreamness 9268 9276	upstream
+T5961	SO_EXT:0000147 9277 9281	exon
+T5962	SO_EXT:0000704 9298 9302	gene
+T5963	SO_EXT:cDNA 9330 9334	cDNA
+T5964	SO_EXT:0000112 9366 9373	primers
+T5965	SO_EXT:gene_trap_or_trap_construct 9390 9399	gene trap
+T5966	CHEBI_SO_EXT:mRNA 9403 9407	mRNA
+T5967	SO_EXT:sequence_cloned_entity 9439 9445	clones
+T5968	SO_EXT:0000673 9475 9488	sequence tags
+T5969	GO_SO_EXT:chromosome 9490 9501	chromosomes
+T5970	SO_EXT:0000704 9506 9510	gene
+T5971	SO_EXT:sequence_cloned_entity 9545 9551	clones
+T5972	SO_EXT:sequence_upstreamness 9570 9578	upstream
+T5973	SO_EXT:0000147 9579 9583	exon
+T5974	SO_EXT:0000704 9591 9595	gene
+T5975	SO_EXT:gene_trap_or_trap_construct 9616 9625	gene - trap
+T5976	SO_EXT:gene_trap_or_trap_construct 9741 9750	gene - trap
+T5977	SO_EXT:0000440 9755 9761	vector
+T5978	SO_EXT:0000704 9790 9794	gene
+T5979	SO_EXT:0000902 9823 9832	transgene
+T5980	SO_EXT:gene_trap_or_trap_construct 9966 9975	gene - trap
+T5981	SO_EXT:transgenic_entity 10082 10092	Transgenic
+T5982	SO_EXT:0000319 10148 10158	transposon
+T5983	SO_EXT:0000440 10159 10166	vectors
+T5984	SO_EXT:0000902 10300 10309	transgene
+T5985	SO_EXT:0001026 10350 10356	genome
+T5986	SO_EXT:sequence_copy_entity 10375 10379	copy
+T5987	SO_EXT:0000902 10389 10399	transgenes
+T5988	GO_SO_EXT:chromosome 10411 10421	chromosome
+T5989	SO_EXT:0000319 10428 10438	transposon
+T5990	SO_EXT:0000902 10439 10448	transgene
+T5991	SO_EXT:gene_trap_or_trap_construct 10588 10597	gene - trap
+T5992	SO_EXT:0000319 10602 10613	transposons
+T5993	SO_EXT:transgenic_entity 10622 10632	transgenic
+T5994	SO_EXT:0000319 10742 10753	transposons
+T5995	SO_EXT:sequence_copy_entity 10799 10805	copies
+T5996	SO_EXT:transgenic_entity 10888 10898	transgenic
+T5997	SO_EXT:0000319 10918 10928	transposon
+T5998	SO_EXT:sequence_copy_entity 10929 10933	copy
+T5999	SO_EXT:sequence_copy_entity 10984 10990	copies
+T6000	SO_EXT:0000319 11024 11035	transposons
+T6001	SO_EXT:transgenic_entity 11058 11068	transgenic
+T6002	SO_EXT:transgenic_entity 11161 11171	transgenic
+T6003	SO_EXT:wild_type_entity_or_quality 11203 11212	wild type
+T6004	SO_EXT:gene_trap_or_trap_construct 11232 11241	gene trap
+T6005	CHEBI_SO_EXT:DNA 11310 11313	DNA
+T6006	SO_EXT:0000319 11413 11423	transposon
+T6007	SO_EXT:sequence_insertion_entity_or_process 11424 11434	insertions
+T6008	SO_EXT:sequence_insertion_entity_or_process 11463 11472	insertion
+T6009	SO_EXT:sequence_copy_entity 11546 11550	copy
+T6010	SO_EXT:0000319 11566 11576	transposon
+T6011	SO_EXT:sequence_copy_entity 11685 11691	copies
+T6012	SO_EXT:0000319 11699 11709	transposon
+T6013	SO_EXT:sequence_copy_entity 11877 11883	copies
+T6014	SO_EXT:sequence_copy_entity 11908 11912	copy
+T6015	SO_EXT:0000319 11984 11995	transposons
+T6016	SO_EXT:transgenic_entity 11999 12009	transgenic
+T6017	SO_EXT:0000319 12024 12035	transposons
+T6018	SO_EXT:sequence_copy_entity 12109 12113	copy
+T6019	SO_EXT:sequence_insertion_entity_or_process 12114 12123	insertion
+T6020	SO_EXT:0001026 12131 12137	genome
+T6021	SO:0000984 12199 12210	single copy
+T6022	SO_EXT:sequence_insertion_entity_or_process 12211 12221	insertions
+T6023	SO_EXT:sequence_insertion_entity_or_process 12223 12232	Insertion
+T6024	SO_EXT:gene_trap_or_trap_construct 12312 12321	gene - trap
+T6025	SO_EXT:sequence_insertion_entity_or_process 12326 12335	insertion
+T6026	SO_EXT:sequence_deletion_process 12445 12452	excised
+T6027	GO_SO_EXT:chromosome 12460 12470	chromosome
+T6028	CHEBI_SO_EXT:DNA 12504 12507	DNA
+T6029	SO_EXT:0000028 12577 12587	base pairs
+T6030	SO_EXT:sequence_insertion_entity_or_process 12655 12665	insertions
+T6031	SO_EXT:transgenic_entity 12711 12721	transgenic
+T6032	SO:0000984 12741 12747	single
+T6033	SO_EXT:0000203 12748 12752	...copy
+T6034	SO_EXT:0000319 12753 12763	transposon
+T6035	SO_EXT:sequence_insertion_entity_or_process 12764 12773	insertion
+T6036	SO_EXT:0000902 12805 12814	transgene
+T6037	SO_EXT:0000319 12838 12851	transposition
+T6038	SO_EXT:sequence_insertion_entity_or_process 12903 12912	insertion
+T6039	SO_EXT:biological_sequence 12935 12944	sequences
+T6040	SO:0000357 12950 12955	flank
+T6041	SO_EXT:0000417 12960 12970	donor site
+T6042	SO_EXT:sequence_insertion_entity_or_process 13046 13055	insertion
+T6043	SO_EXT:0000704 13172 13176	gene
+T6044	SO_EXT:0000704 13207 13211	gene
+T6045	SO_EXT:sequence_rescue_process 13216 13223	rescues
+T6046	SO_EXT:sequence_insertion_entity_or_process 13269 13278	insertion
+T6047	SO_EXT:sequence_copy_entity 13399 13403	copy
+T6048	SO_EXT:sequence_insertion_entity_or_process 13404 13413	insertion
+T6049	SO_EXT:0000346 13480 13490	loxP sites
+T6050	SO_EXT:0000440 13511 13517	vector
+T6051	SO:0000357 13529 13537	flanking
+T6052	SO_EXT:sequence_alteration_process 13542 13551	mutagenic
+T6053	SO_EXT:gene_trap_or_trap_construct 13567 13583	gene - trap vector
+T6054	GO_SO_EXT:sequence_rearrangement_process 13598 13611	recombination
+T6055	SO_EXT:0000203 13763 13767	...copy
+T6056	SO_EXT:sequence_insertion_entity_or_process 13768 13778	insertions
+T6057	SO_EXT:gene_trap_or_trap_construct 13807 13816	gene trap
+T6058	SO_EXT:0000704 13839 13843	gene
+T6059	SO_EXT:sequence_rescue_process 13853 13860	rescued
+T6060	SO_EXT:0000319 14129 14142	transposition
+T6061	SO_EXT:0000902 14239 14248	transgene
+T6062	SO_EXT:normal_or_wild_type_or_present 14264 14267	+/+
+T6063	SO_EXT:0000319 14301 14314	transposition
+T6064	SO_EXT:normal_or_wild_type_or_present 14422 14425	+/-
+T6065	SO_EXT:0000319 14580 14590	transposon
+T6066	SO_EXT:transgenic_entity 14591 14601	transgenic
+T6067	SO_EXT:0000319 14649 14662	transposition
+T6068	SO_EXT:0000704 14772 14776	gene
+T6069	SO_EXT:sequence_insertion_entity_or_process 14777 14786	insertion
+T6070	SO_EXT:0000319 14870 14880	transposon
+T6071	SO_EXT:sequence_insertion_entity_or_process 14881 14891	insertions
+T6072	SO_EXT:sequence_cloning_process 14938 14945	cloning
+T6073	SO_EXT:0000319 14946 14956	transposon
+T6074	SO_EXT:genomic_DNA 14957 14968	genomic DNA
+T6075	SO_EXT:biological_sequence 14978 14987	sequences
+T6076	GO_SO_EXT:chromosome 15022 15043	chromosomal positions
+T6077	SO_EXT:0001026 15169 15175	genome
+T6078	SO_EXT:sequence_alteration_entity_or_process 15259 15268	mutations
+T6079	GO_SO_EXT:chromosome 15299 15309	chromosome
+T6080	SO_EXT:sequence_insertion_entity_or_process 15321 15330	insertion
+T6081	SO_EXT:0000319 15565 15576	transposons
+T6082	SO_EXT:sequence_insertion_entity_or_process 15638 15648	insertions
+T6083	SO_EXT:0001026 15687 15693	genome
+T6084	SO_EXT:sequence_insertion_entity_or_process 15703 15713	insertions
+T6085	SO_EXT:0000704 15726 15731	genes
+T6086	SO_EXT:0000112 15745 15751	primer
+T6087	SO_EXT:0000319 15818 15828	transposon
+T6088	SO_EXT:sequence_insertion_entity_or_process 15829 15838	insertion
+T6089	SO_EXT:gene_trap_or_trap_construct 15898 15907	gene - trap
+T6090	SO_EXT:0000440 15912 15918	vector
+T6091	SO_EXT:0000704 15957 15961	gene
+T6092	SO_EXT:sequence_insertion_entity_or_process 15975 15985	insertions
+T6093	SO_EXT:0000704 16023 16028	genes
+T6094	SO_EXT:gene_trap_or_trap_construct 16106 16115	gene - trap
+T6095	SO_EXT:sequence_insertion_entity_or_process 16130 16139	Insertion
+T6096	SO_EXT:0000188 16172 16178	intron
+T6097	SO_EXT:0000704 16208 16212	gene
+T6098	SO_EXT:sequence_insertion_process 16240 16248	inserted
+T6099	SO_EXT:0000188 16254 16260	intron
+T6100	SO_EXT:0000704 16286 16290	gene
+T6101	CHEBI_SO_EXT:RNA 16431 16434	RNA
+T6102	SO_EXT:wild_type_entity_or_quality 16457 16466	wild type
+T6103	SO_EXT:0000112 16481 16488	primers
+T6104	SO_EXT:0000147 16492 16497	exons
+T6105	SO_EXT:gene_trap_or_trap_construct 16514 16523	gene trap
+T6106	SO_EXT:0000243 16550 16554	IRES
+T6107	SO_EXT:biological_sequence 16563 16572	sequences
+T6108	SO_EXT:sequence_fusion_process 16583 16588	fused
+T6109	SO_EXT:0000147 16592 16596	exon
+T6110	CHEBI_SO_EXT:mRNA 16612 16616	mRNA
+T6111	SO_EXT:0000243 16688 16692	IRES
+T6112	SO_EXT:0000079 16697 16720	bicistronic transcripts
+T6113	CHEBI_SO_EXT:RNA 16724 16727	RNA
+T6114	SO_EXT:sequence_insertion_entity_or_process 16773 16782	insertion
+T6115	SO_EXT:engineered_biological_sequence 16832 16849	fusion transcript
+T6116	SO_EXT:wild_type_entity_or_quality 16881 16890	wild type
+T6117	CHEBI_SO_EXT:mRNA 16919 16923	mRNA
+T6118	SO_EXT:engineered_biological_sequence 16932 16949	fusion transcript
+T6119	CHEBI_SO_EXT:mRNA 16997 17001	mRNA
+T6120	SO_EXT:engineered_biological_sequence 17039 17056	fusion transcript
+T6121	SO_EXT:wild_type_entity_or_quality 17110 17118	wildtype
+T6122	CHEBI_SO_EXT:RNA 17125 17128	RNA
+T6123	SO_EXT:splice_acceptor 17297 17312	splice acceptor
+T6124	SO_EXT:0000704 17361 17365	gene
+T6125	CHEBI_SO_EXT:mRNA 17366 17370	mRNA
+T6126	SO_EXT:sequence_upstreamness 17389 17397	upstream
+T6127	SO_EXT:0000147 17398 17402	exon
+T6128	CHEBI_SO_EXT:RNA 17410 17413	RNA
+T6129	SO_EXT:wild_type_entity_or_quality 17428 17437	wild type
+T6130	SO_EXT:sequence_insertion_entity_or_process 17487 17497	insertions
+T6131	SO_EXT:0000673 17589 17600	transcripts
+T6132	CHEBI_SO_EXT:mRNA 17656 17660	mRNA
+T6133	SO_EXT:sequence_insertion_entity_or_process 17712 17721	insertion
+T6134	SO_EXT:sequence_insertion_entity_or_process 17874 17883	insertion
+T6135	SO_EXT:splice_acceptor 17935 17950	splice acceptor
+T6136	SO_EXT:sequence_altered_entity 18013 18019	mutant
+T6137	CHEBI_SO_EXT:peptide_or_peptide_region 18320 18327	peptide
+T6138	CHEBI_SO_EXT:peptide_or_peptide_region 18530 18537	peptide
+T6139	SO_EXT:0000167 18724 18732	promoter
+T6140	SO_EXT:0000902 18743 18752	transgene
+T6141	SO_EXT:gene_trap_or_trap_construct 18793 18802	gene - trap
+T6142	SO_EXT:0000440 18842 18849	vectors
+T6143	SO_EXT:0000167 18869 18877	promoter
+T6144	SO_EXT:0000902 18888 18897	transgene
+T6145	SO_EXT:transgenic_entity 18943 18945	Tg
+T6146	SO_EXT:transgenic_entity 18974 18984	transgenic
+T6147	SO_EXT:0000902 19016 19025	transgene
+T6148	SO_EXT:transgenic_entity 19252 19254	Tg
+T6149	SO_EXT:transgenic_entity 19274 19284	transgenic
+T6150	SO_EXT:transgenic_entity 19371 19381	transgenic
+T6151	SO_EXT:0000704 19456 19460	gene
+T6152	SO_EXT:sequence_insertion_entity_or_process 19542 19551	Insertion
+T6153	SO_EXT:0000319 19584 19597	transposition
+T6154	SO_EXT:0000319 19648 19659	transposons
+T6155	SO_EXT:0000902 19702 19712	transgenes
+T6156	SO_EXT:sequence_insertion_entity_or_process 19741 19750	insertion
+T6157	SO_EXT:transgenic_entity 19843 19845	Tg
+T6158	SO_EXT:sequence_insertion_entity_or_process 19906 19916	insertions
+T6159	SO_EXT:0000193 19990 20011	transposable elements
+T6160	SO_EXT:sequence_insertion_entity_or_process 20013 20023	Insertions
+T6161	SO_EXT:0000319 20155 20166	transposons
+T6162	SO_EXT:0000319 20187 20197	transposon
+T6163	SO_EXT:transgenic_entity 20198 20208	transgenic
+T6164	SO_EXT:0000704 20244 20248	gene
+T6165	SO_EXT:sequence_insertion_entity_or_process 20249 20259	insertions
+T6166	SO_EXT:transgenic_entity 20280 20282	Tg
+T6167	SO_EXT:transgenic_entity 20487 20489	Tg
+T6168	SO_EXT:transgenic_entity 20509 20519	transgenic
+T6169	SO_EXT:sequence_insertion_entity_or_process 20625 20634	insertion
+T6170	SO_EXT:splice_acceptor 20755 20770	splice acceptor
+T6171	SO_EXT:gene_trap_or_trap_construct 21165 21174	gene - trap
+T6172	SO_EXT:transgenic_entity 21180 21182	Tg
+T6173	SO_EXT:transgenic_entity 21202 21212	transgenic
+T6174	SO_EXT:transgenic_entity 21307 21309	Tg
+T6175	SO_EXT:transgenic_entity 21449 21451	Tg
+T6176	SO_EXT:transgenic_entity 21477 21479	Tg
+T6177	SO_EXT:transgenic_entity 21499 21509	transgenic
+T6178	SO_EXT:transgenic_entity 21675 21677	Tg
+T6179	SO_EXT:sequence_insertion_entity_or_process 21698 21708	insertions
+T6180	SO_EXT:sequence_alteration_process 21882 21899	Membrane - spanning
+T6181	SO_EXT:0000417 21902 21909	domains
+T6182	SO_EXT:gene_trap_or_trap_construct 22124 22133	gene - trap
+T6183	SO_EXT:sequence_insertion_entity_or_process 22138 22148	insertions
+T6184	SO_EXT:0000704 22163 22168	genes
+T6185	SO_EXT:transgenic_entity 22297 22299	Tg
+T6186	SO_EXT:transgenic_entity 22319 22329	transgenic
+T6187	SO_EXT:transgenic_entity 22380 22390	transgenic
+T6188	SO_EXT:transgenic_entity 22406 22408	Tg
+T6189	SO_EXT:0000704 22676 22680	gene
+T6190	SO_EXT:0000147 22699 22704	exons
+T6191	SO_EXT:0001060 22755 22763	isoforms
+T6192	SO_EXT:0000112 22827 22834	primers
+T6193	SO_EXT:0000147 22838 22843	exons
+T6194	SO:0000357 22849 22854	flank
+T6195	SO_EXT:sequence_insertion_entity_or_process 22868 22877	insertion
+T6196	SO_EXT:0000673 22895 22906	transcripts
+T6197	SO_EXT:alternative_splice_variant 22947 22962	splice variants
+T6198	SO_EXT:wild_type_entity_or_quality 23085 23094	wild - type
+T6199	SO_EXT:sequence_insertion_entity_or_process 23134 23143	insertion
+T6200	SO_EXT:0000704 23192 23196	gene
+T6201	SO_EXT:0000243 23298 23302	IRES
+T6202	SO_EXT:0000673 23307 23317	transcript
+T6203	SO_EXT:1001187 23410 23428	spliced transcript
+T6204	SO_EXT:sequence_insertion_entity_or_process 23484 23493	insertion
+T6205	SO_EXT:0000704 23523 23527	gene
+T6206	SO_EXT:sequence_insertion_entity_or_process 23692 23701	insertion
+T6207	SO_EXT:0000417 23751 23761	donor site
+T6208	SO_EXT:sequence_truncation_process 23904 23914;23915 23920	transposon ...
+T6209	SO_EXT:0000162 23921 23928;23929 23945	site on ... chromosome
+T6210	GO_SO_EXT:chromosome 23976 23986	chromosome
+T6211	SO_EXT:0000852 24046 24056	portion of
+T6212	GO_SO_EXT:chromosome 24061 24071	chromosome
+T6213	GO_SO_EXT:chromosome 24124 24134	chromosome
+T6214	SO_EXT:sequence_insertion_entity_or_process 24154 24163	insertion
+T6215	GO_SO_EXT:chromosome 24167 24177	chromosome
+T6216	SO_EXT:0000704 24189 24200	genetically
+T6217	SO_EXT:0000319 24266 24277	transposons
+T6218	SO_EXT:0000694 24306 24317	single - copy
+T6219	SO_EXT:sequence_insertion_entity_or_process 24318 24328	insertions
+T6220	GO_SO_EXT:chromosome 24397 24407	chromosome
+T6221	SO_EXT:sequence_insertion_entity_or_process 24410 24420	insertions
+T6222	SO_EXT:sequence_cloning_process 24428 24435	cloning
+T6223	SO_EXT:biological_sequence 24470 24479	sequences
+T6224	SO_EXT:gene_trap_or_trap_construct 24572 24581	gene - trap
+T6225	SO_EXT:transgenic_entity 24642 24644	Tg
+T6226	SO_EXT:sequence_insertion_entity_or_process 24751 24761	insertions
+T6227	SO_EXT:transgenic_entity 24823 24825	Tg
+T6228	SO_EXT:sequence_insertion_entity_or_process 24933 24942	insertion
+T6229	SO_EXT:0000243 25314 25318	IRES
+T6230	SO_EXT:0000704 25425 25429	gene
+T6231	SO_EXT:gene_trap_or_trap_construct 25535 25544	gene - trap
+T6232	SO_EXT:transgenic_entity 25642 25644	Tg
+T6233	SO_EXT:0000319 25896 25906	transposon
+T6234	CHEBI_SO_EXT:base 25907 25911	base
+T6235	SO_EXT:gene_trap_or_trap_construct 25912 25921	gene trap
+T6236	SO_EXT:0000440 25922 25928	vector
+T6237	SO_EXT:0000704 26014 26019	genes
+T6238	SO_EXT:gene_trap_or_trap_construct 26046 26055	gene - trap
+T6239	SO_EXT:0000667 26127 26133	insert
+T6240	SO_EXT:0000704 26137 26142	genes
+T6241	SO_EXT:0000704 26171 26176	genes
+T6242	SO_EXT:0000902 26264 26273	transgene
+T6243	SO_EXT:gene_trap_or_trap_construct 26331 26340	gene - trap
+T6244	SO_EXT:0000319 26345 26355	transposon
+T6245	SO_EXT:sequence_insertion_entity_or_process 26356 26366	insertions
+T6246	SO_EXT:0000704 26378 26383	genes
+T6247	SO_EXT:0000440 26402 26408	vector
+T6248	SO_EXT:0000704 26465 26469	gene
+T6249	SO_EXT:0000167 26541 26549	promoter
+T6250	SO_EXT:0000902 26560 26569	transgene
+T6251	SO_EXT:0000440 26635 26641	vector
+T6252	SO_EXT:0000319 26838 26848	transposon
+T6253	SO_EXT:0000319 27013 27023	transposon
+T6254	SO_EXT:transgenic_entity 27024 27034	transgenic
+T6255	SO_EXT:sequence_alteration_process 27115 27126	mutagenesis
+T6256	SO_EXT:0001026 27142 27148	genome
+T6257	SO_EXT:0001026 27154 27161	genomic
+T6258	SO_EXT:0000318 27178 27188;27189 27199	transposon ... site
+T6259	SO_EXT:sequence_copy_entity 27212 27216	copy
+T6260	SO_EXT:0001026 27339 27345	genome
+T6261	SO_EXT:0000319 27542 27555	transposition
+T6262	SO_EXT:0000319 27694 27704	transposon
+T6263	SO_EXT:gene_trap_or_trap_construct 27711 27720	gene trap
+T6264	SO_EXT:0000440 27721 27728	vectors
+T6265	SO_EXT:0000704 27785 27790	genes
+T6266	SO_EXT:0000440 27807 27813	vector
+T6267	SO_EXT:0000704 27862 27866	gene
+T6268	SO_EXT:sequence_nullness 27890 27894	null
+T6269	SO_EXT:sequence_alteration_entity_or_process 27895 27903	mutation
+T6270	SO_EXT:0000704 27942 27946	gene
+T6271	SO_EXT:0000704 27956 27960	gene
+T6272	SO_EXT:sequence_insertion_entity_or_process 27961 27971	insertions
+T6273	SO_EXT:0000704 27991 27995	gene
+T6274	SO_EXT:sequence_insertion_entity_or_process 28034 28043	insertion
+T6275	SO_EXT:sequence_alteration_entity_or_process 28096 28105	mutations
+T6276	SO_EXT:0000704 28169 28173	gene
+T6277	SO_EXT:0000440 28239 28246	vectors
+T6278	SO_EXT:splice_acceptor 28248 28264	Splice acceptors
+T6279	SO_EXT:0000704 28288 28293	genes
+T6280	SO_EXT:0000319 28295 28316	termination sequences
+T6281	SO_EXT:0000551 28318 28341	polyadenylation signals
+T6282	SO_EXT:biological_sequence 28364 28373	sequences
+T6283	SO_EXT:0000155 28408 28415	plasmid
+T6284	SO_EXT:0000704 28438 28442	gene
+T6285	SO_EXT:0000440 28548 28555	vectors
+T6286	SO_EXT:0000704 28575 28580	genes
+T6287	SO_EXT:0000440 28601 28608	vectors
+T6288	SO_EXT:0000704 28636 28641	genes
+T6289	SO_EXT:0000243 28782 28786	IRES
+T6290	SO_EXT:gene_trap_or_trap_construct 28794 28803	gene - trap
+T6291	SO_EXT:gene_trap_or_trap_construct 28870 28879	gene trap
+T6292	SO_EXT:0000440 28880 28886	vector
+T6293	SO_EXT:0000243 28971 28975	IRES
+T6294	CHEBI_SO_EXT:nucleotide 28996 29006	nucleotide
+T6295	SO_EXT:0000243 29007 29011	IRES
+T6296	SO_EXT:0000704 29052 29056	gene
+T6297	SO_EXT:0000243 29082 29086	IRES
+T6298	SO_EXT:sequence_insertion_entity_or_process 29254 29263	insertion
+T6299	SO_EXT:0000704 29277 29281	gene
+T6300	SO_EXT:0000704 29409 29413	gene
+T6301	SO_EXT:0000704 29480 29484	gene
+T6302	SO_EXT:gene_trap_or_trap_construct 29510 29519	gene - trap
+T6303	SO_EXT:sequence_insertion_entity_or_process 29584 29594	insertions
+T6304	SO_EXT:sequence_insertion_entity_or_process 29732 29741	insertion
+T6305	SO_EXT:0000319 29773 29784	transposons
+T6306	SO_EXT:sequence_insertion_entity_or_process 29906 29915	insertion
+T6307	GO_SO_EXT:chromosome 29957 29967	chromosome
+T6308	SO_EXT:sequence_copy_entity 29991 29995	copy
+T6309	SO_EXT:0001026 30081 30088	genomic
+T6310	GO_SO_EXT:sequence_rearrangement_entity_or_process 30089 30103	rearrangements
+T6311	SO_EXT:0000319 30120 30133	transposition
+T6312	GO_SO_EXT:chromosome 30143 30153	chromosome
+T6313	CHEBI_SO_EXT:base 30154 30156	...
+T6314	SO_EXT:gene_trap_or_trap_construct 30257 30266	gene - trap
+T6315	SO_EXT:sequence_downstreamness 30458 30463	donor
+T6316	SO_EXT:sequence_insertion_entity_or_process 30469 30479	insertions
+T6317	SO_EXT:sequence_insertion_entity_or_process 30537 30547	insertions
+T6318	SO_EXT:0000319 30585 30596	transposons
+T6319	SO_EXT:0000319 30772 30783	transposons
+T6320	SO_EXT:sequence_linearization 30853 30863	linearized
+T6321	SO_EXT:0000155 30864 30871	plasmid
+T6322	SO_EXT:gene_trap_or_trap_construct 30886 30895	gene - trap
+T6323	SO_EXT:microsatellite_unit_or_region 30956 30969	messenger RNA
+T6324	CHEBI_SO_EXT:mRNA 31040 31044	mRNA
+T6325	SO_EXT:0001026 31112 31118	genome
+T6326	CHEBI_SO_EXT:DNA 31206 31209	DNA
+T6327	SO_EXT:transgenic_entity 31236 31246	transgenic
+T6328	SO_EXT:sequence_insertion_entity_or_process 31257 31267	insertions
+T6329	SO_EXT:0001026 31300 31306	genome
+T6330	SO_EXT:sequence_insertion_entity_or_process 31455 31465	insertions
+T6331	SO_EXT:0000165 31512 31520	enhancer
+T6332	SO_EXT:0000704 31610 31615	genes
+T6333	SO_EXT:transgenic_entity 31747 31757	transgenic
+T6334	SO_EXT:0000165 31832 31840	enhancer
+T6335	SO_EXT:0000167 31841 31849	promoter
+T6336	SO_EXT:gene_trap_or_trap_construct 31880 31889	gene - trap
+T6337	SO_EXT:gene_trap_or_trap_construct 32029 32038	gene trap
+T6338	SO_EXT:sequence_insertion_entity_or_process 32039 32049	insertions
+T6339	SO_EXT:0000902 32201 32211	transgenes
+T6340	SO_EXT:gene_trap_or_trap_construct 32331 32340	gene - trap
+T6341	SO_EXT:0000319 32345 32355	transposon
+T6342	SO_EXT:gene_trap_or_trap_construct 32512 32521	gene - trap
+T6343	SO_EXT:0000440 32526 32532	vector
+T6344	SO_EXT:0000704 32544 32549	genes
+T6345	SO_EXT:0000704 32649 32656	genetic
+T6346	SO_EXT:0000167 32682 32691	promoters
+T6347	SO:0001031 32757 32764	reverse
+T6348	SO_EXT:transgenic_entity 32808 32818	transgenic
+T6349	SO_EXT:0000704 32883 32887	gene
+T6350	SO_EXT:0000704 32991 32995	gene
+T6351	SO_EXT:0000319 33080 33090	transposon
+T6352	SO_EXT:0000440 33091 33097	vector
+T6353	SO_EXT:0001026 33214 33220	genome
+T6354	SO_EXT:gene_trap_or_trap_construct 33247 33256	gene - trap
+T6355	SO_EXT:0000902 33329 33338	transgene
+T6356	SO_EXT:engineered_biological_sequence 33339 33348	construct
+T6357	SO_EXT:0000704 33414 33418	gene
+T6358	SO_EXT:0000902 33526 33536	transgenes
+T6359	SO_EXT:sequence_cloning_process 33548 33555	Cloning
+T6360	SO_EXT:gene_trap_or_trap_construct 33556 33565	gene - trap
+T6361	SO_EXT:0000319 33570 33580	transposon
+T6362	SO_EXT:0000440 33581 33588	vectors
+T6363	SO_EXT:0000112 33594 33600	primer
+T6364	CHEBI_SO_EXT:oligonucleotide 33601 33606	oligo
+T6365	SO_EXT:biological_sequence 33607 33616	sequences
+T6366	SO_EXT:sequence_cloning_process 33629 33636	cloning
+T6367	SO_EXT:gene_trap_or_trap_construct 33676 33685	gene - trap
+T6368	SO_EXT:0000440 33690 33697	vectors
+T6369	SO_EXT:0000147 33788 33792	exon
+T6370	SO_EXT:0000147 33816 33820	exon
+T6371	SO_EXT:0000319 33830 33841	stop codons
+T6372	SO_EXT:0000717 33850 33863	reading frame
+T6373	CHEBI_SO_EXT:oligonucleotide 33895 33901	oligos
+T6374	SO_EXT:0000730 33934 33938	gaps
+T6375	CHEBI_SO_EXT:DNA 33951 33954	DNA
+T6376	CHEBI_SO_EXT:DNA 33984 33987	DNA
+T6377	SO_EXT:0000155 34616 34623	plasmid
+T6378	SO_EXT:0000112 34629 34636	primers
+T6379	SO_EXT:0000028 34670 34672	bp
+T6380	SO_EXT:biological_sequence 34706 34714	sequence
+T6381	SO_EXT:0000155 34756 34763	plasmid
+T6382	GO_SO_EXT:sequence_rearrangement_process 34778 34791	recombination
+T6383	SO_EXT:0000155 34835 34842	plasmid
+T6384	SO_EXT:0000346 34863 34872	loxP site
+T6385	CHEBI_SO_EXT:oligonucleotide 34899 34905	oligos
+T6386	SO_EXT:0000028 34942 34944	bp
+T6387	SO_EXT:0000346 34945 34958	loxP sequence
+T6388	CHEBI_SO_EXT:base 34978 34982	base
+T6389	SO_EXT:sequence_cloning_process 35009 35015	cloned
+T6390	SO_EXT:0000346 35109 35122	loxP sequence
+T6391	SO_EXT:0000346 35143 35147	loxP
+T6392	SO_EXT:0000346 35187 35191	loxP
+T6393	SO_EXT:0000319 35236 35246	transposon
+T6394	SO_EXT:0000440 35247 35253	vector
+T6395	SO_EXT:sequence_cloning_process 35283 35290	cloning
+T6396	SO_EXT:0000346 35319 35323	loxP
+T6397	CHEBI_SO_EXT:oligonucleotide 35334 35340	oligos
+T6398	SO_EXT:splice_acceptor 35383 35398	splice acceptor
+T6399	CHEBI_SO_EXT:epitope 35406 35413	epitope
+T6400	CHEBI_SO_EXT:tattyttRNA 35414 35417	tag
+T6401	SO_EXT:sequence_cloning_process 35462 35468	cloned
+T6402	SO_EXT:0000346 35503 35507	loxP
+T6403	SO_EXT:0000346 35530 35534	loxp
+T6404	SO_EXT:0000028 35632 35634	bp
+T6405	SO_EXT:0000141 35635 35671	transcriptional termination sequence
+T6406	SO_EXT:0000704 35695 35699	gene
+T6407	CHEBI_SO_EXT:oligonucleotide 35727 35733	oligos
+T6408	SO_EXT:sequence_cloning_process 35762 35768	cloned
+T6409	SO_EXT:0000346 35804 35808	loxp
+T6410	SO_EXT:0000346 35835 35839	loxp
+T6411	SO_EXT:biological_sequence 35859 35867	sequence
+T6412	GO_SO_EXT:transcriptional_stop_entity_or_process 35889 35904	transcriptional
+T6413	SO_EXT:0000755 35920 35935	plasmid vectors
+T6414	SO_EXT:sequence_downstreamness 35941 35951	downstream
+T6415	SO_EXT:0000551 35955 35978	polyadenylation signals
+T6416	CHEBI_SO_EXT:mRNA 36029 36033	mRNA
+T6417	SO_EXT:sequence_truncation_entity_or_process 36034 36044	truncation
+T6418	SO_EXT:sequence_alteration_entity_or_process 36055 36063	mutation
+T6419	SO_EXT:gene_trap_or_trap_construct 36072 36081	gene trap
+T6420	SO_EXT:0000346 36101 36110	loxP site
+T6421	CHEBI_SO_EXT:oligonucleotide 36142 36148	oligos
+T6422	SO_EXT:0000346 36202 36206	loxp
+T6423	SO_EXT:gene_trap_or_trap_construct 36318 36327	gene trap
+T6424	SO_EXT:0000155 36425 36432	plasmid
+T6425	SO_EXT:sequence_cloned_entity 36574 36580	clones
+T6426	SO_EXT:sequence_cloned_entity 36600 36606	clones
+T6427	SO_EXT:sequence_cloned_entity 36679 36684	clone
+T6428	SO_EXT:sequence_cloned_entity 36974 36980	clones
+T6429	SO_EXT:sequence_cloned_entity 37067 37073	clones
+T6430	SO_EXT:sequence_cloned_entity 37093 37099	clones
+T6431	SO_EXT:sequence_cloned_entity 37676 37682	clones
+T6432	SO_EXT:cDNA 37737 37741	cDNA
+T6433	SO_EXT:0000112 37759 37765	primer
+T6434	CHEBI_SO_EXT:oligonucleotide 37766 37771	oligo
+T6435	SO_EXT:biological_sequence 37772 37781	sequences
+T6436	CHEBI_SO_EXT:RNA 37831 37834	RNA
+T6437	CHEBI_SO_EXT:RNA 38192 38195	RNA
+T6438	CHEBI_SO_EXT:RNA 38218 38221	RNA
+T6439	SO_EXT:0000112 38250 38257	primers
+T6440	SO_EXT:0000112 38683 38690	primers
+T6441	CHEBI_SO_EXT:DNA 38793 38796	DNA
+T6442	SO_EXT:0000112 39181 39187	primer
+T6443	SO_EXT:0000028 39347 39349	bp
+T6444	SO_EXT:0000028 39397 39399	bp
+T6445	SO_EXT:0000155 39729 39736	plasmid
+T6446	SO_EXT:0001080 39779 39787	minigene
+T6447	SO_EXT:engineered_biological_sequence 39788 39797	construct
+T6448	SO_EXT:0000319 39894 39904	transposon
+T6449	SO_EXT:0001080 39916 39924	minigene
+T6450	SO_EXT:transgenic_entity 39925 39935	transgenic
+T6451	SO_EXT:sequence_insertion_entity_or_process 39936 39945	insertion
+T6452	SO_EXT:transgenic_entity 40079 40089	transgenic
+T6453	SO_EXT:0001023 40201 40206	label
+T6454	SO_EXT:0000155 40223 40230	plasmid
+T6455	SO_EXT:0000153 40240 40243	BAC
+T6456	CHEBI_SO_EXT:DNA 40244 40247	DNA
+T6457	CHEBI_SO_EXT:molecular_probe 40309 40314	probe
+T6458	SO_EXT:genomic_DNA 40390 40401	genomic DNA
+T6459	SO_EXT:0000028 40457 40459	bp
+T6460	SO_EXT:0000236 40491 40509	open reading frame
+T6461	CHEBI_SO_EXT:molecular_probe 40515 40520	probe
+T6462	SO_EXT:sequence_copy_entity 40543 40547	copy
+T6463	SO_EXT:0000028 40616 40618	bp
+T6464	SO_EXT:0000028 40627 40629	bp
+T6465	SO_EXT:0001026 40705 40712	genomic
+T6466	SO_EXT:0001026 40837 40844	genomic
+T6467	SO_EXT:transgenic_entity 41482 41492	Transgenic
+T6468	SO_EXT:0000440 42005 42011	vector
+T6469	SO_EXT:gene_trap_or_trap_construct 42050 42059	gene - trap
+T6470	SO_EXT:0000902 42080 42090	transgenes
+T6471	SO_EXT:transgenic_entity 42125 42135	transgenic
+T6472	SO_EXT:sequence_rescue_process 42322 42328	rescue
+T6473	SO_EXT:sequence_insertion_entity_or_process 42352 42361	insertion
+T6474	SO_EXT:gene_trap_or_trap_construct 42415 42424	gene - trap
+T6475	SO_EXT:sequence_insertion_entity_or_process 42429 42439	insertions
+T6476	SO_EXT:transgenic_entity 42443 42453	transgenic
+T6477	SO_EXT:gene_trap_or_trap_construct 42488 42497	gene - trap
+T6478	SO_EXT:sequence_cloned_entity 42765 42770	clone
+T6479	SO_EXT:biological_sequence 42778 42786	sequence
+T6480	SO_EXT:0000704 42791 42795	gene
+T6481	SO_EXT:0000704 42830 42835	genes
+T6482	SO_EXT:gene_trap_or_trap_construct 42845 42854	gene - trap
+T6483	SO_EXT:sequence_cloned_entity 42915 42921	clones
+T6484	SO_EXT:0000852 42927 42947	partial sequence tag
+T6485	SO_EXT:splice_acceptor 43019 43034	splice acceptor
+T6486	SO_EXT:0000704 43075 43079	gene
+T6487	SO_EXT:biological_sequence 43087 43095	sequence
+T6488	SO_EXT:0000147 43123 43127	exon
+T6489	SO_EXT:biological_sequence 43128 43136	sequence
+T6490	SO_EXT:0000704 43144 43149	genes
+T6491	SO_EXT:sequence_insertion_entity_or_process 43313 43323	insertions
+T6492	SO_EXT:0001026 43328 43335	genomic
+T6493	SO_EXT:sequence_insertion_entity_or_process 43367 43377	insertions
+T6494	GO_SO_EXT:chromosome 43472 43482	chromosome
+T6495	SO_EXT:0000704 43565 43570	genes
+T6496	SO_EXT:sequence_insertion_entity_or_process 43602 43611	insertion
+T6497	SO_EXT:sequence_insertion_entity_or_process 43764 43774	insertions
+T6498	SO_EXT:sequence_cloning_process 43775 43782	Cloning
+T6499	SO_EXT:sequence_insertion_entity_or_process 43783 43793	insertions
+T6500	SO_EXT:transgenic_entity 43827 43837	transgenic
+T6501	GO_SO_EXT:chromosome 43908 43918	chromosome
+T6502	CHEBI_SO_EXT:methionine 43931 43933	Mb
+T6503	GO_SO_EXT:chromosome 43957 43967	chromosome
+T6504	CHEBI_SO_EXT:methionine 43982 43984	Mb
+T6505	SO_EXT:transgenesis 44149 44161	transgenesis
+T6506	SO_EXT:0000112 44220 44226	Primer
+T6507	SO_EXT:biological_sequence 44227 44236	sequences
+T6508	SO_EXT:sequence_truncation_entity_or_process 44459 44469	Transposon
+T6509	SO_EXT:gene_trap_or_trap_construct 44705 44714	Gene - trap
+T6510	SO_EXT:0000440 44719 44725	vector
+T6511	SO_EXT:0000440 44788 44795	vectors
+T6512	SO_EXT:sequence_alteration_process 44829 44837	mutating
+T6513	SO_EXT:0000704 44838 44843	genes
+T6514	SO_EXT:sequence_alteration_entity_or_process 44891 44897	mutate
+T6515	SO_EXT:0000704 44898 44903	genes
+T6516	SO_EXT:sequence_insertion_entity_or_process 44930 44939	insertion
+T6517	SO_EXT:0000704 44947 44951	gene
+T6518	SO_EXT:0000319 45035 45045	transposon
+T6519	SO_EXT:gene_trap_or_trap_construct 45052 45061	gene - trap
+T6520	SO_EXT:0000440 45062 45068	vector
+T6521	SO_EXT:0000667 45069 45076	inserts
+T6522	SO_EXT:0000704 45084 45088	gene
+T6523	SO_EXT:0000243 45169 45173	IRES
+T6524	SO_EXT:biological_sequence 45182 45191	sequences
+T6525	SO_EXT:0000079 45200 45211	bicistronic
+T6526	CHEBI_SO_EXT:mRNA 45212 45216	mRNA
+T6527	SO_EXT:sequence_truncation_process 45232 45241	truncated
+T6528	SO_EXT:0000553 45259 45279	polyadenylation site
+T6529	SO_EXT:0000079 45285 45296	bicistronic
+T6530	CHEBI_SO_EXT:mRNA 45297 45301	mRNA
+T6531	CHEBI_SO_EXT:peptide_or_peptide_region 45376 45383	peptide
+T6532	SO_EXT:sequence_coding_function 45384 45391	encoded
+T6533	SO_EXT:sequence_upstreamness 45395 45403	upstream
+T6534	SO_EXT:0000147 45404 45409	exons
+T6535	SO_EXT:0000319 45500 45510	transposon
+T6536	SO_EXT:0000440 45511 45517	vector
+T6537	SO_EXT:0000155 45548 45555	plasmid
+T6538	SO_EXT:sequence_cloned_entity 45585 45591	clones
+T6539	SO_EXT:sequence_cloned_entity 45685 45690	clone
+T6540	SO_EXT:gene_trap_or_trap_construct 45747 45756	gene - trap
+T6541	SO_EXT:sequence_cloned_entity 45761 45767	clones
+T6542	SO_EXT:sequence_cloned_entity 45799 45805	clones
+T6543	SO_EXT:sequence_rescue_process 45942 45948	rescue
+T6544	SO_EXT:0000319 46012 46022	transposon
+T6545	SO_EXT:sequence_insertion_entity_or_process 46023 46032	insertion
+T6546	SO_EXT:0000704 46069 46073	gene
+T6547	SO:0000984 46146 46152	single
+T6548	SO_EXT:0000203 46153 46157	...copy
+T6549	SO_EXT:0000319 46158 46168	transposon
+T6550	SO_EXT:sequence_insertion_entity_or_process 46169 46178	insertion
+T6551	SO_EXT:0000203 46256 46260	...copy
+T6552	SO_EXT:sequence_insertion_entity_or_process 46313 46323	insertions
+T6553	SO_EXT:0000319 46425 46435	transposon
+T6554	SO_EXT:gene_trap_or_trap_construct 46519 46528	gene - trap
+T6555	SO_EXT:sequence_insertion_entity_or_process 46545 46555	Insertions
+T6556	SO_EXT:0000704 46584 46588	gene
+T6557	SO_EXT:sequence_insertion_entity_or_process 46593 46602	insertion
+T6558	SO_EXT:0000704 46644 46648	gene
+T6559	SO_EXT:0000704 46650 46655	Genes
+T6560	SO_EXT:0000147 46741 46746	exons
+T6561	SO_EXT:sequence_insertion_entity_or_process 46806 46815	insertion
+T6562	SO_EXT:0000243 46871 46875	IRES
+T6563	SO_EXT:wild_type_entity_or_quality 46915 46924	wild type
+T6564	SO_EXT:0000704 47090 47094	gene
+T6565	SO_EXT:wild_type_entity_or_quality 47122 47131	wild type
+T6566	SO_EXT:sequence_deletion_process 47132 47138	(+/+),
+T6567	SO_EXT:0000188 47152 47155	(+/
+T6568	SO_EXT:0000188 47177 47180	ins
+T6569	SO_EXT:0000188 47181 47184	ins
+T6570	SO_EXT:sequence_insertion_entity_or_process 47198 47208	insertions
+T6571	SO_EXT:wild_type_entity_or_quality 47278 47287	wild type
+T6572	SO_EXT:sequence_insertion_entity_or_process 47328 47337	insertion
+T6573	SO_EXT:0001060 47397 47405	isoforms
+T6574	SO_EXT:0000704 47469 47473	gene
+T6575	SO_EXT:0000902 47537 47546	transgene
+T6576	SO_EXT:sequence_insertion_entity_or_process 47570 47580	insertions
+T6577	SO_EXT:0000704 47592 47597	genes
+T6578	SO_EXT:0000704 47641 47646	genes
+T6579	SO_EXT:0000147 47716 47721	exons
+T6580	SO_EXT:0000243 47784 47788	IRES
+T6581	SO_EXT:0005853 47802 47810	cassette
+T6582	SO_EXT:transgenic_entity 47905 47907	Tg
+T6583	SO_EXT:transgenic_entity 47927 47937	transgenic
+T6584	SO_EXT:transgenic_entity 47950 47952	Tg
+T6585	SO_EXT:gene_trap_or_trap_construct 48001 48010	gene - trap
+T6586	SO_EXT:0000902 48045 48054	transgene
+T6587	SO_EXT:transgenic_entity 48107 48109	Tg
+T6588	SO_EXT:transgenic_entity 48129 48139	transgenic
+T6589	SO_EXT:0000417 48714 48724	donor site
+T6590	SO_EXT:0000028 48781 48791	base pairs
+T6591	SO_EXT:sequence_insertion_entity_or_process 48822 48831	insertion
+T6592	SO_EXT:0000112 48850 48856	primer
+T6593	SO_EXT:sequence_insertion_entity_or_process 48931 48940	insertion
+T6594	SO_EXT:gene_trap_or_trap_construct 49299 49308	gene - trap
+T6595	SO_EXT:0000319 49313 49324	transposons
+T6596	SO_EXT:sequence_truncation_entity_or_process 49359 49369	Transposon
+T6597	SO_EXT:sequence_copy_entity 49370 49374	copy
+T6598	SO_EXT:transgenic_entity 49391 49401	transgenic
+T6599	SO:0000984 49484 49490	single
+T6600	SO_EXT:0000203 49491 49495	...copy
+T6601	SO_EXT:sequence_insertion_entity_or_process 49496 49506	insertions
+T6602	SO_EXT:sequence_copy_entity 49686 49690	copy

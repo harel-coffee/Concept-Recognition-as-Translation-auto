@@ -1,0 +1,365 @@
+T443	CHEBI_SO_EXT:tyrosine 269 277	tyrosine
+T444	SO_EXT:0001023 435 442	allelic
+T445	CHEBI_SO_EXT:tyrosine 453 461	tyrosine
+T446	CHEBI_SO_EXT:phenylalanine 462 475	phenylalanine
+T447	SO_EXT:sequence_alteration_entity_or_process 476 485	mutations
+T448	CHEBI_SO_EXT:tyrosine 1319 1327	tyrosine
+T449	SO_EXT:point_mutation_entity_or_process 2283 2298	point mutations
+T450	SO_EXT:0000417 2314 2321	domains
+T451	SO_EXT:sequence_altered_entity 2805 2812	mutants
+T452	CHEBI_SO_EXT:tyrosine 3437 3445	tyrosine
+T453	CHEBI_SO_EXT:tyrosine 3477 3486	tyrosines
+T454	SO_EXT:0000409 3494 3507	binding sites
+T455	SO_EXT:0000417 3516 3522	domain
+T456	SO_EXT:0000704 3803 3807	gene
+T457	SO_EXT:0000417 3909 3915	domain
+T458	SO_EXT:sequence_nullness 4887 4891	null
+T459	SO_EXT:0001023 4892 4898	allele
+T460	SO_EXT:0000409 5864 5877	binding sites
+T461	SO_EXT:0000417 5908 5914	domain
+T462	SO_EXT:sequence_altered_entity 6023 6030	mutants
+T463	SO_EXT:0001023 6237 6244	allelic
+T464	SO_EXT:sequence_alteration_entity_or_process 6336 6345	mutations
+T465	CHEBI_SO_EXT:tyrosine 6374 6382	tyrosine
+T466	SO_EXT:0001023 6762 6769	Allelic
+T467	SO_EXT:0001023 7141 7148	allelic
+T468	SO_EXT:sequence_altered_entity 7166 7173	mutants
+T469	SO_EXT:sequence_alteration_entity_or_process 7200 7209	mutations
+T470	SO_EXT:sequence_alteration_entity_or_process 7308 7317	mutations
+T471	SO_EXT:sequence_altered_entity 7324 7330	mutant
+T472	CHEBI_SO_EXT:tyrosine 7368 7377	tyrosines
+T473	SO_EXT:sequence_alteration_process 7397 7404	mutated
+T474	SO_EXT:sequence_alteration_entity_or_process 7423 7431	mutation
+T475	SO_EXT:0000409 7446 7458	binding site
+T476	SO_EXT:sequence_altered_entity 7487 7493	mutant
+T477	SO_EXT:sequence_truncation_entity_or_process 7499 7509	truncation
+T478	SO_EXT:sequence_alteration_entity_or_process 7510 7518	mutation
+T479	GO_SO_EXT:frameshift_entity_or_process 7575 7585	frameshift
+T480	SO_EXT:0001587 7601 7621	premature stop codon
+T481	SO_EXT:sequence_downstreamness 7622 7632	downstream
+T482	SO_EXT:0000409 7647 7659	binding site
+T483	SO_EXT:sequence_altered_entity 7744 7751	mutants
+T484	SO_EXT:sequence_alteration_entity_or_process 7793 7802	mutations
+T485	GO_SO_EXT:frameshift_entity_or_process 7846 7856	frameshift
+T486	SO_EXT:sequence_alteration_entity_or_process 7857 7866	mutations
+T487	SO_EXT:0001644 7879 7895	targeting vector
+T488	SO_EXT:sequence_alteration_entity_or_process 7916 7924	mutation
+T489	SO_EXT:sequence_alteration_entity_or_process 8063 8072	mutations
+T490	SO_EXT:0001023 8085 8091	allele
+T491	SO_EXT:sequence_altered_entity 8168 8174	mutant
+T492	SO_EXT:sequence_truncation_entity_or_process 8230 8240	truncation
+T493	SO_EXT:0001023 8241 8247	allele
+T494	SO_EXT:0000417 8295 8301	domain
+T495	SO_EXT:0000409 8326 8339	binding sites
+T496	SO_EXT:sequence_alteration_entity_or_process 8360 8368	mutation
+T497	CHEBI_SO_EXT:DNA 8459 8462	DNA
+T498	SO_EXT:0001023 8596 8602	allele
+T499	SO_EXT:sequence_nullness 8668 8672	null
+T500	SO_EXT:transgenic_entity 9294 9304	transgenic
+T501	SO_EXT:sequence_alteration_process 9305 9311	marker
+T502	SO_EXT:sequence_altered_entity 9330 9336	mutant
+T503	SO_EXT:transgenic_entity 9354 9364	transgenic
+T504	SO_EXT:sequence_alteration_process 9555 9561	marker
+T505	SO_EXT:0001023 9773 9780	alleles
+T506	SO_EXT:sequence_alteration_entity_or_process 9946 9955	mutations
+T507	SO_EXT:sequence_alteration_entity_or_process 10337 10339	/−
+T508	SO_EXT:sequence_nullness 10595 10599	null
+T509	SO_EXT:0000167 11402 11410	promoter
+T510	SO_EXT:sequence_altered_entity 11447 11453	mutant
+T511	SO_EXT:0001021 11616 11623	markers
+T512	SO_EXT:0000902 11701 11710	transgene
+T513	SO_EXT:0001021 11787 11794	markers
+T514	SO_EXT:0001021 11863 11870	markers
+T515	SO_EXT:sequence_altered_entity 12374 12380	mutant
+T516	SO_EXT:wild_type_entity_or_quality 12630 12634	wild
+T517	SO_EXT:sequence_transposition_entity_or_process 12634 12639	- type
+T518	SO_EXT:sequence_altered_entity 12644 12650	mutant
+T519	SO_EXT:sequence_alteration_process 12677 12683	marker
+T520	SO_EXT:wild_type_entity_or_quality 12842 12851	wild - type
+T521	SO_EXT:wild_type_entity_or_quality 13031 13040	wild - type
+T522	SO_EXT:sequence_altered_entity 13078 13084	mutant
+T523	SO_EXT:0000243 13095 13099	/−).
+T524	SO_EXT:sequence_altered_entity 13144 13150	mutant
+T525	SO_EXT:sequence_alteration_process 13178 13184	marker
+T526	SO_EXT:sequence_altered_entity 13244 13250	mutant
+T527	SO_EXT:wild_type_entity_or_quality 13287 13296	wild - type
+T528	SO_EXT:sequence_altered_entity 13981 13987	mutant
+T529	SO_EXT:sequence_altered_entity 14054 14061	mutants
+T530	SO_EXT:sequence_altered_entity 14088 14095	mutants
+T531	SO_EXT:sequence_alteration_entity_or_process 14135 14143	mutation
+T532	SO_EXT:wild_type_entity_or_quality 14213 14222	wild - type
+T533	SO_EXT:sequence_altered_entity 14417 14423	mutant
+T534	SO_EXT:sequence_altered_entity 14588 14595	mutants
+T535	SO_EXT:0001023 14790 14796	allele
+T536	SO_EXT:sequence_nullness 15558 15562	null
+T537	SO_EXT:0001023 15563 15569	allele
+T538	SO_EXT:sequence_altered_entity 15577 15583	mutant
+T539	SO_EXT:wild_type_entity_or_quality 15732 15741	wild - type
+T540	SO_EXT:normal_or_wild_type_or_present 15781 15784	+/−
+T541	SO_EXT:microsatellite_unit_or_region 15848 15861	messenger RNA
+T542	SO_EXT:sequence_alteration_entity_or_process 16064 16066	/−
+T543	SO_EXT:sequence_nullness 16130 16134	null
+T544	SO_EXT:sequence_alteration_entity_or_process 16151 16153	/−
+T545	SO_EXT:null_sequence_entity 16190 16195	nulls
+T546	SO_EXT:0001023 16395 16402	alleles
+T547	SO_EXT:0001023 16447 16453	allele
+T548	SO_EXT:wild_type_entity_or_quality 16688 16697	wild - type
+T549	SO_EXT:sequence_alteration_entity_or_process 16748 16750	/−
+T550	SO_EXT:wild_type_entity_or_quality 16791 16800	wild - type
+T551	SO_EXT:sequence_nullness 17448 17452	null
+T552	SO_EXT:0001023 17453 17459	allele
+T553	SO_EXT:0001023 17477 17483	allele
+T554	SO_EXT:sequence_altered_entity 17677 17684	mutants
+T555	SO_EXT:sequence_altered_entity 17755 17761	mutant
+T556	SO_EXT:0001023 18057 18064	alleles
+T557	SO_EXT:wild_type_entity_or_quality 18121 18130	wild - type
+T558	SO_EXT:0001023 18147 18154	alleles
+T559	SO_EXT:0000902 18367 18376	transgene
+T560	SO_EXT:sequence_altered_entity 18566 18572	mutant
+T561	SO_EXT:0001023 18573 18580	alleles
+T562	SO_EXT:wild_type_entity_or_quality 18608 18617	wild - type
+T563	SO_EXT:normal_or_wild_type_or_present 18777 18781	+/−,
+T564	SO_EXT:sequence_alteration_entity_or_process 18798 18801	/−,
+T565	SO_EXT:sequence_alteration_entity_or_process 18808 18810	/−
+T566	SO_EXT:sequence_altered_entity 18811 18817	mutant
+T567	SO_EXT:wild_type_entity_or_quality 18867 18876	wild - type
+T568	SO_EXT:wild_type_entity_or_quality 19120 19129	wild - type
+T569	SO_EXT:sequence_altered_entity 19251 19257	mutant
+T570	SO_EXT:0001023 19258 19265	alleles
+T571	SO_EXT:sequence_alteration_entity_or_process 19379 19381	/−
+T572	SO_EXT:sequence_alteration_entity_or_process 19388 19390	/−
+T573	SO_EXT:sequence_alteration_process 19575 19577	/+
+T574	SO_EXT:sequence_altered_entity 19744 19750	mutant
+T575	SO_EXT:0001023 19751 19758	alleles
+T576	SO_EXT:0000417 20147 20153	domain
+T577	SO_EXT:sequence_truncation_entity_or_process 20302 20312	truncation
+T578	SO_EXT:sequence_alteration_entity_or_process 20313 20321	mutation
+T579	SO_EXT:sequence_rescue_process 20343 20349	rescue
+T580	SO_EXT:sequence_altered_entity 20383 20389	mutant
+T581	SO_EXT:0001023 20390 20396	allele
+T582	SO_EXT:0000417 20472 20478	domain
+T583	SO_EXT:0000409 20498 20511	binding sites
+T584	SO_EXT:sequence_altered_entity 20626 20632	mutant
+T585	SO_EXT:sequence_altered_entity 20818 20824	mutant
+T586	SO_EXT:sequence_alteration_entity_or_process 20898 20907	mutations
+T587	CHEBI_SO_EXT:tyrosine 21348 21356	tyrosine
+T588	SO_EXT:sequence_alteration_process 21529 21536	mutated
+T589	CHEBI_SO_EXT:tyrosine 21553 21562	tyrosines
+T590	SO_EXT:sequence_alteration_entity_or_process 21667 21669	/−
+T591	SO_EXT:0000409 21947 21960	binding sites
+T592	CHEBI_SO_EXT:tyrosine 22130 22138	tyrosine
+T593	SO_EXT:sequence_alteration_entity_or_process 22393 22401	mutation
+T594	CHEBI_SO_EXT:amino_acid 22405 22415	amino acid
+T595	SO_EXT:sequence_altered_entity 22849 22855	mutant
+T596	SO_EXT:sequence_copy_entity 22902 22906	copy
+T597	SO_EXT:wild_type_entity_or_quality 22914 22923	wild - type
+T598	CHEBI_SO_EXT:tyrosine 23058 23066	tyrosine
+T599	SO_EXT:sequence_copy_entity 23191 23195	copy
+T600	SO_EXT:0000409 23345 23357	binding site
+T601	SO_EXT:sequence_altered_entity 23484 23490	mutant
+T602	SO_EXT:normal_or_wild_type_or_present 24566 24569	+/−
+T603	SO_EXT:wild_type_entity_or_quality 24595 24604	wild - type
+T604	SO_EXT:0000417 24878 24884	domain
+T605	SO_EXT:sequence_altered_entity 25117 25123	mutant
+T606	SO_EXT:0001023 25124 25131	alleles
+T607	SO_EXT:sequence_alteration_entity_or_process 25189 25198	mutations
+T608	SO_EXT:sequence_altered_entity 25345 25351	mutant
+T609	SO_EXT:0001023 25352 25359	alleles
+T610	SO_EXT:wild_type_entity_or_quality 25393 25402	wild - type
+T611	SO_EXT:sequence_nullness 25425 25429	null
+T612	SO_EXT:0001023 26011 26017	allele
+T613	SO_EXT:sequence_nullness 26055 26059	null
+T614	SO_EXT:sequence_chincularization 26203 26211	chimeric
+T615	SO_EXT:0000417 26245 26251	domain
+T616	SO_EXT:0000417 26288 26294	domain
+T617	SO_EXT:0001023 26354 26360	allele
+T618	SO_EXT:sequence_altered_entity 26933 26940	mutants
+T619	SO_EXT:sequence_alteration_entity_or_process 27154 27163	mutations
+T620	SO_EXT:0000704 28282 28286	gene
+T621	SO_EXT:sequence_altered_entity 28676 28682	mutant
+T622	SO_EXT:wild_type_entity_or_quality 28753 28762	wild - type
+T623	SO_EXT:sequence_alteration_entity_or_process 28805 28814	mutations
+T624	SO_EXT:0001023 29074 29080	allele
+T625	SO_EXT:0001023 29109 29115	allele
+T626	SO_EXT:0001023 29191 29198	alleles
+T627	SO_EXT:sequence_alteration_entity_or_process 29223 29232	mutations
+T628	SO_EXT:0001023 29389 29396	alleles
+T629	SO_EXT:sequence_altered_entity 29428 29434	mutant
+T630	SO_EXT:sequence_alteration_entity_or_process 29488 29496	mutation
+T631	SO_EXT:sequence_alteration_entity_or_process 29508 29516	mutation
+T632	SO_EXT:sequence_alteration_entity_or_process 29649 29657	mutation
+T633	SO_EXT:sequence_nullness 30124 30128	null
+T634	SO_EXT:0001023 30145 30151	allele
+T635	CHEBI_SO_EXT:tyrosine 30214 30222	tyrosine
+T636	SO_EXT:sequence_alteration_entity_or_process 30239 30248	mutations
+T637	CHEBI_SO_EXT:tyrosine 30347 30356	tyrosines
+T638	SO_EXT:0000417 30970 30976	domain
+T639	SO_EXT:sequence_alteration_entity_or_process 31072 31080	mutation
+T640	SO_EXT:0000417 31118 31124	domain
+T641	SO_EXT:0000409 31149 31162	binding sites
+T642	SO_EXT:sequence_altered_entity 31886 31892	mutant
+T643	SO_EXT:0001023 31893 31899	allele
+T644	SO_EXT:sequence_altered_entity 31937 31943	mutant
+T645	SO_EXT:sequence_alteration_entity_or_process 31975 31984	mutations
+T646	SO_EXT:sequence_alteration_entity_or_process 32059 32067	mutation
+T647	SO_EXT:sequence_alteration_entity_or_process 32353 32361	mutation
+T648	SO_EXT:0000409 32376 32388	binding site
+T649	SO_EXT:0000704 32409 32413	gene
+T650	SO_EXT:0000704 32454 32458	gene
+T651	SO_EXT:sequence_altered_entity 32619 32625	mutant
+T652	SO_EXT:sequence_nullness 33089 33093	null
+T653	SO_EXT:wild_type_entity_or_quality 33341 33350	wild - type
+T654	SO_EXT:wild_type_entity_or_quality 33469 33478	wild - type
+T655	SO_EXT:sequence_substitution_entity_or_process 33575 33586	replacement
+T656	SO_EXT:sequence_altered_entity 33594 33600	mutant
+T657	SO_EXT:wild_type_entity_or_quality 33786 33795	wild - type
+T658	SO_EXT:sequence_altered_entity 33860 33866	mutant
+T659	SO_EXT:point_mutation_entity_or_process 35042 35057	Point mutations
+T660	SO_EXT:sequence_alteration_process 35133 35141	changing
+T661	CHEBI_SO_EXT:tyrosine 35146 35154	tyrosine
+T662	CHEBI_SO_EXT:phenylalanine 35166 35179	phenylalanine
+T663	SO_EXT:sequence_alteration_process 35216 35223	mutated
+T664	SO_EXT:sequence_coding_function 35227 35233	encode
+T665	CHEBI_SO_EXT:isoleucine 35237 35247	isoleucine
+T666	SO_EXT:0000061 35274 35290	restriction site
+T667	SO_EXT:sequence_recombinant_entity 35337 35349	recombinants
+T668	SO_EXT:sequence_altered_entity 35357 35364	mutants
+T669	SO_EXT:0001644 35456 35472	targeting vector
+T670	SO_EXT:sequence_alteration_entity_or_process 35496 35505	mutations
+T671	SO_EXT:0000440 35551 35557	vector
+T672	SO_EXT:0000147 35563 35568	exons
+T673	SO_EXT:point_mutation_entity_or_process 35584 35599	point mutations
+T674	SO_EXT:0001644 35647 35663	targeting vector
+T675	SO_EXT:sequence_alteration_process 35681 35692	mutagenesis
+T676	SO_EXT:biological_sequence 35709 35717	sequence
+T677	SO_EXT:genomic_DNA 35740 35751	genomic DNA
+T678	SO_EXT:sequence_altered_entity 35768 35774	mutant
+T679	SO_EXT:sequence_alteration_entity_or_process 35788 35796	mutation
+T680	SO_EXT:0001644 35825 35841	targeting vector
+T681	SO_EXT:0001644 35881 35897	targeting vector
+T682	SO_EXT:0001026 35906 35913	genomic
+T683	SO_EXT:biological_sequence 35914 35923	sequences
+T684	SO_EXT:0000147 35942 35947	exons
+T685	SO_EXT:0000409 35977 35990	binding sites
+T686	SO_EXT:0000318 35992 36001	Tyrosines
+T687	SO_EXT:sequence_alteration_process 36019 36026	mutated
+T688	CHEBI_SO_EXT:phenylalanine 36030 36043	phenylalanine
+T689	SO_EXT:0001644 36096 36112	targeting vector
+T690	GO_SO_EXT:sequence_rearrangement_process 36187 36200	recombination
+T691	SO_EXT:sequence_truncation_entity_or_process 36206 36216	truncation
+T692	SO_EXT:sequence_alteration_entity_or_process 36217 36225	mutation
+T693	GO_SO_EXT:frameshift_entity_or_process 36238 36248	frameshift
+T694	CHEBI_SO_EXT:amino_acid 36252 36262	amino acid
+T695	SO_EXT:0001587 36283 36303	premature stop codon
+T696	CHEBI_SO_EXT:amino_acid 36310 36320	amino acid
+T697	CHEBI_SO_EXT:amino_acid 36329 36340	amino acids
+T698	SO_EXT:sequence_downstreamness 36341 36351	downstream
+T699	SO_EXT:0000409 36366 36378	binding site
+T700	SO_EXT:sequence_cloned_entity 36442 36448	clones
+T701	GO_SO_EXT:sequence_rearrangement_process 36513 36526	recombination
+T702	SO_EXT:0005853 36562 36571	cassettes
+T703	SO_EXT:transgenic_entity 36812 36822	transgenic
+T704	SO_EXT:wild_type_entity_or_quality 36943 36952	wild - type
+T705	SO_EXT:sequence_altered_entity 37245 37251	mutant
+T706	SO_EXT:sequence_alteration_process 37769 37775	marker
+T707	SO_EXT:wild_type_entity_or_quality 39569 39578	wild - type
+T708	SO_EXT:0000153 40746 40761	phosphotyrosine
+T709	SO_EXT:0000667 40821 40827	insert
+T710	SO_EXT:0000417 40828 40834	domain
+T711	SO_EXT:transgenic_entity 41082 41092	transgenic
+T712	CHEBI_SO_EXT:tyrosine 42063 42071	tyrosine
+T713	SO_EXT:0000417 42109 42115	domain
+T714	SO:0000857 42122 42130	homology
+T715	SO_EXT:0000417 42131 42137	domain
+T716	SO_EXT:0001023 42397 42404	Allelic
+T717	SO_EXT:sequence_altered_entity 42437 42443	mutant
+T718	SO_EXT:0001023 42444 42451	alleles
+T719	SO_EXT:0001026 42482 42489	genomic
+T720	SO_EXT:sequence_alteration_entity_or_process 42512 42520	mutation
+T721	CHEBI_SO_EXT:tyrosine 42528 42536	tyrosine
+T722	SO_EXT:0000409 42537 42552	binding site ( s )
+T723	SO_EXT:0001023 42607 42613	allele
+T724	SO_EXT:0000409 42647 42659	binding site
+T725	SO_EXT:sequence_truncation_entity_or_process 42749 42759	truncation
+T726	SO_EXT:0001023 42760 42766	allele
+T727	SO_EXT:sequence_deletion_entity_or_process 42787 42795	deletion
+T728	GO_SO_EXT:frameshift_entity_or_process 42811 42821	frameshift
+T729	SO_EXT:0000319 42840 42850	stop codon
+T730	CHEBI_SO_EXT:amino_acid 42854 42865	amino acids
+T731	SO_EXT:0000409 42882 42894	binding site
+T732	SO_EXT:0001644 42949 42965	Targeting vector
+T733	SO_EXT:sequence_altered_entity 42984 42990	mutant
+T734	SO_EXT:0001023 42991 42997	allele
+T735	SO_EXT:0000147 43003 43008	exons
+T736	SO_EXT:sequence_alteration_process 43026 43033	mutated
+T737	CHEBI_SO_EXT:tyrosine 43034 43043	tyrosines
+T738	SO_EXT:0001644 43050 43066	Targeting vector
+T739	SO_EXT:sequence_alteration_entity_or_process 43078 43087	mutations
+T740	SO_EXT:0000147 43094 43099	exons
+T741	SO_EXT:sequence_altered_entity 43124 43130	mutant
+T742	SO_EXT:0001023 43131 43137	allele
+T743	SO_EXT:wild_type_entity_or_quality 43144 43153	Wild - type
+T744	SO_EXT:0001023 43154 43160	allele
+T745	SO_EXT:0001023 43176 43182	allele
+T746	CHEBI_GO_SO_EXT:enzyme 43217 43223	enzyme
+T747	CHEBI_SO_EXT:molecular_probe 43337 43343	probes
+T748	SO_EXT:0000147 43425 43429	exon
+T749	SO_EXT:point_mutation_entity_or_process 43436 43450	point mutation
+T750	GO_SO_EXT:frameshift_entity_or_process 43458 43468	frameshift
+T751	SO_EXT:sequence_truncation_entity_or_process 43472 43482	truncation
+T752	SO_EXT:sequence_alteration_entity_or_process 43483 43491	mutation
+T753	SO_EXT:wild_type_entity_or_quality 43514 43523	wild - type
+T754	SO_EXT:0000147 43524 43529	exons
+T755	SO_EXT:0000147 43550 43555	exons
+T756	SO_EXT:sequence_alteration_entity_or_process 43576 43585	mutations
+T757	CHEBI_GO_SO_EXT:enzyme 43599 43606	enzymes
+T758	SO_EXT:sequence_alteration_process 43643 43654	mutagenesis
+T759	GO_SO_EXT:sequence_rearrangement_process 43683 43696	recombination
+T760	SO_EXT:0000350 43734 43743	FRT sites
+T761	SO_EXT:0000346 43762 43772	loxP sites
+T762	CHEBI_SO_EXT:molecular_probe 43850 43855	probe
+T763	CHEBI_SO_EXT:molecular_probe 43870 43875	probe
+T764	SO_EXT:0001023 43934 43940	allele
+T765	SO_EXT:wild_type_entity_or_quality 43966 43975	wild - type
+T766	SO_EXT:0001023 43976 43982	allele
+T767	SO_EXT:sequence_altered_entity 44011 44017	mutant
+T768	SO_EXT:wild_type_entity_or_quality 44080 44089	wild - type
+T769	SO_EXT:sequence_cloned_entity 44098 44103	clone
+T770	SO_EXT:sequence_alteration_entity_or_process 44133 44135	/−
+T771	SO_EXT:sequence_alteration_entity_or_process 44163 44165	/−
+T772	SO_EXT:wild_type_entity_or_quality 44263 44272	wild - type
+T773	SO_EXT:sequence_alteration_entity_or_process 44279 44281	/−
+T774	SO_EXT:sequence_alteration_entity_or_process 44344 44346	/−
+T775	SO_EXT:sequence_alteration_entity_or_process 44405 44407	/−
+T776	SO_EXT:wild_type_entity_or_quality 44514 44523	wild - type
+T777	SO_EXT:sequence_altered_entity 44528 44534	mutant
+T778	SO_EXT:sequence_alteration_entity_or_process 44629 44631	/−
+T779	SO_EXT:0001023 44980 44987	alleles
+T780	SO_EXT:sequence_altered_entity 44991 44997	mutant
+T781	SO_EXT:sequence_alteration_entity_or_process 45082 45084	/−
+T782	SO_EXT:wild_type_entity_or_quality 45184 45193	wild - type
+T783	SO_EXT:0001021 45329 45336	Markers
+T784	SO_EXT:sequence_alteration_process 45398 45401	/+;
+T785	SO_EXT:sequence_altered_entity 45413 45419	mutant
+T786	SO_EXT:wild_type_entity_or_quality 45849 45858	wild - type
+T787	SO_EXT:sequence_alteration_entity_or_process 45865 45867	/−
+T788	SO_EXT:sequence_alteration_process 45902 45908	marker
+T789	SO_EXT:sequence_altered_entity 46051 46057	Mutant
+T790	SO_EXT:0001023 46149 46156	allelic
+T791	SO_EXT:0001023 46224 46231	allelic
+T792	SO_EXT:sequence_altered_entity 46249 46255	mutant
+T793	SO_EXT:sequence_copy_entity 46265 46269	copy
+T794	SO_EXT:sequence_nullness 46277 46281	null
+T795	SO_EXT:0001023 46282 46288	allele
+T796	SO_EXT:genotype_or_entity_with_genotype 46752 46761	genotypes
+T797	SO_EXT:sequence_copy_entity 46842 46848	copies
+T798	SO_EXT:sequence_altered_entity 47049 47056	mutants
+T799	SO_EXT:wild_type_entity_or_quality 47069 47078	wild - type
+T800	SO_EXT:sequence_altered_entity 47099 47106	mutants
+T801	SO_EXT:sequence_altered_entity 47122 47128	mutant
+T802	SO_EXT:wild_type_entity_or_quality 47182 47191	wild - type
+T803	SO_EXT:sequence_alteration_entity_or_process 47206 47208	/−
+T804	SO_EXT:normal_or_wild_type_or_present 47257 47260	+/−
+T805	CHEBI_SO_EXT:tyrosine 47633 47641	tyrosine
+T806	SO_EXT:wild_type_entity_or_quality 47671 47680	wild - type
+T807	SO_EXT:sequence_altered_entity 47702 47708	mutant

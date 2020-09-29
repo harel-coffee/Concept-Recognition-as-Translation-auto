@@ -1,0 +1,174 @@
+T2146	UBERON_EXT:skeletal_muscle_organ_or_tissue 8 23	Skeletal Muscle
+T2147	UBERON_EXT:skeletal_muscle_organ_or_tissue 138 153	skeletal muscle
+T2148	UBERON_EXT:muscle_structure_or_tissue 195 201	muscle
+T2149	UBERON_EXT:skeletal_muscle_organ_or_tissue 584 599	skeletal muscle
+T2150	UBERON:0000479 613 619	tissue
+T2151	UBERON_EXT:skeletal_muscle_organ_or_tissue 673 688	skeletal muscle
+T2152	UBERON:0004288 781 789	skeletal
+T2153	UBERON:0001981 790 796	...muscle
+T2154	UBERON:0005090 979 986	muscles
+T2155	CHEBI_UBERON_EXT:triglyceride_or_adipose_tissue 1054 1059	fatty
+T2156	UBERON_EXT:muscle_structure_or_tissue 1211 1217	muscle
+T2157	UBERON:0001977 1277 1282	serum
+T2158	UBERON_EXT:muscle_structure_or_tissue 1497 1503	muscle
+T2159	UBERON_EXT:muscle_structure_or_tissue 1616 1622	muscle
+T2160	UBERON_EXT:skeletal_muscle_organ_or_tissue 1711 1726	skeletal muscle
+T2161	UBERON_EXT:muscle_structure_or_tissue 1858 1864	muscle
+T2162	UBERON:0002385 1953 1966	muscle tissue
+T2163	UBERON:0001982 2028 2037	capillary
+T2164	UBERON_EXT:skeletal_muscle_organ_or_tissue 2115 2130	skeletal muscle
+T2165	UBERON:0000479 2194 2200	tissue
+T2166	UBERON_EXT:skeletal_muscle_organ_or_tissue 2443 2458	skeletal muscle
+T2167	UBERON:0000479 2783 2789	tissue
+T2168	UBERON_EXT:skeletal_muscle_organ_or_tissue 2970 2985	skeletal muscle
+T2169	UBERON_EXT:muscle_structure_or_tissue 3259 3265	muscle
+T2170	UBERON_EXT:skeletal_muscle_organ_or_tissue 3422 3437	skeletal muscle
+T2171	UBERON_EXT:skeletal_muscle_organ_or_tissue 3466 3481	skeletal muscle
+T2172	UBERON:0000479 3486 3492	tissue
+T2173	UBERON:0004288 3685 3693	skeletal
+T2174	UBERON:0001981 3694 3700	...muscle
+T2175	UBERON_EXT:muscle_structure_or_tissue 3710 3716	muscle
+T2176	UBERON_EXT:muscle_structure_or_tissue 3896 3902	muscle
+T2177	UBERON_EXT:muscle_structure_or_tissue 3948 3954	muscle
+T2178	UBERON:0004288 4071 4079	skeletal
+T2179	UBERON_EXT:muscle_structure_or_tissue 4080 4086	muscle
+T2180	UBERON_EXT:muscle_structure_or_tissue 4431 4437	muscle
+T2181	UBERON:0001388 4483 4496	gastrocnemius
+T2182	UBERON:0000948 4612 4619	cardiac
+T2183	UBERON:0000479 4620 4626	tissue
+T2184	UBERON:0000948 4632 4639	cardiac
+T2185	UBERON:0000948 4734 4741	cardiac
+T2186	UBERON_EXT:muscle_structure_or_tissue 4798 4804	muscle
+T2187	UBERON:0001389 5131 5137	soleus
+T2188	UBERON:0005090 5138 5145	muscles
+T2189	UBERON:0000178 5180 5185	blood
+T2190	UBERON_EXT:muscle_structure_or_tissue 5357 5363	muscle
+T2191	UBERON:0002049 5454 5462	Vascular
+T2192	UBERON:0001986 5463 5474	endothelial
+T2193	UBERON:0002049 5513 5521	vascular
+T2194	UBERON_EXT:muscle_structure_or_tissue 5575 5581	muscle
+T2195	UBERON_EXT:muscle_structure_or_tissue 5701 5707	muscle
+T2196	UBERON_EXT:muscle_structure_or_tissue 5713 5719	muscle
+T2197	UBERON_EXT:skeletal_muscle_organ_or_tissue 6028 6043	skeletal muscle
+T2198	UBERON:0005090 6855 6862	muscles
+T2199	UBERON:0005090 7135 7142	muscles
+T2200	UBERON_EXT:muscle_structure_or_tissue 7593 7599	muscle
+T2201	UBERON:0001809 7729 7742	intramuscular
+T2202	UBERON_EXT:muscle_structure_or_tissue 7915 7921	muscle
+T2203	UBERON_EXT:muscle_structure_or_tissue 8071 8077	muscle
+T2204	UBERON_EXT:muscle_structure_or_tissue 8148 8154	muscle
+T2205	UBERON:0001809 8187 8200	Intramuscular
+T2206	UBERON_EXT:muscle_structure_or_tissue 8437 8443	muscle
+T2207	UBERON_EXT:muscle_structure_or_tissue 8627 8633	muscle
+T2208	UBERON:0001809 8794 8807	intramuscular
+T2209	UBERON_EXT:muscle_structure_or_tissue 8905 8911	muscle
+T2210	UBERON_EXT:muscle_structure_or_tissue 8923 8929	muscle
+T2211	UBERON_EXT:muscle_structure_or_tissue 8998 9004	muscle
+T2212	UBERON_EXT:muscle_structure_or_tissue 9246 9252	muscle
+T2213	UBERON_EXT:muscle_structure_or_tissue 9604 9610	muscle
+T2214	CHEBI_UBERON_EXT:triglyceride_or_adipose_tissue 9781 9786	fatty
+T2215	UBERON_EXT:muscle_structure_or_tissue 9864 9870	muscle
+T2216	UBERON_EXT:skeletal_muscle_organ_or_tissue 10471 10486	skeletal muscle
+T2217	UBERON_EXT:muscle_structure_or_tissue 10523 10529	muscle
+T2218	UBERON_EXT:muscle_structure_or_tissue 10598 10604	muscle
+T2219	UBERON_EXT:muscle_structure_or_tissue 10853 10859	muscle
+T2220	UBERON_EXT:muscle_structure_or_tissue 11048 11054	muscle
+T2221	UBERON:0001015 11780 11793	muscle groups
+T2222	UBERON_EXT:muscle_structure_or_tissue 12331 12337	muscle
+T2223	UBERON_EXT:muscle_structure_or_tissue 13068 13074	muscle
+T2224	UBERON:0001977 13262 13267	serum
+T2225	UBERON_EXT:skeletal_muscle_organ_or_tissue 13302 13317	skeletal muscle
+T2226	UBERON:0001388 13836 13849	gastrocnemius
+T2227	UBERON:0000479 13850 13856	tissue
+T2228	UBERON_EXT:muscle_structure_or_tissue 13925 13931	muscle
+T2229	UBERON:0000479 13952 13958	tissue
+T2230	UBERON:0000479 13967 13973	tissue
+T2231	UBERON:0000479 14003 14009	tissue
+T2232	UBERON:0000479 14233 14239	tissue
+T2233	UBERON:0001809 14348 14361	intramuscular
+T2234	UBERON:0001977 14395 14400	serum
+T2235	UBERON_EXT:muscle_structure_or_tissue 14482 14488	muscle
+T2236	UBERON:0001977 14568 14573	serum
+T2237	UBERON_EXT:muscle_structure_or_tissue 14876 14882	muscle
+T2238	UBERON:0001809 15006 15019	intramuscular
+T2239	UBERON:0000479 15227 15233	tissue
+T2240	UBERON:0005090 15329 15336	muscles
+T2241	UBERON_EXT:muscle_structure_or_tissue 15735 15741	muscle
+T2242	UBERON:0002415 16492 16496	tail
+T2243	UBERON:0001388 16539 16552	gastrocnemius
+T2244	UBERON:0000948 16554 16559	heart
+T2245	UBERON:0002107 16561 16566	liver
+T2246	UBERON:0000995 16572 16578	uterus
+T2247	UBERON_EXT:muscle_structure_or_tissue 17363 17369	Muscle
+T2248	UBERON:0001388 17417 17430	gastrocnemius
+T2249	UBERON:0001792 17477 17481	Gill
+T2250	UBERON:0001388 17965 17985	gastrocnemius muscle
+T2251	UBERON:0001862 19742 19757	Achilles tendon
+T2252	UBERON_EXT:muscle_structure_or_tissue 19895 19902	Muscles
+T2253	UBERON:0001322 19958 19971	sciatic nerve
+T2254	UBERON:0005090 20258 20265	muscles
+T2255	UBERON:0001388 20498 20518	gastrocnemius muscle
+T2256	UBERON:0001388 20676 20689	gastrocnemius
+T2257	UBERON:0000479 20690 20696	tissue
+T2258	PATO_UBERON_EXT:male_or_bearer_of_maleness 22046 22050	male
+T2259	UBERON:0000479 22425 22431	Tissue
+T2260	UBERON:0001977 22918 22923	serum
+T2261	UBERON:0001977 23011 23016	serum
+T2262	UBERON:0001977 23243 23248	Serum
+T2263	UBERON:0001049 23302 23315	Neuromuscular
+T2264	UBERON:0000178 23332 23337	blood
+T2265	UBERON:0000948 23350 23357	cardiac
+T2266	UBERON:0000178 23909 23914	Blood
+T2267	UBERON:0002415 23934 23938	tail
+T2268	UBERON:0001969 24029 24035	plasma
+T2269	UBERON:0001969 24037 24043	Plasma
+T2270	UBERON:0000178 24044 24049	blood
+T2271	UBERON_EXT:muscle_structure_or_tissue 24162 24168	muscle
+T2272	UBERON:0001456 24236 24256	flexor brevis muscle
+T2273	UBERON:0000479 24759 24765	Tissue
+T2274	UBERON:0004288 25410 25418	skeletal
+T2275	UBERON_EXT:muscle_structure_or_tissue 25419 25425	muscle
+T2276	UBERON_EXT:muscle_structure_or_tissue 25516 25522	muscle
+T2277	UBERON_EXT:muscle_structure_or_tissue 25682 25688	muscle
+T2278	UBERON:0002049 25821 25841	vascular endothelial
+T2279	UBERON:0000948 25924 25931	Cardiac
+T2280	UBERON:0000948 26002 26009	cardiac
+T2281	UBERON_EXT:skeletal_muscle_organ_or_tissue 26182 26197	skeletal muscle
+T2282	UBERON:0000948 26203 26210	cardiac
+T2283	UBERON:0000479 26211 26217	tissue
+T2284	UBERON_EXT:skeletal_muscle_organ_or_tissue 26237 26252	skeletal muscle
+T2285	UBERON_EXT:skeletal_muscle_organ_or_tissue 26607 26622	skeletal muscle
+T2286	UBERON:0000178 26671 26676	blood
+T2287	UBERON:0000178 26764 26769	blood
+T2288	UBERON:0001809 26800 26813	Intramuscular
+T2289	UBERON:0001388 26915 26936	gastrocnemius muscles
+T2290	UBERON:0001388 27034 27047	gastrocnemius
+T2291	UBERON:0001809 27396 27409	intramuscular
+T2292	UBERON:0005090 27481 27488	muscles
+T2293	UBERON:0001809 27570 27583	intramuscular
+T2294	UBERON_EXT:muscle_structure_or_tissue 28781 28787	muscle
+T2295	UBERON:0001809 29013 29026	intramuscular
+T2296	UBERON:0001809 29164 29177	intramuscular
+T2297	UBERON_EXT:muscle_structure_or_tissue 29292 29298	Muscle
+T2298	UBERON_EXT:muscle_structure_or_tissue 29393 29399	muscle
+T2299	UBERON:0001456 29447 29467	flexor brevis muscle
+T2300	UBERON:0001977 29918 29923	Serum
+T2301	UBERON_EXT:muscle_structure_or_tissue 30164 30170	muscle
+T2302	CHEBI_UBERON_EXT:triglyceride_or_adipose_tissue 30402 30407	fatty
+T2303	UBERON:0001977 30450 30455	serum
+T2304	UBERON:0000966 31418 31421	RER
+T2305	UBERON_EXT:muscle_structure_or_tissue 31574 31580	Muscle
+T2306	UBERON:0001388 32323 32344	gastrocnemius muscles
+T2307	UBERON:0005090 32457 32464	muscles
+T2308	UBERON:0005090 32480 32487	muscles
+T2309	UBERON:0001388 32522 32543	gastrocnemius muscles
+T2310	UBERON_EXT:muscle_structure_or_tissue 32599 32605	muscle
+T2311	UBERON:0001388 32695 32716	gastrocnemius muscles
+T2312	UBERON:0000178 33196 33201	blood
+T2313	UBERON:0000178 33347 33352	blood
+T2314	UBERON:0001388 33454 33474	gastrocnemius muscle
+T2315	UBERON:0000479 33617 33624	Tissues
+T2316	UBERON:0001388 33715 33735	Gastrocnemius Muscle
+T2317	UBERON:0001389 33787 33800	Soleus Muscle
+T2318	UBERON:0001388 34186 34207	Gastrocnemius Muscles
+T2319	UBERON_EXT:skeletal_muscle_organ_or_tissue 34967 34982	skeletal muscle

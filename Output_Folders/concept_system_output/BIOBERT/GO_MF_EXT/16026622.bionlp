@@ -1,0 +1,57 @@
+T782	GO_EXT:0004875 1660 1678	Toll - like receptor
+T783	GO_EXT:0034061 8633 8647	DNA polymerase
+T784	GO_EXT:0008527 19243 19261	toll - like receptor
+T785	GO_EXT:0008009 23897 23907	chemokines
+T786	GO_PR_EXT:alkaline_phosphatase 23937 23959	ADP - ribosyltransferase
+T787	GO_EXT:0004871 23975 23996	tumor necrosis factor
+T788	GO_EXT:transcription_factor 23998 24001	TNF
+T789	GO_EXT:0004872 24003 24011	receptor
+T790	GO_EXT:transcription_factor 24101 24121	transcription factor
+T791	GO_EXT:0008083 24300 24313	growth factor
+T792	GO_EXT:0008484 24445 24459	solute carrier
+T793	GO_EXT:0030295 24471 24487	zinc transporter
+T794	GO_EXT:0016530 24514 24531	metal transporter
+T795	GO_EXT:0032947 24841 24847	factor
+T796	GO_EXT:0004872 24848 24856	receptor
+T797	GO_EXT:0004887 24858 24863	Ptafr
+T798	GO_EXT:0004629 24869 24882	phospholipase
+T799	GO_EXT:0008484 25282 25296	solute carrier
+T800	GO_EXT:biological_mover_or_transporter 25313 25324	transporter
+T801	GO_EXT:biological_mover_or_transporter 25393 25405	transporters
+T802	GO_EXT:0008009 25955 25964	Chemokine
+T803	CHEBI_GO_EXT:ligand 25977 25983	ligand
+T804	GO_EXT:0008009 25996 26005	chemokine
+T805	GO_EXT:0004872 26020 26028	receptor
+T806	GO_EXT:chemoattractant_or_chemoattraction 26182 26193	chemotactic
+T807	GO_EXT:0008009 26209 26219	chemokines
+T808	GO_EXT:0008009 26250 26269	chemokine receptors
+T809	GO_EXT:0008009 26314 26324	chemokines
+T810	GO_EXT:0005125 26345 26354	cytokines
+T811	GO_EXT:0008009 26524 26542	chemokine receptor
+T812	GO_EXT:0008009 26978 26988	chemokines
+T813	GO_PR_EXT:hydroxymethylglutaryl_CoA_reductase 27006 27020	I kappa kinase
+T814	GO_EXT:0004357 27179 27188	epidermal
+T815	GO_EXT:0008083 27189 27211	growth factor receptor
+T816	GO_PR_EXT:estrogen_receptor 27213 27217	EGFR
+T817	CHEBI_GO_EXT:ligand 27219 27226	ligands
+T818	CHEBI_GO_EXT:ligand 27348 27354	Ligand
+T819	GO_PR_EXT:estrogen_receptor 27383 27387	EGFR
+T820	GO_PR_EXT:MAP_kinase 27449 27459	MAP kinase
+T821	GO_EXT:0005125 27482 27490	cytokine
+T822	GO_EXT:chemoattractant_or_chemoattraction 27626 27641	chemoattractant
+T823	GO_EXT:0008009 27685 27694	chemokine
+T824	CHEBI_GO_EXT:ligand 27709 27716	ligands
+T825	GO_EXT:0008527 27957 27975	toll - like receptor
+T826	GO_EXT:0004875 28081 28085	Toll
+T827	GO_EXT:0004887 28086 28100	...like receptors
+T828	GO_EXT:0008527 29290 29308	toll - like receptor
+T829	CHEBI_GO_EXT:ligand 29599 29606	ligands
+T830	CHEBI_GO_EXT:ligand 29644 29650	ligand
+T831	GO_EXT:0004887 29683 29696	...like receptor
+T832	CHEBI_GO_EXT:ligand 29831 29838	ligands
+T833	CHEBI_GO_EXT:ligand 29868 29875	ligands
+T834	CHEBI_GO_EXT:ligand 30032 30039	ligands
+T835	GO_EXT:transcription_factor 30180 30200	transcription factor
+T836	GO_EXT:0005125 30233 30242	cytokines
+T837	GO_PR_EXT:insulin_receptor 30622 30644	danger signal receptor
+T838	GO_EXT:0008527 30923 30941	toll - like receptor

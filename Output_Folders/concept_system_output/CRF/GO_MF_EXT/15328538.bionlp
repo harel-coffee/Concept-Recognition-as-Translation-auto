@@ -1,0 +1,60 @@
+T317	GO_EXT:transcription_factor 479 499	transcription factor
+T318	CHEBI_GO_SO_EXT:enzyme 868 875	enzymes
+T319	CHEBI_GO_SO_EXT:enzyme 944 951	enzymes
+T320	GO_EXT:transcription_factor 2481 2501	transcription factor
+T321	GO_EXT:transcription_factor 3392 3412	transcription factor
+T322	GO_EXT:0004180 3717 3732	creatine kinase
+T323	GO_EXT:recombinase 3784 3795	recombinase
+T324	GO_EXT:recombinase 4283 4294	recombinase
+T325	GO_EXT:0008083 5475 5488	growth factor
+T326	GO_EXT:0008066 5540 5559	glucose transporter
+T327	GO_EXT:0008066 5591 5610	glucose transporter
+T328	GO_EXT:0004629 5737 5756	phosphofructokinase
+T329	GO_PR_EXT:phosphoenolpyruvate_carboxykinase 5766 5789	phosphoglycerate kinase
+T330	GO_EXT:phosphoglycerate_kinase 5791 5794	PGK
+T331	CHEBI_GO_SO_EXT:enzyme 6090 6099	enzymatic
+T332	CHEBI_GO_SO_EXT:enzyme 6139 6146	enzymes
+T333	CHEBI_GO_SO_EXT:enzyme 6224 6231	enzymes
+T334	CHEBI_GO_SO_EXT:enzyme 6355 6362	enzymes
+T335	CHEBI_GO_SO_EXT:enzyme 6562 6569	enzymes
+T336	GO_PR_EXT:phosphoenolpyruvate_carboxykinase 6674 6698	phosphoglucose isomerase
+T337	GO_EXT:0004591 6751 6759	aldolase
+T338	GO_PR_EXT:glyceraldehyde_3_phosphate_dehydrogenase 6761 6801	glyceraldehyde 3 - phosphate dehydrogenase
+T339	GO_EXT:phosphoglycerate_kinase 6807 6810	PGK
+T340	GO_PR_EXT:phosphoenolpyruvate_carboxykinase 6899 6914	pyruvate kinase
+T341	GO_PR_EXT:phosphoenolpyruvate_carboxykinase 9045 9072	phosphofructokinase disease
+T342	GO_PR_EXT:cholesterol_7_alpha_hydroxylase 9153 9169	citrate synthase
+T343	CHEBI_GO_SO_EXT:enzyme 9193 9199	enzyme
+T344	CHEBI_GO_SO_EXT:enzyme 9338 9344	enzyme
+T345	GO_PR_EXT:estrogen_receptor 9532 9573	enzyme beta - hydroxyacyl CoA dehydrogenase
+T346	CHEBI_GO_SO_EXT:enzyme 9735 9741	enzyme
+T347	GO_EXT:0004180 13237 13252	creatine kinase
+T348	GO_EXT:0004180 14545 14560	creatine kinase
+T349	GO_EXT:polymerase 16931 16941	polymerase
+T350	GO:0097617 17029 17035	anneal
+T351	GO_EXT:0016887 18354 18360	ATPase
+T352	CHEBI_GO_SO_EXT:enzyme 20414 20423	enzymatic
+T353	GO_EXT:0004886 20883 20885	RT
+T354	GO_EXT:phosphoglycerate_kinase 21089 21092	PGK
+T355	GO_EXT:phosphoglycerate_kinase 21112 21115	PGK
+T356	GO_EXT:phosphoglycerate_kinase 21164 21167	PGK
+T357	GO_EXT:phosphoglycerate_kinase 21208 21211	PGK
+T358	CHEBI_GO_SO_EXT:enzyme 22234 22240	enzyme
+T359	CHEBI_GO_SO_EXT:enzyme 22273 22279	enzyme
+T360	CHEBI_GO_SO_EXT:enzyme 22511 22518	enzymes
+T361	GO_EXT:0004714 22901 22916	Creatine kinase
+T362	GO_EXT:0004714 22969 22984	Creatine kinase
+T363	GO_EXT:0004714 23144 23159	Creatine kinase
+T364	CHEBI_GO_SO_EXT:enzyme 23183 23196	enzymatically
+T365	GO_EXT:0004714 25270 25356	beta - hydroxyacyl CoA dehydrogenase CS - citrate synthase GLUT4 - glucose transporter
+T366	GO_EXT:0004180 25523 25538	creatine kinase
+T367	GO_EXT:0004629 25645 25664	phosphofructokinase
+T368	GO_EXT:0004629 25706 25725	phosphofructokinase
+T369	GO_PR_EXT:phosphoenolpyruvate_carboxykinase 25727 25756	PGK - phosphoglycerate kinase
+T370	GO_PR_EXT:phosphoenolpyruvate_carboxykinase 25763 25778	pyruvate kinase
+T371	GO_EXT:0008083 25842 25855	growth factor
+T372	CHEBI_GO_SO_EXT:enzyme 30037 30043	enzyme
+T373	CHEBI_GO_SO_EXT:enzyme 34158 34164	Enzyme
+T374	GO_PR_EXT:glyceraldehyde_3_phosphate_dehydrogenase 34246 34251	GAPDH
+T375	GO_PR_EXT:glyceraldehyde_3_phosphate_dehydrogenase 34253 34293	glyceraldehyde 3 - phosphate dehydrogenase
+T376	GO_PR_EXT:phosphoenolpyruvate_carboxykinase 34300 34324	phosphoglucose isomerase

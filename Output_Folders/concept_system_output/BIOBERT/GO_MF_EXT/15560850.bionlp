@@ -1,0 +1,28 @@
+T564	GO_PR_EXT:cholesterol_7_alpha_hydroxylase 856 868	C - Raf kinase
+T565	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 1859 1866	binding
+T566	GO_EXT:0004674 1946 1971	serine threonine kinase C
+T567	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 2119 2123	bind
+T568	GO_EXT:nucleotide_exchange_factor 2232 2258	nucleotide exchange factor
+T569	GO_EXT:0008083 2546 2569	growth factor receptors
+T570	GO_EXT:0016301 2646 2653	kinases
+T571	GO_PR_EXT:cholesterol_7_alpha_hydroxylase 2779 2791	C - Raf kinase
+T572	GO_EXT:0004601 5181 5191	peroxidase
+T573	GO_PR_EXT:glyceraldehyde_3_phosphate_dehydrogenase 5345 5384	glyceraldehyde 3 phosphate dehydrogense
+T574	GO_PR_EXT:estrogen_receptor 5803 5806	ERK
+T575	GO_PR_EXT:beta3_adrenergic_receptor 5808 5845	extracellular signal - regulated kinase
+T576	GO_PR_EXT:estrogen_receptor 5948 5951	ERK
+T577	GO_PR_EXT:cholesterol_7_alpha_hydroxylase 7048 7060	C - Raf kinase
+T578	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 7906 7910	bind
+T579	GO_PR_EXT:estrogen_receptor 9588 9591	ERK
+T580	GO_PR_EXT:estrogen_receptor 10312 10315	ERK
+T581	CHEBI_GO_SO_EXT:enzyme 11902 11915	enzymatically
+T582	CHEBI_GO_SO_EXT:enzyme 12043 12056	enzymatically
+T583	CHEBI_GO_SO_EXT:enzyme 12104 12117	enzymatically
+T584	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 12792 12796	bind
+T585	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 12808 12815	binding
+T586	GO_EXT:0016887 12931 12937	ATPase
+T587	GO_PR_EXT:glyceraldehyde_3_phosphate_dehydrogenase 15277 15282	GAPDH
+T588	GO_PR_EXT:estrogen_receptor 15480 15483	ERK
+T589	GO_PR_EXT:estrogen_receptor 15702 15705	ERK
+T590	GO_PR_EXT:estrogen_receptor 15709 15712	ERK
+T591	CHEBI_GO_SO_EXT:enzyme 16185 16198	enzymatically

@@ -1,0 +1,30 @@
+T1075	GO_EXT:0004872 156 164	receptor
+T1076	GO_EXT:0004872 1678 1686	receptor
+T1077	GO_EXT:0005125 3550 3558	cytokine
+T1078	GO_EXT:0005125 3637 3646	Cytokines
+T1079	GO_EXT:0004872 4243 4251	receptor
+T1080	GO_EXT:0004872 4286 4294	receptor
+T1081	GO_PR_EXT:insulin_receptor 14889 14905	insulin receptor
+T1082	CHEBI_GO_EXT:antioxidant 18207 18218	antioxidant
+T1083	GO_EXT:0016788 21625 21655	stearoyl - coenzyme A desaturase
+T1084	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 21695 21702	binding
+T1085	CHEBI_GO_SO_EXT:enzyme 21917 21923	enzyme
+T1086	GO_EXT:0004591 22085 22109	hormone - sensitive lipase
+T1087	CHEBI_GO_SO_EXT:enzyme 22127 22133	enzyme
+T1088	GO_EXT:0004830 22311 22330	triglyceride lipase
+T1089	GO_EXT:0004784 22727 22747	superoxide dismutase
+T1090	GO_PR_EXT:glutathione_disulfide_reductase 22823 22843	gluthatione synthase
+T1091	GO_EXT:0004601 22869 22879	peroxidase
+T1092	GO_PR_EXT:fatty_acid_synthase 23819 23838	fatty acid synthase
+T1093	GO_EXT:0004089 25026 25039	carboxykinase
+T1094	GO_PR_EXT:glucose_6_phosphatase 25055 25076	glucose - 6 - phosphatase
+T1095	GO_EXT:0004591 33121 33145	hormone - sensitive lipase
+T1096	GO_EXT:0004830 33159 33178	triglyceride lipase
+T1097	CHEBI_GO_SO_EXT:enzyme 38662 38671	Enzymatic
+T1098	GO_EXT:0004886 40788 40790	RT
+T1099	GO_PR_EXT:short_chain_acyl_CoA_dehydrogenase 41502 41525	signal - regulated kinase
+T1100	GO_EXT:0016874 42502 42510	liberase
+T1101	GO_EXT:biological_mover_or_transporter 48326 48337	transporter
+T1102	GO_EXT:0004872 48519 48527	receptor
+T1103	GO_EXT:0004872 48578 48586	receptor
+T1104	GO_EXT:0016788 48641 48671	stearoyl - coenzyme A desaturase

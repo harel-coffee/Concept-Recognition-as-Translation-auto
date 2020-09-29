@@ -1,0 +1,87 @@
+T1636	GO:0010467 161 170	expressed
+T1637	GO:0006457 251 266	protein folding
+T1638	GO:0023051 278 296	signaling pathways
+T1639	GO:0010467 318 328	expression
+T1640	GO:0010468 467 481	overexpression
+T1641	GO:0010467 815 822	express
+T1642	GO_EXT:biological_growth_entity_or_process 1074 1080	growth
+T1643	GO:0038188 1372 1390;1391 1403	cell proliferation ... signaling
+T1644	GO:0000258 1416 1433	mitogenic cascade
+T1645	GO:0006915 1477 1486	apoptosis
+T1646	GO:0010467 1515 1525	expression
+T1647	GO_EXT:biological_routing_or_transport 1539 1546	targets
+T1648	GO:0006915 1562 1571	apoptosis
+T1649	GO:0001503 1643 1652	oncogenic
+T1650	GO:0010467 1801 1810	expressed
+T1651	GO:0006457 2343 2358	protein folding
+T1652	GO:0023051 2370 2388	signaling pathways
+T1653	GO:0007229 2390 2399	Signaling
+T1654	GO:0008283 2419 2430;2431 2448	cell growth ... proliferation
+T1655	GO:0065007 2464 2475	deregulated
+T1656	GO:0000258 2505 2522	mitogenic cascade
+T1657	GO_EXT:biological_growth_entity_or_process 2546 2552	growth
+T1658	GO:0010467 2917 2927	expression
+T1659	GO:0010468 3066 3080	overexpression
+T1660	GO_SO_EXT:sequence_rearrangement_process 3971 3984	recombination
+T1661	GO_EXT:breeding 4094 4098	bred
+T1662	GO:0010467 4597 4607	expressing
+T1663	GO:0010467 4730 4740	expression
+T1664	GO:0060074 4856 4867	transferred
+T1665	GO_EXT:killing 5470 5480	sacrificed
+T1666	GO:0065007 5829 5838	regulated
+T1667	GO:0008283 5854 5867	proliferating
+T1668	GO_PATO_EXT:apoptotic_process_or_quality 5926 5935	Apoptotic
+T1669	GO:0010467 6450 6460	expression
+T1670	GO:0006413 6525 6547	translation initiation
+T1671	GO:0006289 6560 6564	...mRNA
+T1672	GO:0016265 6779 6783	died
+T1673	GO:0007068 6787 6799	midgestation
+T1674	GO_EXT:biological_growth_entity_or_process 7296 7302	growth
+T1675	GO:0035825 7669 7678	...formation
+T1676	GO:0010467 8086 8096	expression
+T1677	GO:0010467 8361 8370	expressed
+T1678	GO:0006915 8586 8595	apoptosis
+T1679	GO:0010467 8669 8679	expression
+T1680	GO_PATO_EXT:apoptotic_process_or_quality 8763 8772	apoptotic
+T1681	GO:0006915 8840 8849	apoptosis
+T1682	GO_PATO_EXT:apoptotic_process_or_quality 9086 9095	apoptotic
+T1683	GO:0065007 9247 9257	regulation
+T1684	GO:0006915 9495 9504	apoptosis
+T1685	GO:0008283 9568 9581	Proliferation
+T1686	GO:0038179 9586 9602	p - ERK signalling
+T1687	GO:0010467 9717 9727	expression
+T1688	GO:0008283 9772 9790	cell proliferation
+T1689	GO:0008283 9821 9834	proliferating
+T1690	GO:0008283 9929 9942	proliferating
+T1691	GO:0008283 10107 10120	proliferation
+T1692	GO:0010467 10170 10179	expressed
+T1693	GO_PATO_EXT:phosphorylation_process_or_quality 10297 10311	phosphorylated
+T1694	GO:0036269 10453 10471;10472 10475	signalling through ...
+T1695	GO:0000258 10476 10493	mitogenic cascade
+T1696	GO:0023051 10613 10632	signalling pathways
+T1697	GO_EXT:biological_growth_entity_or_process 10648 10654	growth
+T1698	GO_EXT:negative_regulation 10700 10714	downregulation
+T1699	GO:0023012 10746 10765	signalling cascades
+T1700	GO:0010467 10843 10853	expression
+T1701	GO:0065007 10992 11001	regulated
+T1702	GO:0010467 11139 11149	expression
+T1703	GO_EXT:biological_routing_or_transport 11163 11170	targets
+T1704	GO:0006915 11187 11196	apoptosis
+T1705	GO_PATO_EXT:physiological_process_or_quality 11621 11634	physiological
+T1706	GO_EXT:positive_regulation 11660 11673	up - regulation
+T1707	GO:0006915 11717 11726	apoptosis
+T1708	GO:0006915 11938 11947	apoptosis
+T1709	GO:0006881 12010 12023	overexpressed
+T1710	GO:0065007 12210 12218	regulate
+T1711	GO:0010467 12634 12644	expression
+T1712	GO:0016246 12663 12679	RNA interference
+T1713	GO:0016458 12686 12700	gene silencing
+T1714	GO:0010468 12725 12739	overexpression
+T1715	GO_EXT:biological_growth_entity_or_process 14124 14130	growth
+T1716	GO:0010467 14772 14782	expression
+T1717	GO:0010467 14872 14882	expression
+T1718	GO:0010467 15060 15070	expression
+T1719	GO:0006915 15442 15451	apoptosis
+T1720	GO:0006915 15608 15617	apoptosis
+T1721	GO_PATO_EXT:phosphorylation_process_or_quality 15687 15701	phosphorylated
+T1722	GO:0006915 16221 16230	apoptosis

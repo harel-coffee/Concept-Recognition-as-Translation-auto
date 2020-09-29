@@ -1,0 +1,23 @@
+T1222	GO_EXT:transcription_factor 937 957	transcription factor
+T1223	GO_EXT:transcription_factor 2198 2218	transcription factor
+T1224	GO_EXT:transcription_factor 5723 5743	transcription factor
+T1225	GO_EXT:transcription_factor 5895 5915	transcription factor
+T1226	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 7535 7542	binding
+T1227	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 8889 8896	binding
+T1228	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 8953 8960	binding
+T1229	GO_EXT:transcription_factor 22716 22736	transcription factor
+T1230	GO_EXT:transcription_factor 23724 23744	transcription factor
+T1231	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 23892 23896	bind
+T1232	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 24230 24237	binding
+T1233	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 24825 24832	binding
+T1234	GO_EXT:transcription_factor 26021 26041	transcription factor
+T1235	GO_EXT:0005220 26466 26503	inositol triphosphate type 2 receptor
+T1236	65 26601 26604	met
+T1237	GO_EXT:0015925 26605 26608	leu
+T1238	GO_EXT:0004366 26609 26621	phe receptor
+T1239	GO_EXT:0005024 27914 27927	Tgfβ receptor
+T1240	GO_EXT:0004887 28547 28563	MAPK phosphatase
+T1241	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 29287 29294	binding
+T1242	GO_EXT:0005125 29642 29650	cytokine
+T1243	GO_PR_EXT:glutathione_S_transferase 29707 29710	IKK
+T1244	GO_EXT:0004601 36142 36152	peroxidase

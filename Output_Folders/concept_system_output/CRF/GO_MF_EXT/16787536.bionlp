@@ -1,0 +1,30 @@
+T801	CHEBI_GO_EXT:ligand 284 290	ligand
+T802	GO_EXT:0004872 2037 2045	receptor
+T803	GO_EXT:0004872 2206 2214	receptor
+T804	CHEBI_GO_EXT:ligand 2345 2352	ligands
+T805	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 2422 2429	binding
+T806	GO_EXT:0004872 2635 2643	receptor
+T807	GO_PR_EXT:low_density_lipoprotein_receptor 2661 2693	low density lipoprotein receptor
+T808	GO_PR_EXT:low_density_lipoprotein_receptor 2695 2699	LDLR
+T809	GO_EXT:0008083 2920 2945	growth factor II - receptor
+T810	GO_EXT:0004872 2975 2983	receptor
+T811	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 2989 2994	binds
+T812	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 3880 3885	bound
+T813	CHEBI_GO_EXT:ligand 5653 5659	Ligand
+T814	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 5660 5667	binding
+T815	GO:0097617 6852 6862	hybridized
+T816	GO:0097617 7027 7037	hybridized
+T817	GO_EXT:0004886 9218 9220	RT
+T818	GO_EXT:0004886 9734 9736	RT
+T819	CHEBI_GO_EXT:ligand 23628 23634	ligand
+T820	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 23635 23642	binding
+T821	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 23739 23746	binding
+T822	CHEBI_GO_EXT:ligand 23863 23869	ligand
+T823	GO_EXT:0004872 25316 25325	receptors
+T824	CHEBI_GO_EXT:antagonist 25571 25582	antagonists
+T825	GO_PR_EXT:thymidine_kinase 30331 30333	tk
+T826	GO_EXT:0004886 33836 33838	RT
+T827	GO_EXT:0004886 33895 33897	RT
+T828	GO_EXT:0003964 34071 34092	Reverse Transcriptase
+T829	GO_PR_EXT:glyceraldehyde_3_phosphate_dehydrogenase 35077 35082	GAPDH
+T830	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 36424 36431	binding

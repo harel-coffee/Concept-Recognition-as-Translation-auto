@@ -1,0 +1,65 @@
+T1157	GO_EXT:0004738 1400 1429	Eph receptor tyrosine kinases
+T1158	GO_PR_EXT:ephrin_receptor 2681 2694	Eph receptors
+T1159	GO_PR_EXT:ephrin_receptor 2759 2772	Eph receptors
+T1160	GO_EXT:0004872 2808 2816	receptor
+T1161	CHEBI_GO_EXT:ligand 2817 2823	ligand
+T1162	GO_EXT:0004872 2843 2851	receptor
+T1163	CHEBI_GO_EXT:ligand 2856 2862	ligand
+T1164	GO_PR_EXT:ephrin_receptor 3081 3094	Eph receptors
+T1165	GO_PR_EXT:ephrin_receptor 3213 3226	Eph receptors
+T1166	GO_EXT:0015267 3375 3383	channels
+T1167	GO_EXT:0015267 3816 3821	pores
+T1168	GO_PR_EXT:ephrin_receptor 5021 5034	Eph receptors
+T1169	GO_EXT:0004872 8974 8983	receptors
+T1170	GO_EXT:0004872 9040 9049	receptors
+T1171	GO_PR_EXT:alkaline_phosphatase 12103 12123	alkaline phosphatase
+T1172	GO_PR_EXT:alkaline_phosphatase 12125 12127	AP
+T1173	GO_PR_EXT:alkaline_phosphatase 12370 12372	AP
+T1174	GO_PR_EXT:alkaline_phosphatase 13255 13257	AP
+T1175	GO_PR_EXT:MAP_kinase 14097 14101	MAPK
+T1176	GO_EXT:0015267 14320 14325	pores
+T1177	GO_EXT:0004565 16279 16294	β - galactosidase
+T1178	GO_EXT:0015267 16689 16694	pores
+T1179	GO_EXT:0004872 16873 16881	receptor
+T1180	GO_EXT:0004872 19599 19607	receptor
+T1181	GO_EXT:0004872 20122 20130	receptor
+T1182	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 20945 20952	binding
+T1183	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 21249 21256	binding
+T1184	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 22209 22216	binding
+T1185	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 24084 24091	binding
+T1186	GO_EXT:transcription_factor 28252 28272	transcription factor
+T1187	GO_EXT:transcription_factor 28326 28346	transcription factor
+T1188	GO_EXT:transcription_factor 28416 28437	transcription factors
+T1189	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 29893 29900	binding
+T1190	GO_PR_EXT:ephrin_receptor 29917 29930	Eph receptors
+T1191	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 30196 30203	binding
+T1192	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 30515 30522	binding
+T1193	GO_EXT:0016301 32637 32644	kinases
+T1194	GO_EXT:0016301 32704 32711	kinases
+T1195	GO_EXT:0004971 32716 32721	MAPKs
+T1196	GO_PR_EXT:MAP_kinase 32964 32968	MAPK
+T1197	GO_PR_EXT:ephrin_receptor 33107 33120	Eph receptors
+T1198	GO_PR_EXT:ephrin_receptor 35515 35528	Eph receptors
+T1199	GO_PR_EXT:ephrin_receptor 35934 35947	Eph receptors
+T1200	GO_PR_EXT:ephrin_receptor 37057 37070	Eph receptors
+T1201	GO_PR_EXT:ephrin_receptor 37302 37315	Eph receptors
+T1202	GO_EXT:phosphoglycerate_kinase 38598 38601	PGK
+T1203	GO:0097617 39656 39669	hybridization
+T1204	GO:0097617 39688 39701	hybridization
+T1205	GO:0097617 39816 39829	hybridization
+T1206	GO_EXT:0003678 40099 40104	DNAse
+T1207	GO_PR_EXT:alkaline_phosphatase 40524 40526	AP
+T1208	GO_PR_EXT:alkaline_phosphatase 40716 40718	AP
+T1209	GO_PR_EXT:ephrin_receptor 41143 41146	Eph
+T1210	GO_EXT:0004872 41150 41158	receptor
+T1211	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 42815 42822	binding
+T1212	GO:0097617 45452 45465	hybridization
+T1213	GO_PR_EXT:alkaline_phosphatase 47081 47083	AP
+T1214	GO_PR_EXT:alkaline_phosphatase 47585 47587	AP
+T1215	GO_PR_EXT:alkaline_phosphatase 48959 48961	AP
+T1216	GO_PR_EXT:alkaline_phosphatase 48964 48984	alkaline phosphatase
+T1217	GO:0097617 50639 50652	hybridization
+T1218	GO:0097617 51028 51041	hybridization
+T1219	GO_PR_EXT:alkaline_phosphatase 52290 52292	AP
+T1220	GO_PR_EXT:alkaline_phosphatase 52545 52547	AP
+T1221	GO_EXT:0004872 53784 53792	receptor

@@ -1,0 +1,293 @@
+T150	SO_EXT:0000704 37 41	gene
+T151	SO_EXT:sequence_coding_function 42 50	encoding
+T152	CHEBI_SO_EXT:RNA 54 57	RNA
+T153	SO_EXT:sequence_deletion_process 309 316	Deleted
+T154	GO_SO_EXT:chromosome 377 387	chromosome
+T155	SO_EXT:sequence_coding_function 388 395	encoded
+T156	SO_EXT:sequence_coding_function 416 423	encoded
+T157	CHEBI_SO_EXT:RNA 468 471	RNA
+T158	SO_EXT:0000417 480 487	domains
+T159	CHEBI_SO_EXT:proline 501 508	proline
+T160	CHEBI_SO_EXT:C_terminus_or_C_terminal_region 514 524	C - terminal
+T161	SO_EXT:0000704 736 740	gene
+T162	SO_EXT:0000704 856 861	genes
+T163	SO_EXT:0001026 875 882	genomic
+T164	SO_EXT:0005858 905 933	syntenic chromosomal regions
+T165	SO_EXT:biological_sequence 1000 1009	sequences
+T166	SO_EXT:0000855 1044 1054	orthologue
+T167	CHEBI_SO_EXT:base 1362 1376	evolutionarily
+T168	SO_EXT:biological_conservation_process_or_quality 1384 1393	...conserved
+T169	CHEBI_SO_EXT:mRNA 1543 1547	mRNA
+T170	SO_EXT:0001026 1856 1862	genome
+T171	SO_EXT:sequence_alteration_entity_or_process 1957 1966	mutations
+T172	SO_EXT:0000704 1987 1992	genes
+T173	SO_EXT:0000704 2169 2174	genes
+T174	SO_EXT:sequence_deletion_process 2220 2227	Deleted
+T175	SO_EXT:0000704 2244 2248	gene
+T176	SO_EXT:0000704 2294 2299	genes
+T177	SO_EXT:0000704 2410 2415	genes
+T178	SO_EXT:sequence_deletion_entity_or_process 2438 2446	Deletion
+T179	SO_EXT:0000704 2458 2463	genes
+T180	SO_EXT:sequence_alteration_entity_or_process 2615 2624	Mutations
+T181	SO_EXT:0000704 2775 2779	gene
+T182	SO_EXT:sequence_coding_function 2787 2794	encodes
+T183	CHEBI_SO_EXT:RNA 2795 2798	RNA
+T184	SO_EXT:0000704 3092 3099	Genetic
+T185	CHEBI_SO_EXT:mRNA 3179 3183	mRNA
+T186	SO_EXT:sequence_altered_entity 3214 3221	mutants
+T187	SO_EXT:0000853 3285 3294	homologue
+T188	CHEBI_SO_EXT:oligonucleotide 3488 3496	oligo ( U )
+T189	CHEBI_SO_EXT:bas0 3552 3553	U
+T190	SO_EXT:0000204 3574 3580	5 ' UTR
+T191	CHEBI_SO_EXT:mRNA 3597 3601	mRNA
+T192	SO_EXT:0000704 3660 3664	gene
+T193	SO_EXT:0000704 3778 3783	genes
+T194	SO_EXT:sequence_coding_function 3784 3792	encoding
+T195	SO_EXT:sequence_coding_function 3894 3901	encodes
+T196	CHEBI_SO_EXT:RNA 3921 3924	RNA
+T197	SO_EXT:0000417 3933 3940	domains
+T198	CHEBI_SO_EXT:proline 3947 3954	proline
+T199	CHEBI_SO_EXT:C_terminus_or_C_terminal_region 3960 3970	C - terminal
+T200	CHEBI_SO_EXT:RNA 4060 4063	RNA
+T201	SO_EXT:0000704 4133 4137	gene
+T202	SO_EXT:0000043 4154 4161	...product
+T203	CHEBI_SO_EXT:mRNA 4247 4251	mRNA
+T204	SO_EXT:cDNA 4312 4316	cDNA
+T205	SO_EXT:0000317 4331 4342	cDNA clones
+T206	SO_EXT:cDNA 4401 4405	cDNA
+T207	SO_EXT:cDNA 4457 4461	cDNA
+T208	SO_EXT:0000028 4479 4481	bp
+T209	SO_EXT:0000204 4482 4504	5 ' untranslated region
+T210	SO_EXT:0000203 4506 4509	...UTR
+T211	SO_EXT:0000236 4515 4533	open reading frame
+T212	CHEBI_SO_EXT:amino_acid 4555 4565	amino acid
+T213	SO_EXT:0000028 4586 4588	bp
+T214	SO_EXT:0000205 4589 4595	3 ' UTR
+T215	SO_EXT:coding_sequence 4634 4647	coding region
+T216	SO_EXT:0000855 4693 4703	orthologue
+T217	SO_EXT:0000205 4709 4715	3 ' UTR
+T218	SO_EXT:biological_sequence 4716 4724	sequence
+T219	SO_EXT:biological_conservation_process_or_quality 4739 4748	conserved
+T220	SO_EXT:0000028 4783 4785	bp
+T221	SO_EXT:0000028 4791 4793	bp
+T222	SO_EXT:0000028 4801 4803	bp
+T223	SO_EXT:0000203 4874 4877	UTR
+T224	SO_EXT:0005836 4925 4944	regulatory elements
+T225	CHEBI_SO_EXT:RNA 4979 4982	RNA
+T226	SO_EXT:0000417 4991 4998	domains
+T227	CHEBI_SO_EXT:C_terminus_or_C_terminal_region 5012 5022	C - terminal
+T228	CHEBI_SO_EXT:proline 5047 5054	proline
+T229	SO_EXT:biological_conservation_process_or_quality 5080 5089	conserved
+T230	CHEBI_SO_EXT:base 5090 5104	evolutionarily
+T231	CHEBI_SO_EXT:amino_acid 5151 5162	amino acids
+T232	SO_EXT:sequence_substitution_entity_or_process 5176 5189	substitutions
+T233	SO_EXT:sequence_deletion_entity_or_process 5198 5207	deletions
+T234	SO_EXT:sequence_insertion_entity_or_process 5208 5218	insertions
+T235	CHEBI_SO_EXT:proline 5305 5312	proline
+T236	CHEBI_SO_EXT:RNA 5318 5321	RNA
+T237	SO_EXT:biological_conservation_process_or_quality 5380 5389	conserved
+T238	CHEBI_SO_EXT:RNA 5534 5537	RNA
+T239	CHEBI_SO_EXT:C_terminus_or_C_terminal_region 5563 5573	C - terminal
+T240	CHEBI_SO_EXT:proline 5574 5581	proline
+T241	SO_EXT:biological_conservation_process_or_quality 5624 5633	conserved
+T242	SO_EXT:sequence_insertion_entity_or_process 5681 5690	insertion
+T243	SO_EXT:0000028 5699 5701	bp
+T244	SO_EXT:cDNA 5718 5722	cDNA
+T245	SO_EXT:0000239 5737 5760	change of reading frame
+T246	CHEBI_SO_EXT:C_terminus_or_C_terminal_region 5808 5809	C
+T247	CHEBI_SO_EXT:tryptophan 5810 5818	terminal
+T248	SO_EXT:biological_sequence 5823 5831	sequence
+T249	SO_EXT:biological_conservation_process_or_quality 5844 5869	Evolutionary conservation
+T250	CHEBI_SO_EXT:amino_acid 5898 5908	amino acid
+T251	SO_EXT:biological_sequence 5909 5918	sequences
+T252	CHEBI_SO_EXT:RNA 5993 5996	RNA
+T253	SO_EXT:0000417 6005 6012	domains
+T254	SO_EXT:biological_sequence 6068 6077	sequences
+T255	SO_EXT:biological_sequence 6113 6122	sequences
+T256	SO_EXT:0001026 6165 6172	Genomic
+T257	GO_SO_EXT:chromosome 6197 6216	chromosomal mapping
+T258	SO_EXT:sequence_cloned_entity 6245 6251	clones
+T259	SO_EXT:0001026 6276 6283	genomic
+T260	SO_EXT:biological_sequence 6284 6293	sequences
+T261	SO_EXT:0000147 6326 6331	exons
+T262	SO_EXT:0001421 6376 6398	exon - intron boundaries
+T263	SO_EXT:0000147 6442 6446	exon
+T264	SO_EXT:0001026 6477 6484	genomic
+T265	SO_EXT:0000704 6515 6519	gene
+T266	SO_EXT:0001026 6562 6568	genome
+T267	SO_EXT:biological_sequence 6569 6577	sequence
+T268	SO_EXT:cDNA 6649 6653	cDNA
+T269	SO_EXT:biological_sequence 6654 6662	sequence
+T270	SO_EXT:0000704 6688 6693	genes
+T271	SO_EXT:0000147 6741 6746	exons
+T272	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 6765 6767	kb
+T273	SO_EXT:0000188 6773 6779	intron
+T274	SO_EXT:0000366 6780 6795	insertion sites
+T275	SO_EXT:biological_conservation_process_or_quality 6800 6809	conserved
+T276	SO_EXT:sequence_coding_function 6838 6845	encoded
+T277	SO_EXT:0000147 6849 6854	exons
+T278	SO_EXT:0000147 6892 6896	Exon
+T279	SO_EXT:0000188 6897 6903	intron
+T280	SO_EXT:0000704 6947 6952	genes
+T281	SO_EXT:0000188 6957 6964	Introns
+T282	SO_EXT:sequence_insertion_process 6969 6977	inserted
+T283	CHEBI_SO_EXT:nucleotide 6998 7008	nucleotide
+T284	SO_EXT:cDNA 7029 7033	cDNA
+T285	SO_EXT:biological_sequence 7034 7043	sequences
+T286	SO_EXT:cDNA 7091 7096	cDNAs
+T287	SO_EXT:0000112 7153 7160	primers
+T288	SO_EXT:0000188 7186 7194	intronic
+T289	SO_EXT:biological_sequence 7195 7204	sequences
+T290	SO_EXT:0001026 7242 7249	genomic
+T291	SO_EXT:biological_sequence 7250 7259	sequences
+T292	SO_EXT:0000704 7328 7332	gene
+T293	GO_SO_EXT:chromosome 7347 7357	chromosome
+T294	SO:0000860 7437 7445	syntenic
+T295	SO_EXT:0000704 7486 7490	gene
+T296	SO_EXT:sequence_altered_entity 7532 7538	mutant
+T297	SO_EXT:0001023 7539 7546	alleles
+T298	SO_EXT:0000673 7683 7694	transcripts
+T299	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 7703 7705	kb
+T300	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 7714 7716	kb
+T301	SO_EXT:0000673 7760 7770	transcript
+T302	SO_EXT:0000317 7792 7803	cDNA clones
+T303	CHEBI_SO_EXT:mRNA 8033 8037	mRNA
+T304	CHEBI_SO_EXT:mRNA 8112 8116	mRNA
+T305	SO_EXT:0000673 8271 8282	transcripts
+T306	SO_EXT:sequence_altered_entity 8324 8330	mutant
+T307	SO_EXT:cDNA 8707 8711	cDNA
+T308	CHEBI_SO_EXT:molecular_probe 8712 8717	probe
+T309	CHEBI_SO_EXT:molecular_probe 8761 8766	probe
+T310	CHEBI_SO_EXT:RNA 8932 8936	RNAs
+T311	SO_EXT:sequence_alteration_process 9115 9122	mutated
+T312	SO_EXT:0000704 9141 9145	gene
+T313	SO_EXT:genomic_DNA 9221 9225	gDNA
+T314	SO_EXT:genomic_DNA 9235 9246	genomic DNA
+T315	SO_EXT:0000112 9256 9263	primers
+T316	SO_EXT:0000188 9274 9281	introns
+T317	SO_EXT:genomic_DNA 9330 9341	genomic DNA
+T318	GO_SO_EXT:sequence_rearrangement_process 9491 9502	recombinant
+T319	CHEBI_SO_EXT:C_terminus_or_C_terminal_region 9526 9536	C - terminal
+T320	CHEBI_SO_EXT:proline 9537 9544	proline
+T321	CHEBI_SO_EXT:oligonucleotide 9612 9624	oligopeptide
+T322	CHEBI_SO_EXT:amino_acid 9648 9658	amino acid
+T323	CHEBI_SO_EXT:C_terminus_or_C_terminal_region 9674 9684	C - terminus
+T324	CHEBI_SO_EXT:RNA 11531 11534	RNA
+T325	CHEBI_SO_EXT:RNA 11621 11624	RNA
+T326	SO_EXT:0000932 11640 11648	pre - mRNA
+T327	SO_EXT:sequence_alteration_process 11649 11659	processing
+T328	CHEBI_SO_EXT:mRNA 11661 11665	mRNA
+T329	CHEBI_SO_EXT:mRNA 11770 11774	mRNA
+T330	CHEBI_SO_EXT:RNA 12037 12040	RNA
+T331	CHEBI_SO_EXT:RNA 12157 12160	RNA
+T332	SO_EXT:0000704 12451 12456	genes
+T333	CHEBI_SO_EXT:mRNA 12534 12539	mRNAs
+T334	SO_EXT:0000704 12554 12559	genes
+T335	CHEBI_SO_EXT:RNA 12734 12737	RNA
+T336	CHEBI_SO_EXT:nucleotide 12793 12804	nuclear RNA
+T337	SO_EXT:0000932 12879 12888	pre - mRNAs
+T338	SO_EXT:sequence_coding_function 12889 12897	encoding
+T339	CHEBI_SO_EXT:glycine 12918 12925	glycine
+T340	SO_EXT:0000147 12988 12992	exon
+T341	CHEBI_SO_EXT:RNA 13041 13044	RNA
+T342	CHEBI_SO_EXT:polypeptide 13084 13098	polypyrimidine
+T343	SO_EXT:0001026 13651 13658	genomic
+T344	SO_EXT:sequence_nullness 13740 13744	null
+T345	SO_EXT:sequence_alteration_entity_or_process 13745 13753	mutation
+T346	CHEBI_SO_EXT:RNA 13781 13784	RNA
+T347	SO_EXT:0000610 13830 13836	poly U
+T348	SO_EXT:0000610 13841 13847	poly G
+T349	SO_EXT:0000855 13920 13930	orthologue
+T350	CHEBI_SO_EXT:nucleotide 14007 14009	nt
+T351	SO_EXT:biological_sequence 14010 14018	sequence
+T352	SO_EXT:0000205 14026 14032	3 ' UTR
+T353	CHEBI_SO_EXT:mRNA 14048 14052	mRNA
+T354	CHEBI_SO_EXT:mRNA 14144 14148	mRNA
+T355	CHEBI_SO_EXT:proline 14221 14228	proline
+T356	SO_EXT:0000417 14234 14240	domain
+T357	CHEBI_SO_EXT:mRNA 14345 14349	mRNA
+T358	CHEBI_SO_EXT:RNA 14381 14384	RNA
+T359	SO_EXT:sequence_coding_function 14385 14392	encodes
+T360	SO_EXT:biological_sequence 14546 14554	Sequence
+T361	SO_EXT:biological_conservation_process_or_quality 14555 14567	conservation
+T362	CHEBI_SO_EXT:RNA 14653 14656	RNA
+T363	SO_EXT:biological_sequence 14657 14666	sequences
+T364	CHEBI_SO_EXT:nucleotide 14719 14721	nt
+T365	SO_EXT:biological_sequence 14726 14734	sequence
+T366	SO_EXT:biological_sequence 14768 14777	sequences
+T367	SO:0000857 14795 14803	homology
+T368	CHEBI_SO_EXT:RNA 14828 14831	RNA
+T369	SO_EXT:biological_sequence 14832 14840	sequence
+T370	SO_EXT:biological_conservation_process_or_quality 14972 14996	evolutionarily conserved
+T371	CHEBI_SO_EXT:RNA 14997 15000	RNA
+T372	CHEBI_SO_EXT:mRNA 15293 15297	mRNA
+T373	SO_EXT:0000317 15361 15372	cDNA clones
+T374	SO_EXT:0000317 15381 15392	cDNA clones
+T375	SO_EXT:cDNA 15427 15431	cDNA
+T376	SO_EXT:cDNA 15497 15501	cDNA
+T377	CHEBI_SO_EXT:molecular_probe 15507 15512	probe
+T378	SO_EXT:cDNA 15532 15536	cDNA
+T379	SO_EXT:0000112 15619 15625	primer
+T380	SO_EXT:cDNA 15630 15634	cDNA
+T381	CHEBI_SO_EXT:RNA 15663 15666	RNA
+T382	SO_EXT:0000112 15725 15731	primer
+T383	SO_EXT:0000112 15739 15746	primers
+T384	SO_EXT:0000006 15774 15786	PCR products
+T385	SO_EXT:sequence_cloning_process 15792 15798	cloned
+T386	SO_EXT:sequence_cloning_process 15809 15816	cloning
+T387	SO_EXT:0000440 15817 15823	vector
+T388	SO_EXT:sequence_cloned_entity 15870 15876	clones
+T389	CHEBI_SO_EXT:base 15937 15938	...'
+T390	SO_EXT:sequence_cloned_entity 15944 15949	clone
+T391	SO_EXT:0000204 15967 15973	5 ' UTR
+T392	SO_EXT:0000317 15989 15999	cDNA clone
+T393	SO_EXT:0000317 16076 16086	cDNA clone
+T394	CHEBI_SO_EXT:C_terminus_or_C_terminal_region 16095 16096	C
+T395	SO_EXT:0000667 16122 16128	insert
+T396	GO_SO_EXT:chromosome 16131 16142	Chromosomal
+T397	SO_EXT:0000040 16169 16183	genomic clones
+T398	SO_EXT:0001026 16217 16224	genomic
+T399	SO_EXT:biological_sequence 16260 16269	sequences
+T400	SO:0000357 16270 16278	flanking
+T401	SO_EXT:0000147 16284 16289	exons
+T402	SO_EXT:0000112 16311 16318	primers
+T403	SO_EXT:0000188 16404 16412	intronic
+T404	SO_EXT:biological_sequence 16413 16422	sequences
+T405	SO:0000357 16423 16431	flanking
+T406	SO_EXT:0000147 16439 16443	exon
+T407	SO_EXT:0000112 16453 16460	primers
+T408	SO_EXT:0000028 16477 16479	bp
+T409	SO_EXT:genomic_DNA 16516 16527	genomic DNA
+T410	CHEBI_SO_EXT:DNA 16529 16532	DNA
+T411	SO_EXT:0000954 16594 16614	chromosome fragments
+T412	SO_EXT:0000704 16668 16676	Genetics
+T413	SO_EXT:physical_mapping_process 16833 16849	physical mapping
+T414	SO_EXT:0000704 16857 16861	gene
+T415	SO_EXT:0000673 16885 16896	transcripts
+T416	SO_EXT:cDNA 17119 17123	cDNA
+T417	CHEBI_SO_EXT:molecular_probe 17124 17130	probes
+T418	CHEBI_SO_EXT:molecular_probe 17160 17166	probes
+T419	SO_EXT:0000112 17326 17333	primers
+T420	SO_EXT:0000028 17449 17451	bp
+T421	SO_EXT:0000028 17566 17568	bp
+T422	SO_EXT:0000112 17575 17581	primer
+T423	SO_EXT:0000188 17604 17610	intron
+T424	SO_EXT:sequence_insertion_entity_or_process 17611 17620	insertion
+T425	GO_SO_EXT:sequence_rearrangement_process 17708 17719	recombinant
+T426	CHEBI_SO_EXT:oligonucleotide 17755 17767	oligopeptide
+T427	SO_EXT:0000667 17794 17800	insert
+T428	SO_EXT:0000317 17813 17823	cDNA clone
+T429	SO_EXT:sequence_coding_function 17835 17842	encoded
+T430	CHEBI_SO_EXT:C_terminus_or_C_terminal_region 17847 17857	C - terminal
+T431	CHEBI_SO_EXT:amino_acid 17891 17893	aa
+T432	SO_EXT:sequence_cloning_process 17905 17911	cloned
+T433	SO:0001817 17912 17920	in - frame
+T434	SO_EXT:0000440 17964 17970	vector
+T435	SO_EXT:biological_sequence 18002 18011	Sequences
+T436	CHEBI_SO_EXT:DNA 18046 18049	DNA
+T437	SO_EXT:sequence_fusion_entity_or_process 18076 18082	fusion
+T438	CHEBI_SO_EXT:histidine 18153 18156	His
+T439	CHEBI_SO_EXT:oligonucleotide 18325 18337	oligopeptide
+T440	CHEBI_SO_EXT:peptide_or_peptide_region 18489 18496	peptide
+T441	CHEBI_SO_EXT:oligonucleotide 18647 18659	oligopeptide
+T442	SO_EXT:0000440 20429 20436	vectors
