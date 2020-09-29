@@ -3,7 +3,7 @@ source bin/activate
 
 #ontologies='CHEBI,CL,GO_BP,GO_CC,GO_MF,MOP,NCBITaxon,PR,SO,UBERON'
 #ontologies='CHEBI'
-ont='CHEBI'
+ont='PR'
 
 excluded_files='11532192,17696610'
 
@@ -14,7 +14,7 @@ concept_norm_files_path='../Output_Folders/Concept_Norm_Files'
 full_files_path='full_files/'
 
 ##PREPROCESS ALL ONTOLOGY INFORMATION
-python3 concept_normalization_preprocess_full.py -tokenized_file_path=$tokenized_file_path -excluded_files=$excluded_files -ontologies=$ont -concept_norm_files_path=$concept_norm_files_path -full_files_path=$full_files_path
+# python3 concept_normalization_preprocess_full.py -tokenized_file_path=$tokenized_file_path -excluded_files=$excluded_files -ontologies=$ont -concept_norm_files_path=$concept_norm_files_path -full_files_path=$full_files_path
 
 
 
@@ -40,8 +40,8 @@ echo "CURRENT ONTOLOGY: $ont"
 
 #declare -a arr=('CHEBI' 'CL' 'GO_BP' 'GO_CC' 'GO_MF' 'MOP' 'NCBITaxon' 'PR' 'SO' 'UBERON')
 
+# declare -a arr=('no_duplicates' 'random_ids' 'shuffled_ids')
 declare -a arr=('full_files' 'no_duplicates' 'random_ids' 'shuffled_ids' 'alphabetical')
-#declare -a arr=('no_duplicates') #'random_ids' 'shuffled_ids')
 
 declare -a mod=('model-char_step_100000')
 
@@ -67,7 +67,7 @@ do
         onmt_preprocess -train_src $concept_norm_files_path/$ont/$i/$ont$src_file -train_tgt $concept_norm_files_path/$ont/$i/$ont$tgt_file -valid_src $concept_norm_files_path/$ont/$i/$ont$src_val -valid_tgt $concept_norm_files_path/$ont/$i/$ont$tgt_val -save_data $concept_norm_files_path/$ont/$i/$seq_2_seq_output/$ont-char --num_threads=16
 
         #train the model
-        onmt_train -data $concept_norm_files_path/$ont/$i/$seq_2_seq_output/$ont-char -save_model $concept_norm_files_path/$ont/$i/$seq_2_seq_output/$ont-model-char -model_type='text' -encoder_type='rnn' -decoder_type='rnn' -rnn_type='LSTM' -save_checkpoint_steps=5000 -valid_steps=10000 -train_steps=100000 -early_stopping=10000 -optim='sgd' #--world_size 1 #--gpu_ranks 0
+        onmt_train -data $concept_norm_files_path/$ont/$i/$seq_2_seq_output/$ont-char -save_model $concept_norm_files_path/$ont/$i/$seq_2_seq_output/$ont-model-char -model_type='text' -encoder_type='rnn' -decoder_type='rnn' -rnn_type='LSTM' -save_checkpoint_steps=5000 -valid_steps=10000 -train_steps=100000 -early_stopping=10000 -optim='sgd'  #--world_size 1 #--gpu_ranks 0
 
         ##runs the opennmt model
         for j in "${mod[@]}"
