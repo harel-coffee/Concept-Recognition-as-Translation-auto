@@ -1,0 +1,46 @@
+T1	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 58 65	binding
+T2	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 472 479	binding
+T3	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 2799 2806	binding
+T4	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 3467 3471	bind
+T5	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 3925 3932	binding
+T6	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 4051 4056	bound
+T7	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 4983 4990	binding
+T8	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 5322 5329	binding
+T9	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 5538 5545	binding
+T10	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 5997 6004	binding
+T11	GO_EXT:reverse_transcription_or_reverse_transcriptase 7998 8000	RT
+T12	GO:0097617 8682 8692	hybridized
+T13	GO:0097617 8735 8745	hybridized
+T14	GO_EXT:reverse_transcription_or_reverse_transcriptase 8891 8893	RT
+T15	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 11535 11542	binding
+T16	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 12041 12048	binding
+T17	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 12161 12168	binding
+T18	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 12738 12745	binding
+T19	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 12805 12812	binding
+T20	GO_EXT:0004872 12926 12934	receptor
+T21	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 13045 13052	binding
+T22	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 13105 13112	binding
+T23	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 13228 13235	binding
+T24	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 13776 13780	bind
+T25	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 13992 13997	binds
+T26	GO_EXT:0008083 14422 14435	growth factor
+T27	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 14637 14641	bind
+T28	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 14857 14862	binds
+T29	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 15001 15008	binding
+T30	GO_EXT:0060090 15717 15724	adaptor
+T31	GO:0097617 15903 15916	hybridization
+T32	GO:0097617 16907 16920	hybridization
+T33	GO:0097617 17071 17081	hybridized
+T34	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 17154 17159	bound
+T35	GO_EXT:polymerase 17202 17212	polymerase
+T36	GO_EXT:reverse_transcription_or_reverse_transcriptase 17229 17231	RT
+T37	GO:0097617 17286 17295	annealing
+T38	GO:0097617 17588 17596	annealed
+T39	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 18157 18161	Bind
+T40	GO_MOP_EXT:metal_chelation 18162 18177	metal chelation
+T41	GO_EXT:biological_mover_or_transporter 18522 18529	carrier
+T42	GO_EXT:0004601 19346 19356	peroxidase
+T43	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 19394 19401	binding
+T44	GO_EXT:0008428 19691 19712	ribonuclase inhibitor
+T45	CHEBI_GO_EXT:peptidase_or_protease_or_proteinase_inhibitor 19757 19776	protease inhibitors
+T46	CHEBI_GO_EXT:peptidase_or_protease_or_proteinase_inhibitor 19793 19812	Protease Inhibitors

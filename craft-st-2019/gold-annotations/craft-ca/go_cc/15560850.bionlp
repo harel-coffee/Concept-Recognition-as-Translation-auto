@@ -1,0 +1,14 @@
+T1	GO:0005634 2603 2615	cell nucleus
+T2	GO:0005741 2670 2700	outer membrane of mitochondria
+T3	GO:0042571 4971 4979	antibody
+T4	GO:0042571 5210 5218	antibody
+T5	GO:0042571 5333 5341	antibody
+T6	GO:0005576 5808 5821	extracellular
+T7	GO:0000785 10141 10150	chromatin
+T8	GO:0005741 11867 11895	outer mitochondrial membrane
+T9	GO:0032991 12076 12083	complex
+T10	GO:0032991 12135 12142	complex
+T11	GO:0005739 12261 12273	mitochondria
+T12	GO:0042571 15260 15268	antibody
+T13	GO:0042571 15627 15635	antibody
+T14	GO:0005741 16150 16178	outer mitochondrial membrane

@@ -1,0 +1,193 @@
+T1	CHEBI_PR_EXT:protein 191 198	protein
+T2	CHEBI_PR_EXT:protein 241 249	proteins
+T3	CHEBI_GO_EXT:ligand 284 290	ligand
+T4	CHEBI_GO_EXT:high_density_lipoprotein_particle 1478 1502	high-density lipoprotein
+T5	CHEBI_GO_EXT:high_density_lipoprotein_particle 1504 1507	HDL
+T6	CHEBI_GO_EXT:high_density_lipoprotein_particle 1747 1750	HDL
+T7	CHEBI_PR_EXT:protein 1806 1813	protein
+T8	CHEBI:30411 2067 2078	vitamin B12
+T9	CHEBI:30411 2079 2088	cobalamin
+T10	CHEBI:30411 2090 2093	Cbl
+T11	CHEBI:30411 2152 2155	Cbl
+T12	CHEBI:39015 2219 2233	apolipoprotein
+T13	CHEBI_GO_EXT:high_density_lipoprotein_particle 2247 2271	high density lipoprotein
+T14	CHEBI_GO_EXT:high_density_lipoprotein_particle 2273 2276	HDL
+T15	CHEBI_GO_EXT:high_density_lipoprotein_particle 2299 2302	HDL
+T16	CHEBI_GO_EXT:ligand 2345 2352	ligands
+T17	CHEBI:27300 2412 2421	vitamin D
+T18	CHEBI_PR_EXT:protein 2430 2437	protein
+T19	CHEBI_PR_EXT:myoglobin 2439 2448	myoglobin
+T20	CHEBI_PR_EXT:protein 2486 2493	protein
+T21	CHEBI_PR_EXT:protein 2537 2545	proteins
+T22	CHEBI_GO_EXT:low_density_lipoprotein_particle 2661 2684	low density lipoprotein
+T23	CHEBI_GO_EXT:high_density_lipoprotein_particle 2788 2791	HDL
+T24	CHEBI_GO_EXT:high_density_lipoprotein_particle 2851 2854	HDL
+T25	CHEBI:36916 2868 2874	cation
+T26	CHEBI:616988 2887 2906	mannose 6-phosphate
+T27	CHEBI_PR_EXT:insulin_like_growth_factor_2 2907 2936	insulin-like growth factor II
+T28	CHEBI_PR_EXT:protein 3140 3147	protein
+T29	CHEBI_PR_EXT:protein 3204 3211	protein
+T30	CHEBI_EXT:33284 3533 3542	nutrients
+T31	CHEBI_GO_EXT:high_density_lipoprotein_particle 3674 3677	HDL
+T32	CHEBI:47775 3679 3705	HDL-associated cholesterol
+T33	CHEBI:39015 3710 3724	apolipoprotein
+T34	CHEBI:42768 4860 4864	G418
+T35	CHEBI_SO_EXT:molecular_probe 5072 5078	probes
+T36	CHEBI_GO_EXT:ligand 5653 5659	Ligand
+T37	CHEBI_SO_EXT:DNA 5988 5991	DNA
+T38	CHEBI_SO_EXT:molecular_probe 5992 5998	probes
+T39	CHEBI_SO_EXT:DNA 6577 6580	DNA
+T40	CHEBI_SO_EXT:molecular_probe 6666 6672	probes
+T41	CHEBI_SO_EXT:base 6745 6746	b
+T42	CHEBI_SO_EXT:base 6790 6791	b
+T43	CHEBI_SO_EXT:DNA 6810 6813	DNA
+T44	CHEBI_SO_EXT:molecular_probe 6875 6880	probe
+T45	CHEBI_SO_EXT:base 6933 6934	b
+T46	CHEBI_SO_EXT:base 6976 6977	b
+T47	CHEBI_SO_EXT:DNA 6996 6999	DNA
+T48	CHEBI_SO_EXT:molecular_probe 7050 7055	probe
+T49	CHEBI_SO_EXT:DNA 7196 7199	DNA
+T50	CHEBI_SO_EXT:mRNA 9356 9360	mRNA
+T51	CHEBI_SO_EXT:RNA 9404 9407	RNA
+T52	CHEBI_SO_EXT:RNA 9794 9797	RNA
+T53	CHEBI:51686 11006 11007	H
+T54	CHEBI_EXT:eosin 11008 11009	E
+T55	CHEBI:51686 12251 12252	H
+T56	CHEBI_EXT:eosin 12253 12254	E
+T57	CHEBI_SO_EXT:molecular_label_or_mark_or_tag_process 14831 14839	labeling
+T58	CHEBI:51686 14984 14985	H
+T59	CHEBI_EXT:eosin 14986 14987	E
+T60	CHEBI_SO_EXT:molecular_label_or_mark_or_tag_process 15117 15124	labeled
+T61	CHEBI_SO_EXT:molecular_label_or_mark_or_tag_process 15581 15588	labeled
+T62	CHEBI:51686 17753 17754	H
+T63	CHEBI_EXT:eosin 17755 17756	E
+T64	CHEBI_EXT:polyatomic_entity_or_group 19075 19084	molecular
+T65	CHEBI_PR_EXT:protein 19310 19317	protein
+T66	CHEBI:51686 19509 19510	H
+T67	CHEBI_EXT:eosin 19511 19512	E
+T68	CHEBI_GO_EXT:high_density_lipoprotein_particle 20168 20171	HDL
+T69	CHEBI_GO_EXT:high_density_lipoprotein_particle 20238 20241	HDL
+T70	CHEBI_GO_EXT:high_density_lipoprotein_particle 20345 20348	HDL
+T71	CHEBI:52029 20416 20419	DiI
+T72	CHEBI_GO_EXT:high_density_lipoprotein_particle 20420 20423	HDL
+T73	CHEBI:52029 20454 20457	DiI
+T74	CHEBI_SO_EXT:molecular_label_or_mark_or_tag_process 20458 20466	labeling
+T75	CHEBI:52029 20484 20487	DiI
+T76	CHEBI_SO_EXT:molecular_indicator_or_label_or_marker_or_tag 20488 20493	label
+T77	CHEBI:52029 20708 20711	DiI
+T78	CHEBI_SO_EXT:molecular_label_or_mark_or_tag_process 20712 20720	labeling
+T79	CHEBI_GO_EXT:high_density_lipoprotein_particle 20808 20811	HDL
+T80	CHEBI_GO_EXT:high_density_lipoprotein_particle 20874 20877	HDL
+T81	CHEBI:52029 21084 21087	DiI
+T82	CHEBI_GO_EXT:high_density_lipoprotein_particle 21088 21091	HDL
+T83	CHEBI_GO_EXT:high_density_lipoprotein_particle 22386 22389	HDL
+T84	CHEBI_EXT:33284 23483 23492	nutrients
+T85	CHEBI_EXT:33284 23537 23546	nutrients
+T86	CHEBI_GO_EXT:ligand 23628 23634	ligand
+T87	CHEBI:27300 23729 23738	vitamin D
+T88	CHEBI_PR_EXT:protein 23747 23754	protein
+T89	CHEBI_PR_EXT:myoglobin 23756 23765	myoglobin
+T90	CHEBI_PR_EXT:protein 23800 23807	protein
+T91	CHEBI_GO_EXT:high_density_lipoprotein_particle 23820 23823	HDL
+T92	CHEBI_GO_EXT:ligand 23863 23869	ligand
+T93	CHEBI_GO_EXT:high_density_lipoprotein_particle 23871 23874	HDL
+T94	CHEBI:39015 23919 23934	apolipoproteins
+T95	CHEBI:16247 23936 23949	phospholipids
+T96	CHEBI:16113 23951 23962	cholesterol
+T97	CHEBI_EXT:24020 23967 23989	lipid soluble vitamins
+T98	CHEBI:50211 23998 24005	retinol
+T99	CHEBI:26536 24029 24042	retinoic acid
+T100	CHEBI:15035 24065 24078	retinaldehyde
+T101	CHEBI_PR_EXT:protein 24772 24780	proteins
+T102	CHEBI_GO_EXT:lipoprotein_particle 25455 25467	lipoproteins
+T103	CHEBI:16113 25483 25494	cholesterol
+T104	CHEBI_GO_EXT:antagonist 25571 25582	antagonists
+T105	CHEBI_GO_EXT:high_density_lipoprotein_particle 25644 25647	HDL
+T106	CHEBI:47775 25649 25675	HDL-associated cholesterol
+T107	CHEBI_GO_EXT:high_density_lipoprotein_particle 25831 25834	HDL
+T108	CHEBI_GO_EXT:low_density_lipoprotein_particle 25965 25968	LDL
+T109	CHEBI:16113 26011 26022	cholesterol
+T110	CHEBI_GO_EXT:high_density_lipoprotein_particle 26042 26045	HDL
+T111	CHEBI_GO_EXT:high_density_lipoprotein_particle 26126 26129;26138 26147	HDL ... particles
+T112	CHEBI_GO_EXT:low_density_lipoprotein_particle 26134 26147	LDL particles
+T113	CHEBI_GO_EXT:lipoprotein_particle 26241 26262	lipoprotein particles
+T114	CHEBI:30411 26637 26648	vitamin B12
+T115	CHEBI_SO_EXT:polypeptide 27100 27112	polypeptides
+T116	CHEBI_SO_EXT:polypeptide 27342 27353	polypeptide
+T117	CHEBI_SO_EXT:polypeptide 27444 27456	polypeptides
+T118	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 27579 27593	amino terminal
+T119	CHEBI_PR_EXT:protein 27621 27628	protein
+T120	CHEBI_SO_EXT:polypeptide 27654 27666	polypeptides
+T121	CHEBI:30411 27711 27722	vitamin B12
+T122	CHEBI_SO_EXT:polypeptide 27832 27844	polypeptides
+T123	CHEBI_SO_EXT:polypeptide 28261 28273	polypeptides
+T124	CHEBI_SO_EXT:polypeptide 28342 28354	polypeptides
+T125	CHEBI_GO_EXT:high_density_lipoprotein_particle 28727 28730	HDL
+T126	CHEBI_SO_EXT:deoxyoligonucleotide 28818 28838	deoxyoligonucleotide
+T127	CHEBI_SO_EXT:RNA 29096 29099	RNA
+T128	CHEBI_SO_EXT:molecular_probe 29465 29470	probe
+T129	CHEBI_SO_EXT:DNA 29577 29580	DNA
+T130	CHEBI_SO_EXT:base 29600 29601	b
+T131	CHEBI_SO_EXT:base 29982 29983	b
+T132	CHEBI_SO_EXT:base 30090 30091	b
+T133	CHEBI_PR_EXT:protein 30192 30199	protein
+T134	CHEBI_SO_EXT:nucleotide 30272 30283	nucleotides
+T135	CHEBI:42768 30585 30589	G418
+T136	CHEBI_SO_EXT:DNA 31319 31322	DNA
+T137	CHEBI_SO_EXT:DNA 31413 31416	DNA
+T138	CHEBI_SO_EXT:DNA 31598 31601	DNA
+T139	CHEBI_EXT:residue 31680 31688	residues
+T140	CHEBI_EXT:residue 31784 31792	residues
+T141	CHEBI_EXT:residue 32134 32142	residues
+T142	CHEBI_EXT:residue 32228 32236	residues
+T143	CHEBI_EXT:paraformaldehye 33058 33074	paraformaldehyde
+T144	CHEBI:51686 33080 33091	Hematoxylin
+T145	CHEBI_EXT:eosin 33096 33101	eosin
+T146	CHEBI:51686 33103 33104	H
+T147	CHEBI_EXT:eosin 33105 33106	E
+T148	CHEBI_SO_EXT:RNA 33918 33921	RNA
+T149	CHEBI_SO_EXT:RNA 34046 34049	RNA
+T150	CHEBI_EXT:residue 34354 34362	residues
+T151	CHEBI_EXT:residue 34448 34456	residues
+T152	CHEBI_EXT:residue 34746 34754	residues
+T153	CHEBI_EXT:residue 34843 34851	residues
+T154	CHEBI_EXT:residue 35169 35177	residues
+T155	CHEBI_EXT:residue 35252 35260	residues
+T156	CHEBI_EXT:residue 35544 35552	residues
+T157	CHEBI_EXT:residue 35626 35634	residues
+T158	CHEBI_EXT:residue 35923 35931	residues
+T159	CHEBI_EXT:residue 36007 36015	residues
+T160	CHEBI_GO_EXT:high_density_lipoprotein_particle 36276 36279	HDL
+T161	CHEBI:52029 36287 36290	DiI
+T162	CHEBI_SO_EXT:molecular_label_or_mark_or_tag_process 36291 36298	labeled
+T163	CHEBI_GO_EXT:high_density_lipoprotein_particle 36299 36302	HDL
+T164	CHEBI:52029 36304 36307	DiI
+T165	CHEBI_GO_EXT:high_density_lipoprotein_particle 36308 36311	HDL
+T166	CHEBI:52029 36373 36376	DiI
+T167	CHEBI_GO_EXT:high_density_lipoprotein_particle 36377 36380	HDL
+T168	CHEBI_GO_EXT:high_density_lipoprotein_particle 36402 36405	HDL
+T169	CHEBI:28304 36416 36423	heparin
+T170	CHEBI:26710 36490 36494	NaCl
+T171	CHEBI:9754 36502 36506	Tris
+T172	CHEBI_EXT:EDTA 36538 36542	EDTA
+T173	CHEBI_GO_EXT:lipoprotein_particle 36566 36577	Lipoprotein
+T174	CHEBI_PR_EXT:protein 36614 36621	protein
+T175	CHEBI:52029 36652 36655	DiI
+T176	CHEBI_GO_EXT:high_density_lipoprotein_particle 36656 36659	HDL
+T177	CHEBI_PR_EXT:protein 36718 36725	protein
+T178	CHEBI_GO_EXT:high_density_lipoprotein_particle 37052 37055	HDL
+T179	CHEBI_GO_EXT:high_density_lipoprotein_particle 37057 37081	high density lipoprotein
+T180	CHEBI:52029 37083 37086	DiI
+T181	CHEBI_GO_EXT:high_density_lipoprotein_particle 37087 37090	HDL
+T182	CHEBI:52029 37092 37095	DiI
+T183	CHEBI_SO_EXT:molecular_label_or_mark_or_tag_process 37096 37103	labeled
+T184	CHEBI_GO_EXT:high_density_lipoprotein_particle 37104 37107	HDL
+T185	CHEBI:39015 37117 37131	apolipoprotein
+T186	CHEBI:30411 37154 37157	Cbl
+T187	CHEBI:30411 37159 37168	cobalamin
+T188	CHEBI:51686 37192 37193	H
+T189	CHEBI_EXT:eosin 37194 37195	E
+T190	CHEBI:51686 37197 37208	Hematoxylin
+T191	CHEBI_EXT:eosin 37213 37218	eosin
+T192	CHEBI_PR_EXT:protein 37253 37260	protein
+T193	CHEBI_GO_EXT:high_density_lipoprotein_particle 37532 37535	HDL

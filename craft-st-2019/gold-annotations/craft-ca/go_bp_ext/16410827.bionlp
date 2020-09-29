@@ -1,0 +1,352 @@
+T1	GO_EXT:detection_or_sensing_of_stimulus 38 45	Sensory
+T2	GO_EXT:detection_or_sensing_of_stimulus 132 139	sensory
+T3	GO:0007605 183 190	hearing
+T4	GO_EXT:detection_or_sensing_of_stimulus 218 225	sensory
+T5	GO_EXT:detection_or_sensing_of_stimulus 273 280	sensory
+T6	GO:0065007 418 424	govern
+T7	GO:0007423 429 443;450 464	development of ... sensory organs
+T8	GO:0007219 466 481	Notch signaling
+T9	GO:0030154 510 528;534 539	differentiation of ... cells
+T10	GO:0030154 510 528;555 560	differentiation of ... cells
+T11	GO:0046331 574 592	lateral inhibition
+T12	GO:0010467 682 691	expressed
+T13	GO_EXT:detection_or_sensing_of_stimulus 705 712	sensory
+T14	GO:0030154 730 750	cell differentiation
+T15	GO:0007219 801 816	Notch signaling
+T16	GO:0048880 820 839	sensory development
+T17	GO:0007423 946 960;969 983	development of ... sensory organs
+T18	GO:0048880 1136 1155	sensory development
+T19	GO:0010467 1304 1313	expressed
+T20	GO_EXT:negative_regulation 1368 1382	down-regulated
+T21	GO:0007049 1460 1470	cell cycle
+T22	GO_RO_EXT:developmental_differentiation_process 1475 1488	differentiate
+T23	GO_EXT:negative_regulation 1534 1548	down-regulated
+T24	GO:0010467 1625 1634	expressed
+T25	GO:0010467 1751 1761	expression
+T26	GO:0007219 1837 1852	Notch signaling
+T27	GO:0007605 1985 1992	hearing
+T28	GO_EXT:detection_or_sensing_of_stimulus 2098 2105	sensory
+T29	GO:0007605 2363 2370	hearing
+T30	GO:0031099 2467 2477	regenerate
+T31	GO:0007605 2504 2511	hearing
+T32	GO:0007219 2613 2636	Notch signaling pathway
+T33	GO_EXT:detection_or_sensing_of_stimulus 2688 2695	sensory
+T34	GO_EXT:detection_or_sensing_of_stimulus 2770 2777	sensory
+T35	GO_EXT:detection_or_sensing_of_stimulus 2919 2926	sensory
+T36	GO_EXT:detection_or_sensing_of_stimulus 3045 3052	sensory
+T37	GO_EXT:detection_or_sensing_of_stimulus 3141 3148	sensory
+T38	GO:0031099 3149 3161	regeneration
+T39	GO_EXT:detection_or_sensing_of_stimulus 3507 3514	sensory
+T40	GO_EXT:detection_or_sensing_of_stimulus 3535 3542	sensory
+T41	GO_EXT:detection_or_sensing_of_stimulus 3633 3640	sensory
+T42	GO_EXT:detection_or_sensing_of_stimulus 3816 3823	sensory
+T43	GO:0007605 3867 3874	hearing
+T44	GO:0031099 4036 4046	regenerate
+T45	GO:0007605 4068 4075	hearing
+T46	GO_EXT:detection_or_sensing_of_stimulus 4199 4206	sensory
+T47	GO_EXT:detection_or_sensing_of_stimulus 4349 4356	sensory
+T48	GO_EXT:detection_or_sensing_of_stimulus 4435 4442	sensory
+T49	GO_RO_EXT:developmental_differentiation_process 4443 4458	differentiation
+T50	GO:0007423 4532 4555	sense organ development
+T51	GO:0007423 4603 4626	sense organ development
+T52	GO:0046331 4628 4646	lateral inhibition
+T53	GO:0007219 4659 4674	Notch signaling
+T54	GO_EXT:detection_or_sensing_of_stimulus 4719 4726	sensory
+T55	GO_EXT:detection_or_sensing_of_stimulus 4790 4797	sensory
+T56	GO:0046331 4845 4863	lateral inhibition
+T57	GO:0007219 4876 4891	Notch signaling
+T58	GO_EXT:cell_communication_or_signaling_or_signal_transduction 5190 5199	signaling
+T59	GO:0007219 5334 5357	Notch signaling pathway
+T60	GO:0010467 5544 5553	expressed
+T61	GO:0046331 5615 5633	lateral inhibition
+T62	GO_EXT:cell_communication_or_signaling_or_signal_transduction 5669 5675	signal
+T63	GO:0046331 5757 5775	lateral inhibition
+T64	GO:0010467 5800 5810	expression
+T65	GO_EXT:transcription 5886 5899	transcription
+T66	GO:0030154 6033 6053	cell differentiation
+T67	GO_EXT:transcription 6258 6271	transcription
+T68	GO:0007423 6321 6344	sensory organ formation
+T69	GO:0007423 6435 6456	sense organ formation
+T70	GO:0007423 6548 6569	sense organ formation
+T71	GO:0048468 6610 6622;6641 6646	formation of ... cells
+T72	GO_EXT:detection_or_sensing_of_stimulus 6732 6739	sensory
+T73	GO:0007423 6816 6839	sensory organ formation
+T74	GO:0010467 6907 6916	expressed
+T75	GO:0007219 6984 6999	Notch signaling
+T76	GO:0007423 7030 7053	sensory organ formation
+T77	GO_EXT:detection_or_sensing_of_stimulus 7180 7187	sensory
+T78	GO_EXT:fatality_or_lethality 7439 7448	lethality
+T79	GO:0010467 7565 7572	express
+T80	GO:0048880 7676 7693	sensory formation
+T81	GO:0048468 7800 7814	cell formation
+T82	GO_EXT:negative_regulation 8017 8031	down-regulated
+T83	GO_EXT:detection_or_sensing_of_stimulus 8099 8106	sensory
+T84	GO:0007219 8170 8185	Notch signaling
+T85	GO_EXT:detection_or_sensing_of_stimulus 8206 8213	sensory
+T86	GO:0010467 8798 8808	expressing
+T87	GO:0065007 8854 8861	control
+T88	GO:0010467 8941 8948	express
+T89	GO:0040007 8972 8979	growing
+T90	GO:0007127 9018 9040	first meiotic division
+T91	GO_PATO_EXT:necrosis_or_necrotic_quality 9796 9804	necrotic
+T92	GO_EXT:reverse_transcription_or_reverse_transcriptase 9858 9860	RT
+T93	GO:0010467 10569 10579	expressing
+T94	GO_SO_EXT:sequence_rearrangement_process 10671 10684	recombination
+T95	GO_EXT:fatality_or_lethality 11285 11294	Lethality
+T96	GO_PATO_EXT:necrosis_or_necrotic_quality 11558 11566	necrotic
+T97	GO_EXT:reverse_transcription_or_reverse_transcriptase 11748 11750	RT
+T98	GO:0010467 12233 12240	express
+T99	GO:0010467 12744 12754	expression
+T100	GO:0010467 12845 12855	expression
+T101	GO:0010467 12882 12892	expression
+T102	GO_EXT:biological_growth_entity_or_process 13031 13037	growth
+T103	GO:0048839 13156 13177	inner ear development
+T104	GO:0010467 13514 13523	expressed
+T105	GO:0010467 13633 13643	expression
+T106	GO:0010467 13711 13721	expression
+T107	GO:0010467 13772 13782	expression
+T108	GO:0010467 13896 13906	expression
+T109	GO:0010467 14022 14032	expression
+T110	GO:0010467 14089 14099	expression
+T111	GO:0010467 14171 14181	expression
+T112	GO:0010467 14232 14242	expression
+T113	GO:0048880 14944 14961	sensory formation
+T114	GO:0060872 15906 15936	semicircular canal development
+T115	GO_EXT:detection_or_sensing_of_stimulus 16157 16164	Sensory
+T116	GO:0010467 16227 16236	expressed
+T117	GO_EXT:detection_or_sensing_of_stimulus 16244 16251	sensory
+T118	GO_EXT:detection_or_sensing_of_stimulus 16413 16420	sensory
+T119	GO_EXT:detection_or_sensing_of_stimulus 16445 16452	sensory
+T120	GO_EXT:detection_or_sensing_of_stimulus 16521 16528	sensory
+T121	GO:0007049 16682 16692	cell cycle
+T122	GO_PATO_RO_EXT:developmental_differentiation_process_or_quality 16712 16726	differentiated
+T123	GO_PATO_EXT:biological_patterning_process_or_quality 16776 16786	patterning
+T124	GO:0048468 16935 16949	cell formation
+T125	GO_PATO_EXT:biological_patterning_process_or_quality 17519 17529	Patterning
+T126	GO:0048468 17629 17644	cell production
+T127	GO_EXT:detection_or_sensing_of_stimulus 18383 18390	sensory
+T128	GO_RO_EXT:developmental_differentiation_process 18407 18422	differentiating
+T129	GO_PATO_EXT:biological_patterning_process_or_quality 19350 19360	patterning
+T130	GO_EXT:detection_or_sensing_of_stimulus 19766 19773	Sensory
+T131	GO:0048468 20026 20041	cell production
+T132	GO:0048468 20552 20567	cell production
+T133	GO:0048468 20718 20733	cell production
+T134	GO_EXT:detection_or_sensing_of_stimulus 20848 20855	sensory
+T135	GO:0060872 20937 20955;20968 20977	semicircular canal ... formation
+T136	GO_RO_EXT:developmental_differentiation_process 21111 21126	differentiating
+T137	GO:0030154 21263 21283	cell differentiation
+T138	GO_EXT:detection_or_sensing_of_stimulus 21511 21518	sensory
+T139	GO_EXT:detection_or_sensing_of_stimulus 21617 21624	sensory
+T140	GO_PATO_EXT:biological_patterning_process_or_quality 21751 21761	patterning
+T141	GO:0048468 21810 21824	cell formation
+T142	GO_RO_EXT:developmental_differentiation_process 21842 21857	differentiation
+T143	GO_PATO_EXT:biological_patterning_process_or_quality 21881 21891	patterning
+T144	GO:0048468 22014 22028	cell formation
+T145	GO:0030154 22141 22161	cell differentiation
+T146	GO:0030154 22450 22470	cell differentiation
+T147	GO:0048468 22802 22816	cell formation
+T148	GO:0030154 22802 22806;22829 22844	cell ... differentiation
+T149	GO_PATO_RO_EXT:developmental_differentiation_process_or_quality 22923 22937	differentiated
+T150	GO_RO_EXT:developmental_differentiation_process 22999 23014	differentiation
+T151	GO_RO_EXT:developmental_differentiation_process 23149 23164	Differentiation
+T152	GO:0048468 23242 23254;23263 23268	Formation of ... Cells
+T153	GO_EXT:detection_or_sensing_of_stimulus 23255 23262	Sensory
+T154	GO_PATO_EXT:biological_patterning_process_or_quality 23363 23373	patterning
+T155	GO_RO_EXT:developmental_differentiation_process 24012 24025	differentiate
+T156	GO:0048880 24248 24267	sensory development
+T157	GO:0010467 24366 24376	expression
+T158	GO_RO_EXT:developmental_differentiation_process 24594 24607	differentiate
+T159	GO:0007049 24662 24672	cell-cycle
+T160	GO_EXT:detection_or_sensing_of_stimulus 24713 24720	sensory
+T161	GO:0007049 24745 24755	cell cycle
+T162	GO:0010467 24864 24873	expressed
+T163	GO:0007049 24962 24972	cell cycle
+T164	GO_EXT:transcription 25072 25085	transcription
+T165	GO:0010467 25301 25311	expression
+T166	GO:0010467 25395 25404	expressed
+T167	GO:0010467 25457 25467	expression
+T168	GO:0010467 25494 25503	expressed
+T169	GO:0010467 25777 25787	expression
+T170	GO:0010467 25945 25954	expressed
+T171	GO:0010467 26016 26026	expression
+T172	GO:0010467 26178 26188	expression
+T173	GO_EXT:detection_or_sensing_of_stimulus 26266 26273	sensory
+T174	GO_RO_EXT:developmental_differentiation_process 26274 26289	differentiation
+T175	GO:0010467 26365 26374	Expressed
+T176	GO_EXT:negative_regulation 26818 26832	down-regulated
+T177	GO:0010467 26891 26901	expression
+T178	GO:0010467 27035 27044	expressed
+T179	GO:0010467 27191 27200	expressed
+T180	GO_EXT:detection_or_sensing_of_stimulus 27452 27459	sensory
+T181	GO:0010467 27498 27508	expression
+T182	GO:0010467 27596 27605	expressed
+T183	GO_EXT:detection_or_sensing_of_stimulus 27678 27685	sensory
+T184	GO:0010467 27719 27729	expression
+T185	GO_EXT:negative_regulation 27865 27879	down-regulated
+T186	GO:0010467 27958 27967	expressed
+T187	GO:0048880 28072 28089	sensory formation
+T188	GO:0007049 28112 28122	cell cycle
+T189	GO:0030154 28132 28150;28164 28169	differentiation of ... cells
+T190	GO:0030154 28132 28150;28196 28201	differentiation of ... cells
+T191	GO_EXT:detection_or_sensing_of_stimulus 28151 28158	sensory
+T192	GO_EXT:detection_or_sensing_of_stimulus 28177 28184	sensory
+T193	GO:0010467 28231 28240	Expressed
+T194	GO:0010467 28279 28289	Expression
+T195	GO_EXT:negative_regulation 28293 28307	Down-Regulated
+T196	GO_PATO_EXT:biological_localization_process_or_quality 28639 28648	localized
+T197	GO:0010467 28672 28681	expressed
+T198	GO:0010467 28752 28762	expression
+T199	GO:0010467 28849 28859	expression
+T200	GO:0010467 28994 29004	expression
+T201	GO_EXT:detection_or_sensing_of_stimulus 29060 29067	sensory
+T202	GO:0010467 29133 29143	expression
+T203	GO:0010467 29230 29240	expression
+T204	GO:0010467 29283 29293	expression
+T205	GO:0010467 29315 29325	expression
+T206	GO_EXT:detection_or_sensing_of_stimulus 29461 29468	sensory
+T207	GO:0010467 29585 29594	expressed
+T208	GO_EXT:detection_or_sensing_of_stimulus 29629 29636	sensory
+T209	GO:0010467 29651 29661	expression
+T210	GO_EXT:detection_or_sensing_of_stimulus 29698 29705	sensory
+T211	GO_RO_EXT:developmental_differentiation_process 29706 29721	differentiation
+T212	GO:0010467 29804 29814	expression
+T213	GO:0010467 29917 29927	expression
+T214	GO:0010467 29965 29975	expression
+T215	GO_RO_EXT:developmental_differentiation_process 30072 30087	differentiation
+T216	GO:0010467 30154 30164	expression
+T217	GO:0010467 30491 30501	Expression
+T218	GO:0048880 30527 30544	Sensory Formation
+T219	GO:0010467 30653 30663	expression
+T220	GO:0010467 30791 30801	expression
+T221	GO:0007219 31052 31067	Notch signaling
+T222	GO_EXT:detection_or_sensing_of_stimulus 31156 31163	sensory
+T223	GO:0010467 31197 31207	expression
+T224	GO_EXT:negative_regulation 31383 31397	down-regulated
+T225	GO_EXT:detection_or_sensing_of_stimulus 31439 31446	sensory
+T226	GO:0007049 31468 31478	cell cycle
+T227	GO_RO_EXT:developmental_differentiation_process 31489 31504	differentiating
+T228	GO_EXT:negative_regulation 31569 31583	down-regulated
+T229	GO_EXT:detection_or_sensing_of_stimulus 31712 31719	sensory
+T230	GO:0048468 31780 31794	Cell Formation
+T231	GO_EXT:detection_or_sensing_of_stimulus 31919 31926	sensory
+T232	GO_PATO_RO_EXT:developmental_differentiation_process_or_quality 32114 32128	differentiated
+T233	GO:0048468 32226 32240	cell formation
+T234	GO:0030154 32326 32346	cell differentiation
+T235	GO_EXT:detection_or_sensing_of_stimulus 32645 32652	sensory
+T236	GO_PATO_EXT:biological_patterning_process_or_quality 32775 32785	patterning
+T237	GO_EXT:detection_or_sensing_of_stimulus 33265 33272	sensory
+T238	GO_EXT:detection_or_sensing_of_stimulus 34048 34055	sensory
+T239	GO_RO_EXT:developmental_differentiation_process 34114 34127	differentiate
+T240	GO_RO_EXT:developmental_differentiation_process 34215 34228	differentiate
+T241	GO_RO_EXT:developmental_differentiation_process 34322 34335	differentiate
+T242	GO:0007049 34489 34499	cell cycle
+T243	GO:0060026 35089 35109	convergent extension
+T244	GO_EXT:biological_growth_entity_or_process 35170 35176	growth
+T245	GO:0008283 35222 35235	proliferation
+T246	GO_EXT:negative_regulation 35577 35592	down-regulation
+T247	GO:0008283 35639 35655;35670 35675	proliferation of ... cells
+T248	GO:0051301 35711 35724	cell division
+T249	GO_EXT:detection_or_sensing_of_stimulus 35742 35749	sensory
+T250	GO_EXT:detection_or_sensing_of_stimulus 35894 35901	sensory
+T251	GO:0007219 35962 35977	Notch signaling
+T252	GO:0008543 35979 36013	fibroblast growth factor signaling
+T253	GO_EXT:transcription 36023 36036	transcription
+T254	GO_EXT:detection_or_sensing_of_stimulus 36125 36132	sensory
+T255	GO:0043583 36492 36507	ear development
+T256	GO_EXT:cell_communication_or_signaling_or_signal_transduction 36636 36645	signaling
+T257	GO_RO_EXT:developmental_differentiation_process 36650 36665	differentiation
+T258	GO:0007219 36724 36739	Notch signaling
+T259	GO:0007219 36926 36941	Notch signaling
+T260	GO_PATO_RO_EXT:developmental_differentiation_process_or_quality 36983 36997	differentiated
+T261	GO:0007219 37076 37091	Notch signaling
+T262	GO_RO_EXT:developmental_differentiation_process 37111 37126	differentiation
+T263	GO:0007219 37299 37314	Notch signaling
+T264	GO:0007219 37413 37428	Notch signaling
+T265	GO:0007219 37617 37632	Notch signaling
+T266	GO_EXT:detection_or_sensing_of_stimulus 37659 37666	sensory
+T267	GO_RO_EXT:developmental_differentiation_process 37790 37805	differentiation
+T268	GO_PATO_EXT:cell_proliferation_or_proliferativity 37879 37892	proliferative
+T269	GO_EXT:detection_or_sensing_of_stimulus 37909 37916	sensory
+T270	GO_EXT:detection_or_sensing_of_stimulus 38014 38021	sensory
+T271	GO:0010467 38047 38057	expressing
+T272	GO_EXT:detection_or_sensing_of_stimulus 38155 38162	sensory
+T273	GO:0007219 38211 38226	Notch signaling
+T274	GO_EXT:detection_or_sensing_of_stimulus 38265 38272	sensory
+T275	GO_EXT:detection_or_sensing_of_stimulus 38357 38364	sensory
+T276	GO_EXT:detection_or_sensing_of_stimulus 38433 38440	sensory
+T277	GO:0010467 38518 38528	expressing
+T278	GO:0016055 38601 38622	Wnt signaling pathway
+T279	GO_EXT:detection_or_sensing_of_stimulus 38693 38700	sensory
+T280	GO:0010467 38827 38837	expression
+T281	GO_EXT:detection_or_sensing_of_stimulus 38875 38882	sensory
+T282	GO:0016055 38948 38961	Wnt signaling
+T283	GO:0065007 38962 38969	governs
+T284	GO_EXT:detection_or_sensing_of_stimulus 38989 38996	sensory
+T285	GO_EXT:detection_or_sensing_of_stimulus 39035 39042	sensory
+T286	GO_EXT:cell_communication_or_signaling_or_signal_transduction 39152 39161	signaling
+T287	GO:0030509 39292 39318;39325 39334	Bone morphogenetic protein ... signaling
+T288	GO:0030509 39320 39323;39325 39334	BMP ... signaling
+T289	GO:0048880 39361 39378	sensory formation
+T290	GO_EXT:detection_or_sensing_of_stimulus 39401 39408	sensory
+T291	GO:0030509 39556 39569	BMP signaling
+T292	GO:0048880 39605 39624	sensory development
+T293	GO:0010467 39682 39692	expression
+T294	GO_EXT:cell_communication_or_signaling_or_signal_transduction 39905 39923	signaling pathways
+T295	GO_EXT:detection_or_sensing_of_stimulus 39973 39980	sensory
+T296	GO:0048880 40037 40054	Sensory Formation
+T297	GO_EXT:detection_or_sensing_of_stimulus 40157 40164	sensory
+T298	GO:0048880 40202 40219	sensory formation
+T299	GO:0010467 40428 40438	expression
+T300	GO:0010467 40513 40522	expressed
+T301	GO:0007049 40565 40575	cell cycle
+T302	GO_RO_EXT:developmental_differentiation_process 40586 40601	differentiating
+T303	GO:0010467 40637 40647	expression
+T304	GO:0010467 40669 40682;40692 40696	expression of ... gene
+T305	GO:0010467 40849 40859	expression
+T306	GO:0014019 40916 40928;40933 40944	formation of ... neuroblasts
+T307	GO:0060232 40950 40960	delaminate
+T308	GO_RO_EXT:developmental_differentiation_process 40996 41009	differentiate
+T309	GO:0060384 41037 41046	innervate
+T310	GO:0014019 41111 41131	neuroblast formation
+T311	GO:0007219 41141 41155;41164 41173	Notch-mediated ... signaling
+T312	GO:0010467 41362 41372	expression
+T313	GO:0010467 41457 41467	expression
+T314	GO_EXT:detection_or_sensing_of_stimulus 41480 41487	sensory
+T315	GO:0048880 41550 41567	sensory formation
+T316	GO_EXT:detection_or_sensing_of_stimulus 41636 41643	sensory
+T317	GO_EXT:detection_or_sensing_of_stimulus 41958 41965	sensory
+T318	GO:0010467 42016 42025	expressed
+T319	GO_EXT:detection_or_sensing_of_stimulus 42033 42040	sensory
+T320	GO:0060872 42057 42085	semicircular canal formation
+T321	GO_EXT:positive_regulation 42094 42107	up-regulation
+T322	GO:0035295 42193 42208	canal formation
+T323	GO:0048880 42287 42304	sensory formation
+T324	GO:0035295 42591 42606	canal formation
+T325	GO:0090102 42855 42873	cochlear formation
+T326	GO:0048513 42918 42932;42937 42942	development of ... organ
+T327	GO:0048880 43022 43039	sensory formation
+T328	GO:0048880 43105 43122	sensory formation
+T329	GO:0060026 43151 43171	convergent extension
+T330	GO:0060026 43342 43362	convergent extension
+T331	GO:0060026 43496 43516	convergent extension
+T332	GO_EXT:detection_or_sensing_of_stimulus 43556 43563	sensory
+T333	GO_EXT:detection_or_sensing_of_stimulus 43648 43655	sensory
+T334	GO:0007219 43772 43787	Notch signaling
+T335	GO_EXT:detection_or_sensing_of_stimulus 43803 43810	sensory
+T336	GO:0008543 43873 43886	FGF signaling
+T337	GO:0010467 43896 43906	expression
+T338	GO_EXT:detection_or_sensing_of_stimulus 43930 43937	sensory
+T339	GO:0031099 43987 43999	regeneration
+T340	GO:0007605 44050 44057	hearing
+T341	GO_SO_EXT:sequence_rearrangement_process 45881 45894	recombination
+T342	GO:0007618 46322 46327	mated
+T343	GO:0010467 46714 46724	expression
+T344	GO:0007618 46851 46857	mating
+T345	GO:0010467 46895 46905	expressing
+T346	GO_SO_EXT:sequence_rearrangement_process 48275 48288	recombination
+T347	GO_EXT:reverse_transcription_or_reverse_transcriptase 50530 50532	RT
+T348	GO_EXT:reverse_transcription_or_reverse_transcriptase 51486 51488	RT
+T349	CHEBI_GO_EXT:biological_process_or_quality_or_role 52244 52251	Biology
+T350	GO:0060349 52504 52522	bone morphogenetic
+T351	GO_EXT:biological_growth_entity_or_process 52678 52684	growth
+T352	GO_EXT:detection_or_sensing_of_stimulus 53209 53216	sensory

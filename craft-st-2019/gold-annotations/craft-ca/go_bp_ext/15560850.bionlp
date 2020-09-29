@@ -1,0 +1,86 @@
+T1	GO:0010467 161 170	expressed
+T2	GO:0006457 251 266	protein folding
+T3	GO_EXT:cell_communication_or_signaling_or_signal_transduction 278 296	signaling pathways
+T4	GO:0010467 318 328	expression
+T5	GO:0010467 471 481	expression
+T6	GO:0010467 815 822	express
+T7	GO_EXT:biological_growth_entity_or_process 1074 1080	growth
+T8	GO:0008283 1372 1390	cell proliferation
+T9	GO:0000165 1394 1411;1416 1433	signaling through ... mitogenic cascade
+T10	GO:0006915 1477 1486	apoptosis
+T11	GO:0010467 1515 1525	expression
+T12	GO:0006915 1562 1571	apoptosis
+T13	GO:0010467 1801 1810	expressed
+T14	GO:0006457 2343 2358	protein folding
+T15	GO_EXT:cell_communication_or_signaling_or_signal_transduction 2370 2388	signaling pathways
+T16	GO_EXT:cell_communication_or_signaling_or_signal_transduction 2390 2399	Signaling
+T17	GO:0008283 2419 2423;2435 2448	cell ... proliferation
+T18	GO_EXT:biological_growth_entity_or_process 2424 2430	growth
+T19	GO:0065007 2466 2475	regulated
+T20	GO:0000165 2505 2522	mitogenic cascade
+T21	GO_EXT:biological_growth_entity_or_process 2546 2552	growth
+T22	GO:0010467 2917 2927	expression
+T23	GO:0010467 3070 3080	expression
+T24	GO_SO_EXT:sequence_rearrangement_process 3971 3984	recombination
+T25	GO_EXT:breeding 4094 4098	bred
+T26	GO:0010467 4597 4607	expressing
+T27	GO:0010467 4730 4740	expression
+T28	GO_EXT:biological_movement_or_translocation_process 4856 4867	transferred
+T29	GO_EXT:killing 5470 5480	sacrificed
+T30	GO:0065007 5829 5838	regulated
+T31	GO:0008283 5854 5867	proliferating
+T32	GO_PATO_EXT:apoptotic_process_or_quality 5926 5935	Apoptotic
+T33	GO_PATO_EXT:phosphorylation_process_or_quality 5946 5947	p
+T34	GO:0010467 6450 6460	expression
+T35	GO:0006413 6525 6547	translation initiation
+T36	GO:0016265 6779 6783	died
+T37	GO:0007565 6790 6799	gestation
+T38	GO_EXT:biological_routing_or_transport 7016 7025	targeting
+T39	GO_EXT:biological_growth_entity_or_process 7296 7302	growth
+T40	GO:0010467 8086 8096	expression
+T41	GO:0010467 8361 8370	expressed
+T42	GO:0006915 8586 8595	apoptosis
+T43	GO:0010467 8669 8679	expression
+T44	GO_PATO_EXT:apoptotic_process_or_quality 8763 8772	apoptotic
+T45	GO:0006915 8840 8849	apoptosis
+T46	GO_PATO_EXT:apoptotic_process_or_quality 9086 9095	apoptotic
+T47	GO:0065007 9247 9257	regulation
+T48	GO:0006915 9495 9504	apoptosis
+T49	GO:0008283 9568 9581	Proliferation
+T50	GO_PATO_EXT:phosphorylation_process_or_quality 9586 9587	p
+T51	GO_EXT:cell_communication_or_signaling_or_signal_transduction 9592 9602	signalling
+T52	GO:0010467 9717 9727	expression
+T53	GO:0008283 9772 9790	cell proliferation
+T54	GO:0008283 9821 9834	proliferating
+T55	GO:0008283 9929 9942	proliferating
+T56	GO:0008283 10107 10120	proliferation
+T57	GO:0010467 10170 10179	expressed
+T58	GO_PATO_EXT:phosphorylation_process_or_quality 10297 10311	phosphorylated
+T59	GO:0000165 10453 10471;10476 10493	signalling through ... mitogenic cascade
+T60	GO_EXT:cell_communication_or_signaling_or_signal_transduction 10613 10632	signalling pathways
+T61	GO_EXT:biological_growth_entity_or_process 10648 10654	growth
+T62	GO_EXT:negative_regulation 10700 10714	downregulation
+T63	GO_EXT:cell_communication_or_signaling_or_signal_transduction 10746 10765	signalling cascades
+T64	GO:0010467 10843 10853	expression
+T65	GO:0065007 10992 11001	regulated
+T66	GO:0010467 11139 11149	expression
+T67	GO:0006915 11187 11196	apoptosis
+T68	GO_PATO_EXT:physiological_process_or_quality 11621 11634	physiological
+T69	GO_EXT:positive_regulation 11660 11673	up-regulation
+T70	GO:0006915 11717 11726	apoptosis
+T71	GO:0006915 11938 11947	apoptosis
+T72	GO:0010467 12014 12023	expressed
+T73	GO:0065007 12210 12218	regulate
+T74	GO:0010467 12634 12644	expression
+T75	GO:0016246 12663 12700	RNA interference-based gene silencing
+T76	GO:0010467 12729 12739	expression
+T77	GO_EXT:biological_growth_entity_or_process 14124 14130	growth
+T78	GO:0010467 14772 14782	expression
+T79	GO:0010467 14872 14882	expression
+T80	GO:0010467 15060 15070	expression
+T81	GO:0006915 15442 15451	apoptosis
+T82	GO_PATO_EXT:phosphorylation_process_or_quality 15478 15479	p
+T83	GO:0006915 15608 15617	apoptosis
+T84	GO_PATO_EXT:phosphorylation_process_or_quality 15687 15701	phosphorylated
+T85	GO_PATO_EXT:phosphorylation_process_or_quality 15707 15708	p
+T86	GO:0006915 16221 16230	apoptosis

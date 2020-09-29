@@ -1,0 +1,91 @@
+T1	GO_EXT:0008083 42 55	growth factor
+T2	GO_EXT:0008083 170 183	growth factor
+T3	GO_EXT:0033558 291 310	protein deacetylase
+T4	GO_EXT:transcription_factor 408 429	transcription factors
+T5	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 1595 1602	binding
+T6	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 2170 2177	binding
+T7	CHEBI_GO_SO_EXT:enzyme 2355 2364	enzymatic
+T8	GO_EXT:0017136 2520 2584	nicotinamide adenine dinucleotide-dependent histone deacetylases
+T9	GO_EXT:0008083 3402 3415	growth factor
+T10	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 3567 3572	bound
+T11	GO_EXT:0004872 3573 3582	receptors
+T12	GO_EXT:0016301 3596 3603	kinases
+T13	GO_EXT:transcription_factor 3617 3638	transcription factors
+T14	GO_EXT:transcription_factor 3821 3842	transcription factors
+T15	GO_EXT:transcription_factor 4019 4040	transcription factors
+T16	GO_EXT:transcription_factor 4080 4101	transcription factors
+T17	GO_EXT:0016301 4179 4186	kinases
+T18	CHEBI_GO_EXT:hormone 4527 4535	hormones
+T19	CHEBI_GO_EXT:hormone 4673 4681	hormonal
+T20	GO_EXT:transcription_factor 4824 4845	transcription factors
+T21	CHEBI_GO_PR_EXT:growth_hormone 6032 6046	growth hormone
+T22	CHEBI_GO_PR_EXT:growth_hormone 6048 6050	GH
+T23	CHEBI_GO_PR_EXT:growth_hormone 6241 6243	GH
+T24	GO_PR_EXT:growth_hormone_receptor 6262 6273	GH receptor
+T25	GO_PR_EXT:estrogen_receptor 6278 6295	estrogen receptor
+T26	CHEBI_GO_EXT:hormone 6396 6404	hormones
+T27	GO_EXT:0008083 8365 8378	growth factor
+T28	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 11239 11246	binding
+T29	GO_EXT:0004601 11438 11448	peroxidase
+T30	GO_MOP_EXT:catalysis 12225 12234	catalyzes
+T31	CHEBI_GO_EXT:hormone 13298 13306	hormonal
+T32	CHEBI_GO_PR_EXT:growth_hormone 13508 13510	GH
+T33	CHEBI_GO_PR_EXT:growth_hormone 13531 13533	GH
+T34	CHEBI_GO_EXT:hormone 17179 17187	hormones
+T35	GO_EXT:0008083 17192 17206	growth factors
+T36	GO_PR_EXT:DNA_nucleotidylexotransferase 19687 19724	Terminal deoxynucleotidyl transferase
+T37	CHEBI_GO_PR_EXT:growth_hormone 22279 22281	GH
+T38	GO_EXT:0004872 22363 22372	receptors
+T39	GO_PR_EXT:growth_hormone_receptor 22386 22397	GH receptor
+T40	CHEBI_GO_PR_EXT:growth_hormone 22474 22476	GH
+T41	GO_EXT:0008384 22951 22961	IκB kinase
+T42	GO_EXT:0008384 26495 26505	IκB kinase
+T43	GO_EXT:0004872 28721 28729	receptor
+T44	GO_EXT:0035004 28730 28759	phosphoinositide-3'-OH kinase
+T45	GO_EXT:0004872 28921 28929	receptor
+T46	GO_EXT:0004872 29008 29016	receptor
+T47	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 29039 29046	binding
+T48	GO_EXT:0035004 29085 29114	phosphoinositide-3'-OH kinase
+T49	GO_EXT:0016301 29123 29129	kinase
+T50	GO_EXT:0035004 29165 29194	phosphoinositide-3'-OH kinase
+T51	GO_EXT:0016301 29360 29366	kinase
+T52	GO_EXT:0004872 29609 29617	receptor
+T53	GO_EXT:0004872 29963 29971	receptor
+T54	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 30559 30566	binding
+T55	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 30653 30660	binding
+T56	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 30785 30789	bind
+T57	CHEBI_GO_PR_EXT:growth_hormone 35461 35463	GH
+T58	CHEBI_GO_EXT:hormone 36345 36352	hormone
+T59	CHEBI_GO_SO_EXT:enzyme 37311 37320	enzymatic
+T60	CHEBI_GO_EXT:agonist 37568 37576	agonists
+T61	CHEBI_GO_EXT:antagonist 37580 37591	antagonists
+T62	GO_EXT:transcription_factor 37716 37737	transcription factors
+T63	CHEBI_GO_EXT:antagonist 37856 37867	antagonists
+T64	GO_PR_EXT:estrogen_receptor 38719 38736	estrogen receptor
+T65	CHEBI_GO_PR_EXT:growth_hormone 38781 38783	GH
+T66	CHEBI_GO_PR_EXT:growth_hormone 38786 38800	growth hormone
+T67	GO_EXT:0008083 38823 38836	growth factor
+T68	GO_EXT:0008083 38863 38876	growth factor
+T69	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 38879 38886	binding
+T70	GO_EXT:0008083 38956 38969	growth factor
+T71	GO_EXT:0008384 38990 39009	inhibitors of NF-κB
+T72	GO_EXT:0008384 39032 39042	IκB kinase
+T73	GO_EXT:polymerase 39112 39122	polymerase
+T74	GO_EXT:0030546 39146 39164	receptor activator
+T75	GO_EXT:0008083 41264 41277	growth factor
+T76	GO_EXT:0008083 42902 42915	growth factor
+T77	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 42918 42925	binding
+T78	GO_EXT:0008083 43573 43586	growth factor
+T79	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 43589 43596	binding
+T80	GO_PR_EXT:DNA_nucleotidylexotransferase 44297 44334	Terminal deoxynucleotidyl transferase
+T81	GO_EXT:0008083 45366 45379	growth factor
+T82	GO_EXT:0008083 45456 45469	growth factor
+T83	GO_EXT:0016301 45517 45524	kinases
+T84	GO_EXT:0008083 45685 45698	growth factor
+T85	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 45701 45708	binding
+T86	GO_EXT:0004872 45858 45866	receptor
+T87	GO_PR_EXT:estrogen_receptor 45903 45920	estrogen receptor
+T88	GO_PR_EXT:estrogen_receptor 45922 45924	ER
+T89	CHEBI_GO_PR_EXT:growth_hormone 46126 46140	growth hormone
+T90	CHEBI_GO_PR_EXT:growth_hormone 46142 46144	GH
+T91	GO_PR_EXT:estrogen_receptor 46233 46235	ER

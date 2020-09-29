@@ -1,0 +1,113 @@
+T1	GO_EXT:transcription_factor 241 262	transcription factors
+T2	GO_EXT:transcription_factor 586 606	transcription factor
+T3	GO_EXT:0004565 1138 1153	β-galactosidase
+T4	GO_EXT:transcription_factor 3375 3396	transcription factors
+T5	GO_EXT:transcription_factor 4105 4126	transcription factors
+T6	GO_EXT:transcription_factor 4214 4235	transcription factors
+T7	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 4297 4301	bind
+T8	GO_EXT:transcription_factor 6695 6716	transcription factors
+T9	GO_EXT:beta_geo 7010 7014	βgeo
+T10	GO_EXT:0004565 7046 7061	β-galactosidase
+T11	CHEBI_GO_EXT:neomycin_or_neomycin_phosphotransferase 7062 7065	neo
+T12	GO_EXT:beta_geo 7067 7071	βgeo
+T13	GO_EXT:beta_geo 7167 7171	βgeo
+T14	GO_EXT:0004565 7380 7395	β-galactosidase
+T15	GO_EXT:beta_geo 7429 7433	βgeo
+T16	GO:0097617 7530 7543	hybridization
+T17	GO_EXT:beta_geo 7885 7889	βgeo
+T18	GO_EXT:beta_geo 7890 7894	βgeo
+T19	GO_EXT:beta_geo 8191 8195	βgeo
+T20	GO_EXT:beta_geo 8201 8205	βgeo
+T21	GO_EXT:0004565 8293 8308	β-galactosidase
+T22	GO_EXT:beta_geo 8880 8884	βgeo
+T23	GO_EXT:beta_geo 8985 8989	βgeo
+T24	GO_EXT:beta_geo 12242 12246	βgeo
+T25	GO_EXT:transcription_factor 14107 14128	transcription factors
+T26	GO_EXT:transcription_factor 14255 14276	transcription factors
+T27	GO_EXT:beta_geo 15499 15503	βgeo
+T28	GO_EXT:0004565 15551 15566	β-galactosidase
+T29	GO_EXT:beta_geo 16241 16245	βgeo
+T30	GO_EXT:beta_geo 16266 16270	βgeo
+T31	GO_EXT:0004565 16568 16583	β-galactosidase
+T32	GO_EXT:beta_geo 16618 16622	βgeo
+T33	GO_EXT:transcription_factor 17212 17232	transcription factor
+T34	GO_EXT:beta_geo 19533 19537	βgeo
+T35	GO_EXT:beta_geo 19844 19848	βgeo
+T36	GO_EXT:beta_geo 19876 19880	βgeo
+T37	GO_EXT:beta_geo 19957 19961	βgeo
+T38	GO_EXT:beta_geo 20301 20305	βgeo
+T39	GO_EXT:beta_geo 20325 20329	βgeo
+T40	GO_EXT:beta_geo 21983 21987	βgeo
+T41	GO_EXT:beta_geo 22131 22135	βgeo
+T42	GO_EXT:beta_geo 22145 22149	βgeo
+T43	GO_EXT:beta_geo 22194 22198	βgeo
+T44	GO_EXT:beta_geo 22475 22479	βgeo
+T45	GO_EXT:beta_geo 22559 22563	βgeo
+T46	GO_EXT:beta_geo 22630 22634	βgeo
+T47	GO_EXT:beta_geo 22892 22896	βgeo
+T48	GO_EXT:beta_geo 23605 23609	βgeo
+T49	GO_EXT:beta_geo 23717 23721	βgeo
+T50	GO_EXT:beta_geo 23968 23972	βgeo
+T51	GO_EXT:beta_geo 24091 24095	βgeo
+T52	GO_EXT:beta_geo 24255 24259	βgeo
+T53	GO_EXT:beta_geo 24301 24305	βgeo
+T54	GO_EXT:beta_geo 24348 24352	βgeo
+T55	GO_EXT:beta_geo 24826 24830	βgeo
+T56	GO_EXT:beta_geo 24919 24923	βgeo
+T57	GO_EXT:beta_geo 25271 25275	βgeo
+T58	GO_EXT:beta_geo 25412 25416	βgeo
+T59	GO_EXT:beta_geo 26924 26928	βgeo
+T60	GO_EXT:transcription_factor 27473 27494	transcription factors
+T61	GO_EXT:transcription_factor 27736 27757	transcription factors
+T62	GO_EXT:beta_geo 29899 29903	βgeo
+T63	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 30429 30436	binding
+T64	GO_EXT:transcription_factor 31539 31560	transcription factors
+T65	GO_EXT:beta_geo 32610 32614	βgeo
+T66	GO_EXT:beta_geo 34785 34789	βgeo
+T67	GO_EXT:transcription_factor 35480 35501	transcription factors
+T68	GO_EXT:beta_geo 35995 35999	βgeo
+T69	GO_EXT:beta_geo 36292 36296	βgeo
+T70	GO_EXT:beta_geo 36984 36988	βgeo
+T71	GO_EXT:0004565 37117 37132	β-galactosidase
+T72	GO_EXT:beta_geo 37371 37375	βgeo
+T73	GO_EXT:beta_geo 37837 37841	βgeo
+T74	GO_EXT:recombinase 38019 38030	recombinase
+T75	GO_EXT:beta_geo 38140 38144	βgeo
+T76	GO:0097617 38265 38278	hybridization
+T77	GO_EXT:0004565 38285 38300	β-galactosidase
+T78	GO_EXT:reverse_transcription_or_reverse_transcriptase 38552 38554	RT
+T79	GO_EXT:0004565 39784 39799	β-galactosidase
+T80	GO_EXT:0004565 42707 42722	β-galactosidase
+T81	GO_EXT:0004565 43252 43267	β-galactosidase
+T82	GO_EXT:beta_geo 43336 43340	βgeo
+T83	GO_EXT:beta_geo 46814 46818	βgeo
+T84	GO_EXT:0004565 46821 46836	β-galactosidase
+T85	CHEBI_GO_EXT:neomycin_or_neomycin_phosphotransferase 46837 46840	neo
+T86	GO_EXT:beta_geo 46886 46890	βgeo
+T87	GO_EXT:beta_geo 47025 47029	βgeo
+T88	GO_EXT:0015666 47031 47050	Restriction enzymes
+T89	GO_EXT:beta_geo 47123 47127	βgeo
+T90	GO:0097617 47240 47250	hybridized
+T91	GO_EXT:beta_geo 47354 47358	βgeo
+T92	GO_EXT:beta_geo 47380 47384	βgeo
+T93	GO_EXT:beta_geo 47775 47779	βgeo
+T94	GO_EXT:beta_geo 47964 47968	βgeo
+T95	GO_EXT:beta_geo 48375 48379	βgeo
+T96	GO_EXT:beta_geo 48409 48413	βgeo
+T97	GO:0097617 49295 49308	hybridization
+T98	GO_EXT:0004565 51775 51790	β-galactosidase
+T99	GO_EXT:beta_geo 51811 51815	βgeo
+T100	GO_EXT:beta_geo 51928 51932	βgeo
+T101	GO:0097617 52142 52155	hybridization
+T102	GO_EXT:beta_geo 53130 53134	βgeo
+T103	GO_EXT:0015666 53136 53155	Restriction enzymes
+T104	GO_EXT:beta_geo 53286 53290	βgeo
+T105	GO:0097617 53381 53391	hybridized
+T106	GO_EXT:beta_geo 54200 54204	βgeo
+T107	GO_EXT:beta_geo 54220 54224	βgeo
+T108	GO_EXT:beta_geo 54430 54434	βgeo
+T109	GO_EXT:beta_geo 54757 54761	βgeo
+T110	GO_EXT:beta_geo 54853 54857	βgeo
+T111	GO_EXT:beta_geo 54883 54887	βgeo
+T112	GO_EXT:beta_geo 54914 54918	βgeo
+T113	GO_EXT:beta_geo 55128 55132	βgeo

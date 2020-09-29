@@ -1,0 +1,141 @@
+T1	SO_EXT:0000771 58 62	QTLs
+T2	SO_EXT:polymorphism 332 343	polymorphic
+T3	SO_EXT:0000704 344 349	genes
+T4	SO_EXT:0000771 1121 1144	quantitative trait loci
+T5	SO_EXT:0000771 1146 1150	QTLs
+T6	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 1228 1241	region of Chr
+T7	GO_SO_EXT:chromosome 1378 1381	Chr
+T8	SO_EXT:0000771 1619 1623	QTLs
+T9	SO_EXT:0000704 2164 2168	gene
+T10	SO_EXT:transgenic_entity 2594 2604	transgenic
+T11	SO_EXT:0000704 2641 2646	genes
+T12	SO_EXT:0000704 2862 2869	genetic
+T13	SO_EXT:polymorphism 2955 2966	polymorphic
+T14	SO_EXT:0000704 2967 2972	genes
+T15	SO_EXT:0000704 3258 3265	genetic
+T16	SO_EXT:0000704 3337 3342	genic
+T17	SO_EXT:0000771 3924 3947	quantitative trait loci
+T18	SO_EXT:0000771 3949 3953	QTLs
+T19	SO_EXT:0000704 4102 4107	genes
+T20	SO_EXT:0000704 4275 4282	genetic
+T21	SO_EXT:0000704 4597 4604	genetic
+T22	SO_EXT:0000771 4620 4623	QTL
+T23	SO_EXT:0000704 7617 7628	genetically
+T24	SO_EXT:0000704 8413 8424	genetically
+T25	SO_EXT:0000771 9297 9300	QTL
+T26	SO_EXT:0000771 9673 9676	QTL
+T27	SO_EXT:0001023 9984 9991	Alleles
+T28	SO_EXT:0000771 10161 10164	QTL
+T29	CHEBI_SO_EXT:molecular_indicator_or_label_or_marker_or_tag 10251 10257	Marker
+T30	SO_EXT:microsatellite_unit_or_region 10277 10291	microsatellite
+T31	GO_SO_EXT:chromosome 10320 10323	Chr
+T32	GO_SO_EXT:chromosome 10329 10339	chromosome
+T33	CHEBI_SO_EXT:molecular_indicator_or_label_or_marker_or_tag 10353 10359	marker
+T34	SO_EXT:genotype_or_entity_with_genotype 10532 10540	genotype
+T35	CHEBI_SO_EXT:molecular_indicator_or_label_or_marker_or_tag 10575 10581	marker
+T36	SO_EXT:0000704 10718 10725	genetic
+T37	SO_EXT:sequence_variation_entity_or_quality 10726 10735	variation
+T38	SO_EXT:0001026 10864 10870	genome
+T39	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 10993 11015	interval on chromosome
+T40	CHEBI_SO_EXT:molecular_indicator_or_label_or_marker_or_tag 11031 11038	markers
+T41	SO_EXT:0001026 11297 11303	genome
+T42	SO_EXT:genotype_or_entity_with_genotype 11502 11511	genotypic
+T43	SO_EXT:0001023 11534 11541	Alleles
+T44	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 11550 11553;11557 11565	Chr ... interval
+T45	SO_EXT:0001023 11669 11676	alleles
+T46	SO_EXT:genotype_or_entity_with_genotype 11754 11762	genotype
+T47	SO_EXT:genotype_or_entity_with_genotype 11830 11839	genotypes
+T48	SO_EXT:genotype_or_entity_with_genotype 11956 11965	genotypes
+T49	SO_EXT:0001023 11986 11992	allele
+T50	GO_SO_EXT:sequence_rearrangement_process 12016 12027	recombinant
+T51	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 12124 12135	part of Chr
+T52	SO_EXT:0001023 12330 12336	allele
+T53	GO_SO_EXT:chromosome 12522 12526	Chr.
+T54	GO_SO_EXT:chromosome 12611 12615	Chr.
+T55	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 12667 12670;12674 12682	Chr ... interval
+T56	SO_EXT:0001023 12871 12877	allele
+T57	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 13111 13114;13118 13123	Chr ... locus
+T58	SO_EXT:0001023 13346 13352	allele
+T59	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 13573 13584;13592 13595	interval on ... Chr
+T60	CHEBI_SO_EXT:molecular_indicator_or_label_or_marker_or_tag 13705 13712	markers
+T61	SO_EXT:0001023 13989 13995	allele
+T62	SO_EXT:genotype_or_entity_with_genotype 14060 14068	genotype
+T63	SO_EXT:genotype_or_entity_with_genotype 14376 14385	genotypes
+T64	SO_EXT:0001026 14432 14438	genome
+T65	SO_EXT:0000771 14506 14509	QTL
+T66	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 14604 14624	chromosomal interval
+T67	GO_SO_EXT:chromosome 14669 14672	Chr
+T68	GO_SO_EXT:chromosome 14719 14722	Chr
+T69	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 14804 14807;14811 14819	Chr ... interval
+T70	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 14867 14877;14881 14889	chromosome ... interval
+T71	SO_EXT:0001023 14937 14944	Allelic
+T72	SO_EXT:0000704 15142 15149	genetic
+T73	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 15278 15281;15285 15293	Chr ... interval
+T74	GO_SO_EXT:chromosome 15414 15417	Chr
+T75	SO_EXT:genotype_or_entity_with_genotype 15460 15469	genotypes
+T76	GO_SO_EXT:chromosome 15501 15504	Chr
+T77	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 15581 15593	locus on Chr
+T78	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 15604 15607;15622 15631	Chr ... intervals
+T79	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 15615 15618;15622 15631	Chr ... intervals
+T80	SO_EXT:0000704 16065 16070	genes
+T81	SO_EXT:0000771 16202 16205	QTL
+T82	GO_SO_EXT:chromosome 16322 16332	chromosome
+T83	SO_EXT:0000771 16359 16362	QTL
+T84	GO_SO_EXT:chromosome 16444 16454	chromosome
+T85	GO_SO_EXT:sequence_rearrangement_process 18585 18596	recombinant
+T86	SO_EXT:0000771 19462 19465	QTL
+T87	SO_EXT:0000704 19691 19695	gene
+T88	OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process 19721 19729	genetics
+T89	SO_EXT:0000704 19851 19858	genetic
+T90	SO_EXT:0001026 19969 19975	genome
+T91	GO_SO_EXT:chromosome 20042 20045	Chr
+T92	SO_EXT:0000704 20229 20236	genetic
+T93	SO_EXT:0000704 20318 20325	genetic
+T94	GO_SO_EXT:sequence_rearrangement_process 20388 20399	recombinant
+T95	GO_SO_EXT:sequence_rearrangement_entity_or_process 20709 20723	recombinations
+T96	SO_EXT:0000771 20731 20734	QTL
+T97	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 20735 20752	intervals on Chrs
+T98	SO_EXT:0000704 20841 20845	gene
+T99	SO_EXT:0001023 20890 20896	allele
+T100	SO_EXT:0000771 20925 20928	QTL
+T101	SO_EXT:0000704 21050 21055	genes
+T102	SO_EXT:0000771 21092 21096	QTLs
+T103	SO_EXT:biological_sequence 21184 21192	sequence
+T104	SO_EXT:0000704 21232 21236	gene
+T105	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 21296 21317	chromosomal positions
+T106	SO_EXT:0000771 21325 21329	QTLs
+T107	SO_EXT:0000771 21409 21412	QTL
+T108	SO_EXT:0000018 21435 21458	cluster of linked genes
+T109	SO_EXT:transgenic_entity 21527 21537	transgenic
+T110	SO_EXT:biological_sequence 21553 21561	sequence
+T111	SO_EXT:0000771 21609 21612	QTL
+T112	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 21639 21653	portion of Chr
+T113	SO_EXT:0000704 21687 21692	genes
+T114	SO_EXT:0000704 21806 21811	genes
+T115	SO_EXT:0000704 22006 22010	gene
+T116	SO_EXT:0000704 22060 22064	gene
+T117	SO_EXT:sequence_coding_function 22065 22073	encoding
+T118	CHEBI_SO_EXT:alanine 22092 22099	alanine
+T119	SO_EXT:0000704 22410 22414	gene
+T120	SO_EXT:0000771 22513 22516	QTL
+T121	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 22565 22583	part of chromosome
+T122	SO_EXT:0000704 22625 22630	genes
+T123	SO_EXT:0000704 22769 22773	gene
+T124	SO_EXT:0000704 22817 22822	genes
+T125	CHEBI_SO_EXT:DNA 23442 23445	DNA
+T126	SO_EXT:0000704 24293 24300	genetic
+T127	SO_EXT:0000771 24337 24341	QTLs
+T128	GO_SO_EXT:sequence_rearrangement_process 24973 24984	recombinant
+T129	SO_EXT:0000771 25179 25183	QTLs
+T130	SO_EXT:0000771 25772 25776	QTLs
+T131	GO_SO_EXT:sequence_rearrangement_process 25911 25922	recombinant
+T132	SO_EXT:0001026 26056 26063	genomes
+T133	SO_EXT:0001023 26156 26163	alleles
+T134	SO_EXT:0000771 30763 30766	QTL
+T135	SO_EXT:genomic_DNA 30776 30787	Genomic DNA
+T136	SO_EXT:microsatellite_unit_or_region 30875 30889	microsatellite
+T137	SO_EXT:genotype_or_entity_with_genotype 31067 31076	genotypes
+T138	SO_EXT:0001026 31317 31323	genome
+T139	SO_EXT:0000771 31884 31887	QTL
+T140	SO_EXT:0000771 32174 32178	QTLs
+T141	CHEBI_SO_EXT:molecular_indicator_or_label_or_marker_or_tag 33130 33137	markers

@@ -1,0 +1,60 @@
+T1	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 1228 1241	region of Chr
+T2	GO_SO_EXT:chromosome 1378 1381	Chr
+T3	GO:0042995 1997 2007	projection
+T4	CL_GO_EXT:cell 2008 2012	cell
+T5	GO:0098793 2220 2224;2233 2241	pre- ... synaptic
+T6	GO:0098794 2229 2241	postsynaptic
+T7	CL_GO_EXT:cell 3102 3106	cell
+T8	CL_GO_EXT:cell 3452 3456	cell
+T9	CL_GO_EXT:cell 3867 3875	cellular
+T10	GO_SO_EXT:chromosome 10320 10323	Chr
+T11	GO_SO_EXT:chromosome 10329 10339	chromosome
+T12	CL_GO_EXT:cell 10808 10813	cells
+T13	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 10993 11015	interval on chromosome
+T14	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 11550 11553;11557 11565	Chr ... interval
+T15	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 12124 12135	part of Chr
+T16	GO_SO_EXT:chromosome 12522 12526	Chr.
+T17	GO_SO_EXT:chromosome 12611 12615	Chr.
+T18	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 12667 12670;12674 12682	Chr ... interval
+T19	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 12919 12922;12926 12931	Chr ... locus
+T20	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 13111 13114;13118 13123	Chr ... locus
+T21	GO_SO_EXT:chromosome 13592 13595	Chr
+T22	CL_GO_EXT:cell 13800 13804	cell
+T23	CL_GO_EXT:cell 14046 14051	cells
+T24	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 14604 14624	chromosomal interval
+T25	GO_SO_EXT:chromosome 14669 14672	Chr
+T26	GO_SO_EXT:chromosome 14719 14722	Chr
+T27	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 14804 14807;14811 14819	Chr ... interval
+T28	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 14867 14877;14881 14889	chromosome ... interval
+T29	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 15278 15281;15285 15293	Chr ... interval
+T30	GO_SO_EXT:chromosome 15414 15417	Chr
+T31	GO_SO_EXT:chromosome 15501 15504	Chr
+T32	GO_SO_EXT:chromosome 15590 15593	Chr
+T33	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 15604 15607;15622 15631	Chr ... intervals
+T34	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 15615 15618;15622 15631	Chr ... intervals
+T35	GO_SO_EXT:chromosome 16322 16332	chromosome
+T36	GO_SO_EXT:chromosome 16444 16454	chromosome
+T37	CL_GO_EXT:cell 16529 16533	cell
+T38	CL_GO_EXT:cell 16863 16867	cell
+T39	CL_GO_EXT:cell 17119 17123	cell
+T40	CL_GO_EXT:cell 17164 17168	cell
+T41	CL_GO_EXT:cell 17560 17565	cells
+T42	CL_GO_EXT:cell 18351 18355	cell
+T43	CL_GO_EXT:cell 18486 18490	cell
+T44	CL_GO_EXT:cell 18551 18555	cell
+T45	CL_GO_EXT:cell 19296 19300	cell
+T46	GO_SO_EXT:chromosome 20042 20045	Chr
+T47	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 20735 20752	intervals on Chrs
+T48	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 21296 21317	chromosomal positions
+T49	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 21639 21653	portion of Chr
+T50	GO:0045202 21958 21966	synaptic
+T51	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 22565 22583	part of chromosome
+T52	GO:0030424 23000 23004	axon
+T53	CL_GO_EXT:cell 23484 23488	cell
+T54	CL_GO_EXT:cell 23596 23600	cell
+T55	CL_GO_EXT:cell 25224 25228	cell
+T56	GO:0005730 29391 29399	nucleoli
+T57	CL_GO_EXT:cell 29749 29754	cells
+T58	CL_GO_EXT:cell 29830 29834	cell
+T59	GO:0030849 30918 30927	autosomes
+T60	GO:0000805 30936 30948	X chromosome

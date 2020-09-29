@@ -1,0 +1,38 @@
+T1	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 317 324	binding
+T2	GO_EXT:0005216 2974 2986	ion channels
+T3	GO_EXT:0005216 3405 3417	ion channels
+T4	GO_EXT:0030594 3419 3445	neurotransmitter receptors
+T5	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 3531 3538	binding
+T6	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 3812 3819	binding
+T7	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 13063 13070	binding
+T8	GO_EXT:0003964 13459 13480	reverse-transcriptase
+T9	GO_EXT:reverse_transcription_or_reverse_transcriptase 13486 13488	RT
+T10	GO_EXT:reverse_transcription_or_reverse_transcriptase 16310 16312	RT
+T11	GO:0097617 16635 16645	hybridized
+T12	GO:0097617 17910 17923	Hybridization
+T13	GO:0097617 17996 18006	hybridized
+T14	GO:0097617 18442 18452	hybridized
+T15	GO_EXT:0099589 19944 19962	serotonin receptor
+T16	GO_EXT:0004971 20376 20389	AMPA receptor
+T17	GO:0097617 21637 21650	hybridization
+T18	GO_EXT:0004890 22117 22133	GABA(A) receptor
+T19	GO_EXT:0004872 23307 23315	receptor
+T20	GO_EXT:0004872 23734 23742	receptor
+T21	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 25630 25637	binding
+T22	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 26745 26752	binding
+T23	GO_EXT:0005216 29896 29908	ion channels
+T24	GO_EXT:0005216 29946 29957	ion-channel
+T25	GO:0097617 35100 35109	annealing
+T26	GO:0097617 35753 35766	Hybridization
+T27	GO_PR_EXT:deoxyribonuclease_I 36324 36331	DNase I
+T28	GO_EXT:0003964 36457 36478	reverse transcriptase
+T29	GO:0097617 37209 37222	hybridization
+T30	GO:0097617 37285 37295	hybridized
+T31	GO_PR_EXT:pancreatic_ribonuclease_or_ribonuclease_A 37343 37350	RNase A
+T32	GO:0097617 37554 37564	hybridized
+T33	GO_PR_EXT:alkaline_phosphatase 37657 37677	alkaline phosphatase
+T34	GO:0097617 37985 37998	hybridization
+T35	CHEBI_GO_EXT:peptidase_or_protease_or_proteinase_inhibitor 39902 39923	proteinase inhibitors
+T36	GO_EXT:0004601 40120 40130	peroxidase
+T37	GO_EXT:reverse_transcription_or_reverse_transcriptase 42106 42108	RT
+T38	GO_EXT:0003964 42115 42136	reverse-transcriptase

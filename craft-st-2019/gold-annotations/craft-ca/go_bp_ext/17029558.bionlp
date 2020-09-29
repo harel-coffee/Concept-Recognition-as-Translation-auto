@@ -1,0 +1,134 @@
+T1	GO_PATO_EXT:inflammatory_process_or_quality 109 121	inflammation
+T2	GO:0007605 174 181	hearing
+T3	GO:0007605 583 590	hearing
+T4	GO:0007567 705 710	natal
+T5	GO_EXT:transcription 937 950	transcription
+T6	GO:0010467 980 989	expressed
+T7	GO:0007567 1074 1079	natal
+T8	GO_PATO_EXT:inflammatory_process_or_quality 1099 1111	inflammatory
+T9	GO_PATO_EXT:inflammatory_process_or_quality 1340 1352	inflammation
+T10	GO:0007567 2094 2099	birth
+T11	GO_EXT:transcription 2198 2211	transcription
+T12	GO:0010467 2239 2248	expressed
+T13	GO_PATO_EXT:inflammatory_process_or_quality 2306 2318	inflammatory
+T14	GO_PATO_EXT:inflammatory_process_or_quality 2472 2484	inflammation
+T15	GO:0007605 2537 2544	hearing
+T16	GO:0006954 2783 2804	inflammatory response
+T17	GO_PATO_EXT:inflammatory_process_or_quality 3551 3563	inflammatory
+T18	GO:0007605 4913 4920	hearing
+T19	GO:0043583 5069 5080;5094 5096;5101 5119	development ... of ... auditory apparatus
+T20	GO:0007605 5289 5296	hearing
+T21	GO:0007567 5559 5564	natal
+T22	GO_EXT:transcription 5723 5736	transcription
+T23	GO_EXT:transcription 5895 5908	transcription
+T24	GO:0007605 6190 6197	hearing
+T25	GO:0007605 6370 6377	hearing
+T26	GO:0007567 6398 6403	birth
+T27	GO_SO_EXT:sequence_rearrangement_process 7139 7150	recombinant
+T28	GO:0007567 9099 9104	natal
+T29	GO_EXT:fatality_or_lethality 9105 9114	lethality
+T30	GO:0009566 9939 9952	fertilization
+T31	GO:0007566 9957 9969	implantation
+T32	GO:0007620 10066 10072	coitum
+T33	GO:0016265 10325 10328	die
+T34	GO:0007567 10347 10352	birth
+T35	GO:0016265 10479 10482	die
+T36	GO:0001503 11032 11044	ossification
+T37	GO:0007567 12256 12261	natal
+T38	GO_PATO_EXT:inflammatory_process_or_quality 12479 12491	inflammation
+T39	GO_PATO_EXT:inflammatory_process_or_quality 12916 12928	inflammatory
+T40	GO_PATO_EXT:inflammatory_process_or_quality 13723 13735	inflammation
+T41	GO:0007567 14219 14224	natal
+T42	GO_PATO_EXT:inflammatory_process_or_quality 14442 14450	inflamed
+T43	GO_PATO_EXT:inflammatory_process_or_quality 14665 14673	inflamed
+T44	GO_PATO_EXT:inflammatory_process_or_quality 14987 14995	inflamed
+T45	GO:0007567 15628 15633	natal
+T46	GO:0007567 15930 15935	natal
+T47	GO:0007567 16038 16043	natal
+T48	GO:0008283 16694 16710;16718 16723	proliferation of ... cells
+T49	GO_PATO_EXT:necrosis_or_necrotic_quality 16929 16937	necrotic
+T50	GO_PATO_EXT:inflammatory_process_or_quality 17304 17312	inflamed
+T51	GO:0072672 17557 17590	neutrophil leukocyte infiltration
+T52	GO_EXT:biological_movement_or_translocation_process 18176 18184	transfer
+T53	GO_PATO_EXT:inflammatory_process_or_quality 18639 18651	inflammatory
+T54	GO:0007567 19547 19552	natal
+T55	GO_EXT:reaction_or_response 19854 19863	responses
+T56	GO:0010467 20625 20635	Expression
+T57	GO:0010467 20705 20715	expression
+T58	GO:0007567 20801 20806	birth
+T59	GO:0007567 20816 20821	natal
+T60	GO:0010467 20936 20946	expression
+T61	GO:0010467 21044 21054	expression
+T62	GO:0007567 21085 21090	birth
+T63	GO:0007567 21138 21143	natal
+T64	GO:0010467 21183 21192	expressed
+T65	GO_PATO_EXT:inflammatory_process_or_quality 21306 21314	inflamed
+T66	GO:0010467 21366 21376	expression
+T67	GO_PATO_EXT:inflammatory_process_or_quality 21814 21822	inflamed
+T68	GO_EXT:transcription 22716 22729	transcription
+T69	GO_PATO_EXT:inflammatory_process_or_quality 23154 23166	inflammation
+T70	GO:0006955 23257 23273	immune responses
+T71	GO_SO_EXT:sequence_rearrangement_process 23502 23513	recombinant
+T72	GO_EXT:transcription 23537 23552	Transcriptional
+T73	GO_EXT:biological_translocation_entity_or_process 23585 23599	translocations
+T74	GO_EXT:transcription 23724 23737	transcription
+T75	GO:0007179 24191 24214	TGF-β signaling pathway
+T76	GO:0060284 24325 24352	control of cell development
+T77	GO:0042127 24325 24340;24357 24370	control of cell ... proliferation
+T78	GO_EXT:transcription 24448 24463	transcriptional
+T79	GO:0065007 24464 24471	control
+T80	GO_PATO_EXT:cell_proliferation_or_proliferativity 24494 24507	proliferative
+T81	GO_EXT:biological_direction_or_guidance 24707 24715	directed
+T82	GO:0007179 25268 25283	TGF-β signaling
+T83	GO:0007618 25617 25622	mated
+T84	GO_EXT:transcription 26021 26034	transcription
+T85	GO:0010467 26107 26116	expressed
+T86	GO:0010467 26227 26236	expressed
+T87	GO:0030097 26325 26338	hematopoietic
+T88	GO_RO_EXT:developmental_differentiation_process 26339 26354	differentiation
+T89	GO:0065007 26549 26559	regulation
+T90	GO_PATO_EXT:biological_maturation 26584 26594	maturation
+T91	GO_EXT:cell_communication_or_signaling_or_signal_transduction 26622 26631	signaling
+T92	GO_EXT:reaction_or_response 26635 26643	response
+T93	GO_PATO_EXT:biological_localization_process_or_quality 26827 26836	localized
+T94	GO_PATO_EXT:inflammatory_process_or_quality 26837 26849	inflammation
+T95	GO_EXT:biological_release 26954 26962	released
+T96	GO:0030097 26968 26981	hematopoietic
+T97	GO:0010467 27505 27515	expression
+T98	GO_EXT:cell_communication_or_signaling_or_signal_transduction 27569 27586	signaling pathway
+T99	GO:0007179 27636 27640;27646 27664	TGFβ ... signaling pathways
+T100	GO:0060395 27641 27664	SMAD signaling pathways
+T101	GO:0010467 27749 27759	expression
+T102	GO:0007179 27914 27927;27936 27945	Tgfβ receptor ... signaling
+T103	GO:0051092 28007 28026	activation of NF-κB
+T104	GO_EXT:transcription 28071 28084	transcription
+T105	GO:0010628 28185 28200;28206 28216	upregulation of ... expression
+T106	GO_EXT:positive_regulation 28337 28348	upregulates
+T107	GO:0007179 28461 28465;28471 28480	TGFβ ... signaling
+T108	GO:0060395 28466 28480	SMAD signaling
+T109	GO_EXT:negative_regulation 28503 28518	down-regulation
+T110	GO:0006952 28791 28798	defense
+T111	GO_EXT:cell_communication_or_signaling_or_signal_transduction 28931 28949	signaling pathways
+T112	GO:0065007 29069 29079	regulation
+T113	GO:0010467 29089 29099	expression
+T114	GO:0065007 29435 29445	regulation
+T115	GO_EXT:transcription 29575 29588	transcription
+T116	GO_PATO_EXT:inflammatory_process_or_quality 29629 29641	inflammatory
+T117	GO:0070498 29642 29673	cytokine IL-1 signaling pathway
+T118	GO_PATO_EXT:inflammatory_process_or_quality 29899 29911	Inflammatory
+T119	GO:0007567 30040 30045	natal
+T120	GO:0065007 30361 30371	regulation
+T121	GO:0007618 30812 30817	mated
+T122	GO:0060004 31011 31017	reflex
+T123	GO:0060004 32443 32449	reflex
+T124	GO_SO_EXT:sequence_rearrangement_process 32942 32955	recombination
+T125	GO:0007618 33053 33060	matings
+T126	GO:0007618 33104 33109	mated
+T127	GO:0007618 33238 33243	mated
+T128	GO_PATO_EXT:aging_or_agedness 33336 33340	aged
+T129	GO:0007567 33535 33540	natal
+T130	GO:0007567 33581 33586	natal
+T131	GO_PATO_EXT:aging_or_agedness 34304 34308	aged
+T132	GO_EXT:reaction_or_response 38145 38154	Responses
+T133	GO:0007567 38529 38534	birth
+T134	GO:0007620 38551 38557	coitum

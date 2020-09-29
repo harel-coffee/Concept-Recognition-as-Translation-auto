@@ -1,0 +1,22 @@
+T1	GO_EXT:0016301 862 868	kinase
+T2	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 1859 1866	binding
+T3	GO_EXT:0004674 1946 1969	serine threonine kinase
+T4	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 2119 2123	bind
+T5	GO_EXT:nucleotide_exchange_factor 2232 2258	nucleotide exchange factor
+T6	GO_EXT:0008083 2546 2559	growth factor
+T7	GO_EXT:0004872 2560 2569	receptors
+T8	GO_EXT:0016301 2646 2653	kinases
+T9	GO_EXT:0016301 2785 2791	kinase
+T10	GO_EXT:0004601 5181 5191	peroxidase
+T11	GO_PR_EXT:glyceraldehyde_3_phosphate_dehydrogenase 5345 5384	glyceraldehyde 3 phosphate dehydrogense
+T12	GO_EXT:0016301 5839 5845	kinase
+T13	GO_EXT:0016301 7054 7060	kinase
+T14	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 7906 7910	bind
+T15	CHEBI_GO_SO_EXT:enzyme 11902 11915	enzymatically
+T16	CHEBI_GO_SO_EXT:enzyme 12043 12056	enzymatically
+T17	CHEBI_GO_SO_EXT:enzyme 12104 12117	enzymatically
+T18	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 12792 12796	bind
+T19	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 12808 12815	binding
+T20	GO_EXT:0016887 12931 12937	ATPase
+T21	GO_PR_EXT:glyceraldehyde_3_phosphate_dehydrogenase 15277 15282	GAPDH
+T22	CHEBI_GO_SO_EXT:enzyme 16185 16198	enzymatically

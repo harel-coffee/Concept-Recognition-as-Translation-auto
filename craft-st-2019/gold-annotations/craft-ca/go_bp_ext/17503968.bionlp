@@ -1,0 +1,398 @@
+T1	GO:0065007 48 57	Regulates
+T2	GO:0070091 58 74	Glucagon Release
+T3	GO:0046903 145 153	secreted
+T4	GO:0006094 196 211	gluconeogenesis
+T5	GO:0005980 222 240	glycogen breakdown
+T6	GO:0065007 256 266	regulating
+T7	GO:0070091 267 283	glucagon release
+T8	GO:0065007 333 340	control
+T9	GO:0038001 342 351	paracrine
+T10	GO:0065007 352 359	control
+T11	GO_EXT:detection_or_sensing_of_stimulus 412 419	sensing
+T12	GO_EXT:secretion_entity_or_process 467 476	secretion
+T13	GO:0051716 486 498;507 512	responses of ... cells
+T14	GO:0070091 585 601	glucagon release
+T15	GO:0038001 617 626;640 650	paracrine ... signalling
+T16	GO:0007214 627 631;640 650	GABA ... signalling
+T17	GO:0030073 793 808	insulin release
+T18	GO:0051716 814 828	cell responses
+T19	GO_EXT:secretion_entity_or_process 978 987	secretion
+T20	GO:0051716 1002 1006;1012 1021	cell ... responses
+T21	GO_EXT:secretion_entity_or_process 1125 1134	secretion
+T22	GO_EXT:secretion_entity_or_process 1489 1498	secretion
+T23	GO:0006887 1541 1551	exocytosis
+T24	GO_EXT:secretion_entity_or_process 1631 1640	secretion
+T25	GO:0065007 1644 1653	regulated
+T26	GO:0006887 1766 1776	exocytosis
+T27	GO:0099610 1845 1868	action potential firing
+T28	GO_EXT:secretion_entity_or_process 1873 1882	secretion
+T29	GO_EXT:regulator 1926 1935	regulator
+T30	GO:0042593 1939 1958	glucose homeostasis
+T31	GO_EXT:biological_recruitment 1983 1991	mobilize
+T32	GO_EXT:secretion_entity_or_process 2025 2034	secretion
+T33	GO_EXT:reaction_or_response 2128 2136	response
+T34	GO:0065007 2203 2213	regulation
+T35	GO_EXT:secretion_entity_or_process 2233 2242	secretion
+T36	GO:0038001 2270 2279	paracrine
+T37	GO_EXT:detection_or_sensing_of_stimulus 2531 2538	sensing
+T38	GO:0030073 2572 2589	insulin-secreting
+T39	GO:0051899 2700 2723	membrane depolarisation
+T40	GO:0006887 2790 2800	exocytosis
+T41	GO_EXT:secretion_entity_or_process 2895 2904	secretion
+T42	GO:0099610 2950 2973	action potential firing
+T43	GO_EXT:secretion_entity_or_process 2978 2987	secretion
+T44	GO:0065007 3039 3046	control
+T45	GO_EXT:biological_release 3063 3071	released
+T46	GO:0046903 3128 3135	secrete
+T47	GO:0006094 3177 3195	glucose production
+T48	GO:0065007 3261 3270	Regulated
+T49	GO_EXT:secretion_entity_or_process 3279 3288	secretion
+T50	GO:0008152 3334 3343	metabolic
+T51	GO:0070509 3380 3390	Ca2+ entry
+T52	GO:0006887 3396 3406	exocytosis
+T53	GO:0046903 3426 3433	secrete
+T54	GO_EXT:reaction_or_response 3446 3454	response
+T55	GO:0070091 3524 3540	glucagon release
+T56	GO:0006094 3587 3605	glucose production
+T57	GO:0070091 3642 3658	glucagon release
+T58	GO_EXT:secretion_entity_or_process 3685 3694	secretion
+T59	GO:0065007 3865 3875	regulating
+T60	GO_EXT:secretion_entity_or_process 3885 3894	secretion
+T61	GO:0070091 3947 3963	Glucagon release
+T62	GO:0065007 3982 3991	regulated
+T63	GO:0038001 3995 4004	paracrine
+T64	GO_EXT:secretion_entity_or_process 4130 4139	secretion
+T65	GO_EXT:secretion_entity_or_process 4240 4249	secretion
+T66	GO:0065007 4272 4279	control
+T67	GO:0065007 4354 4361	control
+T68	GO_EXT:secretion_entity_or_process 4374 4383	secretion
+T69	GO:0038001 4387 4396	paracrine
+T70	GO:0065007 4410 4420	regulation
+T71	GO:0010467 4542 4549	express
+T72	GO_EXT:regulator 4842 4852	regulators
+T73	GO:0070091 4856 4872	glucagon release
+T74	GO_EXT:secretion_entity_or_process 5047 5056	secretion
+T75	GO_EXT:secretion_entity_or_process 5079 5088	secretion
+T76	GO:0065007 5138 5148	regulating
+T77	GO:0070509 5173 5183	Ca2+ entry
+T78	GO:0070091 5277 5293	glucagon release
+T79	GO:0099610 5424 5447	action potential firing
+T80	GO:0070509 5539 5549	Ca2+ entry
+T81	GO:0070091 5717 5733	glucagon release
+T82	GO:0065007 5766 5774	regulate
+T83	GO:0070091 5775 5791	glucagon release
+T84	GO:0070091 5873 5889	glucagon release
+T85	GO:0030073 6071 6078;6092 6099	insulin ... release
+T86	GO:0070091 6083 6099	glucagon release
+T87	GO:0051716 6113 6117;6123 6132	cell ... responses
+T88	GO:0070091 6238 6254	glucagon release
+T89	GO:0038001 6313 6322	paracrine
+T90	GO_EXT:secretion_entity_or_process 6374 6383	secretion
+T91	GO:0051716 6389 6393;6399 6408	cell ... responses
+T92	GO:0070092 6513 6543	regulation of glucagon release
+T93	GO:0032940 6536 6548;6562 6567	release from ... cells
+T94	GO:0065007 6591 6599	Regulate
+T95	GO_EXT:secretion_entity_or_process 6609 6618	Secretion
+T96	GO:0038001 6668 6677	paracrine
+T97	GO_EXT:secretion_entity_or_process 6700 6709	secretion
+T98	GO:0070091 6859 6875	glucagon release
+T99	GO:0030073 6948 6963	insulin release
+T100	GO_EXT:secretion_entity_or_process 6997 7006	secretion
+T101	GO_EXT:secretion_entity_or_process 7209 7218	secretion
+T102	GO_EXT:secretion_entity_or_process 7471 7480	secretion
+T103	GO:0070091 7617 7633	glucagon release
+T104	GO_EXT:biological_release 7723 7731	released
+T105	GO:0038001 7787 7796	paracrine
+T106	GO_EXT:regulator 7797 7806	regulator
+T107	GO_EXT:secretion_entity_or_process 7819 7828	secretion
+T108	GO_EXT:secretion_entity_or_process 7979 7988	secretion
+T109	GO_EXT:secretion_entity_or_process 8086 8095	secretion
+T110	GO_EXT:regulator 8203 8213	modulators
+T111	GO_EXT:secretion_entity_or_process 8226 8235	secretion
+T112	GO_EXT:secretion_entity_or_process 8282 8291	secretion
+T113	GO:0065007 8338 8346	Regulate
+T114	GO_EXT:secretion_entity_or_process 8356 8365	Secretion
+T115	GO_EXT:secretion_entity_or_process 8405 8414	secretion
+T116	GO_EXT:secretion_entity_or_process 9064 9073	secretion
+T117	GO_EXT:secretion_entity_or_process 9255 9264	secretion
+T118	GO:0070091 9336 9352	glucagon release
+T119	GO:0030073 9448 9463	insulin release
+T120	GO:0070091 9500 9516	glucagon release
+T121	GO_EXT:secretion_entity_or_process 9553 9562	secretion
+T122	GO_EXT:secretion_entity_or_process 9638 9647	secretion
+T123	GO:0030073 9682 9697	insulin release
+T124	GO_EXT:secretion_entity_or_process 9835 9844	secretion
+T125	GO_EXT:secretion_entity_or_process 9926 9935	secretion
+T126	GO:0070091 10246 10262	glucagon release
+T127	GO_EXT:secretion_entity_or_process 10289 10298	secretion
+T128	GO:0070091 10613 10629	glucagon release
+T129	GO_EXT:secretion_entity_or_process 10697 10706	secretion
+T130	GO:0032940 10737 10741;10751 10758	cell ... release
+T131	GO:0070091 10742 10758	glucagon release
+T132	GO_EXT:secretion_entity_or_process 10792 10801	secretion
+T133	GO_EXT:regulator 10930 10940	regulators
+T134	GO_EXT:secretion_entity_or_process 10953 10962	secretion
+T135	GO_EXT:secretion_entity_or_process 11178 11187	secretion
+T136	GO_EXT:secretion_entity_or_process 11491 11500	secretion
+T137	GO:0008152 11536 11546	metabolism
+T138	GO_EXT:secretion_entity_or_process 11550 11559	secretion
+T139	GO_EXT:secretion_entity_or_process 11596 11605	secretion
+T140	GO_EXT:secretion_entity_or_process 11654 11663	secretion
+T141	GO_EXT:secretion_entity_or_process 11726 11735	secretion
+T142	GO_EXT:secretion_entity_or_process 11852 11861	secretion
+T143	GO:0070091 11910 11926	glucagon release
+T144	GO_EXT:secretion_entity_or_process 11992 12001	secretion
+T145	GO_EXT:biological_release 12080 12088	released
+T146	GO_EXT:secretion_entity_or_process 12164 12173	secretion
+T147	GO_EXT:secretion_entity_or_process 12268 12277	secretion
+T148	GO:0051716 12361 12373;12381 12386	responses of ... cells
+T149	GO_EXT:reaction_or_response 12467 12475	response
+T150	GO:0051716 12554 12565;12568 12573	response of ... cells
+T151	GO_EXT:secretion_entity_or_process 12878 12887	secretion
+T152	GO_EXT:secretion_entity_or_process 12948 12957	secretion
+T153	GO:0051716 12975 12979;12988 12997	cell ... responses
+T154	GO:0065007 13037 13045	Regulate
+T155	GO:0065007 13131 13140	regulated
+T156	GO_EXT:secretion_entity_or_process 13150 13159	secretion
+T157	GO_EXT:secretion_entity_or_process 13214 13223	secretion
+T158	GO_EXT:secretion_entity_or_process 13306 13315	secretion
+T159	GO:0070091 13465 13481	glucagon release
+T160	GO_EXT:secretion_entity_or_process 13539 13548	secretion
+T161	GO:0070091 13754 13770	glucagon release
+T162	GO_EXT:secretion_entity_or_process 13973 13982	secretion
+T163	GO_EXT:secretion_entity_or_process 14178 14187	secretion
+T164	GO_EXT:secretion_entity_or_process 14244 14253	secretion
+T165	GO_EXT:secretion_entity_or_process 14336 14345	secretion
+T166	GO_EXT:secretion_entity_or_process 14441 14450	secretion
+T167	GO:0010467 14569 14576	express
+T168	GO:0051716 14702 14714;14730 14735	responses of ... cells
+T169	GO:0051716 14992 14996;15005 15014	cell ... responses
+T170	GO_EXT:reaction_or_response 15159 15167	response
+T171	GO:0051716 15348 15362	cell responses
+T172	GO:0051716 15431 15443;15446 15451	responses of ... cells
+T173	GO:0051716 15431 15443;15458 15463	responses of ... cells
+T174	GO:0030073 15520 15535	insulin release
+T175	GO:0065007 15551 15559	Regulate
+T176	GO_EXT:secretion_entity_or_process 15592 15601	Secretion
+T177	GO_EXT:secretion_entity_or_process 15727 15736	secretion
+T178	GO:0051899 15795 15818	membrane depolarisation
+T179	GO_EXT:secretion_entity_or_process 15844 15853	secretion
+T180	GO_PATO_EXT:physiological_process_or_quality 15912 15925	physiological
+T181	GO_EXT:secretion_entity_or_process 16331 16340	secretion
+T182	GO:0070091 16369 16385	glucagon release
+T183	GO_EXT:secretion_entity_or_process 16701 16710	secretion
+T184	GO_EXT:secretion_entity_or_process 16802 16811	secretion
+T185	GO:0051716 17007 17011;17020 17028	cell ... response
+T186	GO_EXT:secretion_entity_or_process 17237 17246	Secretion
+T187	GO:0006887 17258 17268	Exocytosis
+T188	GO:0006887 17370 17383;17404 17412	exocytosis of ... vesicles
+T189	GO_EXT:secretion_entity_or_process 17936 17945	secretion
+T190	GO:0070091 18149 18165	glucagon release
+T191	GO:0046879 18247 18257;18262 18269	release of ... hormone
+T192	GO_EXT:secretion_entity_or_process 18444 18453	secretion
+T193	GO:0006887 18722 18732	exocytosis
+T194	GO:0006887 18746 18756	Exocytosis
+T195	GO:0046903 18880 18889	secretory
+T196	GO_EXT:reaction_or_response 18968 18976	response
+T197	GO_EXT:secretion_entity_or_process 19178 19187	Secretion
+T198	GO:0065007 19245 19253	regulate
+T199	GO:0070091 19254 19270	glucagon release
+T200	GO_EXT:reaction_or_response 19274 19282	response
+T201	GO:0051899 19286 19309	membrane depolarisation
+T202	GO:0060081 19286 19294;19310 19327	membrane ... hyperpolarisation
+T203	GO:0006887 20403 20413	exocytosis
+T204	GO_EXT:reaction_or_response 20521 20529	response
+T205	GO_EXT:reaction_or_response 20620 20628	response
+T206	GO:0006887 20751 20761	exocytosis
+T207	GO:0006887 20809 20819	exocytosis
+T208	GO:0006887 20930 20940	exocytosis
+T209	GO:0006887 20981 20991	Exocytosis
+T210	GO:0006887 21131 21141	exocytosis
+T211	GO:0006887 21253 21263	exocytosis
+T212	GO:0065007 21531 21540	Regulated
+T213	GO_EXT:secretion_entity_or_process 21550 21559	secretion
+T214	GO:0065007 21620 21630	regulatory
+T215	GO_EXT:reaction_or_response 21631 21639	response
+T216	GO_EXT:secretion_entity_or_process 21715 21724	secretion
+T217	GO_EXT:secretion_entity_or_process 21778 21787	secretion
+T218	GO:0065007 21809 21819	regulating
+T219	GO:0046879 21824 21834;21850 21857	release of ... hormone
+T220	GO_EXT:secretion_entity_or_process 21968 21977	secretion
+T221	GO:0051716 21994 22005;22016 22021	response of ... cells
+T222	GO:0065007 22179 22189	regulating
+T223	GO:0070092 22201 22228	control of glucagon release
+T224	GO_EXT:secretion_entity_or_process 22383 22392	secretion
+T225	GO_EXT:secretion_entity_or_process 22479 22488	secretion
+T226	GO_EXT:secretion_entity_or_process 22627 22636	secretion
+T227	GO_EXT:secretion_entity_or_process 22708 22717	secretion
+T228	GO_EXT:secretion_entity_or_process 22835 22844	secretion
+T229	GO:0051716 22936 22940;22946 22955	cell ... responses
+T230	GO_EXT:secretion_entity_or_process 22969 22978	secretion
+T231	GO:0065007 23135 23145	controlled
+T232	GO:0065007 23207 23215	regulate
+T233	GO:0038001 23247 23256	paracrine
+T234	GO_EXT:secretion_entity_or_process 23310 23319	secretion
+T235	GO:0051716 23334 23346;23355 23360	responses of ... cells
+T236	GO_EXT:reaction_or_response 23481 23489	response
+T237	GO:0038001 23529 23558	paracrine signalling pathways
+T238	GO:0038001 23613 23622	paracrine
+T239	GO_EXT:regulator 23634 23644	regulators
+T240	GO:0070091 23648 23664	glucagon release
+T241	GO:0038001 23698 23707	paracrine
+T242	GO:0065007 23708 23718	regulation
+T243	GO_EXT:secretion_entity_or_process 23731 23740	secretion
+T244	GO:0038001 23871 23880	paracrine
+T245	GO:0065007 23881 23888	control
+T246	GO_EXT:secretion_entity_or_process 23901 23910	secretion
+T247	GO_EXT:secretion_entity_or_process 24009 24018	secretion
+T248	GO:0070091 24184 24200	glucagon release
+T249	GO:0030073 24282 24297	insulin release
+T250	GO_EXT:secretion_entity_or_process 24387 24396	secretion
+T251	GO:0070091 24433 24449	glucagon release
+T252	GO:0030073 24530 24537;24551 24558	insulin ... release
+T253	GO:0070091 24542 24558	glucagon release
+T254	GO:0051716 24577 24581;24587 24596	cell ... responses
+T255	GO_EXT:secretion_entity_or_process 24699 24708	secretion
+T256	GO:0030073 24729 24744	insulin release
+T257	GO_EXT:secretion_entity_or_process 24805 24814	secretion
+T258	GO:0070091 24844 24860	glucagon release
+T259	GO_EXT:reaction_or_response 24903 24911	response
+T260	GO:0065007 25037 25047	regulation
+T261	GO_EXT:secretion_entity_or_process 25329 25338	secretion
+T262	GO:0038001 25356 25365	paracrine
+T263	GO_EXT:secretion_entity_or_process 25440 25449	secretion
+T264	GO_EXT:secretion_entity_or_process 25697 25706	secretion
+T265	GO_EXT:secretion_entity_or_process 25939 25948	secretion
+T266	GO_EXT:secretion_entity_or_process 26234 26243	secretion
+T267	GO_EXT:secretion_entity_or_process 26329 26338	secretion
+T268	GO:0070091 26632 26648	glucagon release
+T269	GO:0002027 26778 26790	chronotropic
+T270	GO:0070091 26829 26845	glucagon release
+T271	GO:0070092 27183 27213	regulation of glucagon release
+T272	GO:0065007 27292 27302	modulation
+T273	GO:0070091 27352 27368	glucagon release
+T274	GO:0065007 27458 27468	modulation
+T275	GO_EXT:secretion_entity_or_process 27513 27522	secretion
+T276	GO:0019722 27527 27542	Ca2+ signalling
+T277	GO_EXT:secretion_entity_or_process 27594 27603	secretion
+T278	GO:0070091 27804 27820	glucagon release
+T279	GO:0070091 27876 27892	glucagon release
+T280	GO_EXT:secretion_entity_or_process 28061 28070	secretion
+T281	GO:0046879 28264 28279	hormone release
+T282	GO_EXT:secretion_entity_or_process 28375 28384	secretion
+T283	GO:0070091 28484 28500	glucagon release
+T284	GO:0070091 28910 28926	glucagon release
+T285	CHEBI_GO_EXT:biological_process_or_quality_or_role 29187 29197	biological
+T286	GO:0070091 29229 29245	glucagon release
+T287	GO_EXT:secretion_entity_or_process 29400 29409	secretion
+T288	GO_EXT:reaction_or_response 29559 29567	response
+T289	GO_EXT:secretion_entity_or_process 29612 29621	secretion
+T290	GO:0070091 29707 29723	glucagon release
+T291	GO:0031099 29942 29954	regenerative
+T292	GO_EXT:reaction_or_response 29966 29975	responses
+T293	GO_EXT:reaction_or_response 30611 30620	responses
+T294	GO:0006887 31214 31224	exocytosis
+T295	GO_EXT:secretion_entity_or_process 31385 31394	secretion
+T296	GO:0051716 31401 31405;31411 31420	cell ... responses
+T297	GO_EXT:secretion_entity_or_process 31607 31616	secretion
+T298	GO:0031099 31805 31817	regenerative
+T299	GO_EXT:secretion_entity_or_process 31888 31897	secretion
+T300	GO:0006887 32142 32152	exocytosis
+T301	GO_EXT:secretion_entity_or_process 32166 32175	secretion
+T302	GO:0006887 32391 32401	exocytotic
+T303	GO_EXT:secretion_entity_or_process 32679 32688	secretion
+T304	GO:0070509 32792 32802	Ca2+ entry
+T305	GO_EXT:secretion_entity_or_process 33017 33026	secretion
+T306	GO:0065007 33242 33249	control
+T307	GO_EXT:secretion_entity_or_process 33262 33271	secretion
+T308	GO:0008152 33322 33331	metabolic
+T309	GO:0065007 33332 33339	control
+T310	GO_EXT:secretion_entity_or_process 33351 33360	secretion
+T311	GO_EXT:secretion_entity_or_process 33474 33483	secretion
+T312	GO_EXT:secretion_entity_or_process 33526 33535	secretion
+T313	GO_EXT:secretion_entity_or_process 33621 33630	secretion
+T314	GO_EXT:secretion_entity_or_process 33672 33681	secretion
+T315	GO_EXT:secretion_entity_or_process 33757 33766	secretion
+T316	GO_EXT:secretion_entity_or_process 33977 33986	secretion
+T317	GO_EXT:reaction_or_response 36238 36247	responses
+T318	GO_EXT:reaction_or_response 36308 36317	responses
+T319	GO_EXT:reaction_or_response 36400 36409	responses
+T320	GO_EXT:reaction_or_response 36484 36492	response
+T321	GO_EXT:reaction_or_response 36545 36553	response
+T322	GO_EXT:reaction_or_response 36693 36702	responses
+T323	GO:0046879 36705 36720	Hormone release
+T324	GO_EXT:secretion_entity_or_process 36744 36753	secretion
+T325	GO:0006887 37420 37430	exocytosis
+T326	GO:0006887 38246 38256	Exocytosis
+T327	GO:0006887 38729 38739	exocytotic
+T328	CHEBI_GO_EXT:biological_process_or_quality_or_role 39138 39145	Biology
+T329	CHEBI_GO_EXT:biological_process_or_quality_or_role 39302 39309	Biology
+T330	GO:0070091 39594 39610	Glucagon Release
+T331	GO:0038001 39628 39637	Paracrine
+T332	GO:0070091 39677 39693	Glucagon release
+T333	GO:0070091 39836 39852	glucagon release
+T334	GO_EXT:secretion_entity_or_process 40055 40064	secretion
+T335	GO:0038001 40079 40088	paracrine
+T336	GO:0070091 40276 40292	Glucagon Release
+T337	GO:0065007 40334 40343	Regulated
+T338	GO_EXT:secretion_entity_or_process 40438 40447	secretion
+T339	GO_EXT:reaction_or_response 40603 40612	responses
+T340	GO_EXT:secretion_entity_or_process 40781 40790	secretion
+T341	GO_EXT:secretion_entity_or_process 40884 40893	secretion
+T342	GO_EXT:reaction_or_response 40897 40905	response
+T343	GO_EXT:reaction_or_response 41135 41143	Response
+T344	GO:0010467 41181 41188	Express
+T345	GO:0070091 41221 41237	Glucagon release
+T346	GO_EXT:reaction_or_response 41395 41403	response
+T347	GO:0070091 41407 41423	glucagon release
+T348	GO:0051716 41647 41658;41668 41673	Response of ... Cells
+T349	GO:0051716 41789 41803;41812 41817	responses from ... cells
+T350	GO:0051716 41979 41990;41993 41998	response of ... cells
+T351	GO:0070091 42205 42221	Glucagon Release
+T352	GO:0065007 42263 42272	Regulated
+T353	GO:0070091 42314 42322;42361 42368	Glucagon ... release
+T354	GO:0030073 42339 42346;42361 42368	insulin ... release
+T355	GO_EXT:secretion_entity_or_process 42535 42544	secretion
+T356	GO:0051716 42782 42794;42797 42802	Responses of ... Cells
+T357	GO:0065007 42834 42843	Regulated
+T358	GO_EXT:reaction_or_response 42892 42901	responses
+T359	GO_EXT:reaction_or_response 43056 43065	responses
+T360	GO:0051716 43282 43286;43292 43301	cell ... responses
+T361	GO:0051716 43474 43485;43496 43500	response of ... cell
+T362	GO:0051716 43474 43485;43507 43511	response of ... cell
+T363	GO_EXT:reaction_or_response 43655 43663	response
+T364	GO:0051716 43703 43707;43713 43722	cell ... responses
+T365	GO_EXT:reaction_or_response 43763 43771	response
+T366	GO_EXT:secretion_entity_or_process 43914 43923	Secretion
+T367	GO:0051716 43930 43934;43940 43949	Cell ... Responses
+T368	GO:0070091 44021 44029;44068 44075	Glucagon ... release
+T369	GO:0030073 44046 44053;44068 44075	insulin ... release
+T370	GO:0051716 44246 44257;44267 44272	response of ... cells
+T371	GO:0051716 44415 44419;44425 44434	cell ... responses
+T372	GO_EXT:reaction_or_response 44464 44473	responses
+T373	GO_EXT:secretion_entity_or_process 44670 44679	Secretion
+T374	GO:0065007 44683 44692	Regulated
+T375	GO:0070091 44722 44738	Glucagon release
+T376	GO:0006887 44907 44917	Exocytosis
+T377	GO:0006887 45110 45120	exocytotic
+T378	GO_EXT:reaction_or_response 45121 45129	response
+T379	GO_EXT:reaction_or_response 45289 45297	response
+T380	GO:0006887 45404 45414	Exocytosis
+T381	GO:0006887 46266 46276	Exocytosis
+T382	GO:0006887 46391 46401	exocytotic
+T383	GO_EXT:reaction_or_response 46402 46410	response
+T384	GO:0006887 46417 46427	Exocytosis
+T385	GO:0006887 46570 46580	exocytotic
+T386	GO_EXT:reaction_or_response 46581 46590	responses
+T387	GO_EXT:reaction_or_response 46657 46666	responses
+T388	GO_EXT:reaction_or_response 46812 46820	response
+T389	GO_EXT:secretion_entity_or_process 46874 46883	Secretion
+T390	GO_EXT:secretion_entity_or_process 47071 47080	secretion
+T391	GO_EXT:reaction_or_response 47103 47111	response
+T392	GO_EXT:secretion_entity_or_process 47649 47658	secretion
+T393	GO_EXT:secretion_entity_or_process 47748 47757	secretion
+T394	GO:0070091 47847 47863	glucagon release
+T395	GO_EXT:secretion_entity_or_process 48024 48033	secretion
+T396	GO_EXT:secretion_entity_or_process 48089 48098	secretion
+T397	GO_EXT:secretion_entity_or_process 48274 48283	secretion
+T398	GO:0070091 48319 48335	glucagon release

@@ -1,0 +1,26 @@
+T1	GO_EXT:recombinase 580 591	recombinase
+T2	GO_EXT:0008083 757 770	growth factor
+T3	GO_EXT:recombinase 2154 2165	recombinase
+T4	GO_EXT:recombinase 2465 2476	recombinase
+T5	GO_EXT:recombinase 3146 3157	recombinase
+T6	GO_EXT:recombinase 3761 3772	recombinase
+T7	CHEBI_GO_SO_EXT:enzyme 4013 4019	enzyme
+T8	GO_EXT:polymerase 4217 4227	polymerase
+T9	CHEBI_GO_SO_EXT:enzyme 4632 4639	enzymes
+T10	GO_EXT:phosphoglycerate_kinase 5750 5753	PGK
+T11	GO_EXT:recombinase 6970 6981	recombinase
+T12	GO:0097617 7612 7622	hybridized
+T13	CHEBI_GO_EXT:neomycin_or_neomycin_phosphotransferase 7764 7767	neo
+T14	GO:0097617 7979 7992	hybridization
+T15	GO_EXT:polymerase 8151 8161	polymerase
+T16	CHEBI_GO_EXT:neomycin_or_neomycin_phosphotransferase 9623 9626	neo
+T17	GO_EXT:recombinase 10599 10610	recombinase
+T18	GO_EXT:phosphoglycerate_kinase 10660 10663	PGK
+T19	GO_EXT:phosphoglycerate_kinase 13151 13154	PGK
+T20	CHEBI_GO_EXT:neomycin_or_neomycin_phosphotransferase 13155 13158	neo
+T21	GO:0097617 14966 14979	hybridization
+T22	GO_EXT:0008083 18991 19004	growth factor
+T23	GO_EXT:0008083 21740 21753	growth factor
+T24	CHEBI_GO_EXT:hormone 24192 24199	hormone
+T25	GO:0097617 26534 26544	hybridized
+T26	CHEBI_GO_EXT:neomycin_or_neomycin_phosphotransferase 26581 26584	neo

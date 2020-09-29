@@ -1,0 +1,55 @@
+T1	CL:0002518 587 610	kidney epithelial cells
+T2	CL:0000001 966 979	primary cells
+T3	CL:1000497 2118 2130	kidney cells
+T4	CL:1000497 2388 2400	kidney cells
+T5	CL:0000233 3994 4002	platelet
+T6	CL:0000019 5558 5563	sperm
+T7	CL:0000210 5677 5696	photoreceptor cells
+T8	CL:0002551 5833 5851	dermal fibroblasts
+T9	CL:1000454 5900 5939	kidney collecting duct epithelial cells
+T10	CL:1000497 6921 6933	Kidney Cells
+T11	CL:1000497 7043 7054	kidney cell
+T12	CL:1000617 7089 7104;7130 7135	inner medullary ... cells
+T13	CL:1001225 7105 7120;7130 7135	collecting duct ... cells
+T14	CL:0002518 10015 10038	kidney epithelial cells
+T15	CL:0002518 10539 10562	kidney epithelial cells
+T16	CL:0000001 12777 12790	primary cells
+T17	CL:0000001 13464 13471;13479 13484	primary ... cells
+T18	CL:1000497 13472 13484	kidney cells
+T19	CL:0000001 13651 13658;13682 13687	primary ... cells
+T20	CL:0000057 13659 13670	fibroblasts
+T21	CL:1000497 13675 13687	kidney cells
+T22	CL:0000057 14177 14188	fibroblasts
+T23	CL:0000448 14884 14889;14900 14914	white ... fat adipocytes
+T24	CL:0000449 14894 14914	brown fat adipocytes
+T25	CL:0000019 15295 15300	sperm
+T26	CL:1001225 16326 16347	collecting duct cells
+T27	CL:1000507 16407 16419	tubule cells
+T28	CL:0000445 16825 16840	apoptotic cells
+T29	CL:0000066 17212 17228	epithelial cells
+T30	CL:0002518 17316 17338	kidney epithelial cell
+T31	CL:0000066 17827 17843	epithelial cells
+T32	CL:0000019 18635 18640	sperm
+T33	CL:0000210 18774 18793	photoreceptor cells
+T34	CL:0000001 20877 20890	primary cells
+T35	CL:0000233 22817 22825	platelet
+T36	CL:0002518 25017 25043	kidney epithelial cellular
+T37	CL:0000445 25084 25093;25112 25117	apoptotic ... cells
+T38	CL:0000066 26860 26876	epithelial cells
+T39	CL:0000057 33306 33317	fibroblasts
+T40	CL:0002681 33322 33337;33343 33348	kidney cortical ... cells
+T41	CL:0000057 33500 33511	fibroblasts
+T42	CL:0000001 33568 33575;33594 33599	primary ... cells
+T43	CL:0002518 33576 33599	kidney epithelial cells
+T44	CL:0002518 36869 36892	Kidney Epithelial Cells
+T45	CL:0000001 39791 39798;39806 39811	primary ... cells
+T46	CL:1000497 39799 39811	kidney cells
+T47	CL:0000064 39892 39906	ciliated cells
+T48	CL:0000057 39999 40010	fibroblasts
+T49	CL:0000001 40021 40028;40036 40041	primary ... cells
+T50	CL:1000497 40029 40041	kidney cells
+T51	CL:0000057 40176 40187	fibroblasts
+T52	CL:0000019 40682 40687	sperm
+T53	CL:0002584 41783 41813	kidney cortex epithelial cells
+T54	CL:0000066 42041 42057	epithelial cells
+T55	CL:0000445 42175 42190	apoptotic cells

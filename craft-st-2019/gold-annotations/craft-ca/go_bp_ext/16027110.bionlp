@@ -1,0 +1,198 @@
+T1	GO:0051168 49 63	nuclear export
+T2	GO:0006406 160 176;181 188	mRNA export from ... nucleus
+T3	GO:0016071 405 420	mRNA metabolism
+T4	GO_RO_EXT:biological_export 528 534	export
+T5	GO:0010467 564 573	expressed
+T6	GO:0016071 624 639	mRNA metabolism
+T7	GO:0010467 945 954	expressed
+T8	GO:0007420 968 985	brain development
+T9	GO_RO_EXT:biological_export 1110 1116	export
+T10	GO_PATO_EXT:biological_localization_process_or_quality 1146 1155	localizes
+T11	GO_RO_EXT:biological_export 1248 1254	export
+T12	GO_RO_EXT:biological_export 1307 1313	export
+T13	GO:0006406 1481 1504	nuclear export of mRNAs
+T14	GO_RO_EXT:biological_export 1663 1669	export
+T15	GO:0051168 1805 1819	nuclear export
+T16	GO:0016071 2028 2043	mRNA metabolism
+T17	GO_RO_EXT:biological_export 2098 2104	export
+T18	GO_RO_EXT:biological_export 2141 2147	export
+T19	GO_RO_EXT:biological_export 2297 2303	export
+T20	GO_RO_EXT:biological_export 2472 2478	export
+T21	GO:0016246 2497 2501	RNAi
+T22	GO_EXT:fatality_or_lethality 2531 2537	lethal
+T23	GO_EXT:transcription 2592 2607	transcriptional
+T24	GO:0065007 2608 2618	regulation
+T25	GO_RO_EXT:biological_export 2853 2859	export
+T26	GO_SO_EXT:sequence_rearrangement_process 3771 3782	Recombinant
+T27	GO:0010467 3788 3798	Expression
+T28	GO_EXT:biological_direction_or_guidance 4572 4580	Directed
+T29	GO:0010467 4937 4947	expression
+T30	GO:0010467 4984 4994	expression
+T31	GO:0010467 5079 5089	expression
+T32	GO:0009294 5146 5158	transfection
+T33	GO:0009294 5238 5249	transfected
+T34	GO:0009294 5326 5339	transfections
+T35	GO_PATO_EXT:biological_localization_process_or_quality 5356 5368	localization
+T36	GO:0009294 5447 5459	transfection
+T37	GO:0009294 5562 5574	transfection
+T38	GO_PATO_EXT:biological_localization_process_or_quality 5803 5815	localization
+T39	GO:0010467 5873 5883	expressing
+T40	GO:0009294 6346 6357	transfected
+T41	GO:0019835 6392 6397	lysis
+T42	GO_EXT:macromolecule_denaturation 6467 6477	denaturing
+T43	GO_EXT:biological_movement_or_translocation_process 6840 6849	mobilized
+T44	GO:0007568 7310 7315	aging
+T45	GO_EXT:biological_movement_or_translocation_process 7405 7413	transfer
+T46	GO:0008152 7512 7525	metabolically
+T47	GO_EXT:transcription 7545 7558	transcription
+T48	GO:0006412 7559 7570	translation
+T49	GO_EXT:biological_movement_or_translocation_process 7941 7950	mobilized
+T50	GO:0010467 9240 9249	expressed
+T51	GO:0008380 11022 11028	splice
+T52	GO:0010467 12822 12832	Expression
+T53	GO:0010467 12891 12901	expression
+T54	GO:0009294 13171 13182	transfected
+T55	GO_EXT:biological_movement_or_translocation_process 13338 13346	migrated
+T56	GO_EXT:reverse_transcription_or_reverse_transcriptase 13479 13481	RT
+T57	GO:0010467 13769 13779	expression
+T58	GO:0007567 13818 13823	birth
+T59	GO:0010467 13964 13974	expression
+T60	GO:0010467 14251 14260	expressed
+T61	GO:0010467 14513 14522	expressed
+T62	GO:0016071 14576 14591	mRNA metabolism
+T63	GO_PATO_EXT:biological_localization_process_or_quality 14615 14627	localization
+T64	GO_PATO_EXT:biological_localization_process_or_quality 14680 14692	localization
+T65	GO:0009294 14717 14729	transfection
+T66	GO:0010467 14764 14774	expressing
+T67	GO_PATO_EXT:biological_localization_process_or_quality 14829 14838	localizes
+T68	GO_PATO_EXT:biological_localization_process_or_quality 14959 14971	localization
+T69	GO_PATO_EXT:biological_localization_process_or_quality 15058 15067	localized
+T70	GO_PATO_EXT:biological_localization_process_or_quality 15151 15163	localization
+T71	GO_PATO_EXT:biological_localization_process_or_quality 15314 15326	localization
+T72	GO_PATO_EXT:biological_localization_process_or_quality 15372 15384	localization
+T73	GO_RO_EXT:biological_export 15493 15499	export
+T74	GO_PATO_EXT:biological_localization_process_or_quality 15562 15574	localization
+T75	GO:0006913 15634 15663	nucleocytoplasmic trafficking
+T76	GO_EXT:transcription 15667 15680	transcription
+T77	GO_PATO_EXT:biological_localization_process_or_quality 15716 15728	localization
+T78	GO_PATO_EXT:biological_localization_process_or_quality 15798 15810	localization
+T79	GO_PATO_EXT:biological_localization_process_or_quality 15859 15871	localization
+T80	GO_PATO_EXT:biological_localization_process_or_quality 16159 16168	localized
+T81	GO_PATO_EXT:biological_localization_process_or_quality 16470 16478	localize
+T82	GO_PATO_EXT:biological_localization_process_or_quality 16667 16676	localized
+T83	GO:0051170 16794 16808	nuclear import
+T84	GO_PATO_EXT:biological_localization_process_or_quality 16921 16933	localization
+T85	GO:0051170 17014 17028	nuclear import
+T86	GO:0051170 17057 17071	nuclear import
+T87	GO_PATO_EXT:biological_localization_process_or_quality 17155 17164	localized
+T88	GO:0051170 17255 17269	nuclear import
+T89	GO_PATO_EXT:biological_localization_process_or_quality 17369 17381	localization
+T90	GO_PATO_EXT:biological_localization_process_or_quality 17485 17497	localization
+T91	GO_PATO_EXT:biological_localization_process_or_quality 17641 17653	localization
+T92	GO_PATO_EXT:biological_localization_process_or_quality 17884 17896	localization
+T93	GO:0051170 18156 18170	nuclear import
+T94	GO_PATO_EXT:biological_localization_process_or_quality 19852 19861	localized
+T95	GO:0051170 21473 21487	nuclear import
+T96	GO_PATO_EXT:biological_localization_process_or_quality 21708 21720	localization
+T97	GO_PATO_EXT:biological_localization_process_or_quality 21866 21878	localization
+T98	GO_PATO_EXT:biological_localization_process_or_quality 22164 22176	localization
+T99	GO_PATO_EXT:biological_localization_process_or_quality 22348 22360	localization
+T100	GO_PATO_EXT:biological_localization_process_or_quality 22391 22403	localization
+T101	GO_PATO_EXT:biological_localization_process_or_quality 22536 22548	localization
+T102	GO_PATO_EXT:biological_localization_process_or_quality 22819 22831	localization
+T103	GO_PATO_EXT:biological_localization_process_or_quality 22916 22928	localization
+T104	GO:0051168 23044 23058	nuclear export
+T105	GO_RO_EXT:biological_export 23156 23162	export
+T106	GO_RO_EXT:biological_export 23215 23221	export
+T107	GO_EXT:reaction_or_response 23320 23328	response
+T108	GO:0008380 23390 23396	splice
+T109	GO:0010467 23559 23569	expression
+T110	GO_RO_EXT:biological_export 23573 23579	export
+T111	GO:0051168 23735 23749	nuclear export
+T112	GO:0006406 23823 23840;23855 23859	nuclear export of ... mRNA
+T113	GO:0010467 23890 23899	expressed
+T114	GO:0009294 24106 24118	transfection
+T115	GO:0009294 24322 24334	transfection
+T116	GO:0010467 24398 24408	expression
+T117	GO_RO_EXT:biological_export 24454 24460	export
+T118	GO:0009294 24471 24483	transfection
+T119	GO_RO_EXT:biological_export 25060 25066	export
+T120	GO_RO_EXT:biological_export 25173 25179	export
+T121	GO:0016071 25193 25208	mRNA metabolism
+T122	GO:0051168 25319 25333	nuclear export
+T123	GO_RO_EXT:biological_export 25526 25532	export
+T124	GO_SO_EXT:sequence_rearrangement_process 25581 25592	recombinant
+T125	GO_EXT:biological_movement_or_translocation_process 25691 25700	mobilized
+T126	GO:0008152 25744 25757	metabolically
+T127	GO_RO_EXT:biological_export 25823 25829	export
+T128	GO:0006457 26429 26435	folded
+T129	GO_SO_EXT:post_translational_modification_entity_or_process 26453 26485	post-translational modifications
+T130	GO:0006457 26726 26736;26754 26761	folding of ... protein
+T131	GO_SO_EXT:sequence_rearrangement_process 26742 26753	recombinant
+T132	GO_RO_EXT:biological_export 26850 26856	export
+T133	GO_PATO_EXT:biological_localization_process_or_quality 26876 26888	localization
+T134	GO:0010467 27138 27147	expressed
+T135	GO:0010467 27530 27539	expressed
+T136	GO:0010467 27619 27629	expression
+T137	GO:0010467 27794 27804	expression
+T138	GO:0008380 27863 27869	splice
+T139	GO:0010467 28041 28051	expression
+T140	GO:0010467 28215 28225	expression
+T141	GO:0010467 28324 28334	expression
+T142	GO:0065007 28375 28384	regulated
+T143	GO_RO_EXT:biological_export 28479 28485	export
+T144	GO_PATO_EXT:biological_behavior 28567 28574	behaves
+T145	GO_RO_EXT:biological_export 28622 28628	export
+T146	GO_PATO_EXT:biological_localization_process_or_quality 28639 28648	localizes
+T147	GO_PATO_EXT:biological_localization_process_or_quality 28725 28737	localization
+T148	GO:0008380 28905 28913	splicing
+T149	GO_RO_EXT:biological_export 28914 28920	export
+T150	GO:0051168 28992 29006	nuclear export
+T151	GO_RO_EXT:biological_export 29149 29155	export
+T152	GO_RO_EXT:biological_export 29270 29276	export
+T153	GO_PATO_EXT:biological_localization_process_or_quality 29359 29371	localization
+T154	GO:0051168 29516 29530	nuclear export
+T155	GO:0065007 29936 29946	regulation
+T156	GO_PATO_EXT:biological_localization_process_or_quality 30226 30238	localization
+T157	GO_EXT:biological_routing_or_transport 30511 30519	targeted
+T158	GO_PATO_EXT:biological_localization_process_or_quality 30655 30667	localization
+T159	GO:0051170 30719 30733	nuclear import
+T160	GO_PATO_EXT:biological_localization_process_or_quality 30755 30767	localization
+T161	GO_PATO_EXT:biological_localization_process_or_quality 30879 30891	localization
+T162	GO:0051170 31060 31073	nuclear entry
+T163	GO_PATO_EXT:biological_localization_process_or_quality 31121 31133	localization
+T164	GO:0051168 31154 31168	nuclear export
+T165	GO_RO_EXT:biological_export 31314 31320	export
+T166	GO:0016071 31682 31697	mRNA metabolism
+T167	GO:0006406 31771 31790	mRNA nuclear export
+T168	GO_RO_EXT:biological_export 31825 31831	export
+T169	CHEBI_GO_EXT:biological_process_or_quality_or_role 31866 31876	biological
+T170	GO:0006413 32740 32764	translational initiation
+T171	GO:0006415 32785 32808	translation termination
+T172	GO_PATO_EXT:biological_localization_process_or_quality 33297 33309	localization
+T173	GO_PATO_EXT:biological_localization_process_or_quality 33340 33352	localization
+T174	GO:0051169 33492 33509	nuclear transport
+T175	GO:0010467 33601 33611	expression
+T176	GO:0009294 33698 33709	transfected
+T177	GO:0010467 33793 33803	expression
+T178	GO:0007568 33982 33987	aging
+T179	GO_PATO_EXT:biological_localization_process_or_quality 34320 34332	localization
+T180	GO:0009294 34378 34389	transfected
+T181	GO:0010467 34422 34432	expression
+T182	GO:0010467 34755 34765	expressing
+T183	GO:0009294 34904 34915	transfected
+T184	GO_PATO_EXT:biological_localization_process_or_quality 35074 35086	localization
+T185	GO:0009294 35464 35475	transfected
+T186	GO_PATO_EXT:biological_localization_process_or_quality 35667 35679	localization
+T187	GO:0009294 35795 35807	transfection
+T188	GO_RO_EXT:biological_export 36030 36036	export
+T189	GO:0009294 36070 36081	transfected
+T190	GO:0010467 36154 36164	expression
+T191	GO:0009294 36260 36272	transfection
+T192	GO:0010467 36296 36306	expression
+T193	GO:0010467 36509 36519	Expression
+T194	GO:0009294 36529 36540	transfected
+T195	GO:0010467 36552 36562	expression
+T196	GO_RO_EXT:biological_export 36718 36724	export
+T197	GO_EXT:biological_movement_or_translocation_process 36788 36797	mobilized
+T198	GO:0008152 36886 36899	metabolically

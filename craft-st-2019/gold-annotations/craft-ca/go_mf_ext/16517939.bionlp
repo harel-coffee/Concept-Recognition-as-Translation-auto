@@ -1,0 +1,31 @@
+T1	GO_EXT:transcription_factor 203 223	transcription factor
+T2	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 1745 1752	binding
+T3	GO_EXT:0004402 1924 1949	histone acetyltransferase
+T4	GO_EXT:0003713 1954 1982	transcriptional co-activator
+T5	GO_EXT:reverse_transcription_or_reverse_transcriptase 4805 4807	RT
+T6	GO_EXT:reverse_transcription_or_reverse_transcriptase 5036 5038	RT
+T7	GO_EXT:reverse_transcription_or_reverse_transcriptase 5079 5081	RT
+T8	GO_EXT:reverse_transcription_or_reverse_transcriptase 5217 5219	RT
+T9	GO_EXT:reverse_transcription_or_reverse_transcriptase 5652 5654	RT
+T10	GO_EXT:0060090 6042 6049	adaptor
+T11	GO_EXT:phosphoglycerate_kinase 6255 6258	PGK
+T12	CHEBI_GO_EXT:neomycin_or_neomycin_phosphotransferase 6259 6262	Neo
+T13	CHEBI_GO_EXT:peptidase_or_protease_or_proteinase_inhibitor 7690 7709	protease inhibitors
+T14	GO_EXT:reverse_transcription_or_reverse_transcriptase 10277 10279	RT
+T15	GO_EXT:reverse_transcription_or_reverse_transcriptase 10872 10874	RT
+T16	GO_EXT:reverse_transcription_or_reverse_transcriptase 15302 15304	RT
+T17	CHEBI_GO_EXT:neomycin_or_neomycin_phosphotransferase 15582 15585	Neo
+T18	GO_EXT:reverse_transcription_or_reverse_transcriptase 17902 17904	RT
+T19	CHEBI_GO_EXT:antagonist 22033 22043	antagonist
+T20	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 22806 22813	binding
+T21	GO_EXT:reverse_transcription_or_reverse_transcriptase 24796 24798	RT
+T22	GO_EXT:reverse_transcription_or_reverse_transcriptase 24924 24926	RT
+T23	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 26239 26246	binding
+T24	CHEBI_GO_EXT:neomycin_or_neomycin_phosphotransferase 26679 26682	NEO
+T25	CHEBI_GO_EXT:neomycin_or_neomycin_phosphotransferase 27137 27140	Neo
+T26	GO_EXT:reverse_transcription_or_reverse_transcriptase 27334 27336	RT
+T27	GO_EXT:reverse_transcription_or_reverse_transcriptase 27521 27523	RT
+T28	GO_EXT:transcription_factor 27574 27594	transcription factor
+T29	GO_EXT:reverse_transcription_or_reverse_transcriptase 27732 27734	RT
+T30	CHEBI_GO_EXT:neomycin_or_neomycin_phosphotransferase 28068 28071	Neo
+T31	GO_EXT:reverse_transcription_or_reverse_transcriptase 28982 28984	RT

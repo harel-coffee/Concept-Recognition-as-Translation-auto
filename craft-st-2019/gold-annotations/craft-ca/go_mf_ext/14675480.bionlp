@@ -1,0 +1,54 @@
+T1	GO_PR_EXT:MAP_kinase 126 158	mitogen activated protein kinase
+T2	GO:0097617 462 475	hybridisation
+T3	GO_PR_EXT:MAP_kinase 1046 1078	Mitogen activated protein kinase
+T4	GO_PR_EXT:MAP_kinase 1080 1084	MAPK
+T5	GO_PR_EXT:MAP_kinase 1372 1377	MAPKs
+T6	GO_PR_EXT:MAP_kinase 1465 1470	MAPKs
+T7	GO_EXT:0004705 1488 1492	JNKs
+T8	GO_PR_EXT:MAP_kinase 1585 1590	MAPKs
+T9	GO_PR_EXT:MAP_kinase 1648 1653	MAPKs
+T10	GO_EXT:0004708 1737 1748	MAPK kinase
+T11	GO_EXT:0004708 1750 1753	MKK
+T12	GO_EXT:0004708 1756 1760	MKKs
+T13	GO_EXT:0004709 1788 1806	MAPK kinase kinase
+T14	GO_EXT:0004709 1808 1812	MKKK
+T15	GO_PR_EXT:MAP_kinase 1906 1910	MAPK
+T16	GO_EXT:0004709 2117 2136	MAPK kinase kinases
+T17	GO_EXT:0019210 2326 2343	kinase inhibitors
+T18	GO_PR_EXT:MAP_kinase 2437 2441	MAPK
+T19	GO_EXT:transcription_factor 3425 3445	transcription factor
+T20	GO_PR_EXT:MAP_kinase 3942 3946	MAPK
+T21	GO_EXT:0004708 7115 7127	MAPK kinases
+T22	GO_PR_EXT:thymidine_kinase 7406 7422	thymidine kinase
+T23	GO_EXT:0016301 10248 10254	kinase
+T24	GO:0097617 10284 10297	hybridisation
+T25	GO_EXT:0016301 10361 10368	kinases
+T26	GO:0097617 11093 11107	hybridisations
+T27	GO:0097617 11718 11731	hybridisation
+T28	GO:0097617 12428 12441	hybridisation
+T29	GO:0097617 13015 13028	hybridisation
+T30	GO:0097617 20889 20902	hybridisation
+T31	GO_PR_EXT:MAP_kinase 31074 31084	MAP kinase
+T32	GO_EXT:0004872 31402 31411	receptors
+T33	GO_PR_EXT:MAP_kinase 31430 31434	MAPK
+T34	GO_PR_EXT:leukemia_inhibitory_factor_receptor 31456 31460	LifR
+T35	GO_PR_EXT:epidermal_growth_factor_receptor 31467 31471	EgfR
+T36	GO_EXT:0005017 31478 31483	PdgfR
+T37	GO_PR_EXT:hepatocyte_growth_factor_receptor 31493 31496	Met
+T38	GO_EXT:0005085 31511 31534	GDP/GTP exchange factor
+T39	GO:0097617 31731 31744	hybridisation
+T40	GO:0097617 32316 32329	hybridisation
+T41	GO:0097617 32733 32746	hybridisation
+T42	GO_EXT:0016301 33785 33792	kinases
+T43	GO_EXT:0004714 34354 34378	receptor tyrosine kinase
+T44	CHEBI_GO_EXT:ligand 34398 34404	ligand
+T45	GO_EXT:0004872 34480 34489	receptors
+T46	GO_EXT:0038131 34699 34719	neuregulin receptors
+T47	GO:0097617 36242 36255	hybridisation
+T48	GO_PR_EXT:thymidine_kinase 38775 38791	thymidine kinase
+T49	CHEBI_GO_EXT:neomycin_or_neomycin_phosphotransferase 39023 39026	neo
+T50	GO:0097617 40371 40384	hybridisation
+T51	GO:0097617 40492 40505	hybridisation
+T52	GO_PR_EXT:DNA_nucleotidylexotransferase 41093 41130	terminal deoxynucleotidyl transferase
+T53	CHEBI_GO_EXT:peptidase_or_protease_or_proteinase_inhibitor 42093 42113	proteinase inhibitor
+T54	GO_EXT:0004601 42522 42532	peroxidase

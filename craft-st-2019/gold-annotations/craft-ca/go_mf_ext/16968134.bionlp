@@ -1,0 +1,129 @@
+T1	GO_PR_EXT:ephrin_receptor 52 55	Eph
+T2	GO_PR_EXT:ephrin_receptor 1073 1076	Eph
+T3	GO_PR_EXT:ephrin_receptor 1400 1412	Eph receptor
+T4	GO_EXT:0004714 1404 1429	receptor tyrosine kinases
+T5	GO_PR_EXT:ephrin_receptor 1653 1656	Eph
+T6	GO_PR_EXT:ephrin_receptor 2681 2694	Eph receptors
+T7	GO_PR_EXT:ephrin_receptor 2759 2772	Eph receptors
+T8	GO_EXT:0004872 2808 2816	receptor
+T9	CHEBI_GO_EXT:ligand 2817 2823	ligand
+T10	GO_EXT:0004872 2843 2851	receptor
+T11	CHEBI_GO_EXT:ligand 2856 2862	ligand
+T12	GO_PR_EXT:ephrin_receptor 2935 2938	Eph
+T13	GO_PR_EXT:ephrin_receptor 3081 3094	Eph receptors
+T14	GO_PR_EXT:ephrin_receptor 3213 3226	Eph receptors
+T15	GO_EXT:0015267 3375 3383	channels
+T16	GO_EXT:0005243 3801 3821	gap junctional pores
+T17	GO_PR_EXT:ephrin_receptor 4673 4676	Eph
+T18	GO_PR_EXT:ephrin_receptor 4843 4846	Eph
+T19	GO_PR_EXT:ephrin_receptor 5021 5034	Eph receptors
+T20	GO_EXT:0004872 8974 8983	receptors
+T21	GO_EXT:0004872 9040 9049	receptors
+T22	GO_PR_EXT:alkaline_phosphatase 12103 12123	alkaline phosphatase
+T23	GO_PR_EXT:alkaline_phosphatase 12125 12127	AP
+T24	GO_PR_EXT:alkaline_phosphatase 12199 12201	AP
+T25	GO_PR_EXT:alkaline_phosphatase 12370 12372	AP
+T26	GO_PR_EXT:alkaline_phosphatase 12652 12654	AP
+T27	GO_PR_EXT:alkaline_phosphatase 12665 12667	AP
+T28	GO_PR_EXT:alkaline_phosphatase 13255 13257	AP
+T29	GO_PR_EXT:alkaline_phosphatase 13606 13608	AP
+T30	GO_PR_EXT:alkaline_phosphatase 13629 13631	AP
+T31	GO_PR_EXT:alkaline_phosphatase 13705 13707	AP
+T32	GO_PR_EXT:alkaline_phosphatase 13783 13785	AP
+T33	GO_PR_EXT:MAP_kinase 14097 14101	MAPK
+T34	GO_EXT:0005243 14305 14325	gap junctional pores
+T35	GO_EXT:0055077 14327 14336	connexons
+T36	GO_EXT:0055077 14425 14434	connexons
+T37	GO_PR_EXT:alkaline_phosphatase 15437 15439	AP
+T38	GO_PR_EXT:alkaline_phosphatase 15471 15473	AP
+T39	GO_EXT:0004565 16279 16294	β-galactosidase
+T40	GO_EXT:0015267 16689 16694	pores
+T41	GO_EXT:0004872 16873 16881	receptor
+T42	GO_PR_EXT:ephrin_receptor 16976 16979	Eph
+T43	GO_PR_EXT:ephrin_receptor 17163 17166	Eph
+T44	GO_PR_EXT:ephrin_receptor 17201 17204	Eph
+T45	GO_PR_EXT:ephrin_receptor 17338 17341	Eph
+T46	GO_PR_EXT:ephrin_receptor 17515 17518	Eph
+T47	GO_PR_EXT:ephrin_receptor 17673 17676	Eph
+T48	GO_PR_EXT:ephrin_receptor 17816 17819	Eph
+T49	GO_PR_EXT:ephrin_receptor 18316 18319	Eph
+T50	GO_PR_EXT:ephrin_receptor 18941 18944	Eph
+T51	GO_PR_EXT:ephrin_receptor 19235 19238	Eph
+T52	GO_EXT:0004872 19599 19607	receptor
+T53	GO_PR_EXT:ephrin_receptor 19893 19896	Eph
+T54	GO_EXT:0004872 20122 20130	receptor
+T55	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 20945 20952	binding
+T56	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 21249 21256	binding
+T57	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 22209 22216	binding
+T58	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 24084 24091	binding
+T59	GO_EXT:transcription_factor 28252 28272	transcription factor
+T60	GO_EXT:transcription_factor 28326 28346	transcription factor
+T61	GO_EXT:transcription_factor 28416 28437	transcription factors
+T62	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 29893 29900	binding
+T63	GO_PR_EXT:ephrin_receptor 29917 29930	Eph receptors
+T64	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 30196 30203	binding
+T65	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 30515 30522	binding
+T66	GO_PR_EXT:ephrin_receptor 30715 30718	Eph
+T67	GO_PR_EXT:ephrin_receptor 30974 30977	Eph
+T68	GO_PR_EXT:ephrin_receptor 31065 31068	Eph
+T69	GO_PR_EXT:ephrin_receptor 32436 32439	Eph
+T70	GO_EXT:0016301 32637 32644	kinases
+T71	GO_PR_EXT:ephrin_receptor 32671 32674	Eph
+T72	GO_EXT:0016301 32704 32711	kinases
+T73	GO_PR_EXT:MAP_kinase 32716 32721	MAPKs
+T74	GO_PR_EXT:MAP_kinase 32964 32968	MAPK
+T75	GO_PR_EXT:ephrin_receptor 33107 33120	Eph receptors
+T76	GO_PR_EXT:ephrin_receptor 33237 33240	Eph
+T77	GO_EXT:0055077 33366 33375	connexons
+T78	GO_PR_EXT:ephrin_receptor 33556 33559	Eph
+T79	GO_EXT:0055077 33627 33636	connexons
+T80	GO_PR_EXT:ephrin_receptor 33723 33726	Eph
+T81	GO_PR_EXT:ephrin_receptor 34437 34440	Eph
+T82	GO_PR_EXT:ephrin_receptor 34655 34658	Eph
+T83	GO_PR_EXT:ephrin_receptor 35350 35353	Eph
+T84	GO_PR_EXT:ephrin_receptor 35515 35528	Eph receptors
+T85	GO_PR_EXT:ephrin_receptor 35548 35551	Eph
+T86	GO_PR_EXT:ephrin_receptor 35881 35884	Eph
+T87	GO_PR_EXT:ephrin_receptor 35934 35947	Eph receptors
+T88	GO_PR_EXT:ephrin_receptor 36149 36152	Eph
+T89	GO_PR_EXT:ephrin_receptor 36483 36486	Eph
+T90	GO_PR_EXT:ephrin_receptor 36792 36795	Eph
+T91	GO_PR_EXT:ephrin_receptor 37057 37070	Eph receptors
+T92	GO_PR_EXT:ephrin_receptor 37302 37315	Eph receptors
+T93	GO_EXT:phosphoglycerate_kinase 38598 38601	PGK
+T94	GO_EXT:0004565 38825 38829	βgal
+T95	GO:0097617 39656 39669	hybridization
+T96	GO:0097617 39688 39701	hybridization
+T97	GO:0097617 39816 39829	hybridization
+T98	GO_EXT:0004536 40099 40104	DNAse
+T99	GO_PR_EXT:alkaline_phosphatase 40524 40526	AP
+T100	GO_PR_EXT:alkaline_phosphatase 40716 40718	AP
+T101	GO_PR_EXT:ephrin_receptor 41143 41146	Eph
+T102	GO_EXT:0004872 41150 41158	receptor
+T103	GO_PR_EXT:ephrin_receptor 41605 41608	Eph
+T104	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 42815 42822	binding
+T105	GO:0097617 45452 45465	hybridization
+T106	GO_PR_EXT:alkaline_phosphatase 46274 46276	AP
+T107	GO_PR_EXT:alkaline_phosphatase 47081 47083	AP
+T108	GO_PR_EXT:alkaline_phosphatase 47206 47208	AP
+T109	GO_PR_EXT:alkaline_phosphatase 47237 47239	AP
+T110	GO_PR_EXT:alkaline_phosphatase 47585 47587	AP
+T111	GO_PR_EXT:alkaline_phosphatase 47673 47675	AP
+T112	GO_PR_EXT:ephrin_receptor 48593 48596	Eph
+T113	GO_PR_EXT:alkaline_phosphatase 48959 48961	AP
+T114	GO_PR_EXT:alkaline_phosphatase 48964 48984	alkaline phosphatase
+T115	GO:0097617 50639 50652	hybridization
+T116	GO:0097617 51028 51041	hybridization
+T117	GO_PR_EXT:alkaline_phosphatase 51784 51786	AP
+T118	GO_PR_EXT:alkaline_phosphatase 51887 51889	AP
+T119	GO_PR_EXT:alkaline_phosphatase 52216 52218	AP
+T120	GO_PR_EXT:alkaline_phosphatase 52290 52292	AP
+T121	GO_PR_EXT:alkaline_phosphatase 52545 52547	AP
+T122	GO_EXT:0004565 52945 52949	βgal
+T123	GO_PR_EXT:ephrin_receptor 53527 53530	Eph
+T124	GO_PR_EXT:ephrin_receptor 53777 53780	Eph
+T125	GO_EXT:0004872 53784 53792	receptor
+T126	GO_PR_EXT:ephrin_receptor 53943 53946	Eph
+T127	GO_PR_EXT:ephrin_receptor 54157 54160	Eph
+T128	GO_PR_EXT:ephrin_receptor 54414 54417	Eph
+T129	GO_PR_EXT:ephrin_receptor 58881 58884	Eph

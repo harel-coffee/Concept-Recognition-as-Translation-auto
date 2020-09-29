@@ -1,0 +1,17 @@
+T1	GO_PR_EXT:thymidine_kinase 2864 2880	thymidine kinase
+T2	GO_EXT:recombinase 3015 3026	recombinase
+T3	GO_PR_EXT:thymidine_kinase 3728 3744	thymidine kinase
+T4	GO_PR_EXT:thymidine_kinase 3752 3754	TK
+T5	GO_PR_EXT:alkaline_phosphatase 4641 4661	alkaline phosphatase
+T6	GO_PR_EXT:alkaline_phosphatase 5539 5559	alkaline phosphatase
+T7	GO_EXT:reverse_transcription_or_reverse_transcriptase 5596 5598	RT
+T8	GO_EXT:reverse_transcription_or_reverse_transcriptase 6052 6054	RT
+T9	GO_EXT:transcription_factor 8540 8560	transcription factor
+T10	GO_PR_EXT:thymidine_kinase 10095 10111	thymidine kinase
+T11	GO_PR_EXT:thymidine_kinase 10138 10140	TK
+T12	GO_PR_EXT:thymidine_kinase 10416 10418	TK
+T13	GO_EXT:reverse_transcription_or_reverse_transcriptase 11207 11209	RT
+T14	GO_PR_EXT:glyceraldehyde_3_phosphate_dehydrogenase 11295 11299	Gapd
+T15	GO_EXT:reverse_transcription_or_reverse_transcriptase 11315 11317	RT
+T16	GO_PR_EXT:alkaline_phosphatase 11356 11376	Alkaline phosphatase
+T17	GO_PR_EXT:alkaline_phosphatase 11527 11547	alkaline phosphatase

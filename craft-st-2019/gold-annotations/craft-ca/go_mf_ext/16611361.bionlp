@@ -1,0 +1,35 @@
+T1	GO_EXT:transcription_factor 104 124	transcription factor
+T2	GO_EXT:recombinase 1235 1246	recombinase
+T3	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 1496 1503	binding
+T4	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 1564 1571	binding
+T5	GO_EXT:0008910 3450 3477	neomycin phosphotransferase
+T6	CHEBI_GO_EXT:neomycin_or_neomycin_phosphotransferase 3479 3482	neo
+T7	CHEBI_GO_EXT:neomycin_or_neomycin_phosphotransferase 3596 3599	neo
+T8	CHEBI_GO_EXT:neomycin_or_neomycin_phosphotransferase 3635 3638	neo
+T9	GO_EXT:recombinase 3646 3657	recombinase
+T10	GO_EXT:0015666 3669 3693	restriction endonuclease
+T11	CHEBI_GO_EXT:neomycin_or_neomycin_phosphotransferase 4702 4705	neo
+T12	CHEBI_GO_EXT:neomycin_or_neomycin_phosphotransferase 5271 5274	neo
+T13	CHEBI_GO_EXT:neomycin_or_neomycin_phosphotransferase 5453 5456	neo
+T14	GO_EXT:recombinase 5649 5660	recombinase
+T15	CHEBI_GO_EXT:neomycin_or_neomycin_phosphotransferase 5751 5754	neo
+T16	GO_EXT:0008910 6306 6333	neomycin phosphotransferase
+T17	CHEBI_GO_EXT:neomycin_or_neomycin_phosphotransferase 6335 6338	neo
+T18	GO_EXT:0015666 6433 6457	restriction endonuclease
+T19	CHEBI_GO_EXT:neomycin_or_neomycin_phosphotransferase 6882 6885	neo
+T20	GO_EXT:recombinase 7083 7095	recombinases
+T21	CHEBI_GO_EXT:neomycin_or_neomycin_phosphotransferase 7509 7512	neo
+T22	CHEBI_GO_EXT:neomycin_or_neomycin_phosphotransferase 7514 7517	Neo
+T23	GO_EXT:recombinase 7683 7694	recombinase
+T24	GO_EXT:reverse_transcription_or_reverse_transcriptase 9053 9055	RT
+T25	GO_EXT:recombinase 10161 10172	recombinase
+T26	GO_EXT:recombinase 11279 11290	recombinase
+T27	GO:0097617 11576 11586	hybridized
+T28	CHEBI_GO_EXT:neomycin_or_neomycin_phosphotransferase 13661 13664	neo
+T29	GO_EXT:recombinase 14293 14304	recombinase
+T30	GO_EXT:reverse_transcription_or_reverse_transcriptase 15937 15939	RT
+T31	CHEBI_GO_EXT:neomycin_or_neomycin_phosphotransferase 16382 16385	Neo
+T32	GO_EXT:reverse_transcription_or_reverse_transcriptase 16445 16447	RT
+T33	CHEBI_GO_EXT:neomycin_or_neomycin_phosphotransferase 16857 16860	Neo
+T34	GO_EXT:0008910 16862 16889	neomycin phosphotransferase
+T35	CHEBI_GO_EXT:hormone 17574 17581	Hormone

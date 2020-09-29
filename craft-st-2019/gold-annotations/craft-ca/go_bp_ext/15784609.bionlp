@@ -1,0 +1,120 @@
+T1	GO:0010467 36 46	expression
+T2	GO_SO_EXT:sequence_rearrangement_process 101 114	recombination
+T3	GO:0010467 424 434	expression
+T4	GO:0010467 535 545	expression
+T5	GO:0010467 718 728	expression
+T6	GO_EXT:biological_growth_entity_or_process 757 763	growth
+T7	GO:0009790 787 808	embryonic development
+T8	GO:0007567 817 824	natally
+T9	GO:0010468 1072 1093	control of expression
+T10	GO:0010468 1403 1432	regulation of gene expression
+T11	GO:0010468 1660 1681	control of expression
+T12	GO:0010467 1700 1710	expression
+T13	GO:0065007 1742 1752	controlled
+T14	GO:0010467 1764 1774	expression
+T15	GO_EXT:fatality_or_lethality 1872 1881	lethality
+T16	GO:0010467 2271 2281	expression
+T17	GO:0010467 2320 2330	expressing
+T18	GO:0065007 2504 2511	control
+T19	GO:0010467 2531 2541	expression
+T20	GO_SO_EXT:sequence_rearrangement_process 2567 2580	recombination
+T21	GO:0010467 2619 2634	gene expression
+T22	GO:0010468 2848 2861;2872 2882	regulation of ... expression
+T23	GO:0010467 2955 2970	gene expression
+T24	GO:0010468 3066 3079;3090 3100	regulation of ... expression
+T25	GO:0010467 3250 3259	expressed
+T26	GO:0010467 3294 3304	expression
+T27	GO:0010467 3503 3513	expression
+T28	GO:0065007 3627 3637	controlled
+T29	GO:0010467 3648 3658	expression
+T30	GO:0065007 3783 3794	regulatable
+T31	GO_EXT:responder 3795 3804	responder
+T32	GO_PATO_EXT:biological_localization_process_or_quality 3930 3942	localization
+T33	GO_EXT:biological_release 4534 4542	released
+T34	GO:0010467 5647 5657	expression
+T35	GO:0009294 5685 5697	transfection
+T36	GO:0009294 5881 5892	transfected
+T37	GO:0040007 5904 5911	growing
+T38	GO:0009294 5949 5961	transfection
+T39	GO:0009294 6371 6383	transfection
+T40	GO:0098743 6692 6706;6719 6724	aggregation of ... cells
+T41	GO:0040007 7362 7367	grown
+T42	GO_EXT:biological_movement_or_translocation_process 7544 7555	transferred
+T43	GO_EXT:macromolecule_denaturation 8582 8594	denaturation
+T44	GO_PATO_EXT:biological_localization_process_or_quality 9768 9780	localization
+T45	GO:0006412 9874 9885	Translation
+T46	GO:0043631 9976 9991	polyadenylation
+T47	GO:0010467 10106 10115	expressed
+T48	GO:0010467 10206 10215	expressed
+T49	GO_EXT:transcription 10302 10317	transcriptional
+T50	GO_EXT:responder 10354 10363	responder
+T51	GO:0009294 10530 10542	transfecting
+T52	GO:0010467 10584 10594	expressing
+T53	GO:0009294 11024 11035	transfected
+T54	GO_EXT:transfectant_or_tranformant 11168 11181	transfectants
+T55	GO:0010467 11407 11417	expression
+T56	GO_EXT:breeding 12231 12235	bred
+T57	GO_EXT:responder 12306 12315	responder
+T58	GO:0010467 12636 12645	expresses
+T59	GO:0010467 12726 12736	expression
+T60	GO_EXT:breeding 12807 12815	breeding
+T61	GO:0010467 12929 12939	expression
+T62	GO:0010467 13192 13202	expression
+T63	GO:0007565 13665 13673	pregnant
+T64	GO:0007618 13705 13711	mating
+T65	GO_EXT:fatality_or_lethality 13766 13775	lethality
+T66	GO:0010467 14158 14168	expression
+T67	GO_EXT:gene_expresser 15030 15040	expressers
+T68	GO:0010467 15062 15072	expression
+T69	GO:0048477 15230 15239	oogenesis
+T70	GO:0010467 15354 15364	expressing
+T71	GO:0010467 15829 15839	expression
+T72	GO:0007567 16127 16131	born
+T73	GO:0042756 16300 16308	drinking
+T74	GO:0016265 16648 16652	died
+T75	GO_EXT:killing 16973 16983	sacrificed
+T76	GO:0016265 17253 17257	died
+T77	GO:0010467 17353 17363	expression
+T78	GO:0010467 18570 18580	expressing
+T79	GO_SO_EXT:sequence_rearrangement_process 18825 18836	recombinant
+T80	GO_EXT:secretion_entity_or_process 18967 18976	secretion
+T81	GO_EXT:biological_growth_entity_or_process 18991 18997	growth
+T82	GO:0048468 20969 20985	cell development
+T83	GO:0010467 21016 21026	expression
+T84	GO_RO_EXT:developmental_differentiation_process 21143 21158	differentiation
+T85	GO:0035425 21318 21327	autocrine
+T86	GO:0030097 21447 21460	hematopoietic
+T87	GO:0030097 21540 21553	hematopoietic
+T88	GO:0010467 21657 21667	expression
+T89	GO_EXT:negative_regulation 21704 21718	downregulation
+T90	GO_EXT:biological_growth_entity_or_process 21740 21746	growth
+T91	GO:0007565 22170 22179	pregnancy
+T92	GO_PATO_EXT:biological_behavior 22424 22434	behavioral
+T93	GO:0003094 23368 23389	glomerular filtration
+T94	GO:0007596 23505 23519	blood clotting
+T95	GO:0007596 23583 23593	thrombotic
+T96	GO:0010467 23749 23759	expression
+T97	GO:0010467 24019 24029	expression
+T98	GO:0010468 24377 24398	control of expression
+T99	GO:0010467 24616 24625	expressed
+T100	GO:0010467 24874 24884	expression
+T101	GO:0010467 25019 25029	expression
+T102	GO_EXT:responder 25123 25132	responder
+T103	GO:0010467 25385 25395	expression
+T104	GO:0009294 26668 26679	transfected
+T105	GO:0010467 26717 26727	expression
+T106	GO:0009294 26860 26871	transfected
+T107	GO_EXT:breeding 27238 27242	bred
+T108	GO_EXT:responder 27368 27377	responder
+T109	GO:0010467 27533 27540	express
+T110	GO:0010467 27638 27648	expressing
+T111	GO:0010467 27670 27680	expression
+T112	GO:0010467 27778 27788	expression
+T113	GO:0010467 27896 27906	expression
+T114	GO:0010467 28094 28104	expression
+T115	GO:0065007 28227 28236	regulated
+T116	GO_EXT:fatality_or_lethality 29093 29099	lethal
+T117	GO:0010467 29374 29384	expression
+T118	GO:0010467 29626 29636	expression
+T119	GO:0007565 29779 29788	pregnancy
+T120	GO:0010467 30097 30107	expression

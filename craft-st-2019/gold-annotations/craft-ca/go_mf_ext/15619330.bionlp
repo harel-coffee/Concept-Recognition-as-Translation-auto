@@ -1,0 +1,4 @@
+T1	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 4850 4855	bound
+T2	GO_EXT:polymerase 28367 28377	Polymerase
+T3	GO_EXT:phosphoglycerate_kinase 29556 29559	PGK
+T4	GO:0097617 31554 31565	hybridizing

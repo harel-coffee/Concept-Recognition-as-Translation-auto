@@ -1,0 +1,27 @@
+T1	GO_EXT:transcription_factor 937 957	transcription factor
+T2	GO_EXT:transcription_factor 2198 2218	transcription factor
+T3	GO_EXT:transcription_factor 5723 5743	transcription factor
+T4	GO_EXT:transcription_factor 5895 5915	transcription factor
+T5	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 7535 7542	binding
+T6	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 8889 8896	binding
+T7	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 8953 8960	binding
+T8	GO_EXT:transcription_factor 22716 22736	transcription factor
+T9	GO_EXT:transcription_factor 23724 23744	transcription factor
+T10	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 23892 23896	bind
+T11	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 24230 24237	binding
+T12	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 24825 24832	binding
+T13	GO_EXT:transcription_factor 26021 26041	transcription factor
+T14	GO_EXT:0004872 26495 26503	receptor
+T15	GO_PR_EXT:fMet_Leu_Phe_receptor 26599 26621	F-met-leu-phe receptor
+T16	GO_EXT:0005024 27914 27927	Tgfβ receptor
+T17	GO_PR_EXT:NF_kappaB_inducing_kinase 27981 27984	NIK
+T18	GO_EXT:0033549 28547 28563	MAPK phosphatase
+T19	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 29287 29294	binding
+T20	GO_PR_EXT:NF_kappaB_inducing_kinase 29405 29408	Nik
+T21	GO_PR_EXT:NF_kappaB_inducing_kinase 29449 29452	Nik
+T22	GO_PR_EXT:NF_kappaB_inducing_kinase 29486 29489	NIK
+T23	GO_EXT:0005125 29642 29650	cytokine
+T24	GO_PR_EXT:interleukin_1_receptor_type_I 29674 29680	IL-1R1
+T25	GO_PR_EXT:NF_kappaB_inducing_kinase 29703 29706	NIK
+T26	GO_EXT:0008384 29707 29710	IKK
+T27	GO_EXT:0004601 36142 36152	peroxidase

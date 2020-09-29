@@ -1,0 +1,37 @@
+T1	GO_EXT:0004872 156 164	receptor
+T2	GO_EXT:0004872 1678 1686	receptor
+T3	GO_EXT:0005125 3550 3558	cytokine
+T4	GO_EXT:0005125 3637 3646	Cytokines
+T5	GO_EXT:0004872 4243 4251	receptor
+T6	GO_EXT:0004872 4286 4294	receptor
+T7	GO_PR_EXT:insulin_receptor 14889 14905	insulin receptor
+T8	CHEBI_GO_EXT:antioxidant 18207 18218	antioxidant
+T9	GO_PR_EXT:stearoyl_CoA_desaturase 21625 21655	stearoyl-coenzyme A desaturase
+T10	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 21695 21702	binding
+T11	GO_PR_EXT:diacylglycerol_acyltransferase 21888 21907	DAG acyltransferase
+T12	CHEBI_GO_SO_EXT:enzyme 21917 21923	enzyme
+T13	GO_MOP_EXT:catalysis 21924 21934	catalysing
+T14	CHEBI_GO_EXT:hormone 22085 22092	hormone
+T15	GO_EXT:0016298 22103 22109	lipase
+T16	CHEBI_GO_SO_EXT:enzyme 22127 22133	enzyme
+T17	GO_EXT:0004806 22311 22330	triglyceride lipase
+T18	GO_EXT:0004784 22727 22747	superoxide dismutase
+T19	GO_PR_EXT:glutathione_synthase 22823 22843	gluthatione synthase
+T20	GO_EXT:0004601 22869 22879	peroxidase
+T21	GO_PR_EXT:glutathione_S_transferase 22892 22916	gluthatione transferases
+T22	GO_PR_EXT:fatty_acid_synthase 23819 23838	fatty acid synthase
+T23	GO_PR_EXT:lipoprotein_lipase 24085 24088	Lpl
+T24	GO_PR_EXT:long_chain_acyl_CoA_dehydrogenase 24268 24272	Lcad
+T25	GO_EXT:0003997 24274 24277	Aox
+T26	GO_PR_EXT:phosphoenolpyruvate_carboxykinase 25006 25039	phosphoenolpyruvate carboxykinase
+T27	GO_PR_EXT:glucose_6_phosphatase 25055 25076	glucose-6-phosphatase
+T28	GO_PR_EXT:lipoprotein_lipase 25533 25536	Lpl
+T29	GO_PR_EXT:hormone_sensitive_lipase 33121 33145	hormone-sensitive lipase
+T30	GO_EXT:0004806 33159 33178	triglyceride lipase
+T31	CHEBI_GO_SO_EXT:enzyme 38662 38671	Enzymatic
+T32	GO_EXT:reverse_transcription_or_reverse_transcriptase 40788 40790	RT
+T33	GO_EXT:0016301 41519 41525	kinase
+T34	GO_EXT:biological_mover_or_transporter 48326 48337	transporter
+T35	GO_EXT:0004872 48519 48527	receptor
+T36	GO_EXT:0004872 48578 48586	receptor
+T37	GO_PR_EXT:stearoyl_CoA_desaturase 48641 48671	stearoyl-coenzyme A desaturase

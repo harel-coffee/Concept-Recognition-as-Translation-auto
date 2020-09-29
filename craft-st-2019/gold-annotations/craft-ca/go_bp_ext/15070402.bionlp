@@ -1,0 +1,205 @@
+T1	GO:0010467 55 64	expressed
+T2	GO:0065007 516 525	regulated
+T3	GO_PATO_EXT:phosphorylation_process 537 552	phosphorylation
+T4	GO:0065007 661 671	regulating
+T5	CHEBI_GO_EXT:biological_process_or_quality_or_role 748 758	biological
+T6	GO:0010467 1243 1252	expressed
+T7	GO:0009790 1325 1346	embryonic development
+T8	GO:0010467 1360 1369	expressed
+T9	GO:0007026 1608 1633	microtubule stabilization
+T10	GO:0009294 1643 1654	transfected
+T11	GO_EXT:biological_recruitment 1685 1694	recruited
+T12	GO:0009987 2055 2073	cellular processes
+T13	GO:0007026 2087 2112	microtubule stabilization
+T14	GO:0051301 2122 2135	cell division
+T15	GO:0016477 2122 2126;2140 2149	cell ... migration
+T16	GO:0070507 2185 2215	microtubule dynamic regulation
+T17	GO:0009048 3188 3202	X-inactivation
+T18	GO:0009790 3233 3254	embryonic development
+T19	GO:0010467 3311 3321	expression
+T20	GO:0008283 3518 3531	proliferation
+T21	GO:0007368 3642 3658;3673 3693	establishment of ... left/right asymmetry
+T22	GO:0009790 3703 3712;3719 3730	embryonic ... development
+T23	GO:0007049 4255 4265	cell cycle
+T24	GO:0065007 4544 4553	regulated
+T25	GO_PATO_EXT:phosphorylation_process 4561 4576	phosphorylation
+T26	GO:0016311 4585 4602	dephosphorylation
+T27	GO:0065007 4641 4651	regulatory
+T28	GO:0065007 4806 4816	regulating
+T29	GO:0065007 4922 4930	controls
+T30	GO_PATO_EXT:phosphorylation_process 4935 4950	phosphorylation
+T31	GO:0010467 5138 5147	expressed
+T32	CHEBI_GO_EXT:biological_process_or_quality_or_role 5540 5550	biological
+T33	GO:0007618 6306 6312	mating
+T34	GO:0007618 7023 7029	mating
+T35	GO:0040007 7608 7615	growing
+T36	GO:0009294 8610 8621	transfected
+T37	GO:0009294 8750 8761	transfected
+T38	GO:0009294 9018 9029	transformed
+T39	GO:0009294 9181 9192	transfected
+T40	GO:0009294 9333 9346	transfections
+T41	GO:0007369 10154 10166	Gastrulation
+T42	GO:0006631 10310 10335	metabolism of fatty acids
+T43	GO:0009294 10655 10666	transfected
+T44	GO:0009294 10879 10890	transfected
+T45	GO:0009294 11291 11302	transfected
+T46	GO:0007618 11410 11416	mating
+T47	GO:0009294 11580 11591	transfected
+T48	GO:0010467 11895 11904	expressed
+T49	GO_PATO_EXT:physiological_process_or_quality 12003 12018	physiologically
+T50	GO:0010467 12084 12094	expression
+T51	GO:0009790 12111 12132	embryonic development
+T52	GO:0010467 12317 12327	expression
+T53	GO:0010467 12641 12651	expression
+T54	GO:0010467 12775 12785	expression
+T55	GO:0010467 13208 13218	expression
+T56	GO:0010467 13600 13610	expression
+T57	GO:0060173 13801 13815;13820 13825	development of ... limbs
+T58	GO:0010467 13931 13941	expressing
+T59	GO:0010467 14244 14251	express
+T60	GO:0010467 14337 14347	expression
+T61	GO:0009790 14364 14385	embryonic development
+T62	GO:0010467 14455 14465	expression
+T63	GO:0010467 14734 14744	expression
+T64	GO:0010467 14934 14944	Expression
+T65	GO_EXT:biological_recruitment 15653 15661	recruits
+T66	GO:0010467 15699 15709	expression
+T67	GO_PATO_EXT:biological_localization_process_or_quality 15879 15891	localization
+T68	GO:0009294 15901 15912	transfected
+T69	GO_PATO_EXT:biological_localization_process_or_quality 16221 16233	localization
+T70	GO:0010467 16317 16327	expression
+T71	GO:0010467 16524 16534	expression
+T72	GO_PATO_EXT:biological_localization_process_or_quality 16570 16582	localization
+T73	GO:0010467 16741 16751	expressing
+T74	GO:0009294 16788 16799	transfected
+T75	GO:0051325 16862 16872	interphase
+T76	GO_PATO_EXT:biological_localization_process_or_quality 16898 16910	localization
+T77	GO_PATO_EXT:biological_localization_process_or_quality 17052 17064	localization
+T78	GO_PATO_EXT:biological_localization_process_or_quality 17122 17134	localization
+T79	GO_PATO_EXT:biological_localization_process_or_quality 17332 17341	localized
+T80	GO_PATO_EXT:biological_localization_process_or_quality 17371 17383	localization
+T81	GO:0010467 17429 17438	expressed
+T82	GO:0007049 17557 17567	cell cycle
+T83	GO_PATO_EXT:biological_localization_process_or_quality 17666 17675	localizes
+T84	GO:0051325 17699 17709	interphase
+T85	GO:0010467 17747 17756	expressed
+T86	GO:0010467 17916 17926	expression
+T87	GO:0010467 18038 18048	expression
+T88	GO:0010467 18151 18160	expressed
+T89	GO:0009294 18245 18256	transfected
+T90	GO_PATO_EXT:biological_localization_process_or_quality 18297 18309	localization
+T91	GO:0009294 18464 18475	transfected
+T92	GO_PATO_EXT:biological_localization_process_or_quality 18572 18580	localize
+T93	GO_EXT:biological_recruitment 18682 18689	recruit
+T94	GO:0010467 18800 18810	expression
+T95	GO_EXT:biological_recruitment 18881 18892	recruitment
+T96	GO:0010467 18987 18996	expressed
+T97	GO:0009294 19036 19049	transfections
+T98	GO_EXT:biological_recruitment 19223 19230	recruit
+T99	GO:0010467 19367 19377	expressing
+T100	GO_PATO_EXT:biological_localization_process_or_quality 19435 19447	localization
+T101	GO:0010467 19588 19598	expression
+T102	GO:0009294 19809 19820	transfected
+T103	GO:0009294 20100 20111	transfected
+T104	GO:0009294 20467 20479	transfection
+T105	GO:0009294 20791 20802	transfected
+T106	GO:0009294 21354 21365	transfected
+T107	GO_PATO_EXT:biological_localization_process_or_quality 21390 21402	localization
+T108	GO:0007067 21480 21487	mitotic
+T109	GO:0009294 21615 21626	transfected
+T110	GO:0007026 22473 22498	microtubule stabilization
+T111	GO:0010467 22545 22554	expressed
+T112	GO:0051325 22601 22611	interphase
+T113	GO:0009294 22678 22689	transfected
+T114	GO_EXT:transfectant_or_tranformant 22798 22810	transfectant
+T115	GO:0009294 23345 23356	transfected
+T116	GO_PATO_EXT:biological_localization_process_or_quality 23391 23403	localization
+T117	GO_PATO_EXT:biological_localization_process_or_quality 23661 23673	localization
+T118	GO:0007067 23683 23690	mitotic
+T119	GO:0009294 23948 23959	transfected
+T120	GO:0007019 23989 24015	microtubule-depolymerizing
+T121	GO:0010467 24124 24134	expression
+T122	GO:0010467 24254 24264	expressing
+T123	GO:0009294 24721 24732	transfected
+T124	GO:0010467 25251 25261	expressing
+T125	GO:0007026 25491 25514	microtubule-stabilizing
+T126	GO:0070507 25844 25878	regulation of microtubule dynamics
+T127	GO:0007369 26046 26058	gastrulation
+T128	GO:0010467 26082 26091	expressed
+T129	GO:0007369 26135 26147	gastrulation
+T130	GO_EXT:reaction_or_response 26216 26224	responds
+T131	GO:0065007 26252 26261	regulates
+T132	GO:0008610 26262 26277	lipid synthesis
+T133	GO:0010467 26506 26516	expression
+T134	GO:0009790 26541 26562	embryonic development
+T135	GO:0010467 26710 26720	expression
+T136	GO:0010467 26979 26989	expression
+T137	GO:0010467 27133 27142	expressed
+T138	GO_PATO_EXT:biological_patterning_process_or_quality 27418 27428	patterning
+T139	GO:0065007 27433 27442	regulates
+T140	GO:0009653 27447 27460	morphogenesis
+T141	GO:0010467 27777 27787	Expression
+T142	GO:0010467 27978 27988	expression
+T143	GO:0010467 28478 28487	expressed
+T144	GO:0010467 28746 28755	expressed
+T145	GO:0001578 28781 28813	formation of microtubule bundles
+T146	GO:0010467 28856 28865	expressed
+T147	GO_EXT:biological_recruitment 28891 28899	recruits
+T148	GO:0051013 29586 29606	microtubule severing
+T149	GO:0007067 29971 29978	mitotic
+T150	GO:0000910 30001 30012	cytokinesis
+T151	GO:2000145 30021 30045	control of cell motility
+T152	GO_PATO_EXT:biological_behavior 30362 30370	behavior
+T153	GO:0007067 30402 30409	mitosis
+T154	GO:0007067 30430 30437	mitotic
+T155	GO:0009294 30467 30478	transfected
+T156	GO:0007067 30592 30599	mitotic
+T157	GO:0010467 30610 30620	expressing
+T158	GO:0010467 30766 30776	expression
+T159	GO:0065007 30828 30837	regulated
+T160	GO_PATO_EXT:physiological_process_or_quality 30849 30862	physiological
+T161	GO:0006913 30879 30888;30898 30927	shuttling ... between nucleus and cytoplasm
+T162	GO:0065007 30954 30963	regulated
+T163	GO:0051325 31071 31081	interphase
+T164	GO_EXT:biological_recruitment 31114 31121	recruit
+T165	GO_PATO_EXT:phosphorylation_process 31182 31197	phosphorylation
+T166	GO_SO_EXT:post_translational_modification_entity_or_process 31230 31262	post-translational modifications
+T167	GO:0065007 31278 31286	regulate
+T168	GO_PATO_EXT:physiological_process_or_quality 31293 31306	physiological
+T169	GO:0070507 31404 31429;31444 31452	regulation of microtubule ... dynamics
+T170	GO:0007049 31536 31546	cell cycle
+T171	GO:0016477 31562 31576	cell migration
+T172	GO:0007026 31602 31627	microtubule stabilization
+T173	GO:0010467 31776 31785	expressed
+T174	GO:0008283 31796 31809	proliferating
+T175	GO:0007067 31928 31935	mitosis
+T176	GO_EXT:biological_movement_or_translocation_process 31973 31980	migrate
+T177	GO:0007369 31996 32008	gastrulation
+T178	GO:0010467 32024 32033	expressed
+T179	GO:0016477 32085 32099	cell migration
+T180	GO:0000226 32445 32465	microtubule dynamics
+T181	GO:0065007 32482 32490	controls
+T182	GO_PATO_EXT:phosphorylation_process 32495 32510	phosphorylation
+T183	GO:0065007 32523 32533	regulation
+T184	GO:0009790 32617 32638	embryonic development
+T185	GO:0070507 32696 32727	microtubule dynamics regulation
+T186	GO:0010467 32816 32826	expression
+T187	GO:0010467 33291 33301	expression
+T188	GO:0009294 33716 33727	transformed
+T189	GO:0009294 33778 33789	transformed
+T190	GO_EXT:transfectant_or_tranformant 33876 33889	Transformants
+T191	GO:0007618 34091 34097	mating
+T192	GO:0007618 34190 34196	mating
+T193	GO:0009294 34270 34282	transfection
+T194	GO:0009294 34460 34473	transfections
+T195	GO:0009294 34545 34557	transfection
+T196	GO:0010467 34578 34588	expression
+T197	GO:0009294 34717 34728	transfected
+T198	GO:0009294 34882 34894	transfection
+T199	GO:0040007 36733 36738	grown
+T200	GO:0009294 36795 36806	transfected
+T201	GO:0009294 37928 37940	transfection
+T202	GO:0009294 37985 37996	transfected
+T203	GO:0019835 38013 38018	lysed
+T204	GO_EXT:transcription 39056 39066	transcribe
+T205	GO:0007567 40455 40460	Birth

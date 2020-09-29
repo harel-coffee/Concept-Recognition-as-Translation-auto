@@ -1,0 +1,61 @@
+T1	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 1306 1311;1318 1331	locus ... on chromosome
+T2	GO_SO_EXT:chromosome 1365 1376	chromosomes
+T3	GO_SO_EXT:chromosome 1516 1527	chromosomes
+T4	GO_SO_EXT:chromosome 1782 1792	chromosome
+T5	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 4272 4291	chromosomal regions
+T6	CL_GO_EXT:cell 7452 7456	cell
+T7	CL_GO_EXT:cell 7482 7486	cell
+T8	GO_SO_EXT:chromosome 11122 11132	chromosome
+T9	GO_SO_EXT:chromosome 11248 11258	chromosome
+T10	GO_SO_EXT:chromosome 11345 11355	chromosome
+T11	GO_SO_EXT:chromosome 13668 13678	chromosome
+T12	GO_SO_EXT:chromosome 13955 13965	chromosome
+T13	GO_SO_EXT:chromosome 14309 14319	chromosome
+T14	GO_SO_EXT:chromosome 14375 14385	chromosome
+T15	GO_SO_EXT:chromosome 14488 14498	chromosome
+T16	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 14724 14744	loci from chromosome
+T17	GO_SO_EXT:chromosome 14793 14803	chromosome
+T18	GO_SO_EXT:chromosome 14932 14942	chromosome
+T19	GO_SO_EXT:chromosome 15546 15556	chromosome
+T20	GO_SO_EXT:chromosome 15617 15627	chromosome
+T21	GO_SO_EXT:chromosome 15758 15769	chromosomes
+T22	GO_SO_EXT:chromosome 15843 15854	chromosomes
+T23	GO_SO_EXT:chromosome 15981 15991	chromosome
+T24	GO_SO_EXT:chromosome 16271 16282	chromosomes
+T25	GO_SO_EXT:chromosome 16436 16446	chromosome
+T26	GO_SO_EXT:chromosome 17880 17891	chromosomes
+T27	GO_SO_EXT:chromosome 18007 18018	chromosomes
+T28	GO_SO_EXT:chromosome 18278 18289	chromosomes
+T29	GO_SO_EXT:chromosome 18473 18484	chromosomes
+T30	GO_SO_EXT:chromosome 19350 19360	chromosome
+T31	GO_SO_EXT:chromosome 21309 21319	chromosome
+T32	GO_SO_EXT:chromosome 21395 21405	chromosome
+T33	GO_SO_EXT:chromosome 21506 21517	chromosomes
+T34	GO_SO_EXT:chromosome 22818 22829	chromosomes
+T35	GO_SO_EXT:chromosome 23093 23104	chromosomes
+T36	GO_SO_EXT:chromosome 23506 23516	chromosome
+T37	CL_GO_EXT:cell 23827 23831	cell
+T38	GO:0071159 24071 24085;24090 24093	nuclear factor ... -κB
+T39	GO:0071159 24087 24089;24090 24093	NF ... -κB
+T40	GO:0005886 24539 24554	plasma membrane
+T41	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 24730 24754	intervals on chromosomes
+T42	CL_GO_EXT:cell 25457 25461	cell
+T43	GO_SO_EXT:chromosome 25859 25870	chromosomes
+T44	CL_GO_EXT:cell 26415 26419	cell
+T45	GO:0097511 26728 26737	dendritic
+T46	CL_GO_EXT:cell 26738 26743	cells
+T47	CL_GO_EXT:cell 26890 26895	cells
+T48	GO:0071159 26995 27000	NF-κB
+T49	CL_GO_EXT:cell 27062 27067	cells
+T50	GO_SO_EXT:chromosome 27334 27344	chromosome
+T51	GO_SO_EXT:chromosome 28038 28048	chromosome
+T52	GO:0005622 28110 28124	intra-cellular
+T53	CL_GO_EXT:cell 29983 29988	cells
+T54	GO:0071159 30171 30176	NF-κB
+T55	GO:0071159 30325 30330	NF-κB
+T56	GO:0071159 30505 30510	NF-κB
+T57	GO_SO_EXT:chromosome 31133 31143	chromosome
+T58	GO_SO_EXT:chromosome 31271 31282	chromosomes
+T59	GO_SO_EXT:chromosome 31311 31321	chromosome
+T60	GO_SO_EXT:chromosome 31345 31355	chromosome
+T61	GO_SO_EXT:chromosome 31624 31634	chromosome

@@ -1,0 +1,33 @@
+T1	GO_EXT:0016791 601 612	phosphatase
+T2	GO_EXT:0004842 643 659	ubiquitin ligase
+T3	GO_EXT:0016791 4663 4674	phosphatase
+T4	GO_EXT:0004842 4788 4804	ubiquitin ligase
+T5	GO_MOP_EXT:catalysis 4839 4848	catalytic
+T6	GO_EXT:0016791 5409 5420	phosphatase
+T7	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 6334 6341	binding
+T8	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 7301 7308	binding
+T9	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 11509 11516	binding
+T10	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 11764 11768	bind
+T11	GO:0097617 12244 12257	hybridization
+T12	GO:0097617 12589 12602	hybridization
+T13	GO:0097617 14411 14424	hybridization
+T14	GO_PR_EXT:glutathione_S_transferase 21118 21121	GST
+T15	GO_PR_EXT:glutathione_S_transferase 21161 21164	GST
+T16	CHEBI_GO_EXT:hormone 26240 26247	hormone
+T17	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 29869 29876	binding
+T18	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 33687 33694	binding
+T19	CHEBI_GO_EXT:peptidase_or_protease_or_proteinase_inhibitor 35039 35058	protease inhibitors
+T20	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 36008 36015	binding
+T21	GO_EXT:0004601 36101 36111	peroxidase
+T22	GO_PR_EXT:glutathione_S_transferase 36284 36287	GST
+T23	GO_PR_EXT:glutathione_S_transferase 36375 36378	GST
+T24	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 36556 36563	binding
+T25	GO_PR_EXT:glutathione_S_transferase 36648 36651	GST
+T26	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 37871 37878	binding
+T27	CHEBI_GO_EXT:peptidase_or_protease_or_proteinase_inhibitor 38136 38155	protease inhibitors
+T28	GO:0097617 38851 38864	hybridization
+T29	GO_EXT:0015666 39033 39052	restriction enzymes
+T30	GO:0097617 39175 39188	hybridization
+T31	GO:0097617 39395 39408	hybridization
+T32	GO:0097617 39494 39507	hybridization
+T33	GO:0097617 39671 39684	hybridization

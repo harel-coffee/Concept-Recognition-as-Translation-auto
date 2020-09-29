@@ -1,0 +1,441 @@
+T1	GO:0065007 6 15	modulates
+T2	GO_EXT:biological_growth_entity_or_process 42 48	growth
+T3	GO_EXT:cell_communication_or_signaling_or_signal_transduction 58 67	signaling
+T4	GO:0007567 76 81	natal
+T5	GO:0030879 82 110	development of mammary gland
+T6	GO_EXT:biological_growth_entity_or_process 170 176	growth
+T7	GO:0030879 218 243	mammary gland development
+T8	GO:0065007 320 328	regulate
+T9	GO_EXT:cell_communication_or_signaling_or_signal_transduction 347 356	signaling
+T10	GO_EXT:transcription 408 421	transcription
+T11	GO:0065007 482 491	regulates
+T12	GO_EXT:cell_communication_or_signaling_or_signal_transduction 502 511	signaling
+T13	GO:0030879 516 541	mammary gland development
+T14	GO:0030879 996 1021	mammary gland development
+T15	GO:0007565 1036 1044	pregnant
+T16	GO_EXT:biological_release 1141 1150	releasing
+T17	GO_EXT:biological_growth_entity_or_process 1259 1265	growth
+T18	GO:0035239 1330 1350	ductal morphogenesis
+T19	GO:0007565 1360 1368	pregnant
+T20	GO:0007595 1396 1405	lactation
+T21	GO:0035239 1510 1530	ductal morphogenesis
+T22	GO:0010467 1613 1623	expression
+T23	GO:0010467 1676 1686	expression
+T24	GO:0035239 1784 1804	ductal morphogenesis
+T25	GO:0051716 1944 1961	cellular response
+T26	GO:0065007 2012 2021	modulates
+T27	GO_EXT:cell_communication_or_signaling_or_signal_transduction 2032 2041	signaling
+T28	GO:0040008 2060 2077	growth regulation
+T29	GO:0030879 2082 2107	mammary gland development
+T30	GO:0065007 2136 2145	regulates
+T31	GO:0010467 2150 2160	expression
+T32	GO_EXT:cell_communication_or_signaling_or_signal_transduction 2274 2283	signaling
+T33	GO:0035239 2301 2321	ductal morphogenesis
+T34	GO_EXT:biological_growth_entity_or_process 2409 2415	growth
+T35	GO_EXT:biological_growth_entity_or_process 2430 2436	growth
+T36	GO:0016458 2729 2738	silencing
+T37	GO_EXT:transcription 2739 2752	transcription
+T38	GO:0007618 2781 2787	mating
+T39	GO_SO_EXT:sequence_rearrangement_process 2836 2849	recombination
+T40	GO:0010467 2861 2871	expression
+T41	GO:0000003 3185 3197	reproductive
+T42	GO:0065007 3226 3235	regulates
+T43	GO:0000003 3240 3252	reproductive
+T44	GO_EXT:biological_growth_entity_or_process 3402 3408	growth
+T45	GO_EXT:cell_communication_or_signaling_or_signal_transduction 3426 3435	signaling
+T46	GO_EXT:transcription 3617 3630	transcription
+T47	GO:0010467 3663 3673	expression
+T48	GO:0065007 3764 3774	regulatory
+T49	GO_EXT:transcription 3821 3834	transcription
+T50	GO:0006476 3941 3962	protein deacetylation
+T51	GO_EXT:transcription 3978 3993	transcriptional
+T52	GO_EXT:transcription 4019 4032	transcription
+T53	GO_EXT:transcription 4080 4093	transcription
+T54	GO:0051235 4109 4120	sequestered
+T55	GO_PATO_EXT:phosphorylation_process_or_quality 4147 4161	phosphorylated
+T56	GO_EXT:reaction_or_response 4190 4198	response
+T57	GO_EXT:detection_or_sensing_of_stimulus 4262 4268	senses
+T58	GO_EXT:negative_regulation 4305 4325	negatively regulates
+T59	GO:0010467 4330 4340	expression
+T60	GO:0065007 4547 4555	regulate
+T61	GO_EXT:cell_communication_or_signaling_or_signal_transduction 4607 4616	signaling
+T62	GO:0040008 4662 4668;4682 4692	growth ... regulation
+T63	GO_EXT:transcription 4824 4837	transcription
+T64	GO:0033554 4932 4960	cellular responses to stress
+T65	GO:0031670 4932 4953;4980 4989	cellular responses to ... nutrients
+T66	GO_PATO_EXT:inflammatory_process_or_quality 4962 4974	inflammation
+T67	GO:0007567 5061 5066	natal
+T68	GO:0016265 5067 5072	death
+T69	GO_EXT:biological_growth_entity_or_process 5077 5083	growth
+T70	GO_EXT:cell_communication_or_signaling_or_signal_transduction 5547 5556	signaling
+T71	GO:0007567 5662 5667	birth
+T72	GO:0000003 5713 5725	reproductive
+T73	GO:0035239 5801 5821	ductal morphogenesis
+T74	GO_RO_EXT:developmental_differentiation_process 5871 5884	differentiate
+T75	GO:0008283 5889 5900	proliferate
+T76	GO_EXT:biological_growth_entity_or_process 6032 6038	growth
+T77	GO:0038001 6169 6178	paracrine
+T78	GO:0035239 6201 6221	ductal morphogenesis
+T79	GO:0007567 6328 6333	natal
+T80	GO:0035239 6334 6354	ductal morphogenesis
+T81	GO_RO_EXT:developmental_differentiation_process 6542 6557	differentiation
+T82	GO:0008283 6559 6572	proliferation
+T83	GO:0016265 6578 6583	death
+T84	GO:0046903 6587 6596	secretory
+T85	GO:0007565 6634 6643	pregnancy
+T86	GO:0035239 6734 6754	ductal morphogenesis
+T87	GO:0007595 6785 6794	lactation
+T88	GO:0065007 6900 6910	regulatory
+T89	GO:0065007 6936 6945	modulates
+T90	GO_EXT:cell_communication_or_signaling_or_signal_transduction 6986 6995	signaling
+T91	GO:0030879 7000 7025	mammary gland development
+T92	GO_EXT:cell_communication_or_signaling_or_signal_transduction 7046 7055	signaling
+T93	GO:0065007 7091 7100	regulated
+T94	GO_EXT:breeding 7409 7417	breeding
+T95	GO_EXT:breeding 7632 7640	breeding
+T96	GO_EXT:biological_growth_entity_or_process 8365 8371	growth
+T97	GO_EXT:biological_release 9386 9395	releasing
+T98	GO_PATO_EXT:apoptotic_process_or_quality 10494 10503	apoptotic
+T99	GO_EXT:biological_growth_entity_or_process 11563 11569	Growth
+T100	GO:0010467 11856 11866	expression
+T101	GO:0010467 12189 12199	expression
+T102	GO_EXT:breeding 12569 12577	breeding
+T103	GO:0010467 12720 12729	expressed
+T104	GO:0016265 13111 13114	die
+T105	GO:0007567 13129 13134	birth
+T106	GO_EXT:biological_growth_entity_or_process 13190 13196	growth
+T107	GO_EXT:biological_growth_entity_or_process 13242 13248	Growth
+T108	GO:0065007 13307 13317	regulation
+T109	GO:0006302 13319 13349	DNA double-strand break repair
+T110	GO:0006302 13735 13765	DNA double-strand break repair
+T111	GO_EXT:biological_growth_entity_or_process 14143 14149	growth
+T112	GO_EXT:biological_growth_entity_or_process 14186 14192	growth
+T113	GO:0006281 14279 14296	DNA damage repair
+T114	GO_EXT:cell_communication_or_signaling_or_signal_transduction 14341 14350	signaling
+T115	GO:0007595 14353 14362	Lactation
+T116	GO_EXT:impregnation 14552 14563	impregnated
+T117	GO:0007567 14667 14672	natal
+T118	GO_EXT:fatality_or_lethality 14673 14679	lethal
+T119	GO_EXT:impregnation 14756 14766	impregnate
+T120	GO:0007567 14807 14818	parturition
+T121	GO:0001967 14856 14872	nursing behavior
+T122	GO:0007567 14926 14931	birth
+T123	GO:0016265 15031 15035	died
+T124	GO:0007595 15171 15180	lactation
+T125	GO:0035239 15357 15377	ductal morphogenesis
+T126	GO:0035239 15521 15541	ductal morphogenesis
+T127	GO:0007565 15555 15563	pregnant
+T128	GO:0007565 15596 15605	pregnancy
+T129	GO:0007565 15641 15650	pregnancy
+T130	GO:0035239 15662 15682	ductal morphogenesis
+T131	GO:0007565 15704 15713	pregnancy
+T132	GO:0007595 15797 15812	milk production
+T133	GO:0007565 15935 15944	Pregnancy
+T134	GO:0030879 15953 15978	mammary gland development
+T135	GO:0007595 16032 16041	lactation
+T136	GO:0007595 16111 16120	lactation
+T137	GO:0060033 16396 16403	regress
+T138	GO:0007595 16552 16561	lactation
+T139	GO:0035295 16755 16773	ductal development
+T140	GO:0007565 16968 16977	pregnancy
+T141	GO:0007565 17025 17034	pregnancy
+T142	GO:0035239 17056 17076	ductal morphogenesis
+T143	GO:0009653 17121 17134	morphogenesis
+T144	GO:0065007 17157 17164	control
+T145	GO_EXT:biological_growth_entity_or_process 17192 17198	growth
+T146	GO:0007565 17214 17223	pregnancy
+T147	GO:0007595 17228 17237	lactation
+T148	GO:0046903 17347 17356	secreting
+T149	GO:0007567 17368 17379	parturition
+T150	GO:0007595 17403 17412	lactation
+T151	GO:0009653 17480 17493	morphogenesis
+T152	GO:0046903 17547 17556	secretory
+T153	GO:0009653 17735 17748	morphogenesis
+T154	GO:0007595 17827 17842	milk production
+T155	GO:0035239 17926 17946	ductal morphogenesis
+T156	GO:0007565 18000 18008	pregnant
+T157	GO:0035239 18040 18060	ductal morphogenesis
+T158	GO:0007565 18367 18376	pregnancy
+T159	GO:0035239 18507 18527	ductal morphogenesis
+T160	GO:0035239 18655 18675	ductal morphogenesis
+T161	GO:0035239 18860 18880	ductal morphogenesis
+T162	GO:0030879 19050 19075	mammary gland development
+T163	GO:0007565 19104 19113	pregnancy
+T164	GO_EXT:reaction_or_response 19134 19142	response
+T165	GO:0007565 19221 19230	pregnancy
+T166	GO:0030154 19299 19317;19340 19345	differentiation of ... cells
+T167	GO:0035239 19350 19370	ductal morphogenesis
+T168	GO:0033598 19410 19447	mammary epithelial cell proliferation
+T169	GO:0030154 19429 19433;19452 19467	cell ... differentiation
+T170	GO:0007565 19484 19493	pregnancy
+T171	GO:0030879 19502 19527	mammary gland development
+T172	GO:0007565 19598 19606	pregnant
+T173	GO_RO_EXT:developmental_differentiation_process 19627 19640	differentiate
+T174	GO:0008283 19789 19807	cell proliferation
+T175	GO:0006915 19789 19793;19812 19821	cell ... apoptosis
+T176	GO_PATO_RO_EXT:developmental_differentiation_process_or_quality 20024 20038	differentiated
+T177	GO_RO_EXT:developmental_differentiation_process 20547 20560	differentiate
+T178	GO:0008283 20684 20697;20718 20720;20743 20748	proliferation ... of ... cells
+T179	GO:0030154 20702 20720;20743 20748	differentiation of ... cells
+T180	GO:0000003 20817 20829	reproductive
+T181	GO:0007565 20875 20884	pregnancy
+T182	GO:0006915 20906 20915	Apoptosis
+T183	GO_PATO_EXT:apoptotic_process_or_quality 21009 21018	Apoptotic
+T184	GO:0007595 21123 21132	lactation
+T185	GO_PATO_EXT:apoptotic_process_or_quality 21179 21188	apoptotic
+T186	GO:0007595 21253 21262	lactation
+T187	GO:0007565 21327 21336	pregnancy
+T188	GO:0007565 21353 21362	pregnancy
+T189	GO:0008283 21389 21402	proliferation
+T190	GO_RO_EXT:developmental_differentiation_process 21407 21422	differentiation
+T191	GO:0007565 21430 21439	pregnancy
+T192	GO:0035295 21448 21466	ductal development
+T193	GO:0007595 21518 21527	lactation
+T194	GO:0007565 21610 21619	pregnancy
+T195	GO:0007565 21632 21643	pregnancies
+T196	GO:0007565 21749 21760	pregnancies
+T197	GO:0007595 21839 21848	lactation
+T198	GO:0035239 21905 21925	ductal morphogenesis
+T199	GO:0008283 21961 21974	proliferation
+T200	GO:0065007 21994 22003	regulated
+T201	GO:0007595 22055 22064	lactation
+T202	GO:0035239 22151 22171	ductal morphogenesis
+T203	GO:0035239 22237 22257	ductal morphogenesis
+T204	GO:0035239 22516 22536	ductal morphogenesis
+T205	GO:0035239 22621 22641	ductal morphogenesis
+T206	GO_EXT:cell_communication_or_signaling_or_signal_transduction 22716 22725	signaling
+T207	GO:0007565 22762 22771	pregnancy
+T208	GO:0030879 22780 22805	mammary gland development
+T209	GO:0051092 22988 23004	NF-κB activation
+T210	GO:0035239 23046 23066	ductal morphogenesis
+T211	GO:0007565 23145 23154	pregnancy
+T212	GO:0010467 23206 23216	expression
+T213	GO:0050673 23274 23303	epithelial cell proliferation
+T214	GO:0007595 23316 23323	lactate
+T215	GO_EXT:negative_regulation 23342 23362	negatively regulates
+T216	GO_EXT:transcription 23367 23380	transcription
+T217	GO:0065007 23539 23548	regulates
+T218	GO:0010467 23553 23563	expression
+T219	GO:0065007 23700 23709	regulated
+T220	GO_EXT:cell_communication_or_signaling_or_signal_transduction 23777 23786	signaling
+T221	GO:0051092 23791 23807	NF-κB activation
+T222	GO:0007595 23996 24005	lactation
+T223	GO:0010467 24040 24050	expression
+T224	GO:0010467 24198 24208	expression
+T225	GO_EXT:negative_regulation 24224 24237	downregulated
+T226	GO:0007565 24245 24254	pregnancy
+T227	GO:0007565 24312 24321	pregnancy
+T228	GO:0065007 24487 24496	modulated
+T229	GO_EXT:cell_communication_or_signaling_or_signal_transduction 24497 24515	signaling pathways
+T230	GO_RO_EXT:developmental_differentiation_process 24604 24617	differentiate
+T231	GO:0007595 24672 24681	lactation
+T232	GO:0042592 24744 24755	homeostasis
+T233	GO:0035239 24775 24795	ductal morphogenesis
+T234	GO:0051716 24807 24824	cellular response
+T235	GO:0010467 24851 24861	expression
+T236	GO:0065007 24967 24977	regulation
+T237	GO:0010467 24981 24996	gene expression
+T238	GO:0065007 25266 25275	regulated
+T239	GO:0010467 25284 25294	expression
+T240	GO:0065007 25306 25315	regulated
+T241	GO:0010467 25321 25331	expression
+T242	GO_EXT:reaction_or_response 25349 25357	response
+T243	GO:0010467 25491 25501	expression
+T244	GO_EXT:negative_regulation 25516 25529	downregulated
+T245	GO:0007565 25568 25576	pregnant
+T246	GO:0010467 25930 25940	expression
+T247	GO:0065007 25985 25994	regulated
+T248	GO:0010467 26000 26010	expression
+T249	GO:0010467 26108 26118	expression
+T250	GO:0010467 26229 26239	expression
+T251	GO_EXT:cell_communication_or_signaling_or_signal_transduction 26476 26485	signaling
+T252	GO:0051092 26618 26634	NF-κB activation
+T253	GO_EXT:cell_communication_or_signaling_or_signal_transduction 26650 26659	signaling
+T254	CHEBI_GO_EXT:biological_process_or_quality_or_role 26678 26688	biological
+T255	GO_EXT:reaction_or_response 26689 26698	responses
+T256	GO:0010467 26711 26721	expression
+T257	GO:0051092 26741 26757	NF-κB activation
+T258	GO_PATO_EXT:biological_behavior 26899 26907	behavior
+T259	GO:0051092 26982 26998	NF-κB activation
+T260	GO_EXT:cell_communication_or_signaling_or_signal_transduction 27018 27027	signaling
+T261	GO:0065007 27082 27089	control
+T262	GO_EXT:cell_communication_or_signaling_or_signal_transduction 27098 27107	signaling
+T263	GO:0065007 27273 27280	control
+T264	GO_EXT:cell_communication_or_signaling_or_signal_transduction 27290 27299	signaling
+T265	GO_EXT:cell_communication_or_signaling_or_signal_transduction 27395 27404	signaling
+T266	GO_EXT:cell_communication_or_signaling_or_signal_transduction 27439 27448	signaling
+T267	GO:0035239 27570 27590	ductal morphogenesis
+T268	GO_EXT:cell_communication_or_signaling_or_signal_transduction 27737 27746	signaling
+T269	GO:0065007 27933 27943	regulatory
+T270	GO:0065007 27969 27978	modulates
+T271	GO_EXT:cell_communication_or_signaling_or_signal_transduction 28027 28036	signaling
+T272	GO:0035239 28041 28061	ductal morphogenesis
+T273	GO:0042592 28091 28102	homeostasis
+T274	GO:0010467 28106 28121	gene expression
+T275	GO_EXT:cell_communication_or_signaling_or_signal_transduction 28159 28168	signaling
+T276	GO:0007567 28220 28225	natal
+T277	GO_EXT:fatality_or_lethality 28226 28235	lethality
+T278	GO:0007595 28240 28249	lactation
+T279	GO:0007567 28337 28342	natal
+T280	GO:0042592 28407 28418	homeostasis
+T281	GO_EXT:cell_communication_or_signaling_or_signal_transduction 28571 28580	signaling
+T282	GO:0007567 28630 28635	birth
+T283	GO:0014065 28730 28759;28764 28781	phosphoinositide-3'-OH kinase ... signaling pathway
+T284	GO:0043491 28760 28781	Akt signaling pathway
+T285	GO_EXT:negative_regulation 28801 28820	negatively regulate
+T286	GO_EXT:transcription 28825 28838	transcription
+T287	GO:0007567 28947 28952	natal
+T288	GO_EXT:fatality_or_lethality 28953 28962	lethality
+T289	GO_EXT:biological_growth_entity_or_process 28967 28973	growth
+T290	GO:0010467 29017 29027	expressing
+T291	GO:0014065 29085 29114;29130 29137	phosphoinositide-3'-OH kinase ... cascade
+T292	GO:0043491 29119 29137	Akt kinase cascade
+T293	GO:0014065 29165 29194;29199 29216	phosphoinositide-3'-OH kinase ... signaling pathway
+T294	GO:0043491 29195 29216	Akt signaling pathway
+T295	GO:0065007 29282 29290	modulate
+T296	GO:0008152 29298 29308	metabolism
+T297	GO:0007567 29501 29506	natal
+T298	GO_EXT:fatality_or_lethality 29507 29513	lethal
+T299	GO_EXT:biological_growth_entity_or_process 29518 29524	growth
+T300	GO:0007567 29740 29745	natal
+T301	GO_EXT:fatality_or_lethality 29746 29752	lethal
+T302	GO_EXT:biological_growth_entity_or_process 29757 29763	growth
+T303	GO:0007567 29854 29859	natal
+T304	GO_EXT:fatality_or_lethality 29860 29866	lethal
+T305	GO_EXT:biological_growth_entity_or_process 29871 29877	growth
+T306	GO_EXT:positive_regulation 30000 30011	upregulated
+T307	GO:0010467 30040 30050	expression
+T308	GO:0007567 30097 30102	birth
+T309	GO:0007567 30124 30129	birth
+T310	GO:0000003 30304 30313	reproduce
+T311	GO_EXT:biological_growth_entity_or_process 30326 30332	growth
+T312	GO_EXT:negative_regulation 30609 30629	negatively regulated
+T313	GO_EXT:transcription 30843 30856	transcription
+T314	GO_EXT:negative_regulation 30880 30899	negatively regulate
+T315	GO:0010467 30950 30960	expression
+T316	GO:0042592 31124 31135	homeostasis
+T317	GO:0042592 31199 31210	homeostasis
+T318	GO:0010467 31928 31938	expression
+T319	GO:0065007 32061 32070	regulates
+T320	GO:0042697 32374 32383	menopause
+T321	GO_EXT:biological_release 32524 32531	release
+T322	GO:0065007 32595 32604	modulates
+T323	GO:0035239 32642 32662	ductal morphogenesis
+T324	GO_EXT:cell_communication_or_signaling_or_signal_transduction 32824 32833	signaling
+T325	GO:0030154 32848 32866;32897 32902	differentiation of ... cells
+T326	GO:0010467 32995 33005	expression
+T327	GO:0007565 33155 33164	pregnancy
+T328	GO:0035239 33210 33230	ductal morphogenesis
+T329	GO_EXT:cell_communication_or_signaling_or_signal_transduction 33652 33661	signaling
+T330	GO:0010467 33718 33728	expression
+T331	GO:0065007 33894 33902	regulate
+T332	GO:0030879 33903 33928	mammary gland development
+T333	GO:0007567 33947 33952	natal
+T334	GO:0000003 33958 33970	reproductive
+T335	GO:0010467 33998 34008	expression
+T336	GO:0030879 34062 34081	Mammary development
+T337	GO:0009790 34199 34220	embryonic development
+T338	GO:0008283 34422 34433	proliferate
+T339	GO:0030154 34689 34707;34730 34735	differentiation of ... cells
+T340	GO:0030855 34689 34704;34736 34738;34767 34783	differentiation ... to ... epithelial cells
+T341	GO:0030855 34689 34704;34736 34738;34811 34827	differentiation ... to ... epithelial cells
+T342	GO:0035295 34863 34877;34890 34895	development of ... ducts
+T343	GO:0060033 34966 34973	regress
+T344	GO:0007567 35003 35008	birth
+T345	GO:0030154 35220 35238;35278 35283	differentiation of ... cells
+T346	GO:0030855 35220 35235;35284 35288;35308 35324	differentiation ... into ... epithelial cells
+T347	GO:0010467 35337 35344	express
+T348	GO:0030154 35553 35571;35611 35616	differentiation of ... cells
+T349	GO:0030855 35553 35568;35617 35619;35639 35655	differentiation ... to ... epithelial cells
+T350	GO:0007567 35674 35679	natal
+T351	GO:0030879 35680 35708	development of mammary gland
+T352	GO:0035239 35730 35750	ductal morphogenesis
+T353	GO_EXT:positive_regulation 35908 35928	positively regulates
+T354	GO_EXT:cell_communication_or_signaling_or_signal_transduction 35964 35973	signaling
+T355	GO:0050673 35985 36014	epithelial cell proliferation
+T356	GO:0030154 35996 36000;36019 36034	cell ... differentiation
+T357	GO:0065007 36061 36071	modulating
+T358	GO:0007631 36310 36321	consumption
+T359	GO_EXT:positive_regulation 36628 36648	positively modulates
+T360	GO:0007567 37080 37085	birth
+T361	GO_EXT:transcription 37716 37729	transcription
+T362	GO:0042592 37918 37929	homeostasis
+T363	GO:0051716 37933 37951	cellular responses
+T364	GO:0065007 37965 37975	regulation
+T365	GO:0010467 37983 37993	expression
+T366	GO_EXT:cell_communication_or_signaling_or_signal_transduction 38075 38084	signaling
+T367	GO:0051092 38141 38157	NF-κB activation
+T368	GO:0030879 38266 38291	mammary gland development
+T369	GO:0065007 38346 38355	modulates
+T370	GO_EXT:cell_communication_or_signaling_or_signal_transduction 38391 38400	signaling
+T371	GO:0065007 38405 38414	regulates
+T372	GO:0035239 38429 38449	ductal morphogenesis
+T373	GO_EXT:biological_growth_entity_or_process 38786 38792	growth
+T374	GO_EXT:biological_growth_entity_or_process 38823 38829	growth
+T375	GO_EXT:biological_growth_entity_or_process 38863 38869	growth
+T376	GO_EXT:biological_growth_entity_or_process 38956 38962	growth
+T377	GO_EXT:cell_communication_or_signaling_or_signal_transduction 38972 38981	signaling
+T378	GO:0016458 39181 39190	silencing
+T379	GO_EXT:regulator 39203 39212	regulator
+T380	GO_PATO_EXT:necrosis 39250 39258	necrosis
+T381	CHEBI_GO_EXT:biological_process_or_quality_or_role 40244 40251	Biology
+T382	GO:0007568 40255 40260	Aging
+T383	GO:0010467 40925 40935	expression
+T384	GO_EXT:biological_growth_entity_or_process 41094 41100	Growth
+T385	GO_EXT:biological_growth_entity_or_process 41264 41270	growth
+T386	GO:0007595 41627 41636	Lactation
+T387	GO:0007565 41915 41924	pregnancy
+T388	GO:0007595 41934 41943	lactation
+T389	GO:0007595 42012 42027	milk production
+T390	GO:0007565 42271 42280	Pregnancy
+T391	GO:0035239 42289 42309	ductal morphogenesis
+T392	GO:0030879 42339 42364	mammary gland development
+T393	GO:0007565 42508 42517	pregnancy
+T394	GO:0007595 42559 42574	milk production
+T395	GO:0007595 42578 42587	lactation
+T396	GO:0035239 42657 42677	ductal morphogenesis
+T397	GO:0007565 42679 42688	Pregnancy
+T398	GO:0035239 42697 42717	ductal morphogenesis
+T399	GO_EXT:biological_growth_entity_or_process 42902 42908	growth
+T400	GO:0010467 43546 43556	expression
+T401	GO_EXT:biological_growth_entity_or_process 43573 43579	growth
+T402	GO:0033598 43785 43822	Mammary epithelial cell proliferation
+T403	GO:1990134 43793 43808;43827 43836	epithelial cell ... apoptosis
+T404	GO:0007595 43859 43868	lactation
+T405	GO:0007565 44012 44021	pregnancy
+T406	GO:0007595 44032 44041	lactation
+T407	GO_PATO_EXT:apoptotic_process_or_quality 44378 44387	apoptotic
+T408	GO_EXT:cell_communication_or_signaling_or_signal_transduction 44761 44770	signaling
+T409	GO_EXT:reaction_or_response 44774 44782	response
+T410	GO:0010467 44838 44848	expression
+T411	GO:0065007 45334 45343	modulates
+T412	GO_EXT:biological_growth_entity_or_process 45366 45372	growth
+T413	GO_EXT:cell_communication_or_signaling_or_signal_transduction 45382 45391	signaling
+T414	GO:0035239 45396 45416	ductal morphogenesis
+T415	GO_EXT:biological_growth_entity_or_process 45456 45462	growth
+T416	GO_EXT:cell_communication_or_signaling_or_signal_transduction 45480 45489	signaling
+T417	GO_EXT:negative_regulation 45529 45548	negatively regulate
+T418	GO_EXT:transcription 45553 45566	transcription
+T419	GO:0065007 45644 45653	regulates
+T420	GO:0010467 45658 45668	expression
+T421	GO_EXT:biological_growth_entity_or_process 45685 45691	growth
+T422	GO:0035425 45746 45755	autocrine
+T423	GO:0038001 45763 45772	paracrine
+T424	GO:0010467 45844 45851	express
+T425	GO_RO_EXT:developmental_differentiation_process 45884 45897	differentiate
+T426	GO_EXT:reaction_or_response 45970 45978	response
+T427	GO_EXT:biological_growth_entity_or_process 46126 46132	growth
+T428	GO:0030855 46205 46220;46230 46232;46252 46268	differentiation ... to ... epithelial cells ... epithelial
+T429	GO:0065007 46298 46307	regulates
+T430	GO:0010467 46312 46322	expression
+T431	GO_EXT:cell_communication_or_signaling_or_signal_transduction 46410 46419	signaling
+T432	GO:0035239 46439 46459	ductal morphogenesis
+T433	GO:0007565 46494 46503	pregnancy
+T434	GO:0035239 46551 46571	ductal morphogenesis
+T435	GO_RO_EXT:developmental_differentiation_process 46620 46635	differentiation
+T436	GO:0007567 46658 46663	natal
+T437	GO_EXT:fatality_or_lethality 46664 46673	lethality
+T438	GO:0007595 46690 46699	lactation
+T439	GO_EXT:breeding 46809 46817	breeding
+T440	GO:0007567 46921 46926	birth
+T441	GO:0007567 46976 46981	natal

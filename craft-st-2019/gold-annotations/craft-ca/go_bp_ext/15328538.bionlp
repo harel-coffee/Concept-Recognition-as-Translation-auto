@@ -1,0 +1,138 @@
+T1	GO_PATO_EXT:physiological_process_or_quality 84 97	physiological
+T2	GO:0006754 224 241	production of ATP
+T3	GO:0006096 339 349	Glycolysis
+T4	GO:0008152 413 422	metabolic
+T5	GO:0065007 434 443	regulated
+T6	GO_EXT:transcription 479 492	transcription
+T7	GO:0065007 573 583	regulating
+T8	GO:0010467 730 740	expression
+T9	GO:0006096 857 867	glycolytic
+T10	GO:0006099 1022 1039	citric acid cycle
+T11	GO:0019395 1054 1074	fatty acid oxidation
+T12	GO:0006096 1126 1144	glycolytic pathway
+T13	GO:0008152 1314 1323	metabolic
+T14	GO:0006096 1340 1350	glycolysis
+T15	GO:0005980 1727 1741	glycogenolysis
+T16	GO:0006096 1746 1756	glycolysis
+T17	GO:0019222 1837 1854	metabolic control
+T18	GO:0015671 2231 2246	oxygen delivery
+T19	GO:0008152 2309 2319	metabolism
+T20	GO:0008152 2376 2385	metabolic
+T21	GO_EXT:transcription 2481 2494	transcription
+T22	GO:0065007 2875 2885	regulation
+T23	GO:0008152 2889 2898	metabolic
+T24	GO_PATO_EXT:physiological_process_or_quality 2941 2952	physiologic
+T25	GO:0015671 2953 2964	oxygenation
+T26	GO_EXT:cell_communication_or_signaling_or_signal_transduction 2987 2996	signaling
+T27	GO_EXT:cell_communication_or_signaling_or_signal_transduction 3042 3051	signaling
+T28	GO:0006096 3143 3161	glycolytic pathway
+T29	GO:0008152 3165 3175	metabolism
+T30	GO:0006096 3211 3229	glycolytic pathway
+T31	GO_EXT:reaction_or_response 3322 3330	response
+T32	GO_EXT:transcription 3392 3405	transcription
+T33	GO:0065007 3413 3421	controls
+T34	GO:0010467 3762 3772	expression
+T35	GO:0065007 3862 3872	regulation
+T36	GO_EXT:reaction_or_response 3884 3892	response
+T37	GO:0008152 4002 4011	metabolic
+T38	GO:0010467 4582 4591	expressed
+T39	GO:0001944 4861 4876	vascularization
+T40	GO:0010467 5332 5347	gene expression
+T41	GO:0015758 5420 5437	glucose transport
+T42	GO:0006006 5420 5427;5442 5452	glucose ... metabolism
+T43	GO_EXT:biological_growth_entity_or_process 5475 5481	growth
+T44	GO_EXT:biological_mover_or_transporter 5548 5559	transporter
+T45	GO_EXT:biological_mover_or_transporter 5599 5610	transporter
+T46	GO_EXT:positive_regulation 5842 5854	up-regulated
+T47	GO_EXT:positive_regulation 5895 5908	up-regulation
+T48	GO_EXT:transcription 5996 6011	transcriptional
+T49	GO_EXT:reaction_or_response 6012 6020	response
+T50	GO:0006096 6128 6138	glycolytic
+T51	GO_EXT:reaction_or_response 6273 6281	response
+T52	GO_EXT:reaction_or_response 6532 6541	responses
+T53	GO:0006096 6551 6561	glycolytic
+T54	GO:0006096 7530 7540	glycolytic
+T55	GO:0046323 7645 7659	glucose uptake
+T56	GO:0006096 7827 7845	glycolytic pathway
+T57	GO:0005980 7922 7936	glycogenolysis
+T58	GO_EXT:biological_release 8481 8488	release
+T59	GO:0008152 8671 8680	metabolic
+T60	GO:0006096 8741 8751	glycolytic
+T61	GO:0006096 9005 9015	glycolysis
+T62	GO:0005980 9019 9033	glycogenolysis
+T63	GO:0006099 9207 9224	citric acid cycle
+T64	GO_EXT:positive_regulation 9288 9300	up-regulated
+T65	GO_EXT:reaction_or_response 9350 9358	responds
+T66	GO_EXT:positive_regulation 9497 9510	up-regulation
+T67	GO:0019395 9768 9792	oxidation of fatty acids
+T68	GO:0045333 10447 10467	oxidative metabolism
+T69	GO:0006096 10530 10540	glycolytic
+T70	GO:0006754 10793 10807	ATP production
+T71	GO:0036268 11179 11187	swimming
+T72	GO:0036268 11290 11298	swimming
+T73	GO_EXT:reaction_or_response 11805 11812	respond
+T74	GO_EXT:biological_recruitment 12110 12117	recruit
+T75	GO:0006096 12140 12150	glycolytic
+T76	GO:0006936 12162 12173	contraction
+T77	GO_EXT:biological_recruitment 12205 12216	recruitment
+T78	GO_EXT:biological_movement_or_translocation_process 12247 12252	motor
+T79	GO:0006936 12273 12284	contraction
+T80	GO:0036268 12424 12432	swimming
+T81	GO:0006096 12811 12821	glycolytic
+T82	GO:0007585 12884 12904	respiratory exchange
+T83	GO_EXT:reaction_or_response 13700 13708	response
+T84	GO:0008283 14014 14027	proliferating
+T85	GO:0051301 14129 14142	cell division
+T86	GO:0006936 14790 14801	contraction
+T87	GO:0006096 14899 14909	glycolytic
+T88	GO:0046323 14970 14984	glucose uptake
+T89	GO_EXT:reaction_or_response 15127 15136	responded
+T90	GO_EXT:reaction_or_response 15516 15524	response
+T91	GO:0006110 15604 15628	regulation of glycolysis
+T92	GO_PATO_EXT:physiological_process_or_quality 15721 15731	physiology
+T93	GO_EXT:reaction_or_response 15742 15750	response
+T94	GO_EXT:macromolecule_denaturation 16995 17007	denaturation
+T95	GO:0008152 19216 19225	metabolic
+T96	GO:0036268 19410 19418	swimming
+T97	GO:0008152 19717 19726	metabolic
+T98	GO:0006936 19876 19887	contractile
+T99	GO:0006936 20026 20038	contractions
+T100	GO:0006936 20119 20130	contraction
+T101	GO:0010467 20596 20611	gene expression
+T102	GO:0010467 20624 20639	gene expression
+T103	GO:0001171 20792 20813	Reverse transcription
+T104	GO_EXT:reverse_transcription_or_reverse_transcriptase 20883 20885	RT
+T105	GO:0001171 21013 21034	Reverse transcription
+T106	GO:0010467 22001 22016	gene expression
+T107	GO:0010467 22399 22414	gene expression
+T108	GO_EXT:biological_release 24341 24348	release
+T109	GO_EXT:biological_mover_or_transporter 25345 25356	transporter
+T110	GO:0008283 25575 25588	proliferating
+T111	GO:0007585 25786 25806	respiratory exchange
+T112	GO_EXT:biological_growth_entity_or_process 25842 25848	growth
+T113	GO:0015671 26639 26654	oxygen carrying
+T114	GO:0006096 26871 26881	Glycolytic
+T115	GO:0006096 27301 27319	glycolytic pathway
+T116	GO:0046323 27525 27539	glucose uptake
+T117	GO_EXT:reaction_or_response 27595 27603	response
+T118	GO:0008152 27899 27910	metabolized
+T119	GO_EXT:reaction_or_response 27928 27936	response
+T120	GO_EXT:reaction_or_response 28038 28046	response
+T121	GO:0008152 28135 28146	metabolized
+T122	GO:0006754 28703 28717	ATP generation
+T123	GO_EXT:biological_release 29272 29279	Release
+T124	GO_EXT:biological_release 29593 29600	release
+T125	GO:0045333 29893 29913	Oxidative Metabolism
+T126	GO:0019249 29924 29942	Lactate Production
+T127	GO:0006099 30051 30062	Krebs cycle
+T128	GO:0065007 30075 30084	regulated
+T129	GO:0005980 30224 30238	glycogenolytic
+T130	GO:0006096 30242 30252	glycolytic
+T131	GO:0036268 30645 30653	swimming
+T132	GO:0036268 30689 30693	swim
+T133	GO:0006096 31313 31323	glycolytic
+T134	GO:0031099 32606 32618	regeneration
+T135	GO:0010467 33868 33883	Gene Expression
+T136	GO:0010467 33892 33902	Expression
+T137	GO:0010467 34031 34046	gene expression
+T138	GO:0006096 34147 34157	Glycolytic

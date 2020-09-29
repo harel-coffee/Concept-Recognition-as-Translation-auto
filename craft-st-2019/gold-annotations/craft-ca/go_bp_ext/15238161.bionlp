@@ -1,0 +1,458 @@
+T1	GO_RO_EXT:developmental_differentiation_process 28 43	differentiation
+T2	GO:0046903 99 107	Secreted
+T3	GO:0007224 108 116;122 132	Hedgehog ... signalling
+T4	GO:0007224 118 120;122 132	Hh ... signalling
+T5	GO:0031099 191 203	regenerating
+T6	GO_EXT:reaction_or_response 267 276	responses
+T7	GO_EXT:muscle_structure_or_tissue_development 435 445	myogenesis
+T8	GO:0042694 479 495;503 515	specification of ... muscle cells
+T9	GO_EXT:muscle_structure_or_tissue_development 569 577	myogenic
+T10	GO_RO_EXT:developmental_differentiation_process 598 613	differentiating
+T11	GO:0007224 657 670	Hh signalling
+T12	GO:0010467 785 795	expression
+T13	GO_EXT:positive_regulation 806 819	up-regulation
+T14	GO_RO_EXT:developmental_differentiation_process 833 848	differentiation
+T15	GO_EXT:biological_growth_entity_or_process 874 880	growth
+T16	GO_RO_EXT:developmental_differentiation_process 911 926	differentiation
+T17	GO_EXT:reaction_or_response 947 954	respond
+T18	GO:0010467 995 1005	expression
+T19	GO_RO_EXT:developmental_differentiation_process 1067 1082	differentiation
+T20	GO_RO_EXT:developmental_differentiation_process 1218 1233	differentiation
+T21	GO_PATO_RO_EXT:developmental_differentiation_process_or_quality 1272 1286	differentiated
+T22	GO:0010467 1300 1310	expressing
+T23	GO:0010467 1366 1376	expression
+T24	GO:0048747 1473 1495	muscle fibre formation
+T25	GO_RO_EXT:developmental_differentiation_process 1512 1527	differentiating
+T26	GO:0010467 1552 1559	express
+T27	GO:0010467 1665 1675	expressing
+T28	GO_EXT:muscle_structure_or_tissue_development 1737 1753	muscle formation
+T29	GO_RO_EXT:developmental_differentiation_process 1758 1773	differentiation
+T30	GO_EXT:muscle_structure_or_tissue_development 1807 1817	myogenesis
+T31	GO_EXT:muscle_structure_or_tissue_development 1895 1905	myogenesis
+T32	GO_RO_EXT:developmental_differentiation_process 1979 1994	differentiative
+T33	GO_RO_EXT:developmental_differentiation_process 2072 2087	differentiation
+T34	GO:0010467 2104 2114	expression
+T35	GO:0065007 2183 2191	regulate
+T36	GO_EXT:muscle_structure_or_tissue_development 2203 2213	myogenesis
+T37	GO_RO_EXT:developmental_differentiation_process 2347 2362	differentiation
+T38	GO:0010467 2522 2537	gene expression
+T39	GO:0010467 2649 2656	express
+T40	GO:0010467 2754 2761	express
+T41	GO:0048747 2847 2859;2874 2887	formation of ... muscle fibres
+T42	GO_RO_EXT:developmental_differentiation_process 3070 3085	differentiation
+T43	GO:0065007 3140 3148	regulate
+T44	GO_PATO_EXT:biological_patterning_process_or_quality 3156 3166	patterning
+T45	GO_PATO_EXT:biological_patterning_process_or_quality 3184 3194	patterning
+T46	GO:0046903 3266 3274	secreted
+T47	GO:0065007 3320 3330	regulating
+T48	GO:0055001 3335 3344;3354 3371	formation ... of myogenic cells
+T49	GO:0010467 3497 3507	expression
+T50	GO_EXT:muscle_structure_or_tissue_development 3549 3557	myogenic
+T51	GO:0055001 3823 3835;3849 3861	formation of ... muscle cells
+T52	GO_EXT:biological_movement_or_translocation_process 4027 4034	migrate
+T53	GO_EXT:muscle_structure_or_tissue_development 4159 4167	myogenic
+T54	GO_EXT:reaction_or_response 4261 4269	response
+T55	GO_PATO_EXT:biological_patterning_process_or_quality 4402 4412	patterning
+T56	GO_EXT:muscle_structure_or_tissue_development 4550 4560	myogenesis
+T57	GO_RO_EXT:developmental_differentiation_process 4679 4694	differentiation
+T58	GO:0006936 4713 4724	contractile
+T59	GO_EXT:muscle_structure_or_tissue_development 4858 4868	myogenesis
+T60	GO_EXT:muscle_structure_or_tissue_development 5027 5035	myogenic
+T61	GO_RO_EXT:developmental_differentiation_process 5059 5074	differentiation
+T62	GO_EXT:muscle_structure_or_tissue_development 5115 5123	Myogenic
+T63	GO_EXT:biological_movement_or_translocation_process 5186 5194	migrates
+T64	GO:0010467 5266 5273	express
+T65	GO_EXT:muscle_structure_or_tissue_development 5293 5303	myogenesis
+T66	GO_EXT:biological_movement_or_translocation_process 5319 5328	migration
+T67	GO_EXT:muscle_structure_or_tissue_development 5393 5401	myogenic
+T68	GO_EXT:muscle_structure_or_tissue_development 5444 5460	muscle formation
+T69	GO_RO_EXT:developmental_differentiation_process 5647 5662	differentiation
+T70	GO_PATO_EXT:biological_patterning_process_or_quality 5667 5677	patterning
+T71	GO:0009948 5767 5797	anteroposterior axis formation
+T72	GO:0010467 5838 5848	expression
+T73	GO_EXT:muscle_structure_or_tissue_development 6003 6013	myogenesis
+T74	GO:0065007 6052 6059	control
+T75	GO_RO_EXT:developmental_differentiation_process 6274 6289	differentiation
+T76	GO_RO_EXT:developmental_differentiation_process 6393 6408	differentiation
+T77	GO:0010467 6438 6448	expression
+T78	GO:0061061 6548 6560;6572 6579	formation of ... muscles
+T79	GO:0007224 6621 6634	Hh signalling
+T80	GO:0009948 6665 6695	anteroposterior axis formation
+T81	GO_PATO_EXT:biological_patterning_process_or_quality 6721 6731	patterning
+T82	GO_RO_EXT:developmental_differentiation_process 6736 6751	differentiation
+T83	GO_EXT:muscle_structure_or_tissue_development 7064 7072	myogenic
+T84	GO_EXT:muscle_structure_or_tissue_development 7116 7124	myogenic
+T85	GO_RO_EXT:developmental_differentiation_process 7259 7274	differentiation
+T86	GO_RO_EXT:developmental_differentiation_process 7402 7417	differentiation
+T87	GO:0007224 7566 7579	Hh signalling
+T88	GO_RO_EXT:developmental_differentiation_process 7610 7625	differentiation
+T89	GO_EXT:muscle_structure_or_tissue_development 7658 7668	myogenesis
+T90	GO_EXT:muscle_structure_or_tissue_development 7693 7703	myogenesis
+T91	GO_EXT:muscle_structure_or_tissue_development 7762 7770	myogenic
+T92	GO_EXT:muscle_structure_or_tissue_development 7915 7923	myogenic
+T93	GO:0040007 8000 8005	grown
+T94	GO_EXT:biological_growth_entity_or_process 8009 8015	growth
+T95	GO_EXT:muscle_structure_or_tissue_development 8247 8255	myogenic
+T96	GO_EXT:muscle_structure_or_tissue_development 8274 8282	myogenic
+T97	GO_EXT:muscle_structure_or_tissue_development 8291 8299	myogenic
+T98	GO_EXT:muscle_structure_or_tissue_development 8370 8378	myogenic
+T99	GO_EXT:muscle_structure_or_tissue_development 8502 8510	myogenic
+T100	GO_EXT:muscle_structure_or_tissue_development 8635 8643	myogenic
+T101	GO_EXT:muscle_structure_or_tissue_development 8717 8725	myogenic
+T102	GO_PATO_RO_EXT:developmental_differentiation_process_or_quality 8893 8907	differentiated
+T103	GO_EXT:muscle_structure_or_tissue_development 8964 8972	myogenic
+T104	GO:0010467 8979 8986	express
+T105	GO_PATO_RO_EXT:developmental_differentiation_process_or_quality 9137 9151	differentiated
+T106	GO:0030154 9213 9231;9256 9261	differentiation of ... cells
+T107	GO_EXT:muscle_structure_or_tissue_development 9247 9255	myogenic
+T108	GO_RO_EXT:developmental_differentiation_process 9365 9380	differentiation
+T109	GO:0040007 9498 9503	grown
+T110	GO:0010467 10085 10095	expressing
+T111	GO_EXT:muscle_structure_or_tissue_development 10096 10104	myogenic
+T112	GO_EXT:muscle_structure_or_tissue_development 10197 10205	myogenic
+T113	GO:0008283 10261 10277;10291 10296	proliferation of ... cells
+T114	GO_EXT:muscle_structure_or_tissue_development 10282 10290	myogenic
+T115	GO_PATO_RO_EXT:developmental_differentiation_process_or_quality 10319 10333	differentiated
+T116	GO_EXT:muscle_structure_or_tissue_development 10334 10342	myogenic
+T117	GO_PATO_RO_EXT:developmental_differentiation_process_or_quality 10521 10535	differentiated
+T118	GO:0010467 10542 10549	express
+T119	GO:0010467 10739 10749	expressing
+T120	GO_PATO_RO_EXT:developmental_differentiation_process_or_quality 10810 10824	differentiated
+T121	GO:0010467 10831 10838	express
+T122	GO_RO_EXT:developmental_differentiation_process 10993 11008	differentiation
+T123	GO_EXT:muscle_structure_or_tissue_development 11092 11100	myogenic
+T124	GO:0051450 11202 11210;11237 11250	myoblast ... proliferation
+T125	GO_RO_EXT:developmental_differentiation_process 11220 11235	differentiation
+T126	GO:0006915 11282 11291	apoptosis
+T127	GO_EXT:muscle_structure_or_tissue_development 11529 11537	myogenic
+T128	GO_EXT:reaction_or_response 11721 11728	respond
+T129	GO_RO_EXT:developmental_differentiation_process 11768 11783	differentiation
+T130	GO_RO_EXT:developmental_differentiation_process 12056 12071	differentiation
+T131	GO_RO_EXT:developmental_differentiation_process 12110 12125	differentiation
+T132	GO_EXT:biological_growth_entity_or_process 12217 12223	growth
+T133	GO_RO_EXT:developmental_differentiation_process 12228 12243	differentiation
+T134	GO_RO_EXT:developmental_differentiation_process 12295 12310	differentiation
+T135	GO_EXT:reaction_or_response 12314 12322	response
+T136	GO_RO_EXT:developmental_differentiation_process 12370 12385	differentiation
+T137	GO_EXT:reaction_or_response 12410 12418	response
+T138	GO_PATO_RO_EXT:developmental_differentiation_process_or_quality 12510 12524	differentiated
+T139	GO_RO_EXT:developmental_differentiation_process 12778 12793	differentiation
+T140	GO_EXT:biological_growth_entity_or_process 12995 13001	growth
+T141	GO_EXT:biological_growth_entity_or_process 13131 13137	growth
+T142	GO_EXT:biological_growth_entity_or_process 13411 13417	growth
+T143	GO_EXT:transcription 13504 13517	transcription
+T144	GO_EXT:cell_communication_or_signaling_or_signal_transduction 13564 13574	signalling
+T145	GO_EXT:reaction_or_response 13603 13610	respond
+T146	GO_EXT:transcription 13686 13699	transcription
+T147	GO_EXT:positive_regulation 13721 13733	up-regulates
+T148	GO:0010467 13815 13825	expression
+T149	GO_EXT:reaction_or_response 13913 13921	response
+T150	GO_EXT:reaction_or_response 13978 13986	response
+T151	GO_EXT:biological_growth_entity_or_process 14034 14040	growth
+T152	GO:0007049 14106 14116	cell cycle
+T153	GO_RO_EXT:developmental_differentiation_process 14139 14154	differentiation
+T154	GO_RO_EXT:developmental_differentiation_process 14573 14588	differentiation
+T155	GO_EXT:biological_growth_entity_or_process 14626 14632	growth
+T156	GO:0010467 14745 14755	expression
+T157	GO_PATO_RO_EXT:developmental_differentiation_process_or_quality 14791 14805	differentiated
+T158	GO:0010467 14827 14834	express
+T159	GO:0010467 14887 14894	express
+T160	GO_EXT:muscle_structure_or_tissue_development 14926 14936	myogenesis
+T161	GO_PATO_RO_EXT:developmental_differentiation_process_or_quality 15013 15027	differentiated
+T162	GO:0010467 15276 15286	expressing
+T163	GO:0010467 15538 15548	expressing
+T164	GO:0010467 15599 15609	expressing
+T165	GO_EXT:muscle_structure_or_tissue_development 15691 15699	myogenic
+T166	GO:0010467 15726 15733	express
+T167	GO_RO_EXT:developmental_differentiation_process 15786 15801	differentiation
+T168	GO:0010467 15977 15984	express
+T169	GO_RO_EXT:developmental_differentiation_process 16024 16039	differentiation
+T170	GO:0010467 16211 16220	expresses
+T171	GO:0008283 16334 16347	proliferation
+T172	GO_EXT:biological_growth_entity_or_process 16351 16357	growth
+T173	GO_RO_EXT:developmental_differentiation_process 16402 16417	differentiation
+T174	GO_RO_EXT:developmental_differentiation_process 16434 16449	differentiation
+T175	GO_PATO_RO_EXT:developmental_differentiation_process_or_quality 16639 16653	differentiated
+T176	GO_EXT:positive_regulation 16874 16886	up-regulates
+T177	GO:0010467 17023 17033	expression
+T178	GO:0010467 17078 17087	expressed
+T179	GO:0035425 17117 17126	autocrine
+T180	GO_RO_EXT:developmental_differentiation_process 17448 17463	differentiation
+T181	GO_RO_EXT:developmental_differentiation_process 17521 17536	differentiation
+T182	GO_EXT:biological_growth_entity_or_process 17633 17639	growth
+T183	GO_RO_EXT:developmental_differentiation_process 17655 17670	differentiation
+T184	GO_PATO_RO_EXT:developmental_differentiation_process_or_quality 17903 17917	differentiated
+T185	GO_PATO_RO_EXT:developmental_differentiation_process_or_quality 17993 18007	differentiated
+T186	GO:0010467 18017 18027	expressing
+T187	GO_RO_EXT:developmental_differentiation_process 18203 18218	differentiation
+T188	GO:0010467 18250 18260	expressing
+T189	GO_RO_EXT:developmental_differentiation_process 18482 18497	differentiation
+T190	GO:0010467 18512 18522	expression
+T191	GO_RO_EXT:developmental_differentiation_process 18653 18668	differentiation
+T192	GO_RO_EXT:developmental_differentiation_process 18760 18775	differentiation
+T193	GO:0007520 18780 18789;18794 18803	fusion of ... myoblasts
+T194	GO:0010467 19033 19040	express
+T195	GO_EXT:muscle_structure_or_tissue_development 19104 19114	myogenesis
+T196	GO:0007224 19131 19144	Hh signalling
+T197	GO_EXT:muscle_structure_or_tissue_development 19189 19199	myogenesis
+T198	GO:0010467 19423 19433	expression
+T199	GO_EXT:muscle_structure_or_tissue_development 19518 19528	myogenesis
+T200	GO:0010467 20101 20110	expressed
+T201	GO:0010467 20175 20185	expression
+T202	GO:0010467 20809 20818	expressed
+T203	GO:0010467 21027 21037	expressing
+T204	GO:0030154 21339 21357;21382 21387	differentiation of ... cells
+T205	GO_PATO_EXT:biological_localization_process_or_quality 21801 21810	localised
+T206	GO_EXT:positive_regulation 23280 23292	up-regulates
+T207	GO:0010467 23397 23407	expression
+T208	GO_EXT:positive_regulation 23467 23479	up-regulated
+T209	GO:0007224 23723 23736	Hh signalling
+T210	GO_EXT:muscle_structure_or_tissue_development 23745 23755	myogenesis
+T211	GO:0010467 23768 23778	expression
+T212	GO:0007224 23876 23889	Hh signalling
+T213	GO:0010467 23921 23930	expressed
+T214	GO:0010467 24063 24073	expression
+T215	GO:0009888 24142 24154	histogenesis
+T216	GO:0010467 24178 24188	expression
+T217	GO:0007224 24273 24286	Hh signalling
+T218	GO:0010467 24371 24381	expression
+T219	GO:0010467 24436 24445	expressed
+T220	GO_EXT:muscle_structure_or_tissue_development 24458 24466	myogenic
+T221	GO_EXT:muscle_structure_or_tissue_development 24529 24537	myogenic
+T222	GO:0007224 24728 24741	Hh signalling
+T223	GO_EXT:muscle_structure_or_tissue_development 24778 24786	myogenic
+T224	GO:0010467 24828 24838	expressing
+T225	GO:0007224 24873 24886	Hh signalling
+T226	GO:0010467 24923 24933	expression
+T227	GO_EXT:muscle_structure_or_tissue_development 24941 24951	myogenesis
+T228	GO_EXT:muscle_structure_or_tissue_development 25052 25068	muscle formation
+T229	GO:0010467 25119 25129	expressing
+T230	GO:0006260 25141 25152	replication
+T231	GO:0010467 25479 25489	expression
+T232	GO_EXT:positive_regulation 25515 25527	up-regulated
+T233	GO:0010467 25537 25547	expressing
+T234	GO:0007224 25718 25731	Hh signalling
+T235	GO:0010467 25750 25760	expression
+T236	GO:0010467 25813 25823	expression
+T237	GO:0010467 25882 25892	expression
+T238	GO_RO_EXT:developmental_differentiation_process 26150 26165	differentiation
+T239	GO:0010467 26205 26215	expressing
+T240	GO:0006260 26228 26239	replication
+T241	GO_EXT:muscle_structure_or_tissue_development 26634 26648	muscle-forming
+T242	GO:0010467 27617 27627	expression
+T243	GO_PATO_RO_EXT:developmental_differentiation_process_or_quality 28124 28138	differentiated
+T244	GO:0010467 28388 28395	express
+T245	GO_RO_EXT:developmental_differentiation_process 28880 28895	differentiation
+T246	GO_EXT:muscle_structure_or_tissue_development 28971 28981	myogenesis
+T247	GO:0010467 29040 29050	expression
+T248	GO:0010467 29157 29167	expression
+T249	GO_EXT:muscle_structure_or_tissue_development 29171 29187	muscle formation
+T250	GO:0010467 29621 29631	expression
+T251	GO:0010467 29998 30008	expression
+T252	GO_RO_EXT:developmental_differentiation_process 30068 30083	differentiation
+T253	GO_EXT:reaction_or_response 30148 30156	response
+T254	GO:0040007 30242 30247	grown
+T255	GO_RO_EXT:developmental_differentiation_process 30807 30822	differentiation
+T256	GO:0010467 30833 30843	expression
+T257	GO:0010467 30979 30986	express
+T258	GO_RO_EXT:developmental_differentiation_process 31378 31393	differentiation
+T259	GO_PATO_EXT:biological_patterning_process_or_quality 31442 31452	patterning
+T260	GO:0046903 31483 31492	secreting
+T261	GO_RO_EXT:developmental_differentiation_process 31607 31622	differentiation
+T262	GO:0010467 32245 32255	expressing
+T263	GO_EXT:muscle_structure_or_tissue_development 33207 33223	muscle formation
+T264	GO_EXT:muscle_structure_or_tissue_development 33431 33441	myogenesis
+T265	GO_RO_EXT:developmental_differentiation_process 33459 33474	differentiation
+T266	GO_RO_EXT:developmental_differentiation_process 33558 33573	differentiation
+T267	GO:0010467 33931 33941	expression
+T268	GO_RO_EXT:developmental_differentiation_process 33988 34003	differentiation
+T269	GO_RO_EXT:developmental_differentiation_process 34052 34067	differentiation
+T270	GO_RO_EXT:developmental_differentiation_process 34196 34211	differentiation
+T271	GO_EXT:muscle_structure_or_tissue_development 34623 34633	myogenesis
+T272	GO:0010467 35499 35509	expression
+T273	GO_EXT:biological_growth_entity_or_process 35672 35678	growth
+T274	GO_EXT:muscle_structure_or_tissue_development 35741 35751	myogenesis
+T275	GO_UBERON_EXT:innervation_entity_or_process 36101 36112	innervation
+T276	GO_EXT:muscle_structure_or_tissue_development 36208 36218	myogenesis
+T277	GO_EXT:biological_growth_entity_or_process 36446 36452	growth
+T278	GO_PATO_EXT:biological_patterning_process_or_quality 36687 36697	patterning
+T279	GO:0007224 36754 36767	Hh signalling
+T280	GO_RO_EXT:developmental_differentiation_process 36828 36843	differentiation
+T281	GO_EXT:muscle_structure_or_tissue_development 36861 36871	myogenesis
+T282	GO_EXT:biological_growth_entity_or_process 37473 37479	growth
+T283	GO:0010467 37582 37592	expression
+T284	GO_PATO_RO_EXT:developmental_differentiation_process_or_quality 37682 37696	differentiated
+T285	GO:0010467 37711 37721	expressing
+T286	GO:0010467 37825 37835	expressing
+T287	GO:0010467 37912 37921	expressed
+T288	GO_PATO_RO_EXT:developmental_differentiation_process_or_quality 38095 38109	differentiated
+T289	GO_PATO_RO_EXT:developmental_differentiation_process_or_quality 38166 38180	differentiated
+T290	GO_RO_EXT:developmental_differentiation_process 38498 38513	differentiation
+T291	GO_RO_EXT:developmental_differentiation_process 38868 38883	differentiation
+T292	GO_EXT:muscle_structure_or_tissue_development 39016 39026	myogenesis
+T293	GO:0007224 39116 39129	Hh signalling
+T294	GO_EXT:muscle_structure_or_tissue_development 39138 39148	myogenesis
+T295	GO_RO_EXT:developmental_differentiation_process 39178 39193	differentiation
+T296	GO_RO_EXT:developmental_differentiation_process 39256 39271	differentiation
+T297	GO:0030154 39359 39377;39381 39386	differentiation of ... cells
+T298	GO_RO_EXT:developmental_differentiation_process 39449 39464	differentiation
+T299	GO_EXT:biological_growth_entity_or_process 39565 39571	growth
+T300	GO_EXT:muscle_structure_or_tissue_development 39592 39600	myogenic
+T301	GO_EXT:reaction_or_response 39623 39630	respond
+T302	GO_RO_EXT:developmental_differentiation_process 39660 39675	differentiation
+T303	GO_RO_EXT:developmental_differentiation_process 39832 39847	differentiation
+T304	GO_RO_EXT:developmental_differentiation_process 40004 40019	differentiation
+T305	GO_RO_EXT:developmental_differentiation_process 40079 40094	differentiation
+T306	GO_RO_EXT:developmental_differentiation_process 40291 40306	differentiation
+T307	GO:0007224 40454 40467	Hh signalling
+T308	GO_EXT:muscle_structure_or_tissue_development 40654 40662	myogenic
+T309	GO_RO_EXT:developmental_differentiation_process 40754 40769	differentiation
+T310	GO_RO_EXT:developmental_differentiation_process 40819 40834	differentiation
+T311	GO:0010467 41014 41024	expression
+T312	GO_EXT:positive_regulation 41029 41041	up-regulated
+T313	GO:0010467 41111 41121	expression
+T314	GO_EXT:muscle_structure_or_tissue_development 41178 41188	myogenesis
+T315	GO_RO_EXT:developmental_differentiation_process 41328 41343	differentiation
+T316	GO_EXT:biological_growth_entity_or_process 41494 41500	growth
+T317	GO_RO_EXT:developmental_differentiation_process 41642 41657	differentiation
+T318	GO:0010467 41678 41688	expression
+T319	GO_EXT:cell_communication_or_signaling_or_signal_transduction 41707 41717	signalling
+T320	GO_EXT:muscle_structure_or_tissue_development 41769 41777	myogenic
+T321	GO_RO_EXT:developmental_differentiation_process 41843 41858	differentiating
+T322	GO_EXT:muscle_structure_or_tissue_development 41859 41867	myogenic
+T323	GO:0007224 41957 41970	Hh signalling
+T324	GO_EXT:muscle_structure_or_tissue_development 42048 42056	myogenic
+T325	GO_RO_EXT:developmental_differentiation_process 42234 42249	differentiation
+T326	GO_EXT:muscle_structure_or_tissue_development 42264 42274	myogenesis
+T327	GO_RO_EXT:developmental_differentiation_process 42344 42359	differentiation
+T328	GO_RO_EXT:developmental_differentiation_process 42361 42376	Differentiating
+T329	GO:0010467 42397 42404	express
+T330	GO:0010467 42480 42490	expression
+T331	GO:0010467 42848 42855	express
+T332	GO_EXT:positive_regulation 42918 42929	up-regulate
+T333	GO_EXT:reaction_or_response 42943 42951	response
+T334	GO:0007224 43076 43089	Hh signalling
+T335	GO_EXT:muscle_structure_or_tissue_development 43202 43212	myogenesis
+T336	GO:0007224 43361 43374	Hh signalling
+T337	GO_EXT:muscle_structure_or_tissue_development 43631 43641	myogenesis
+T338	GO_RO_EXT:developmental_differentiation_process 43681 43696	differentiation
+T339	GO:0035556 43767 43791	intracellular signalling
+T340	GO_RO_EXT:developmental_differentiation_process 43805 43820	differentiation
+T341	GO_EXT:positive_regulation 43870 43883	up-regulation
+T342	GO:0046903 44067 44074	secrete
+T343	GO_EXT:muscle_structure_or_tissue_development 44123 44131	myogenic
+T344	GO:0006915 44375 44384	apoptosis
+T345	GO:0008219 44425 44435	cell death
+T346	GO_PATO_RO_EXT:developmental_differentiation_process_or_quality 44591 44605	differentiated
+T347	GO:0010467 44641 44651	expression
+T348	GO_RO_EXT:developmental_differentiation_process 44717 44732	differentiation
+T349	GO:0007224 44933 44946	Hh signalling
+T350	GO_EXT:muscle_structure_or_tissue_development 44974 44984	myogenesis
+T351	GO:0008219 45002 45012	cell death
+T352	GO_RO_EXT:developmental_differentiation_process 45065 45080	differentiation
+T353	GO_EXT:muscle_structure_or_tissue_development 45159 45169	myogenesis
+T354	GO:0006915 45196 45205	apoptosis
+T355	GO_RO_EXT:developmental_differentiation_process 45295 45310	differentiation
+T356	GO_RO_EXT:developmental_differentiation_process 45604 45619	differentiation
+T357	GO_RO_EXT:developmental_differentiation_process 45707 45722	differentiation
+T358	GO:0010467 45831 45841	expression
+T359	GO_RO_EXT:developmental_differentiation_process 45855 45870	differentiation
+T360	GO_RO_EXT:developmental_differentiation_process 46025 46038	differentiate
+T361	GO_EXT:reaction_or_response 46047 46055	response
+T362	GO_EXT:positive_regulation 46084 46097	up-regulation
+T363	GO_RO_EXT:developmental_differentiation_process 46147 46160	differentiate
+T364	GO_EXT:reaction_or_response 46242 46249	respond
+T365	GO:0065007 46381 46389	regulate
+T366	GO_EXT:reaction_or_response 46396 46404	response
+T367	GO_EXT:reaction_or_response 46444 46452	response
+T368	GO_RO_EXT:developmental_differentiation_process 46472 46487	differentiation
+T369	GO_EXT:reaction_or_response 46575 46583	response
+T370	GO_EXT:reaction_or_response 46679 46687	response
+T371	GO_EXT:reaction_or_response 46749 46756	respond
+T372	GO:0030154 46818 46833;46851 46853;46863 46868	differentiation ... of ... cells
+T373	GO_EXT:muscle_structure_or_tissue_development 46854 46862	myogenic
+T374	GO_EXT:muscle_structure_or_tissue_development 46899 46907	myogenic
+T375	GO_EXT:reaction_or_response 47016 47024	response
+T376	GO_EXT:muscle_structure_or_tissue_development 47053 47061	myogenic
+T377	GO:0010467 47122 47129	express
+T378	GO_EXT:reaction_or_response 47247 47254	respond
+T379	GO:0010467 47831 47841	expression
+T380	GO:0051716 48063 48074;48084 48089	response of ... cells
+T381	GO_EXT:muscle_structure_or_tissue_development 48075 48083	myogenic
+T382	GO_RO_EXT:developmental_differentiation_process 48135 48150	differentiation
+T383	GO:0007224 48252 48265	Hh signalling
+T384	GO_EXT:muscle_structure_or_tissue_development 48313 48323	myogenesis
+T385	GO_RO_EXT:developmental_differentiation_process 48394 48409	differentiation
+T386	GO_RO_EXT:developmental_differentiation_process 48486 48501	differentiation
+T387	GO:0010467 48572 48582	expression
+T388	GO:0010467 48652 48662	expression
+T389	GO_EXT:reaction_or_response 48810 48817	respond
+T390	GO_EXT:biological_growth_entity_or_process 48867 48873	growth
+T391	GO_EXT:reaction_or_response 48984 48992	response
+T392	GO_PATO_EXT:cell_proliferation_or_proliferativity 49126 49139	proliferative
+T393	GO_EXT:muscle_structure_or_tissue_development 49157 49165	myogenic
+T394	GO_RO_EXT:developmental_differentiation_process 49184 49199	differentiative
+T395	GO:0051450 49364 49390	proliferation of myoblasts
+T396	GO_EXT:muscle_structure_or_tissue_development 49586 49594	myogenic
+T397	GO:0010467 49617 49627	expression
+T398	GO_EXT:positive_regulation 49657 49670	up-regulation
+T399	GO_EXT:muscle_structure_or_tissue_development 49730 49738	myogenic
+T400	GO_EXT:biological_growth_entity_or_process 49785 49791	growth
+T401	GO_EXT:muscle_structure_or_tissue_development 49799 49807	myogenic
+T402	GO_EXT:muscle_structure_or_tissue_development 49819 49827	myogenic
+T403	GO_EXT:biological_growth_entity_or_process 49974 49980	growth
+T404	GO_PATO_EXT:cell_proliferation_or_proliferativity 50110 50123	proliferative
+T405	GO_PATO_EXT:cell_proliferation_or_proliferativity 50170 50183	proliferative
+T406	GO_RO_EXT:developmental_differentiation_process 50378 50393	differentiation
+T407	GO:0010467 50477 50487	expressing
+T408	GO_EXT:reaction_or_response 50536 50543	respond
+T409	GO_EXT:muscle_structure_or_tissue_development 50690 50698	myogenic
+T410	GO_EXT:biological_release 50714 50721	release
+T411	GO:0008283 50810 50817	amplify
+T412	GO_EXT:muscle_structure_or_tissue_development 50832 50840	myogenic
+T413	GO:0008283 50894 50907	proliferation
+T414	GO_RO_EXT:developmental_differentiation_process 50965 50980	differentiation
+T415	GO:0010467 50993 51003	expression
+T416	GO:0007224 51074 51087	Hh signalling
+T417	GO:0051450 51091 51113	myoblast proliferation
+T418	GO_RO_EXT:developmental_differentiation_process 51206 51221	differentiation
+T419	GO:0051450 51291 51313	myoblast proliferation
+T420	GO_EXT:biological_growth_entity_or_process 51345 51351	growth
+T421	GO_EXT:muscle_structure_or_tissue_development 51369 51377	myogenic
+T422	GO_EXT:biological_growth_entity_or_process 51440 51446	growth
+T423	GO_PATO_EXT:cell_proliferation_or_proliferativity 51507 51520	proliferative
+T424	GO_EXT:muscle_structure_or_tissue_development 51538 51546	myogenic
+T425	GO_RO_EXT:developmental_differentiation_process 51587 51602	differentiative
+T426	GO_RO_EXT:developmental_differentiation_process 51646 51661	differentiative
+T427	GO_PATO_RO_EXT:developmental_differentiation_process_or_quality 51769 51783	differentiated
+T428	GO:0007224 51825 51838	Hh signalling
+T429	GO_EXT:muscle_structure_or_tissue_development 51856 51866	myogenesis
+T430	GO:0007224 51942 51955	Hh signalling
+T431	GO:0010467 51995 52005	expression
+T432	GO_RO_EXT:developmental_differentiation_process 52092 52105	differentiate
+T433	GO_RO_EXT:developmental_differentiation_process 52268 52283	differentiation
+T434	GO:0007224 52331 52344	Hh signalling
+T435	GO_EXT:muscle_structure_or_tissue_development 52407 52417	myogenesis
+T436	GO:0046903 52488 52497	secreting
+T437	GO_RO_EXT:developmental_differentiation_process 52603 52618	differentiation
+T438	GO:0010467 52640 52650	expression
+T439	GO_RO_EXT:developmental_differentiation_process 52755 52770	differentiation
+T440	GO_EXT:muscle_structure_or_tissue_development 52839 52849	myogenesis
+T441	GO_EXT:muscle_structure_or_tissue_development 53023 53033	myogenesis
+T442	GO:0009294 53110 53121	transfected
+T443	GO:0006260 53139 53150	replication
+T444	GO_EXT:biological_movement_or_translocation_process 53890 53901	transferred
+T445	GO_PATO_EXT:biological_adhesion_or_attachedness 55292 55297	stuck
+T446	GO_EXT:muscle_structure_or_tissue_development 55337 55345	myogenic
+T447	GO_PATO_EXT:biological_adhesion_or_attachedness 55351 55359	adherent
+T448	GO_EXT:biological_growth_entity_or_process 56631 56637	Growth
+T449	GO_RO_EXT:developmental_differentiation_process 57084 57098	differentiated
+T450	GO_EXT:biological_growth_entity_or_process 57217 57223	growth
+T451	GO_RO_EXT:developmental_differentiation_process 57227 57242	differentiation
+T452	CHEBI_GO_EXT:biological_process_or_quality_or_role 57372 57384	biologically
+T453	GO_RO_EXT:developmental_differentiation_process 57824 57839	differentiation
+T454	GO_PATO_RO_EXT:developmental_differentiation_process_or_quality 57939 57953	differentiated
+T455	GO_EXT:biological_growth_entity_or_process 58112 58118	growth
+T456	GO:0010467 58413 58423	expression
+T457	GO:0010467 58481 58491	expression
+T458	GO:0007568 59179 59185	Ageing

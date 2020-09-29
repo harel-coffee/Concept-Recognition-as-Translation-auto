@@ -1,0 +1,81 @@
+T1	GO_EXT:transcription 104 117	transcription
+T2	GO:0048513 174 188;197 203	development of ... organs
+T3	GO:0048513 313 326	organogenesis
+T4	GO:0007369 391 403	gastrulation
+T5	GO_SO_EXT:sequence_rearrangement_process 674 687	recombination
+T6	GO_EXT:breeding 742 746	bred
+T7	GO_EXT:breeding 930 934	bred
+T8	GO:0010467 1001 1010	expressed
+T9	GO:0010467 1040 1047	express
+T10	GO:0010467 1217 1227	expression
+T11	GO:0065007 1312 1322	regulating
+T12	GO:0009790 1323 1344	embryonic development
+T13	GO_PATO_EXT:physiological_process_or_quality 1378 1388	physiology
+T14	GO_EXT:biological_direction_or_guidance 1556 1563	directs
+T15	GO:0048513 1706 1720;1729 1735	development of ... organs
+T16	GO:0009790 1803 1817;1829 1836	Development of ... embryos
+T17	GO:0007369 1852 1864	gastrulation
+T18	GO_EXT:fatality_or_lethality 1957 1966	lethality
+T19	GO:0001889 2251 2264	hepatogenesis
+T20	GO_EXT:regulator 2335 2344	regulator
+T21	GO:0009790 2521 2534	embryogenesis
+T22	GO:0065007 2646 2657	controlling
+T23	GO_RO_EXT:developmental_differentiation_process 2658 2673	differentiation
+T24	GO_SO_EXT:sequence_rearrangement_process 2875 2888	recombination
+T25	GO_SO_EXT:sequence_rearrangement_process 4008 4021	recombination
+T26	GO:0007618 4918 4923	mated
+T27	GO_EXT:fatality_or_lethality 5335 5344	lethality
+T28	GO_SO_EXT:sequence_rearrangement_process 5478 5491	recombination
+T29	GO:0007618 5549 5555	mating
+T30	GO:0010467 5671 5680	expressed
+T31	GO_EXT:breeding 5875 5879	bred
+T32	GO_EXT:breeding 6976 6984	breeding
+T33	GO:0010467 7030 7040	expressing
+T34	GO:0006277 7320 7336;7345 7348	amplification of ... DNA
+T35	GO:0010467 7665 7675	expression
+T36	GO:0010467 7782 7791	expressed
+T37	GO:0065007 7832 7843	controlling
+T38	GO:0048565 7844 7847;7862 7873	gut ... development
+T39	GO_PATO_EXT:physiological_process_or_quality 7848 7858	physiology
+T40	GO_EXT:breeding 7917 7921	bred
+T41	GO:0010467 7996 8006	expression
+T42	GO_EXT:biological_direction_or_guidance 8011 8019	directed
+T43	GO:0007618 8261 8266	mated
+T44	GO_SO_EXT:sequence_rearrangement_process 8472 8485	recombination
+T45	GO_EXT:fatality_or_lethality 8770 8779	lethality
+T46	GO_EXT:reverse_transcription_or_reverse_transcriptase 9053 9055	RT
+T47	GO_SO_EXT:sequence_rearrangement_process 9147 9160	recombination
+T48	GO:0010467 9576 9583	express
+T49	GO:0010467 9648 9658	expression
+T50	GO:0010467 10143 10153	expression
+T51	GO:0010467 10262 10272	expression
+T52	GO:0007618 11143 11149	mating
+T53	GO:0010467 11265 11274	expresses
+T54	GO:0007566 11337 11349	implantation
+T55	GO_SO_EXT:sequence_rearrangement_process 11399 11412	recombination
+T56	GO:0007618 11791 11796	mated
+T57	GO_EXT:fatality_or_lethality 12206 12215	lethality
+T58	GO:0010467 12266 12276	expression
+T59	GO:0007566 12291 12303	implantation
+T60	GO_EXT:breeding 12355 12359	bred
+T61	GO_EXT:fatality_or_lethality 12754 12763	lethality
+T62	GO_EXT:transcription 12893 12908	transcriptional
+T63	GO:0010467 12936 12946	expression
+T64	GO:0048513 13063 13076	organogenesis
+T65	GO_PATO_EXT:physiological_process_or_quality 13092 13105	physiological
+T66	GO:0010467 13539 13549	expression
+T67	GO_SO_EXT:sequence_rearrangement_process 14131 14144	recombination
+T68	GO:0010467 14275 14285	expression
+T69	GO_SO_EXT:sequence_rearrangement_process 14753 14766	recombination
+T70	GO:0098743 15095 15109;15113 15118	aggregation of ... cells
+T71	GO_EXT:breeding 15225 15233	breeding
+T72	GO_EXT:breeding 15293 15301	breeding
+T73	GO_SO_EXT:sequence_rearrangement_process 15435 15448	recombination
+T74	GO_EXT:breeding 15503 15511	breeding
+T75	GO:0007618 15585 15591	mating
+T76	GO_SO_EXT:sequence_rearrangement_process 15716 15729	recombination
+T77	GO_EXT:breeding 15807 15815	breeding
+T78	GO_EXT:reverse_transcription_or_reverse_transcriptase 15937 15939	RT
+T79	GO_EXT:reverse_transcription_or_reverse_transcriptase 16445 16447	RT
+T80	GO:0007565 17460 17468	Pregnant
+T81	GO:0030728 17514 17523	ovulation

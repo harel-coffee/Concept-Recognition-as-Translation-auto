@@ -1,0 +1,137 @@
+T1	GO:0000380 65 85	Alternative splicing
+T2	GO:0010467 94 104	expression
+T3	GO_EXT:transcription 203 216	transcription
+T4	GO:0000380 274 295	alternatively spliced
+T5	GO:0008380 332 338	splice
+T6	GO:0010467 461 470	expressed
+T7	GO:0010467 573 582	expressed
+T8	GO:0010467 731 741	expressing
+T9	GO_EXT:biological_growth_entity_or_process 777 783	growth
+T10	GO:0010467 943 953	expression
+T11	GO:0042592 1005 1016	homeostasis
+T12	GO:0000380 1033 1062	Alternative pre-mRNA splicing
+T13	GO:0010467 1238 1245	express
+T14	GO:0000380 1246 1264	alternative splice
+T15	GO:0010467 1523 1532	expressed
+T16	GO:0065007 1682 1691	regulates
+T17	CHEBI_GO_EXT:biological_process_or_quality_or_role 1700 1710	biological
+T18	GO_EXT:transcription 1954 1969	transcriptional
+T19	GO_EXT:biological_growth_entity_or_process 2041 2047	growth
+T20	GO:0006915 2098 2107	apoptosis
+T21	GO:0007283 2223 2238	spermatogenesis
+T22	GO_PATO_EXT:phosphorylation_process 2332 2347	phosphorylation
+T23	GO:0010467 2582 2592	expression
+T24	GO:0010467 2845 2855	expression
+T25	GO_EXT:fatality_or_lethality 2991 2997	lethal
+T26	GO_EXT:biological_growth_entity_or_process 3096 3102	growth
+T27	GO:0010467 3227 3237	expression
+T28	GO:0042592 3292 3303	homeostasis
+T29	GO_EXT:reverse_transcription_or_reverse_transcriptase 4805 4807	RT
+T30	GO_EXT:reverse_transcription_or_reverse_transcriptase 5036 5038	RT
+T31	GO_EXT:reverse_transcription_or_reverse_transcriptase 5079 5081	RT
+T32	GO:0001171 5104 5125	reverse transcription
+T33	GO_EXT:reverse_transcription_or_reverse_transcriptase 5217 5219	RT
+T34	GO_EXT:reverse_transcription_or_reverse_transcriptase 5652 5654	RT
+T35	GO_SO_EXT:sequence_rearrangement_process 6286 6299	recombination
+T36	GO_SO_EXT:transcriptional_stop_entity_or_process 6849 6869	transcriptional stop
+T37	GO:0048468 6952 6965;6978 6983	Generation of ... cells
+T38	GO_EXT:biological_movement_or_translocation_process 8013 8022	mobilized
+T39	GO_EXT:biological_movement_or_translocation_process 8204 8212	transfer
+T40	GO:0042756 8455 8463	drinking
+T41	GO:0042756 8536 8544	drinking
+T42	GO_PATO_EXT:inflammatory_process_or_quality 8915 8927	Inflammation
+T43	GO:0045123 8987 9009	leukocyte infiltration
+T44	GO:0016265 9437 9441	died
+T45	GO_EXT:biological_growth_entity_or_process 9695 9701	growth
+T46	GO_EXT:reverse_transcription_or_reverse_transcriptase 10277 10279	RT
+T47	GO:0010467 10317 10326	expressed
+T48	GO:0010467 10365 10374	expressed
+T49	GO:0010467 10558 10567	expressed
+T50	GO_EXT:reverse_transcription_or_reverse_transcriptase 10872 10874	RT
+T51	GO:0065007 11016 11025	regulates
+T52	GO:0010467 11034 11044	expression
+T53	GO_EXT:transcription 11130 11143	transcription
+T54	GO:0008380 11233 11240	spliced
+T55	GO:0006412 11393 11403	translated
+T56	GO:0010467 11525 11535	expression
+T57	GO_EXT:biological_movement_or_translocation_process 12210 12218	migrated
+T58	GO:0006277 13389 13406	DNA amplification
+T59	GO:0010467 13623 13633	expression
+T60	GO:0010467 13681 13688	express
+T61	GO_SO_EXT:sequence_rearrangement_process 13759 13772	recombination
+T62	GO_SO_EXT:sequence_rearrangement_process 13926 13939	recombination
+T63	GO_SO_EXT:sequence_rearrangement_process 14270 14281	recombinant
+T64	GO:0016265 14532 14535	die
+T65	GO:0007567 14552 14559	natally
+T66	GO:0007281 14910 14931	germ cell development
+T67	GO:0000380 14972 14992	Alternative splicing
+T68	GO_SO_EXT:sequence_rearrangement_process 15016 15027	recombinant
+T69	GO:0010467 15087 15097	expression
+T70	GO_SO_EXT:sequence_rearrangement_process 15233 15244	recombinant
+T71	GO:0010467 15291 15300	expressed
+T72	GO_EXT:reverse_transcription_or_reverse_transcriptase 15302 15304	RT
+T73	GO:0008380 15528 15535	spliced
+T74	GO:0010467 15985 15995	expression
+T75	GO:0010467 16081 16090	expressed
+T76	GO:0010467 16649 16659	expression
+T77	CHEBI_GO_EXT:biological_process_or_quality_or_role 16795 16805	biological
+T78	GO:0010467 16825 16835	expression
+T79	GO_EXT:biological_growth_entity_or_process 16878 16884	growth
+T80	GO:0007567 17355 17360	natal
+T81	GO_EXT:reverse_transcription_or_reverse_transcriptase 17902 17904	RT
+T82	GO:0010467 17988 17997	expressed
+T83	GO:0010467 18081 18091	expression
+T84	GO_EXT:biological_growth_entity_or_process 18177 18183	growth
+T85	GO:0010467 18222 18232	expression
+T86	GO_EXT:biological_growth_entity_or_process 18288 18294	growth
+T87	GO_PATO_EXT:cell_proliferation_or_proliferativity 18588 18601	proliferative
+T88	GO_PATO_EXT:inflammatory_process_or_quality 18697 18709	inflammation
+T89	GO_PATO_EXT:biological_localization_process_or_quality 19091 19100	localized
+T90	GO:0016265 19590 19594	died
+T91	GO:0010467 19807 19817	expression
+T92	GO:0008380 19981 19987	splice
+T93	GO_EXT:transcription 20136 20151	transcriptional
+T94	GO:0000380 20393 20414	alternatively spliced
+T95	GO:0008380 20540 20548	splicing
+T96	GO:0065007 20648 20658	regulating
+T97	GO:0010467 20720 20730	expression
+T98	GO:0065007 20767 20777	regulatory
+T99	GO:0010467 21280 21289	expressed
+T100	GO_EXT:biological_growth_entity_or_process 21359 21365	growth
+T101	GO_PATO_EXT:inflammatory_process_or_quality 21613 21625	inflammatory
+T102	GO:0010467 21694 21704	expressing
+T103	GO:0010467 21847 21857	expression
+T104	GO:0007281 22461 22482	germ cell development
+T105	GO:0009790 22518 22531	embryogenesis
+T106	GO:0010467 22682 22692	expression
+T107	GO:0007567 22730 22735	natal
+T108	GO:0009790 23042 23063	embryonic development
+T109	GO:0007567 23072 23077	natal
+T110	GO:0006412 24589 24599	translated
+T111	GO_EXT:reverse_transcription_or_reverse_transcriptase 24796 24798	RT
+T112	GO:0010467 24820 24830	expression
+T113	GO_EXT:reverse_transcription_or_reverse_transcriptase 24924 24926	RT
+T114	GO:0010467 24989 24999	expression
+T115	GO:0010467 25376 25385	expressed
+T116	GO:0010467 25442 25451	expressed
+T117	GO:0006412 25718 25728	translated
+T118	GO_SO_EXT:frameshift_entity_or_process 25730 25740	frameshift
+T119	GO_SO_EXT:sequence_rearrangement_process 26698 26711	recombination
+T120	GO:0006412 26954 26964	translated
+T121	GO_EXT:reverse_transcription_or_reverse_transcriptase 27334 27336	RT
+T122	GO_SO_EXT:sequence_rearrangement_process 27402 27413	recombinant
+T123	GO:0001171 27446 27465	reverse-transcribed
+T124	GO_EXT:reverse_transcription_or_reverse_transcriptase 27521 27523	RT
+T125	GO:0010467 27552 27561	expressed
+T126	GO_EXT:transcription 27574 27587	transcription
+T127	GO_EXT:reverse_transcription_or_reverse_transcriptase 27732 27734	RT
+T128	GO_SO_EXT:sequence_rearrangement_process 27957 27968	recombinant
+T129	GO:0008380 28024 28032	splicing
+T130	GO_SO_EXT:frameshift_entity_or_process 28104 28114	frameshift
+T131	GO_EXT:biological_growth_entity_or_process 28446 28452	Growth
+T132	GO_EXT:biological_growth_entity_or_process 28501 28507	Growth
+T133	GO:0016265 28953 28958	death
+T134	GO_EXT:reverse_transcription_or_reverse_transcriptase 28982 28984	RT
+T135	GO_PATO_EXT:inflammatory_process_or_quality 29279 29291	inflammation
+T136	GO:0010467 29303 29313	expression
+T137	GO:0016265 29470 29473	die

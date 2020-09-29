@@ -1,0 +1,219 @@
+T1	GO:0001890 44 53;68 79	placental ... development
+T2	GO:0009790 58 79	embryonic development
+T3	GO_PATO_EXT:physiological_process_or_quality 238 251	physiological
+T4	GO:0016265 426 429	die
+T5	GO:0010467 533 543	expression
+T6	GO:0006915 724 733	apoptosis
+T7	GO:0007507 845 864	cardiac development
+T8	GO:0009790 929 950	embryonic development
+T9	GO:0000165 1046 1078;1086 1094	Mitogen activated protein kinase ... cascades
+T10	GO:0000165 1080 1084;1086 1094	MAPK ... cascades
+T11	GO:0009987 1124 1142	cellular processes
+T12	GO:0008283 1153 1171	cell proliferation
+T13	GO:0030154 1153 1157;1173 1188	cell ... differentiation
+T14	GO:0006915 1153 1157;1203 1212	cell ... apoptosis
+T15	GO_PATO_EXT:physiological_process_or_quality 1247 1260	physiological
+T16	GO_PATO_EXT:phosphorylation_process 1676 1691	phosphorylation
+T17	GO_EXT:reaction_or_response 1838 1846	response
+T18	GO:0000165 2437 2449	MAPK cascade
+T19	GO_PATO_EXT:physiological_process_or_quality 2766 2779	physiological
+T20	GO:0010467 2825 2835	expression
+T21	GO:0016265 2911 2916	death
+T22	GO:0007507 3023 3042	cardiac development
+T23	GO:0048745 3081 3109	development of smooth muscle
+T24	GO:0030154 3224 3242;3257 3262	differentiation of ... cells
+T25	GO_PATO_EXT:phosphorylation_process 3386 3399	phosphorylate
+T26	GO_EXT:transcription 3425 3438	transcription
+T27	GO_EXT:fatality_or_lethality 3500 3506	lethal
+T28	GO:0016265 3529 3532	die
+T29	GO:0001947 3592 3599	looping
+T30	GO_EXT:fatality_or_lethality 3657 3666	lethality
+T31	GO:0048738 3711 3731	myocardium formation
+T32	GO:0001525 3733 3745	angiogenesis
+T33	GO:0001890 3750 3769	placental formation
+T34	GO_EXT:cell_communication_or_signaling_or_signal_transduction 3845 3855	signalling
+T35	GO:0007507 3872 3891	cardiac development
+T36	GO:0007507 4131 4150	cardiac development
+T37	GO:0001525 4152 4164	angiogenesis
+T38	GO:0001890 4169 4188	placental formation
+T39	GO:0010467 4269 4279	expression
+T40	GO_EXT:fatality_or_lethality 4346 4352	lethal
+T41	GO:0009790 4360 4373	embryogenesis
+T42	GO:0006412 4853 4863	translated
+T43	GO:0006412 4914 4924	translated
+T44	GO_EXT:breeding 5317 5325	Breeding
+T45	GO_EXT:fatality_or_lethality 5475 5481	lethal
+T46	GO:0009790 5489 5502	embryogenesis
+T47	GO_EXT:fatality_or_lethality 5530 5539	lethality
+T48	GO:0007618 5613 5620	matings
+T49	GO:0060047 5787 5794	beating
+T50	GO:0016265 5871 5875	died
+T51	GO:0043631 6210 6225	polyadenylation
+T52	GO_EXT:transcription 6381 6394	transcription
+T53	GO:0008380 6399 6407	splicing
+T54	GO:0008380 6447 6453	splice
+T55	GO_SO_EXT:frameshift_entity_or_process 6511 6522	frame shift
+T56	GO:0006412 6574 6587;6593 6600	production of ... protein
+T57	GO:0010467 7086 7096	Expression
+T58	GO_EXT:biological_growth_entity_or_process 8472 8478	growth
+T59	GO:0001890 8614 8623;8641 8652	placental ... development
+T60	GO:0001568 8628 8652	blood vessel development
+T61	GO_EXT:biological_growth_entity_or_process 8841 8847	growth
+T62	GO_EXT:biological_growth_entity_or_process 8938 8944	growth
+T63	GO:0060322 8984 8998;9003 9007	development of ... head
+T64	GO:0060485 9167 9181;9195 9205	development of ... mesenchyme
+T65	GO:0007618 9387 9394	matings
+T66	GO_EXT:biological_growth_entity_or_process 9765 9771	growth
+T67	GO:0060174 10045 10059;10069 10078	Development of ... limb buds
+T68	GO:0010467 10145 10155	Expression
+T69	GO:0009790 10180 10193	embryogenesis
+T70	GO:0010467 10211 10221	expression
+T71	GO:0010467 10341 10351	expression
+T72	GO:0065007 10385 10394	regulated
+T73	GO:0009790 10402 10423	embryonic development
+T74	GO:0010467 10459 10469	expression
+T75	GO:0010467 10558 10568	expression
+T76	GO:0010467 10705 10715	expression
+T77	GO:0010467 10820 10830	expression
+T78	GO:0010467 10954 10963	expressed
+T79	GO:0010467 11152 11162	expression
+T80	GO:0010467 11363 11373	expression
+T81	GO:0010467 11463 11473	expression
+T82	GO:0010467 11556 11566	expression
+T83	GO:0010467 11633 11643	Expression
+T84	GO:0010467 11753 11763	expression
+T85	GO:0010467 11847 11857	expression
+T86	GO:0010467 11894 11904	expression
+T87	GO:0010467 11958 11968	expression
+T88	GO:0010467 12030 12040	expression
+T89	GO:0010467 12350 12360	Expression
+T90	GO:0009790 12385 12406	embryonic development
+T91	GO:0010467 12577 12587	Expression
+T92	GO:0010467 12690 12700	expression
+T93	GO:0010467 12829 12839	expression
+T94	GO:0010467 12877 12887	expression
+T95	GO:0010467 12964 12974	expression
+T96	GO:0010467 13249 13259	expression
+T97	GO:0010467 13344 13354	expression
+T98	GO:0010467 13442 13452	expression
+T99	GO:0010467 13537 13547	expression
+T100	GO:0001525 14427 14439	angiogenesis
+T101	GO:0001890 14444 14465	placental development
+T102	GO:0001568 14550 14576	formation of blood vessels
+T103	GO:0001568 14863 14885	blood vessel formation
+T104	GO:0007618 15707 15714	matings
+T105	GO:0008015 16313 16330	blood circulation
+T106	GO:0060047 16341 16348	beating
+T107	GO:0007618 16470 16476	mating
+T108	GO:0001525 16842 16854	angiogenesis
+T109	GO:0007507 17246 17265	cardiac development
+T110	GO:0007507 17271 17285;17290 17295	development of ... heart
+T111	GO:0001947 17348 17358;17363 17368	looping of ... heart
+T112	GO:0007618 17690 17697	matings
+T113	GO_PATO_EXT:biological_patterning_process_or_quality 17810 17820	patterning
+T114	GO:0001890 18331 18352	placental development
+T115	GO:0060710 18589 18611	Chorioallantoic fusion
+T116	GO:0048468 19112 19126;19145 19150	Development of ... cells
+T117	GO:0006915 19441 19450	apoptosis
+T118	GO:0006915 19541 19550	Apoptosis
+T119	GO:0006915 21302 21311	apoptosis
+T120	GO:0006915 21458 21470;21477 21482	apoptosis of ... cells
+T121	GO:0060322 21522 21536;21541 21545	development of ... head
+T122	GO:0060322 21662 21676;21681 21685	development of ... head
+T123	GO:0008283 24211 24222	proliferate
+T124	GO:0006915 24373 24382	apoptosis
+T125	GO:0006915 24397 24406	apoptosis
+T126	GO:0006915 24489 24498	apoptosis
+T127	GO:0007618 24654 24661	matings
+T128	GO:0006915 25872 25881	apoptosis
+T129	GO:0006915 25927 25936	apoptosis
+T130	GO:0006915 26045 26054	apoptosis
+T131	GO:0007494 26708 26722;26727 26730;26740 26743	development of ... mid ... gut
+T132	GO:0061525 26708 26722;26735 26743	development of ... hind gut
+T133	GO:0008283 26809 26822	proliferation
+T134	GO:0007618 26988 26995	matings
+T135	GO:0008283 27202 27215	proliferation
+T136	GO_EXT:fatality_or_lethality 27436 27445	lethality
+T137	GO:0001890 27512 27533	placental development
+T138	GO:0001525 27546 27558	angiogenesis
+T139	GO:0060322 27581 27595;27600 27604	development of ... head
+T140	GO:0060485 27581 27595;27631 27641	development of ... mesenchyme
+T141	GO_EXT:fatality_or_lethality 27818 27824	lethal
+T142	GO_EXT:fatality_or_lethality 27879 27888	lethality
+T143	GO:0001890 27938 27959	placental development
+T144	GO:0001525 27964 27976	angiogenesis
+T145	GO_EXT:biological_growth_entity_or_process 28144 28150	growth
+T146	GO:0010467 28656 28665	expressed
+T147	GO_EXT:biological_growth_entity_or_process 29291 29297	growth
+T148	GO:0060322 29412 29426;29431 29435	development of ... head
+T149	GO_EXT:fatality_or_lethality 29583 29592	lethality
+T150	GO:0001890 29813 29834	placental development
+T151	GO_EXT:killing 29856 29860	kill
+T152	GO:0016265 30082 30086	died
+T153	GO:0006915 30708 30717	apoptosis
+T154	GO:0060711 30805 30819;30824 30833	development of ... labyrinth
+T155	GO_EXT:fatality_or_lethality 31042 31051	lethality
+T156	GO:0000165 31074 31095	MAP kinase signalling
+T157	GO:0060711 31127 31148	labyrinth development
+T158	GO_EXT:fatality_or_lethality 31235 31244	lethality
+T159	GO:0060711 31277 31298	labyrinth development
+T160	GO:0000165 31430 31445	MAPK signalling
+T161	GO:0001525 31664 31676	angiogenesis
+T162	GO:0010467 31709 31719	expression
+T163	GO:0010467 31765 31775	expression
+T164	GO:0010467 31852 31861	expressed
+T165	GO:0010467 31934 31944	expression
+T166	GO_EXT:cell_communication_or_signaling_or_signal_transduction 31956 31966	signalling
+T167	GO:0001525 31990 32002	angiogenesis
+T168	GO:0001525 32069 32081	angiogenesis
+T169	GO_EXT:biological_growth_entity_or_process 32145 32151	growth
+T170	GO:0007507 32264 32283	cardiac development
+T171	GO:0010467 32384 32394	expression
+T172	GO:0010467 32440 32449	expressed
+T173	GO:0010467 32497 32507	expression
+T174	GO:0010467 32635 32645	expression
+T175	GO:0010467 32815 32825	expression
+T176	GO_PATO_EXT:biological_localization_process_or_quality 32826 32835	localised
+T177	GO:0010467 32871 32881	expression
+T178	GO:0007507 33043 33057;33072 33077	development of ... heart
+T179	GO_PATO_EXT:biological_patterning_process_or_quality 33181 33191	patterning
+T180	GO_PATO_EXT:biological_patterning_process_or_quality 33303 33313	patterning
+T181	GO:0007507 33485 33502	heart development
+T182	GO:0016265 33579 33582	die
+T183	GO:0001947 33626 33633	looping
+T184	GO_PATO_EXT:phosphorylation_process 33710 33725	phosphorylation
+T185	GO_PATO_EXT:phosphorylation_process 33814 33827	phosphorylate
+T186	GO:0007507 33964 33983	cardiac development
+T187	GO:0001947 34117 34124	looping
+T188	GO:0007507 35035 35054	cardiac development
+T189	GO:0060485 35622 35636;35650 35660	development of ... mesenchyme
+T190	GO:0048565 35622 35636;35665 35668	development of ... gut
+T191	GO:0010467 36277 36286	expressed
+T192	GO:0001568 36419 36431;36446 36457	blood vessel ... development
+T193	GO:0001890 36436 36457	placental development
+T194	GO:0001525 36608 36620	angiogenesis
+T195	GO:0006915 36880 36889	apoptosis
+T196	GO:0010467 37036 37046	expression
+T197	GO:0006915 37175 37184	apoptosis
+T198	GO:0065007 37246 37256	regulating
+T199	GO:0008283 37257 37261;37274 37286	cell ... poliferation
+T200	GO:0010467 37314 37324	expression
+T201	GO:0008283 37392 37405	proliferation
+T202	GO_EXT:reaction_or_response 37428 37436	response
+T203	GO:0001525 37539 37551	angiogenesis
+T204	GO:0001890 37556 37577	placental development
+T205	GO:0042981 37658 37671;37685 37694	regulation of ... apoptosis
+T206	GO_EXT:cell_communication_or_signaling_or_signal_transduction 37898 37908	Signalling
+T207	GO:0006266 38506 38513	ligated
+T208	GO:0009294 38865 38877	transfection
+T209	GO:0040007 38932 38937	grown
+T210	GO:0009294 38942 38953	transfected
+T211	GO:0007566 39509 39518	implanted
+T212	GO_EXT:breeding 39586 39590	bred
+T213	GO:0009566 40113 40126	fertilisation
+T214	GO:0007620 40156 40166	copulation
+T215	GO:0007565 40240 40248	pregnant
+T216	GO_EXT:transcription 40953 40964	transcribed
+T217	GO:0008219 41200 41210	cell death
+T218	GO_EXT:biological_movement_or_translocation_process 42299 42310	transferred
+T219	GO_EXT:breeding 42784 42792	breeding

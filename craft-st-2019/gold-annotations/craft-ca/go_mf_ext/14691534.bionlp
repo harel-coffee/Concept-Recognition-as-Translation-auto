@@ -1,0 +1,38 @@
+T1	GO_EXT:0016791 1255 1266	phosphatase
+T2	GO_EXT:0016791 5869 5880	phosphatase
+T3	GO_EXT:0008083 6035 6049	growth factors
+T4	GO_EXT:0016303 6059 6084	phosphoinositide 3-kinase
+T5	GO_EXT:0016303 6086 6090	PI3K
+T6	GO_EXT:0016303 7154 7158	PI3K
+T7	CHEBI_GO_EXT:neomycin_or_neomycin_phosphotransferase 8629 8632	Neo
+T8	CHEBI_GO_EXT:neomycin_or_neomycin_phosphotransferase 8777 8780	Neo
+T9	GO_EXT:reverse_transcription_or_reverse_transcriptase 10809 10811	RT
+T10	CHEBI_GO_EXT:neomycin_or_neomycin_phosphotransferase 15037 15040	Neo
+T11	GO_EXT:recombinase 15185 15196	recombinase
+T12	CHEBI_GO_EXT:neomycin_or_neomycin_phosphotransferase 15409 15412	Neo
+T13	GO_EXT:0016301 23384 23390	kinase
+T14	GO_EXT:0016303 28200 28204	PI3K
+T15	GO_EXT:0016303 31503 31507	PI3K
+T16	CHEBI_GO_EXT:neomycin_or_neomycin_phosphotransferase 37295 37298	neo
+T17	CHEBI_GO_EXT:neomycin_or_neomycin_phosphotransferase 37556 37559	neo
+T18	GO_EXT:reverse_transcription_or_reverse_transcriptase 39181 39183	RT
+T19	GO_PR_EXT:hypoxanthine_guanine_phosphoribosyltransferase 39834 39872	hypoxanthine phosphoribosyltransferase
+T20	GO_PR_EXT:hypoxanthine_guanine_phosphoribosyltransferase 39874 39878	HPRT
+T21	CHEBI_GO_EXT:peptidase_or_protease_or_proteinase_inhibitor 40637 40655	protease inhibitor
+T22	GO_EXT:0004601 43409 43419	peroxidase
+T23	GO_PR_EXT:hypoxanthine_guanine_phosphoribosyltransferase 45785 45789	HPRT
+T24	GO_PR_EXT:hypoxanthine_guanine_phosphoribosyltransferase 45792 45830	hypoxanthine phosphoribosyltransferase
+T25	CHEBI_GO_EXT:neomycin_or_neomycin_phosphotransferase 45955 45958	Neo
+T26	GO_EXT:0016303 46028 46032	PI3K
+T27	GO_EXT:0016303 46035 46060	phosphoinositide 3-kinase
+T28	GO_EXT:0016791 46161 46172	phosphatase
+T29	GO_PR_EXT:hypoxanthine_guanine_phosphoribosyltransferase 47347 47351	Hprt
+T30	CHEBI_GO_EXT:neomycin_or_neomycin_phosphotransferase 47602 47605	Neo
+T31	CHEBI_GO_EXT:neomycin_or_neomycin_phosphotransferase 47946 47949	Neo
+T32	GO_PR_EXT:thymidine_kinase 47973 47989	thymidine kinase
+T33	GO_PR_EXT:thymidine_kinase 48000 48002	TK
+T34	GO:0097617 48226 48239	hybridization
+T35	GO:0097617 48342 48355	hybridization
+T36	CHEBI_GO_EXT:neomycin_or_neomycin_phosphotransferase 49052 49055	neo
+T37	GO_EXT:0016303 54845 54849	PI3K
+T38	CHEBI_GO_SO_EXT:enzyme 54863 54872	enzymatic

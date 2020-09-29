@@ -1,0 +1,51 @@
+T1	GO_EXT:0004872 1670 1678	receptor
+T2	GO_EXT:0034061 8633 8647	DNA polymerase
+T3	GO_EXT:0004872 19253 19261	receptor
+T4	GO_EXT:0008009 23897 23907	chemokines
+T5	GO_EXT:0005031 23975 23996;24003 24011	tumor necrosis factor ... receptor
+T6	GO_EXT:0005031 23998 24001;24003 24011	TNF ... receptor
+T7	GO_EXT:transcription_factor 24101 24121	transcription factor
+T8	GO_EXT:0008083 24300 24313	growth factor
+T9	GO_EXT:biological_mover_or_transporter 24452 24459	carrier
+T10	GO_EXT:biological_mover_or_transporter 24476 24487	transporter
+T11	GO_EXT:biological_mover_or_transporter 24520 24531	transporter
+T12	GO_PR_EXT:platelet_activating_factor_receptor 24821 24856	platelet-activating factor receptor
+T13	GO_PR_EXT:platelet_activating_factor_receptor 24858 24863	Ptafr
+T14	GO_PR_EXT:phospholipase_A2 24869 24885	phospholipase A2
+T15	GO_PR_EXT:phospholipase_A2 24887 24891	Pla2
+T16	GO_EXT:biological_mover_or_transporter 25289 25296	carrier
+T17	GO_EXT:biological_mover_or_transporter 25313 25324	transporter
+T18	GO_EXT:biological_mover_or_transporter 25393 25405	transporters
+T19	GO_EXT:0008009 25955 25964	Chemokine
+T20	CHEBI_GO_EXT:ligand 25977 25983	ligand
+T21	GO_EXT:0016494 25996 26005;26007 26018;26020 26028	chemokine ... C-X-C motif ... receptor
+T22	GO_EXT:0008009 26209 26219	chemokines
+T23	GO_PR_EXT:chemokine_receptor 26250 26269	chemokine receptors
+T24	GO_EXT:0008009 26314 26324	chemokines
+T25	GO_EXT:0005125 26345 26354	cytokines
+T26	GO_PR_EXT:chemokine_receptor 26524 26542	chemokine receptor
+T27	GO_EXT:0008009 26978 26988	chemokines
+T28	GO_EXT:0008384 27006 27020	I kappa kinase
+T29	GO_PR_EXT:epidermal_growth_factor_receptor 27179 27211	epidermal growth factor receptor
+T30	GO_PR_EXT:epidermal_growth_factor_receptor 27213 27217	EGFR
+T31	CHEBI_GO_EXT:ligand 27219 27226	ligands
+T32	CHEBI_GO_EXT:ligand 27348 27354	Ligand
+T33	GO_PR_EXT:epidermal_growth_factor_receptor 27383 27387	EGFR
+T34	GO_PR_EXT:MAP_kinase 27449 27459	MAP kinase
+T35	GO_EXT:0005125 27482 27490	cytokine
+T36	GO_EXT:0042056 27626 27641	chemoattractant
+T37	GO_EXT:0008009 27685 27694	chemokine
+T38	CHEBI_GO_EXT:ligand 27709 27716	ligands
+T39	GO_EXT:0004872 27967 27975	receptor
+T40	GO_EXT:0004872 28091 28100	receptors
+T41	GO_EXT:0004872 29300 29308	receptor
+T42	CHEBI_GO_EXT:ligand 29599 29606	ligands
+T43	CHEBI_GO_EXT:ligand 29644 29653	ligand(s)
+T44	GO_EXT:0004872 29688 29696	receptor
+T45	CHEBI_GO_EXT:ligand 29831 29838	ligands
+T46	CHEBI_GO_EXT:ligand 29868 29875	ligands
+T47	CHEBI_GO_EXT:ligand 30032 30039	ligands
+T48	GO_EXT:transcription_factor 30180 30200	transcription factor
+T49	GO_EXT:0005125 30233 30242	cytokines
+T50	GO_EXT:0038023 30629 30644	signal receptor
+T51	GO_EXT:0004872 30933 30941	receptor

@@ -1,0 +1,121 @@
+T1	GO:0019898 171 190	peripheral membrane
+T2	GO:0016021 223 240	integral membrane
+T3	CHEBI_GO_EXT:high_density_lipoprotein_particle 1478 1502	high-density lipoprotein
+T4	CHEBI_GO_EXT:high_density_lipoprotein_particle 1504 1507	HDL
+T5	CHEBI_GO_EXT:high_density_lipoprotein_particle 1747 1750	HDL
+T6	GO:0019898 1786 1805	peripheral membrane
+T7	CL_GO_EXT:cell 1861 1866	cells
+T8	CHEBI_GO_EXT:high_density_lipoprotein_particle 2247 2271	high density lipoprotein
+T9	CHEBI_GO_EXT:high_density_lipoprotein_particle 2273 2276	HDL
+T10	CHEBI_GO_EXT:high_density_lipoprotein_particle 2299 2302	HDL
+T11	GO:0019814 2383 2397	immunoglobulin
+T12	CL_GO_EXT:cell 2471 2475	cell
+T13	GO:0009986 2506 2518	cell surface
+T14	GO:0016021 2519 2536	integral membrane
+T15	CHEBI_GO_EXT:low_density_lipoprotein_particle 2661 2684	low density lipoprotein
+T16	CHEBI_GO_EXT:high_density_lipoprotein_particle 2788 2791	HDL
+T17	CHEBI_GO_EXT:high_density_lipoprotein_particle 2851 2854	HDL
+T18	GO:0032991 2855 2862	complex
+T19	GO:0016020 3131 3139	membrane
+T20	GO:0016021 3186 3203	integral membrane
+T21	GO:0045177 3308 3314	apical
+T22	GO:0009986 3315 3327	cell surface
+T23	GO:0016020 3343 3351	membrane
+T24	CHEBI_GO_EXT:high_density_lipoprotein_particle 3674 3677	HDL
+T25	CHEBI_GO_EXT:high_density_lipoprotein_particle 3679 3682	HDL
+T26	GO:0042571 3818 3828	antibodies
+T27	GO:0042571 4317 4327	antibodies
+T28	CL_GO_EXT:cell 5288 5292	cell
+T29	CL_GO_EXT:cell 6638 6642	cell
+T30	CL_GO_EXT:cell 7140 7144	cell
+T31	CL_GO_EXT:cell 11978 11983	cells
+T32	CL_GO_EXT:cell 12097 12102	cells
+T33	CL_GO_EXT:cell 12155 12159	cell
+T34	GO:0045177 16573 16579	apical
+T35	GO:0009986 16580 16587	surface
+T36	CL_GO_EXT:cell 16678 16683	cells
+T37	CL_GO_EXT:cell 17041 17046	cells
+T38	CL_GO_EXT:cell 17181 17186	cells
+T39	GO:0045177 17210 17216	apical
+T40	GO:0042995 17217 17226	processes
+T41	GO:0005902 17246 17256	microvilli
+T42	GO:0005929 17260 17265	cilia
+T43	GO_UBERON_EXT:lumen 17272 17279	luminal
+T44	GO:0009986 17280 17287	surface
+T45	CL_GO_EXT:cell 17328 17333	cells
+T46	CL_GO_EXT:cell 18382 18387	cells
+T47	CL_GO_EXT:cell 18412 18417	cells
+T48	GO:0045177 18440 18446	apical
+T49	GO:0005773 18447 18455	vacuoles
+T50	CL_GO_EXT:cell 18486 18491	cells
+T51	CL_GO_EXT:cell 18559 18564	cells
+T52	GO:0045177 19162 19168	apical
+T53	GO:0009986 19169 19177	surfaces
+T54	GO:0009986 19244 19256	cell surface
+T55	CL_GO_EXT:cell 19650 19655	cells
+T56	CHEBI_GO_EXT:high_density_lipoprotein_particle 20168 20171	HDL
+T57	CHEBI_GO_EXT:high_density_lipoprotein_particle 20238 20241	HDL
+T58	CHEBI_GO_EXT:high_density_lipoprotein_particle 20345 20348	HDL
+T59	CHEBI_GO_EXT:high_density_lipoprotein_particle 20420 20423	HDL
+T60	CL_GO_EXT:cell 20477 20482	cells
+T61	CHEBI_GO_EXT:high_density_lipoprotein_particle 20808 20811	HDL
+T62	CHEBI_GO_EXT:high_density_lipoprotein_particle 20874 20877	HDL
+T63	CHEBI_GO_EXT:high_density_lipoprotein_particle 21088 21091	HDL
+T64	GO:0032991 21279 21286	complex
+T65	GO:0032991 21315 21322	complex
+T66	GO:0016020 21486 21494	membrane
+T67	GO:0045177 21508 21514	apical
+T68	CHEBI_GO_EXT:high_density_lipoprotein_particle 22386 22389	HDL
+T69	CL_GO_EXT:cell 22987 22992	cells
+T70	GO:0032991 23365 23372	complex
+T71	GO:0045177 23381 23387	apical
+T72	GO:0019814 23700 23714	immunoglobulin
+T73	CL_GO_EXT:cell 23785 23789	cell
+T74	CHEBI_GO_EXT:high_density_lipoprotein_particle 23820 23823	HDL
+T75	CHEBI_GO_EXT:high_density_lipoprotein_particle 23871 23874	HDL
+T76	GO:0032991 23881 23888	complex
+T77	GO:0045177 25020 25026	apical
+T78	GO:0031982 25027 25035	vesicles
+T79	CHEBI_GO_EXT:lipoprotein_particle 25455 25467	lipoproteins
+T80	CHEBI_GO_EXT:high_density_lipoprotein_particle 25644 25647	HDL
+T81	CHEBI_GO_EXT:high_density_lipoprotein_particle 25649 25652	HDL
+T82	CHEBI_GO_EXT:high_density_lipoprotein_particle 25831 25834	HDL
+T83	CHEBI_GO_EXT:low_density_lipoprotein_particle 25965 25968	LDL
+T84	CHEBI_GO_EXT:high_density_lipoprotein_particle 26042 26045	HDL
+T85	CL_GO_EXT:cell 26082 26087	cells
+T86	CHEBI_GO_EXT:high_density_lipoprotein_particle 26126 26129;26138 26147	HDL ... particles
+T87	CHEBI_GO_EXT:low_density_lipoprotein_particle 26134 26147	LDL particles
+T88	CHEBI_GO_EXT:lipoprotein_particle 26241 26262	lipoprotein particles
+T89	GO:0005791 26290 26317	rough endoplasmic reticulum
+T90	GO:0099503 26322 26340	secretory vesicles
+T91	CL_GO_EXT:cell 26391 26399	cellular
+T92	GO:0045177 26578 26584	apical
+T93	GO:0032991 26663 26670	complex
+T94	GO:0016020 27501 27509	membrane
+T95	GO:0005737 27521 27532	cytoplasmic
+T96	GO:0045177 28009 28015	apical
+T97	GO:0009986 28016 28027;28039 28044	surfaces of ... cells
+T98	GO:0005622 28109 28122	intracellular
+T99	GO:0045177 28405 28411	apical
+T100	GO:0032991 28436 28443	complex
+T101	CHEBI_GO_EXT:high_density_lipoprotein_particle 28727 28730	HDL
+T102	GO_SO_EXT:chromosome 29856 29866	chromosome
+T103	CL_GO_EXT:cell 30535 30540	cells
+T104	GO:0042571 33299 33309	Antibodies
+T105	GO:0042571 33470 33480	antibodies
+T106	GO:0005737 33543 33554	cytoplasmic
+T107	GO:0042571 33562 33572	antibodies
+T108	GO:0042571 33635 33645	antibodies
+T109	CHEBI_GO_EXT:high_density_lipoprotein_particle 36276 36279	HDL
+T110	CHEBI_GO_EXT:high_density_lipoprotein_particle 36299 36302	HDL
+T111	CHEBI_GO_EXT:high_density_lipoprotein_particle 36308 36311	HDL
+T112	CHEBI_GO_EXT:high_density_lipoprotein_particle 36377 36380	HDL
+T113	CHEBI_GO_EXT:high_density_lipoprotein_particle 36402 36405	HDL
+T114	CHEBI_GO_EXT:lipoprotein_particle 36566 36577	Lipoprotein
+T115	CHEBI_GO_EXT:high_density_lipoprotein_particle 36656 36659	HDL
+T116	CHEBI_GO_EXT:high_density_lipoprotein_particle 37052 37055	HDL
+T117	CHEBI_GO_EXT:high_density_lipoprotein_particle 37057 37081	high density lipoprotein
+T118	CHEBI_GO_EXT:high_density_lipoprotein_particle 37087 37090	HDL
+T119	CHEBI_GO_EXT:high_density_lipoprotein_particle 37104 37107	HDL
+T120	CHEBI_GO_EXT:high_density_lipoprotein_particle 37532 37535	HDL
+T121	CL_GO_EXT:cell 37997 38002	cells

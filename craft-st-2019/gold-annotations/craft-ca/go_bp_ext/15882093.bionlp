@@ -1,0 +1,366 @@
+T1	GO:0001764 0 18	Neuronal Migration
+T2	GO_EXT:transcription 241 254	transcription
+T3	GO:0010467 272 281	expressed
+T4	GO:0065007 351 358	control
+T5	GO:0048665 359 381	neuronal specification
+T6	GO:0007067 497 504	mitotic
+T7	GO_EXT:transcription 586 599	transcription
+T8	GO:0010467 611 620	expressed
+T9	GO:0022008 752 764	neurogenesis
+T10	GO:0010467 788 797	expressed
+T11	GO:0010467 1127 1137	expressing
+T12	GO_RO_EXT:developmental_differentiation_process 1212 1227	differentiation
+T13	GO_EXT:biological_movement_or_translocation_process 1303 1310	migrate
+T14	GO:0001764 1359 1371;1395 1402	migration of ... neurons
+T15	GO:0010467 1381 1391	expressing
+T16	GO:0010467 1418 1428	expressing
+T17	GO:0010467 1498 1508	expressing
+T18	GO:0007067 1604 1611	mitotic
+T19	GO:0010467 1693 1703	expression
+T20	GO_EXT:biological_direction_or_guidance 1708 1716	directed
+T21	GO:0010467 1854 1864	expression
+T22	GO:0010467 1959 1969	expression
+T23	GO_EXT:biological_movement_or_translocation_process 1998 2005	migrate
+T24	GO:0010467 2037 2047	expression
+T25	GO:0001764 2087 2095;2109 2118	neuronal ... migration
+T26	GO:0007067 2152 2159	mitotic
+T27	GO:0010467 2268 2278	expression
+T28	GO_RO_EXT:developmental_differentiation_process 2400 2415	differentiation
+T29	GO_EXT:biological_movement_or_translocation_process 2774 2781	migrate
+T30	GO:0007608 2796 2805	olfactory
+T31	GO:0007608 3053 3062	olfactory
+T32	GO:0065007 3084 3091	control
+T33	GO_EXT:biological_movement_or_translocation_process 3111 3116	motor
+T34	GO:0050890 3118 3127	cognitive
+T35	GO:0065007 3212 3219	control
+T36	GO:0010467 3305 3320	Gene-expression
+T37	GO_EXT:transcription 3375 3388	transcription
+T38	GO:0065007 3860 3867	control
+T39	GO_PATO_EXT:biological_patterning_process_or_quality 3881 3891	patterning
+T40	GO:0010467 3931 3940	expressed
+T41	GO:0007067 3948 3955	mitotic
+T42	GO_EXT:transcription 4105 4118	transcription
+T43	GO:0010467 4148 4158	expression
+T44	GO_EXT:transcription 4214 4227	transcription
+T45	GO:0065007 4249 4257	regulate
+T46	GO_EXT:transcription 4258 4271	transcription
+T47	GO:0010467 4420 4429	expressed
+T48	GO:0010467 4709 4718	expressed
+T49	GO:0007417 4753 4775;4782 4793	central nervous system ... development
+T50	GO:0007417 4777 4780;4782 4793	CNS ... development
+T51	GO_EXT:negative_regulation 4826 4840	down-regulated
+T52	GO_RO_EXT:developmental_differentiation_process 4853 4868	differentiation
+T53	GO:0022008 5129 5141	neurogenesis
+T54	GO:0022008 5204 5216	neurogenesis
+T55	GO:0007049 5221 5231	cell cycle
+T56	GO:0010467 5503 5512	expressed
+T57	GO:0007067 5655 5662	mitotic
+T58	GO_RO_EXT:developmental_differentiation_process 5745 5760	differentiation
+T59	GO_EXT:neuron_development_or_generation 5830 5844;5848 5855	development of ... neurons
+T60	GO:0008283 5977 5990	proliferation
+T61	GO_PATO_EXT:biological_patterning_process_or_quality 5996 6006	patterning
+T62	GO:0010467 6110 6119	expressed
+T63	GO:0010467 6193 6203	expression
+T64	GO:0010467 6365 6375	expression
+T65	GO_EXT:biological_direction_or_guidance 6433 6439	direct
+T66	GO:0007067 6504 6511	mitotic
+T67	GO_EXT:biological_movement_or_translocation_process 6528 6537	migration
+T68	GO:0001764 6575 6593	neuronal migration
+T69	GO:0007067 6678 6685	mitotic
+T70	GO_EXT:transcription 6695 6708	transcription
+T71	GO:0009888 6767 6779	Histogenesis
+T72	GO:0010467 6826 6836	expression
+T73	GO:0010467 7662 7672	expression
+T74	GO:0007567 7792 7797	natal
+T75	GO:0010467 8285 8292	express
+T76	GO:0010467 8393 8402	expressed
+T77	GO:0007567 8847 8852	birth
+T78	GO:0016265 9281 9284	die
+T79	GO:0006915 9321 9330	apoptosis
+T80	GO:0008219 9378 9388	cell death
+T81	GO:0007567 9517 9522	natal
+T82	GO:0010467 9738 9745	express
+T83	GO:0009888 9902 9914	histogenesis
+T84	GO:0008283 9971 9984	Proliferation
+T85	GO:0022008 9989 10001	Neurogenesis
+T86	GO_RO_EXT:developmental_differentiation_process 10026 10041	Differentiation
+T87	GO:0022008 10157 10169	neurogenesis
+T88	GO:0022008 10210 10222	neurogenesis
+T89	GO_RO_EXT:developmental_differentiation_process 10288 10303	differentiation
+T90	GO_RO_EXT:developmental_differentiation_process 10451 10466	differentiation
+T91	GO_RO_EXT:developmental_differentiation_process 10540 10555	differentiation
+T92	GO_RO_EXT:developmental_differentiation_process 10687 10702	differentiation
+T93	GO_RO_EXT:developmental_differentiation_process 10721 10736	differentiation
+T94	GO:0010467 10841 10851	expression
+T95	GO_RO_EXT:developmental_differentiation_process 11082 11097	differentiation
+T96	GO:0010467 11202 11212	expression
+T97	GO:0008283 11301 11314	proliferation
+T98	GO:0008283 11449 11462	proliferating
+T99	GO:0008283 11649 11662	proliferation
+T100	GO:0008283 11736 11749	proliferation
+T101	GO:0007049 11785 11795	cell cycle
+T102	GO:0008283 11877 11890	proliferation
+T103	GO_RO_EXT:developmental_differentiation_process 11926 11941	differentiation
+T104	GO_RO_EXT:developmental_differentiation_process 11988 12003	differentiation
+T105	GO:0001764 12011 12023;12027 12034	migration of ... neurons
+T106	GO_EXT:biological_movement_or_translocation_process 12077 12084	Migrate
+T107	GO_EXT:biological_movement_or_translocation_process 12153 12160	migrate
+T108	GO:0010467 12230 12237	express
+T109	GO_RO_EXT:developmental_differentiation_process 12257 12272	differentiation
+T110	GO:0008283 12346 12359	proliferating
+T111	GO:0010467 12418 12433	gene expression
+T112	GO:0007567 12488 12493	birth
+T113	GO:0007567 12757 12762	birth
+T114	GO:0007567 13009 13014	birth
+T115	GO_EXT:biological_movement_or_translocation_process 13070 13077	migrate
+T116	GO:0007608 13235 13244	olfactory
+T117	GO:0007567 13436 13441	natal
+T118	GO_EXT:biological_movement_or_translocation_process 13725 13732	migrate
+T119	GO_PATO_EXT:biological_patterning_process_or_quality 13824 13834	Patterning
+T120	GO_PATO_EXT:biological_patterning_process_or_quality 14035 14045	patterning
+T121	GO:0010467 14077 14087	expression
+T122	GO_EXT:transcription 14107 14120	transcription
+T123	GO:0048665 14190 14212	neuronal specification
+T124	GO_EXT:transcription 14255 14268	transcription
+T125	GO:0010467 14295 14304	expressed
+T126	GO_PATO_EXT:biological_patterning_process_or_quality 14452 14462	patterning
+T127	GO_PATO_EXT:biological_patterning_process_or_quality 14697 14707	patterning
+T128	GO:0010467 14865 14875	expression
+T129	GO:0010467 14986 14996	expressing
+T130	GO:0007067 15001 15008	mitotic
+T131	GO:0007067 15180 15187	mitotic
+T132	GO:0010467 15274 15284	expressing
+T133	GO:0010467 15471 15481	expressing
+T134	GO:0010467 15621 15630	expressed
+T135	GO:0007067 15680 15687	mitotic
+T136	GO:0010467 15710 15720	expression
+T137	GO:0010467 15772 15782	expressing
+T138	GO:0010467 15825 15835	expressing
+T139	GO:0007608 15875 15884	olfactory
+T140	GO:0007067 15947 15954	mitotic
+T141	GO:0010467 15960 15970	expressing
+T142	GO_PATO_EXT:biological_localization_process_or_quality 16122 16131	localized
+T143	GO:0010467 16137 16147	expressing
+T144	GO:0010467 16216 16226	expressing
+T145	GO:0001764 16499 16519	migration of neurons
+T146	GO:0010467 16695 16705	expressing
+T147	GO:0010467 16993 17003	expressing
+T148	GO_EXT:transcription 17212 17225	transcription
+T149	GO:0010467 17540 17550	expression
+T150	GO:0010467 17600 17610	expression
+T151	GO_PATO_EXT:biological_patterning_process_or_quality 17848 17858	patterning
+T152	GO:0010467 17913 17923	Expression
+T153	GO:0010467 18033 18042	expressed
+T154	GO:0007067 18129 18136	mitotic
+T155	GO:0010467 18319 18329	expressing
+T156	GO:0007067 18490 18497	mitotic
+T157	GO:0007067 18619 18626	mitotic
+T158	GO_EXT:biological_movement_or_translocation_process 18710 18719	migration
+T159	GO:0010467 18761 18768	express
+T160	GO:0010467 18865 18874	expressed
+T161	GO_EXT:negative_regulation 18909 18923	down-regulated
+T162	GO:0010467 18964 18971	express
+T163	GO:0010467 19054 19064	expression
+T164	GO:0010467 19502 19509	express
+T165	GO_SO_EXT:sequence_rearrangement_process 19709 19722	recombination
+T166	GO:0010467 19857 19866	expresses
+T167	GO:0010467 20067 20077	expression
+T168	GO:0010467 20112 20122	expression
+T169	GO:0010467 20165 20174	expressed
+T170	GO:0010467 20317 20324	express
+T171	GO:0010467 20535 20545	expression
+T172	GO_EXT:detection_or_sensing_of_stimulus 20642 20649	sensory
+T173	GO:0010467 20787 20797	expression
+T174	GO:0010467 20869 20879	expression
+T175	GO:0010467 21087 21094	express
+T176	GO:0010467 21172 21182	expression
+T177	GO:0010467 21338 21348	expressing
+T178	GO:0010467 21483 21493	Expression
+T179	GO:0048665 21532 21559	Neuronal Fate Specification
+T180	GO:0010467 21612 21622	expression
+T181	GO:0001764 21730 21742;21766 21773	migration of ... neurons
+T182	GO:0010467 22011 22018	express
+T183	GO:0010467 22753 22763	expression
+T184	GO:0001764 22841 22850;22866 22868;22873 22880	migration ... of ... neurons
+T185	GO:0010467 22881 22891	expressing
+T186	GO_RO_EXT:developmental_differentiation_process 23089 23104	differentiation
+T187	GO:0065007 23180 23189	regulated
+T188	GO:0007567 23223 23228	natal
+T189	GO:0010467 23346 23356	expression
+T190	GO:0048665 23400 23422	neuronal specification
+T191	GO:0010467 23430 23440	Expression
+T192	GO_EXT:neuron_development_or_generation 23472 23490	Neuron Development
+T193	GO:0010467 23857 23866	expressed
+T194	GO_EXT:negative_regulation 23918 23932	down-regulated
+T195	GO:0007067 23940 23947	mitotic
+T196	GO:0010467 23973 23983	expression
+T197	GO:0010467 24245 24254	expresses
+T198	GO:0007067 24281 24288	mitotic
+T199	GO:0010467 24306 24316	expression
+T200	GO:0010467 25441 25451	expression
+T201	GO:0007567 25660 25664	born
+T202	GO_EXT:fatality_or_lethality 25738 25747	lethality
+T203	GO:0010467 26123 26133	expression
+T204	GO:0048665 26182 26207	neuron fate specification
+T205	GO:0007067 26256 26263	mitotic
+T206	GO:0010467 26313 26323	Expression
+T207	GO_EXT:biological_movement_or_translocation_process 26359 26368	Migration
+T208	GO:0001764 26506 26518;26541 26548	migration of ... neurons
+T209	GO_EXT:biological_movement_or_translocation_process 26709 26717	migrated
+T210	GO:0010467 26929 26939	expression
+T211	GO_EXT:biological_movement_or_translocation_process 27066 27073	migrate
+T212	GO:0010467 27240 27250	expression
+T213	GO_EXT:biological_direction_or_guidance 27298 27304	direct
+T214	GO_EXT:biological_movement_or_translocation_process 27311 27320	migration
+T215	GO:0048665 27383 27407	specification of neurons
+T216	GO_EXT:transcription 27473 27486	transcription
+T217	GO:0010467 27504 27513	expressed
+T218	GO:0008283 27524 27537	proliferating
+T219	GO:0010467 27711 27721	expression
+T220	GO_EXT:transcription 27736 27749	transcription
+T221	GO_RO_EXT:developmental_differentiation_process 27791 27806	differentiation
+T222	GO:0001764 27811 27823;27845 27852	migration of ... neurons
+T223	GO:0010467 27889 27899	expression
+T224	GO:0007067 27939 27946	mitotic
+T225	GO:0001764 27987 27996;28014 28016;28023 28030	migration ... of ... neurons
+T226	GO:0010467 28045 28055	expressing
+T227	GO:0065007 28164 28171	control
+T228	GO_EXT:biological_movement_or_translocation_process 28172 28181	migration
+T229	GO:0001764 28338 28358	Migration of Neurons
+T230	GO:0001764 28410 28430	migration of neurons
+T231	GO:0010467 28497 28507	expression
+T232	GO_RO_EXT:developmental_differentiation_process 28511 28526	differentiation
+T233	GO:0010467 28816 28826	expressing
+T234	GO:0007567 28883 28888	natal
+T235	GO_EXT:biological_movement_or_translocation_process 28909 28916	migrate
+T236	GO:0010467 29139 29149	expressing
+T237	GO:0010467 29319 29328	expresses
+T238	GO:0007608 29387 29396	olfactory
+T239	GO:0010467 29416 29423	express
+T240	GO:0007608 29637 29646	olfactory
+T241	GO:0010467 29659 29668	expresses
+T242	GO_EXT:biological_movement_or_translocation_process 29727 29734	migrate
+T243	GO:0010467 29891 29898	express
+T244	GO:0010467 29930 29940	expressing
+T245	GO_EXT:biological_movement_or_translocation_process 30087 30096	migration
+T246	GO_PATO_EXT:biological_behavior 30285 30293	behavior
+T247	GO_EXT:transcription 30452 30467	transcriptional
+T248	GO:0010467 30504 30513	expressed
+T249	GO:0048665 30606 30622;30629 30636	specification of ... neurons
+T250	GO:0010467 30688 30698	expression
+T251	GO:0065007 30839 30849	controlled
+T252	GO_PATO_EXT:biological_patterning_process_or_quality 31158 31168	patterning
+T253	GO:0010467 31376 31385	expressed
+T254	GO_EXT:transcription 31539 31552	transcription
+T255	GO_EXT:biological_movement_or_translocation_process 31853 31860	migrate
+T256	GO:0007567 31916 31921	natal
+T257	GO:0010467 32201 32211	expression
+T258	GO_EXT:biological_movement_or_translocation_process 32805 32812	migrate
+T259	GO:0010467 32850 32860	expression
+T260	GO_RO_EXT:developmental_differentiation_process 32962 32977	differentiation
+T261	GO_EXT:biological_movement_or_translocation_process 33079 33086	migrate
+T262	GO_EXT:biological_movement_or_translocation_process 33313 33320	migrate
+T263	GO:0010467 33400 33410	expression
+T264	GO:0007067 33479 33486	mitotic
+T265	GO:0010467 33505 33515	expression
+T266	GO:0010467 33575 33582	express
+T267	GO:0010467 33717 33727	expression
+T268	GO:0010467 34144 34154	expression
+T269	GO_EXT:neuron_development_or_generation 34267 34285	neuron development
+T270	GO:0010467 34325 34335	expression
+T271	GO:0010467 34605 34615	expression
+T272	GO:0010467 34694 34703	expressed
+T273	GO:0010467 34880 34890	expression
+T274	GO:0007067 34898 34905	mitotic
+T275	GO:0007067 34981 34988	mitotic
+T276	GO:0010467 35027 35037	expression
+T277	GO_EXT:biological_movement_or_translocation_process 35060 35067	migrate
+T278	GO:0048665 35202 35236	specification of neuronal identity
+T279	GO_EXT:biological_movement_or_translocation_process 35307 35316	migration
+T280	GO_EXT:biological_movement_or_translocation_process 35426 35435	migration
+T281	GO:0065007 35448 35458	controlled
+T282	GO:0010467 35466 35476	expression
+T283	GO_EXT:transcription 35480 35493	transcription
+T284	GO:0007067 35509 35516	mitotic
+T285	GO:0010467 35590 35600	expression
+T286	GO_RO_EXT:developmental_differentiation_process 35654 35669	differentiation
+T287	GO:0010467 35678 35688	expression
+T288	GO:0007067 35771 35778	mitotic
+T289	GO:0030154 35779 35799	cell differentiation
+T290	GO:0007067 35893 35900	mitotic
+T291	GO:0010467 35922 35932	expression
+T292	GO:0043631 36319 36334	polyadenylation
+T293	GO:0010467 36604 36613	expressed
+T294	GO:0007618 37001 37006	mated
+T295	GO:0010467 37109 37116	express
+T296	GO:0010467 37818 37827	expressed
+T297	GO:0010467 37865 37874	expressed
+T298	GO:0010467 38004 38014	expressing
+T299	GO_EXT:reverse_transcription_or_reverse_transcriptase 38552 38554	RT
+T300	GO:0007565 39265 39273	pregnant
+T301	GO:0010467 42092 42102	expression
+T302	GO:0010467 42480 42490	Expressing
+T303	GO:0010467 42753 42763	expressing
+T304	GO_PATO_EXT:biological_localization_process_or_quality 42919 42928	localized
+T305	GO:0010467 42934 42944	expressing
+T306	GO:0010467 42973 42982	expressed
+T307	GO:0007067 43012 43019	mitotic
+T308	GO:0010467 43161 43171	Expressing
+T309	GO:0010467 43445 43455	expressing
+T310	GO:0008283 44962 44975	proliferation
+T311	GO:0065007 46489 46498	regulated
+T312	GO:0007608 46650 46659	olfactory
+T313	GO:0007567 46686 46691	natal
+T314	GO_EXT:neuron_development_or_generation 46937 46951;46955 46962	Development of ... Neurons
+T315	GO:0010467 47385 47395	expression
+T316	GO:0007567 47813 47818	birth
+T317	GO:0016477 47839 47851;47868 47873	migration of ... cells
+T318	GO:0010467 47857 47867	expressing
+T319	GO:0007608 48810 48819	olfactory
+T320	GO:0007608 48860 48869	olfactory
+T321	GO:0007608 48880 48889	olfactory
+T322	GO:0008283 48990 49003	Proliferation
+T323	GO:0022008 49008 49020	Neurogenesis
+T324	GO_RO_EXT:developmental_differentiation_process 49045 49060	Differentiation
+T325	GO_RO_EXT:developmental_differentiation_process 49262 49277	differentiation
+T326	GO_RO_EXT:developmental_differentiation_process 49371 49386	differentiation
+T327	GO:0008283 49916 49929	proliferation
+T328	GO:0008283 49980 49993	proliferation
+T329	GO_EXT:biological_movement_or_translocation_process 50294 50301	Migrate
+T330	GO:0008283 50371 50384	proliferating
+T331	GO_EXT:biological_movement_or_translocation_process 50616 50625	migrating
+T332	GO:0007608 50864 50873	olfactory
+T333	GO:0007608 50932 50941	olfactory
+T334	GO_PATO_EXT:biological_patterning_process_or_quality 51288 51298	Patterning
+T335	GO:0010467 51579 51589	expression
+T336	GO:0010467 52101 52111	expressing
+T337	GO_EXT:negative_regulation 52293 52308	Down-Regulation
+T338	GO:0010467 52341 52351	Expression
+T339	GO:0010467 52739 52749	expressing
+T340	GO:0010467 52821 52831	expression
+T341	GO_EXT:biological_routing_or_transport 52990 52998	Delivers
+T342	GO:0010467 53021 53031	Expression
+T343	GO_SO_EXT:sequence_rearrangement_process 53482 53495	recombination
+T344	GO:0010467 53670 53680	expression
+T345	GO:0010467 53822 53832	Expressing
+T346	GO:0010467 54007 54017	expressing
+T347	GO:0010467 54185 54195	expressing
+T348	GO:0010467 54250 54260	expression
+T349	GO_EXT:neuron_development_or_generation 54492 54502;54517 54519;54523 54530	generation ... of ... neurons
+T350	GO:0001764 54507 54519;54523 54530	migration of ... neurons
+T351	GO:0010467 54593 54603	Expression
+T352	GO:0010467 54762 54772	expressing
+T353	GO_EXT:neuron_development_or_generation 55074 55092	neuron development
+T354	GO:0010467 55114 55124	Expression
+T355	GO:0010467 55388 55398	expression
+T356	GO:0010467 55460 55469	expressed
+T357	GO:0010467 55615 55625	expression
+T358	GO_EXT:neuron_development_or_generation 55652 55666;55670 55677	development of ... neurons
+T359	GO:0007608 55904 55913	olfactory
+T360	GO:0010467 55981 55991	Expression
+T361	GO:0007067 55999 56006	mitotic
+T362	GO:0001764 56035 56053	Neuronal Migration
+T363	GO:0001764 56157 56177	migration of neurons
+T364	GO:0010467 56178 56188	expressing
+T365	CHEBI_GO_EXT:biological_process_or_quality_or_role 56709 56716	Biology
+T366	GO:0001764 57045 57063	Neuronal migration

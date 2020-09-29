@@ -1,0 +1,37 @@
+T1	CHEBI_GO_EXT:ligand 284 290	ligand
+T2	GO_EXT:0004872 2037 2045	receptor
+T3	GO_EXT:0034188 2206 2237	receptor for apolipoprotein A-I
+T4	GO_EXT:0034188 2206 2218;2239 2245	receptor for ... apoA-I
+T5	GO_EXT:0070506 2206 2218;2247 2271	receptor for ... high density lipoprotein
+T6	GO_EXT:0070506 2206 2218;2273 2276	receptor for ... HDL
+T7	CHEBI_GO_EXT:ligand 2345 2352	ligands
+T8	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 2422 2429	binding
+T9	GO_EXT:0038024 2625 2643	endocytic receptor
+T10	GO_PR_EXT:low_density_lipoprotein_receptor 2661 2693	low density lipoprotein receptor
+T11	GO_PR_EXT:low_density_lipoprotein_receptor 2695 2699	LDLR
+T12	GO_EXT:0008083 2920 2933	growth factor
+T13	GO_EXT:0004872 2937 2945	receptor
+T14	GO_EXT:0038024 2965 2983	endocytic receptor
+T15	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 2989 2994	binds
+T16	GO:0043495 3343 3361	membrane anchoring
+T17	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 3880 3885	bound
+T18	CHEBI_GO_EXT:ligand 5653 5659	Ligand
+T19	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 5660 5667	binding
+T20	GO_EXT:0008910 6169 6173	neoR
+T21	GO:0097617 6852 6862	hybridized
+T22	GO:0097617 7027 7037	hybridized
+T23	GO_EXT:reverse_transcription_or_reverse_transcriptase 9218 9220	RT
+T24	GO_EXT:reverse_transcription_or_reverse_transcriptase 9734 9736	RT
+T25	CHEBI_GO_EXT:ligand 23628 23634	ligand
+T26	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 23635 23642	binding
+T27	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 23739 23746	binding
+T28	CHEBI_GO_EXT:ligand 23863 23869	ligand
+T29	GO_EXT:0001758 24065 24092	retinaldehyde dehydrogenase
+T30	GO_EXT:0060090 24889 24896	adaptor
+T31	GO_EXT:0038024 25306 25325	endocytic receptors
+T32	CHEBI_GO_EXT:antagonist 25571 25582	antagonists
+T33	GO_PR_EXT:thymidine_kinase 30331 30333	tk
+T34	GO_EXT:reverse_transcription_or_reverse_transcriptase 33895 33897	RT
+T35	GO_EXT:0003964 34071 34092	Reverse Transcriptase
+T36	GO_PR_EXT:glyceraldehyde_3_phosphate_dehydrogenase 35077 35082	GAPDH
+T37	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 36424 36431	binding

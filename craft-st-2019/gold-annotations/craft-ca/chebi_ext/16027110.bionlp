@@ -1,0 +1,300 @@
+T1	CHEBI_SO_EXT:mRNA 160 164	mRNA
+T2	CHEBI_PR_EXT:protein 302 310	proteins
+T3	CHEBI_SO_EXT:mRNA 405 409	mRNA
+T4	CHEBI_PR_EXT:protein 460 468	proteins
+T5	CHEBI_SO_EXT:mRNA 523 527	mRNA
+T6	CHEBI_SO_EXT:mRNA 624 628	mRNA
+T7	CHEBI_PR_EXT:protein 934 941	protein
+T8	CHEBI_PR_EXT:protein 1019 1026	protein
+T9	CHEBI_SO_EXT:mRNA 1105 1109	mRNA
+T10	CHEBI_SO_EXT:mRNA 1243 1247	mRNA
+T11	CHEBI_SO_EXT:mRNA 1302 1306	mRNA
+T12	CHEBI_SO_EXT:mRNA 1499 1504	mRNAs
+T13	CHEBI_SO_EXT:mRNA 1658 1662	mRNA
+T14	CHEBI_PR_EXT:protein 1714 1722	proteins
+T15	CHEBI_PR_EXT:protein 1789 1797	proteins
+T16	CHEBI_SO_EXT:mRNA 2028 2032	mRNA
+T17	CHEBI_PR_EXT:protein 2079 2087	proteins
+T18	CHEBI_SO_EXT:mRNA 2093 2097	mRNA
+T19	CHEBI_SO_EXT:mRNA 2136 2140	mRNA
+T20	CHEBI_PR_EXT:protein 2241 2249	proteins
+T21	CHEBI_SO_EXT:mRNA 2292 2296	mRNA
+T22	CHEBI_SO_EXT:mRNA 2467 2471	mRNA
+T23	CHEBI_PR_EXT:protein 2548 2555	protein
+T24	CHEBI_SO_EXT:mRNA 2628 2632	mRNA
+T25	CHEBI_SO_EXT:mRNA 2848 2852	mRNA
+T26	CHEBI_PR_EXT:protein 3006 3014	proteins
+T27	CHEBI_SO_EXT:DNA 3783 3786	DNA
+T28	CHEBI_PR_EXT:protein 3834 3841	protein
+T29	CHEBI_SO_EXT:molecular_label_or_mark_or_tag_process 3848 3854	tagged
+T30	CHEBI_PR_EXT:protein 3870 3878	proteins
+T31	CHEBI_SO_EXT:molecular_label_or_mark_or_tag_process 4093 4099	tagged
+T32	CHEBI_SO_EXT:histidine 4289 4298	Histidine
+T33	CHEBI_SO_EXT:molecular_label_or_mark_or_tag_process 4299 4305	tagged
+T34	CHEBI_SO_EXT:nucleotide 4656 4666	nucleotide
+T35	CHEBI:16856 4772 4783	glutathione
+T36	CHEBI_EXT:sulfur 4784 4785	S
+T37	CHEBI_SO_EXT:molecular_label_or_mark_or_tag_process 4804 4810	tagged
+T38	CHEBI_SO_EXT:amino_acid 4840 4851	amino acids
+T39	CHEBI_EXT:33893 5264 5271	reagent
+T40	CHEBI:16842 5487 5499	formaldehyde
+T41	CHEBI_EXT:phosphate 5503 5512	phosphate
+T42	CHEBI_CHMO_EXT:buffer_process 5513 5521	buffered
+T43	CHEBI_EXT:saline_solution 5522 5528	saline
+T44	CHEBI:52646 5605 5617	leptomycin B
+T45	CHEBI:27666 5619 5632	actinomycin D
+T46	CHEBI_EXT:23888 5788 5792	drug
+T47	CHEBI_SO_EXT:molecular_label_or_mark_or_tag_process 5888 5894	tagged
+T48	CHEBI_PR_EXT:protein 5903 5910	protein
+T49	CHEBI_PR_EXT:protein 6181 6188	Protein
+T50	CHEBI:17698 6199 6214	Chloramphenicol
+T51	CHEBI_CHMO_EXT:buffer_solution 6398 6404	buffer
+T52	CHEBI:9750 6411 6423	Triton X-100
+T53	CHEBI:9754 6435 6439	Tris
+T54	CHEBI:17883 6440 6443	HCl
+T55	CHEBI_EXT:polyacrylamide 6478 6492	polyacrylamide
+T56	CHEBI:53325 6515 6529	nitrocellulose
+T57	CHEBI_PR_EXT:protein 6678 6685	protein
+T58	CHEBI_SO_EXT:amino_acid 6697 6708	amino acids
+T59	CHEBI_EXT:60816 6773 6783	immunogens
+T60	CHEBI_EXT:60816 6860 6869	immunogen
+T61	CHEBI_UBERON_EXT:triglyceride_or_adipose_tissue 6974 6977	fat
+T62	CHEBI_PR_EXT:protein 7107 7115	proteins
+T63	CHEBI_PR_EXT:protein 7436 7443	protein
+T64	CHEBI_PR_EXT:protein 7482 7490	proteins
+T65	CHEBI_SO_EXT:molecular_label_or_mark_or_tag_process 7526 7533	labeled
+T66	CHEBI_PR_EXT:protein 7870 7878	proteins
+T67	CHEBI_SO_EXT:molecular_label_or_mark_or_tag_process 7913 7919	tagged
+T68	CHEBI_PR_EXT:protein 7920 7928	proteins
+T69	CHEBI:16856 7954 7965	glutathione
+T70	CHEBI_CHMO_EXT:buffer_solution 8034 8040	buffer
+T71	CHEBI:46756 8048 8053	HEPES
+T72	CHEBI:32588 8069 8072	KCl
+T73	CHEBI_EXT:EDTA 8081 8085	EDTA
+T74	CHEBI:9750 8095 8107	Triton X-100
+T75	CHEBI:26710 8134 8138	NaCl
+T76	CHEBI_CHMO_EXT:buffer_solution 8253 8259	buffer
+T77	CHEBI_PR_EXT:protein 8267 8275	proteins
+T78	CHEBI:8984 8302 8305	SDS
+T79	CHEBI_CHMO_EXT:buffer_solution 8318 8324	buffer
+T80	CHEBI:8984 8339 8342	SDS
+T81	CHEBI_SO_EXT:nucleotide 8587 8597	Nucleotide
+T82	CHEBI_PR_EXT:protein 8896 8904	proteins
+T83	CHEBI_PR_EXT:protein 9190 9198	proteins
+T84	CHEBI_SO_EXT:molecular_indicator_or_label_or_marker_or_tag 9259 9263	tags
+T85	CHEBI_SO_EXT:base 9736 9737	b
+T86	CHEBI_PR_EXT:protein 9847 9854	protein
+T87	CHEBI_SO_EXT:amino_acid 10032 10042	amino acid
+T88	CHEBI_SO_EXT:base 10387 10388	b
+T89	CHEBI_PR_EXT:protein 10446 10453	protein
+T90	CHEBI_SO_EXT:amino_acid 10461 10472	amino acids
+T91	CHEBI_SO_EXT:DNA 10574 10577	DNA
+T92	CHEBI_PR_EXT:protein 10583 10591	proteins
+T93	CHEBI_PR_EXT:protein 10741 10748	protein
+T94	CHEBI_SO_EXT:amino_acid 10767 10778	amino acids
+T95	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 10786 10796	N-terminus
+T96	CHEBI_PR_EXT:protein 10845 10852	protein
+T97	CHEBI_SO_EXT:valine 10973 10979	valine
+T98	CHEBI_EXT:residue 10980 10988	residues
+T99	CHEBI_SO_EXT:amino_acid 11100 11111	amino acids
+T100	CHEBI_PR_EXT:protein 11596 11604	proteins
+T101	CHEBI_PR_EXT:protein 12029 12036	protein
+T102	CHEBI_SO_EXT:amino_acid 12222 12232	amino acid
+T103	CHEBI_PR_EXT:protein 12291 12299	proteins
+T104	CHEBI_PR_EXT:protein 12372 12379	protein
+T105	CHEBI_EXT:ribonucleoprotein 12411 12414	RNP
+T106	CHEBI_SO_EXT:RNA 12420 12423	RNA
+T107	CHEBI_SO_EXT:leucine 12450 12457	leucine
+T108	CHEBI_SO_EXT:amino_acid 12678 12688	amino acid
+T109	CHEBI_SO_EXT:C_terminus_or_C_terminal_region 12722 12732	C-terminus
+T110	CHEBI_PR_EXT:protein 12842 12849	protein
+T111	CHEBI_PR_EXT:protein 12883 12890	protein
+T112	CHEBI_SO_EXT:molecular_label_or_mark_or_tag_process 12950 12956	tagged
+T113	CHEBI_SO_EXT:molecular_label_or_mark_or_tag_process 13036 13042	tagged
+T114	CHEBI_SO_EXT:histidine 13044 13047	His
+T115	CHEBI_SO_EXT:molecular_label_or_mark_or_tag_process 13048 13054	tagged
+T116	CHEBI_SO_EXT:molecular_label_or_mark_or_tag_process 13060 13066	tagged
+T117	CHEBI_SO_EXT:molecular_label_or_mark_or_tag_process 13079 13085	tagged
+T118	CHEBI_PR_EXT:protein 13092 13099	protein
+T119	CHEBI_PR_EXT:protein 13155 13163	proteins
+T120	CHEBI_PR_EXT:protein 13276 13284	proteins
+T121	CHEBI_SO_EXT:molecular_label_or_mark_or_tag_process 13317 13323	tagged
+T122	CHEBI_PR_EXT:protein 13330 13337	protein
+T123	CHEBI_EXT:polyatomic_entity_or_group 13364 13373	molecular
+T124	CHEBI_SO_EXT:mRNA 13451 13456	mRNAs
+T125	CHEBI_PR_EXT:protein 13564 13571	protein
+T126	CHEBI_PR_EXT:protein 13676 13683	protein
+T127	CHEBI_PR_EXT:protein 13984 13991	protein
+T128	CHEBI_SO_EXT:mRNA 14362 14366	mRNA
+T129	CHEBI_PR_EXT:protein 14465 14473	proteins
+T130	CHEBI_SO_EXT:mRNA 14576 14580	mRNA
+T131	CHEBI_SO_EXT:molecular_label_or_mark_or_tag_process 14779 14785	tagged
+T132	CHEBI_PR_EXT:protein 14793 14801	proteins
+T133	CHEBI_PR_EXT:protein 15393 15401	proteins
+T134	CHEBI:52646 15438 15450	Leptomycin B
+T135	CHEBI_PR_EXT:protein 15485 15492	protein
+T136	CHEBI:27666 15523 15536	Actinomycin D
+T137	CHEBI_SO_EXT:molecular_label_or_mark_or_tag_process 15904 15910	tagged
+T138	CHEBI_SO_EXT:amino_acid 15984 15995	amino acids
+T139	CHEBI_SO_EXT:C_terminus_or_C_terminal_region 16005 16015	C-terminus
+T140	CHEBI_SO_EXT:amino_acid 16234 16244	amino acid
+T141	CHEBI_PR_EXT:protein 16299 16306	protein
+T142	CHEBI_SO_EXT:amino_acid 16365 16375	amino acid
+T143	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 16392 16402	N-terminus
+T144	CHEBI_PR_EXT:protein 16426 16433	protein
+T145	CHEBI_SO_EXT:molecular_label_or_mark_or_tag_process 16441 16447	tagged
+T146	CHEBI_SO_EXT:polypeptide 16454 16465	polypeptide
+T147	CHEBI_PR_EXT:protein 16616 16623	protein
+T148	CHEBI_SO_EXT:molecular_indicator_or_label_or_marker_or_tag 16629 16632	tag
+T149	CHEBI_PR_EXT:protein 16656 16663	protein
+T150	CHEBI_PR_EXT:protein 16713 16720	protein
+T151	CHEBI_EXT:polyatomic_entity_or_group 16734 16743	molecular
+T152	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 16859 16869	N-terminal
+T153	CHEBI_EXT:residue 16873 16881	residues
+T154	CHEBI_SO_EXT:molecular_indicator_or_label_or_marker_or_tag 17103 17106	tag
+T155	CHEBI_PR_EXT:protein 17144 17151	protein
+T156	CHEBI_SO_EXT:amino_acid 17299 17310	amino acids
+T157	CHEBI_SO_EXT:amino_acid 17322 17333	amino acids
+T158	CHEBI_SO_EXT:amino_acid 17442 17453	amino acids
+T159	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 17547 17557	N-terminal
+T160	CHEBI_SO_EXT:amino_acid 17602 17613	amino acids
+T161	CHEBI_PR_EXT:protein 17668 17675	protein
+T162	CHEBI_EXT:residue 17718 17725	residue
+T163	CHEBI_PR_EXT:protein 17793 17800	protein
+T164	CHEBI_SO_EXT:amino_acid 17817 17828	amino acids
+T165	CHEBI_SO_EXT:C_terminus_or_C_terminal_region 17838 17848	C-terminus
+T166	CHEBI_PR_EXT:protein 17904 17911	protein
+T167	CHEBI_SO_EXT:amino_acid 17944 17955	amino acids
+T168	CHEBI_SO_EXT:amino_acid 17966 17977	amino acids
+T169	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 17995 17997;18004 18012	N- ... terminal
+T170	CHEBI_SO_EXT:C_terminus_or_C_terminal_region 18002 18012	C-terminal
+T171	CHEBI_SO_EXT:amino_acid 18089 18100	amino acids
+T172	CHEBI_SO_EXT:peptide_or_peptide_region 18180 18187	peptide
+T173	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 18267 18277	N-terminal
+T174	CHEBI_SO_EXT:C_terminus_or_C_terminal_region 18311 18321	C-terminal
+T175	CHEBI_EXT:22695 18379 18384	basic
+T176	CHEBI_SO_EXT:amino_acid 18385 18396	amino acids
+T177	CHEBI_SO_EXT:alanine 18443 18450	alanine
+T178	CHEBI_EXT:22695 18543 18548	basic
+T179	CHEBI_SO_EXT:amino_acid 18549 18560	amino acids
+T180	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 18568 18578	N-terminal
+T181	CHEBI_PR_EXT:protein 18708 18715	protein
+T182	CHEBI_SO_EXT:alanine 18724 18731	alanine
+T183	CHEBI_SO_EXT:C_terminus_or_C_terminal_region 18753 18763	C-terminal
+T184	CHEBI_SO_EXT:alanine 18955 18962	alanine
+T185	CHEBI_EXT:22695 19256 19261	basic
+T186	CHEBI_SO_EXT:amino_acid 19262 19273	amino acids
+T187	CHEBI_SO_EXT:amino_acid 19275 19286	amino acids
+T188	CHEBI_SO_EXT:amino_acid 19297 19308	amino acids
+T189	CHEBI_SO_EXT:C_terminus_or_C_terminal_region 19467 19477	C-terminal
+T190	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 19530 19540	N-terminal
+T191	CHEBI_EXT:22695 19671 19676	basic
+T192	CHEBI_EXT:residue 19677 19685	residues
+T193	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 19705 19715	N-terminus
+T194	CHEBI_PR_EXT:protein 19723 19731	proteins
+T195	CHEBI_PR_EXT:protein 19839 19846	protein
+T196	CHEBI_SO_EXT:C_terminus_or_C_terminal_region 19920 19930	C-terminal
+T197	CHEBI_PR_EXT:protein 19997 20004	protein
+T198	CHEBI_PR_EXT:protein 20126 20133	protein
+T199	CHEBI_SO_EXT:amino_acid 20279 20290	amino acids
+T200	CHEBI:27729 20412 20421	digitonin
+T201	CHEBI_SO_EXT:C_terminus_or_C_terminal_region 20588 20598	C-terminus
+T202	CHEBI_PR_EXT:protein 20671 20679	proteins
+T203	CHEBI_SO_EXT:molecular_label_or_mark_or_tag_process 20740 20746	tagged
+T204	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 20772 20782	N-terminal
+T205	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 20869 20879	N-terminal
+T206	CHEBI_EXT:residue 20884 20892	residues
+T207	CHEBI_PR_EXT:protein 20924 20931	protein
+T208	CHEBI_PR_EXT:protein 21036 21043	protein
+T209	CHEBI_SO_EXT:C_terminus_or_C_terminal_region 21087 21097	C-terminal
+T210	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 21227 21237	N-terminal
+T211	CHEBI_PR_EXT:protein 21276 21283	protein
+T212	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 21522 21532	N-terminal
+T213	CHEBI_PR_EXT:protein 21581 21588	protein
+T214	CHEBI_PR_EXT:protein 21667 21674	protein
+T215	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 21932 21934;21941 21949	N- ... terminal
+T216	CHEBI_SO_EXT:C_terminus_or_C_terminal_region 21939 21949	C-terminal
+T217	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 22121 22131	N-terminal
+T218	CHEBI_EXT:residue 22135 22143	residues
+T219	CHEBI_SO_EXT:amino_acid 22262 22273	amino acids
+T220	CHEBI_SO_EXT:amino_acid 22308 22319	amino acids
+T221	CHEBI_SO_EXT:amino_acid 22707 22718	amino acids
+T222	CHEBI_SO_EXT:amino_acid 22773 22784	amino acids
+T223	CHEBI_EXT:23357 23059 23068	cofactors
+T224	CHEBI_SO_EXT:mRNA 23151 23155	mRNA
+T225	CHEBI_SO_EXT:mRNA 23210 23214	mRNA
+T226	CHEBI_GO_SO_EXT:enzyme 23541 23547	enzyme
+T227	CHEBI_SO_EXT:mRNA 23855 23859	mRNA
+T228	CHEBI_EXT:23357 24128 24136	cofactor
+T229	CHEBI_SO_EXT:mRNA 24449 24453	mRNA
+T230	CHEBI_SO_EXT:mRNA 25055 25059	mRNA
+T231	CHEBI_PR_EXT:protein 25096 25103	protein
+T232	CHEBI_PR_EXT:protein 25147 25154	protein
+T233	CHEBI_SO_EXT:mRNA 25193 25197	mRNA
+T234	CHEBI_PR_EXT:protein 25396 25404	proteins
+T235	CHEBI_PR_EXT:protein 25593 25601	proteins
+T236	CHEBI_SO_EXT:amino_acid 25665 25676	amino acids
+T237	CHEBI_SO_EXT:molecular_label_or_mark_or_tag_process 25758 25765	labeled
+T238	CHEBI_SO_EXT:mRNA 25818 25822	mRNA
+T239	CHEBI_PR_EXT:protein 26564 26572	proteins
+T240	CHEBI_PR_EXT:protein 26648 26656	proteins
+T241	CHEBI_PR_EXT:protein 26754 26761	protein
+T242	CHEBI_SO_EXT:mRNA 26845 26849	mRNA
+T243	CHEBI_PR_EXT:protein 27076 27084	proteins
+T244	CHEBI_PR_EXT:protein 27298 27306	proteins
+T245	CHEBI_SO_EXT:mRNA 27566 27570	mRNA
+T246	CHEBI_PR_EXT:protein 27786 27793	protein
+T247	CHEBI_PR_EXT:protein 28081 28088	protein
+T248	CHEBI_PR_EXT:protein 28251 28258	protein
+T249	CHEBI_PR_EXT:protein 28444 28452	proteins
+T250	CHEBI_SO_EXT:mRNA 28474 28478	mRNA
+T251	CHEBI_SO_EXT:mRNA 28617 28621	mRNA
+T252	CHEBI_SO_EXT:mRNA 28900 28904	mRNA
+T253	CHEBI_EXT:23357 28921 28930	cofactors
+T254	CHEBI_EXT:23357 29156 29164	cofactor
+T255	CHEBI_EXT:23357 29487 29495	cofactor
+T256	CHEBI_PR_EXT:protein 30157 30164	protein
+T257	CHEBI_SO_EXT:molecular_indicator_or_label_or_marker_or_tag 30415 30419	tags
+T258	CHEBI_SO_EXT:amino_acid 30562 30573	amino acids
+T259	CHEBI_PR_EXT:protein 30851 30858	protein
+T260	CHEBI_PR_EXT:protein 31040 31047	protein
+T261	CHEBI_SO_EXT:mRNA 31423 31427	mRNA
+T262	CHEBI_SO_EXT:mRNA 31682 31686	mRNA
+T263	CHEBI_SO_EXT:mRNA 31771 31775	mRNA
+T264	CHEBI_GO_EXT:biological_process_or_quality_or_role 31866 31876	biological
+T265	CHEBI_EXT:polyatomic_entity_or_group 31910 31919	molecular
+T266	CHEBI_PR_EXT:protein 32915 32923	proteins
+T267	CHEBI_PR_EXT:protein 33184 33192	proteins
+T268	CHEBI_PR_EXT:protein 33198 33205	protein
+T269	CHEBI_SO_EXT:RNA 33440 33443	RNA
+T270	CHEBI_SO_EXT:leucine 33465 33472	leucine
+T271	CHEBI_PR_EXT:protein 33627 33635	proteins
+T272	CHEBI_SO_EXT:molecular_label_or_mark_or_tag_process 33717 33723	tagged
+T273	CHEBI_SO_EXT:molecular_label_or_mark_or_tag_process 33728 33734	tagged
+T274	CHEBI_SO_EXT:histidine 33736 33739	HIS
+T275	CHEBI_PR_EXT:protein 34251 34259	proteins
+T276	CHEBI_PR_EXT:protein 34352 34360	proteins
+T277	CHEBI_SO_EXT:molecular_label_or_mark_or_tag_process 34399 34405	tagged
+T278	CHEBI_PR_EXT:protein 34464 34472	proteins
+T279	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 34950 34952;34959 34967	N- ... terminal
+T280	CHEBI_SO_EXT:C_terminus_or_C_terminal_region 34957 34967	C-terminal
+T281	CHEBI_PR_EXT:protein 35019 35027	proteins
+T282	CHEBI_PR_EXT:protein 35094 35102	proteins
+T283	CHEBI_SO_EXT:alanine 35172 35179	Alanine
+T284	CHEBI_PR_EXT:protein 35252 35260	proteins
+T285	CHEBI_PR_EXT:protein 35281 35288	protein
+T286	CHEBI_EXT:residue 35351 35359	residues
+T287	CHEBI_SO_EXT:molecular_label_or_mark_or_tag_process 35518 35524	tagged
+T288	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 35705 35707;35714 35722	N- ... terminal
+T289	CHEBI_SO_EXT:C_terminus_or_C_terminal_region 35712 35722	C-terminal
+T290	CHEBI_SO_EXT:molecular_label_or_mark_or_tag_process 35747 35753	tagged
+T291	CHEBI_SO_EXT:mRNA 36025 36029	mRNA
+T292	CHEBI_SO_EXT:molecular_label_or_mark_or_tag_process 36211 36217	tagged
+T293	CHEBI:60004 36273 36281	mixtures
+T294	CHEBI:17698 36455 36470	chloramphenicol
+T295	CHEBI_EXT:23357 36725 36734	cofactors
+T296	CHEBI_SO_EXT:molecular_label_or_mark_or_tag_process 36761 36767	tagged
+T297	CHEBI_PR_EXT:protein 36772 36780	proteins
+T298	CHEBI:16856 36801 36812	glutathione
+T299	CHEBI_SO_EXT:molecular_label_or_mark_or_tag_process 36900 36907	labeled
+T300	CHEBI:8984 37017 37020	SDS

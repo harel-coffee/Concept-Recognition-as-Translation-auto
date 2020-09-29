@@ -1,0 +1,72 @@
+T1	GO:0002507 35 49;60 69	development of ... tolerance
+T2	GO:0002507 337 351;362 371	development of ... tolerance
+T3	GO:0065007 720 727	control
+T4	GO:0002507 732 746;757 766	development of ... tolerance
+T5	GO:0002507 1961 1975;1986 1995	acquisition of ... tolerance
+T6	GO:0065007 2403 2413	regulating
+T7	GO:0002507 2418 2432;2443 2452	development of ... tolerance
+T8	GO:0002507 3392 3406;3417 3426	development of ... tolerance
+T9	GO:0065007 3715 3725	regulating
+T10	GO:0002507 3730 3744;3755 3764	development of ... tolerance
+T11	GO:0002507 3839 3853;3864 3873	development of ... tolerance
+T12	GO:0065007 4434 4445	controlling
+T13	GO:0065007 4676 4683	control
+T14	GO:0002507 4888 4902;4913 4922	development of ... tolerance
+T15	GO:0002507 6647 6661;6672 6681	Development of ... tolerance
+T16	GO:0002507 12450 12464;12475 12484	development of ... tolerance
+T17	GO:0002507 13252 13266;13277 13286	development of ... tolerance
+T18	GO:0065007 18597 18608	controlling
+T19	GO:0002507 18613 18637	development of tolerance
+T20	GO:0002507 19177 19191;19202 19211	Development of ... tolerance
+T21	GO:0002507 19593 19607;19618 19627	development of ... tolerance
+T22	GO:0002507 20474 20498	acquisition of tolerance
+T23	GO:0002507 20604 20618;20629 20638	development of ... tolerance
+T24	GO:0002507 20981 20995;21006 21015	development of ... tolerance
+T25	GO:0002507 21086 21110	acquisition of tolerance
+T26	GO:0002507 23245 23259;23270 23279	development of ... tolerance
+T27	GO:0065007 23336 23345	regulated
+T28	GO:0065007 23552 23563	controlling
+T29	GO:0002507 23568 23592	development of tolerance
+T30	GO:0065007 23712 23720	modulate
+T31	GO:0065007 24129 24139	regulation
+T32	GO:0030168 24821 24840	platelet-activating
+T33	GO:0002507 25501 25515;25526 25535	development of ... tolerance
+T34	GO:0065007 25573 25582	regulated
+T35	GO:0065007 25723 25733	regulation
+T36	GO:0002507 25766 25790	development of tolerance
+T37	GO:0065007 26169 26178	regulated
+T38	GO:0006935 26182 26193	chemotactic
+T39	GO:0010467 26459 26469	expression
+T40	GO:0010467 26543 26558	gene expression
+T41	GO:0065007 26563 26570	control
+T42	GO:0010467 26674 26681	express
+T43	GO:0006955 26797 26812	immune response
+T44	GO:0010467 26948 26958	expression
+T45	GO:0065007 27053 27061	modulate
+T46	GO:0000165 27449 27477	MAP kinase signaling cascade
+T47	GO:0010467 27491 27501	expression
+T48	GO:0046903 27525 27533	Secreted
+T49	GO:0048246 27780 27801	macrophage chemotaxis
+T50	GO:0035556 28110 28134	intra-cellular signaling
+T51	GO:0006955 28258 28273	immune response
+T52	GO:0010467 28487 28497	expression
+T53	GO:0002507 28549 28573	development of tolerance
+T54	GO:0010467 28660 28670	expression
+T55	GO:0002507 29026 29050	development of tolerance
+T56	GO:0002224 29290 29318	toll-like receptor signaling
+T57	GO:0065007 29343 29353	regulation
+T58	GO:0034146 29435 29449	Tlr5 signaling
+T59	GO:0065007 29454 29462	regulate
+T60	GO:0002507 29467 29491	development of tolerance
+T61	GO:0002224 29678 29706	toll-like receptor signaling
+T62	GO:0065007 30087 30095	regulate
+T63	GO:0002507 30100 30124	development of tolerance
+T64	GO:0010467 30341 30356	gene expression
+T65	GO:0065007 30474 30484	regulatory
+T66	GO:0065007 30528 30536	modulate
+T67	GO:0002507 30652 30666;30671 30680	development of ... tolerance
+T68	GO:0045087 30720 30735	innate immunity
+T69	GO:0002224 30923 30951	toll-like receptor signaling
+T70	GO:0065007 30978 30986	regulate
+T71	GO:0002507 31789 31803;31814 31823	development of ... tolerance
+T72	GO:0002507 31935 31949;31960 31969	acquisition of ... tolerance

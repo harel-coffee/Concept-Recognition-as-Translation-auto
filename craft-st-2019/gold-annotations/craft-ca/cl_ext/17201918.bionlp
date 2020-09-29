@@ -1,0 +1,97 @@
+T1	CL_GO_EXT:cell 461 466	cells
+T2	CL_GO_EXT:cell 1898 1903	cells
+T3	CL_GO_EXT:cell 1944 1952	cellular
+T4	CL:0002327 2440 2464	mammary epithelial cells
+T5	CL_GO_EXT:cell 2920 2925	cells
+T6	CL_GO_EXT:cell 2934 2938	cell
+T7	CL_GO_EXT:cell 3116 3121	cells
+T8	CL_GO_EXT:cell 4932 4940	cellular
+T9	CL_GO_EXT:cell 5865 5870	cells
+T10	CL:0000136 5924 5934	adipocytes
+T11	CL:0000499 5939 5952	stromal cells
+T12	CL:0000499 6064 6077	stromal cells
+T13	CL:0000499 7102 7114	stromal cell
+T14	CL:0002327 7159 7183	mammary epithelial cells
+T15	CL:0000057 8202 8213	fibroblasts
+T16	CL:0002322 8827 8847	embryonic stem cells
+T17	CL:0002322 8909 8929	embryonic stem cells
+T18	CL_GO_EXT:cell 10476 10481	cells
+T19	CL:0000445 10494 10509	apoptotic cells
+T20	CL_GO_EXT:cell 12278 12283	cells
+T21	CL:0000586 12295 12305	germ cells
+T22	CL_GO_EXT:cell 12660 12665	cells
+T23	CL:0002322 13844 13864	embryonic stem cells
+T24	CL_GO_EXT:cell 13988 13993	cells
+T25	CL_GO_EXT:cell 14020 14025	cells
+T26	CL_GO_EXT:cell 14066 14071	cells
+T27	CL:0000151 17547 17556;17577 17582	secretory ... cells
+T28	CL:0010003 17557 17582	alveolar epithelial cells
+T29	CL_GO_EXT:cell 19340 19345	cells
+T30	CL:0002327 19410 19433	mammary epithelial cell
+T31	CL_GO_EXT:cell 19589 19594	cells
+T32	CL_GO_EXT:cell 19789 19793	cell
+T33	CL_GO_EXT:cell 19927 19932	cells
+T34	CL_GO_EXT:cell 20005 20010	cells
+T35	CL:0000068 20039 20045;20058 20074	ductal ... epithelial cells
+T36	CL:0010003 20049 20074	alveolar epithelial cells
+T37	CL:0000068 20205 20228	ductal epithelial cells
+T38	CL:0010003 20246 20271	alveolar epithelial cells
+T39	CL:0000068 20312 20335	ductal epithelial cells
+T40	CL:0000068 20498 20521	ductal epithelial cells
+T41	CL_GO_EXT:cell 20590 20595	cells
+T42	CL_GO_EXT:cell 20743 20748	cells
+T43	CL:0000445 21009 21018;21030 21035	Apoptotic ... cells
+T44	CL:0000066 21019 21035	epithelial cells
+T45	CL:0000445 21179 21194	apoptotic cells
+T46	CL:0000499 22559 22571	stromal cell
+T47	CL:0010003 23265 23289	alveolar epithelial cell
+T48	CL_GO_EXT:cell 23422 23427	cells
+T49	CL_GO_EXT:cell 23622 23627	cells
+T50	CL:0000068 23948 23971	ductal epithelial cells
+T51	CL_GO_EXT:cell 24422 24427	cells
+T52	CL_GO_EXT:cell 24595 24600	cells
+T53	CL:0010003 24634 24659	alveolar epithelial cells
+T54	CL_GO_EXT:cell 24807 24815	cellular
+T55	CL:0002327 24910 24934	mammary epithelial cells
+T56	CL_GO_EXT:cell 25011 25016	cells
+T57	CL:0000499 25672 25684	stromal cell
+T58	CL_GO_EXT:cell 26025 26030	cells
+T59	CL:0002327 27784 27807	mammary epithelial cell
+T60	CL_GO_EXT:cell 29028 29033	cells
+T61	CL_GO_EXT:cell 30759 30764	cells
+T62	CL_GO_EXT:cell 32897 32902	cells
+T63	CL:0002451 34567 34585	mammary stem cells
+T64	CL_GO_EXT:cell 34627 34632	cells
+T65	CL_GO_EXT:cell 34730 34735	cells
+T66	CL:0000068 34760 34783	ductal epithelial cells
+T67	CL:0000066 34811 34827	epithelial cells
+T68	CL:0000068 35260 35283	ductal epithelial cells
+T69	CL:0000066 35308 35324	epithelial cells
+T70	CL:0000499 35501 35513	stromal cell
+T71	CL:0000068 35593 35616	ductal epithelial cells
+T72	CL:0000066 35639 35655	epithelial cells
+T73	CL:0000068 35978 36000	ductal epithelial cell
+T74	CL_GO_EXT:cell 37933 37941	cellular
+T75	CL:0002327 38113 38137	mammary epithelial cells
+T76	CL:0000057 39073 39083	fibroblast
+T77	CL:0002322 39588 39608	embryonic stem cells
+T78	CL:0000057 41045 41056	fibroblasts
+T79	CL:0002322 41434 41454	embryonic stem cells
+T80	CL:0002322 41555 41575	embryonic stem cells
+T81	CL:0000136 42173 42183	adipocytes
+T82	CL:0000066 42185 42201	epithelial cells
+T83	CL_GO_EXT:cell 42213 42218	cells
+T84	CL_GO_EXT:cell 43165 43170	cells
+T85	CL:0002327 43785 43808	Mammary epithelial cell
+T86	CL:0000445 44378 44393	apoptotic cells
+T87	CL:0000066 44502 44518	epithelial cells
+T88	CL_GO_EXT:cell 44688 44693	cells
+T89	CL:0000057 44908 44919	fibroblasts
+T90	CL_GO_EXT:cell 45832 45837	cells
+T91	CL:0000068 45935 45958	ductal epithelial cells
+T92	CL:0000068 45960 45963	DEC
+T93	CL:0000499 46029 46041	stromal cell
+T94	CL:0000499 46043 46044	S
+T95	CL:0000068 46224 46227	DEC
+T96	CL:0000068 46245 46268	ductal epithelial cells
+T97	CL:0000068 46270 46273	DEC

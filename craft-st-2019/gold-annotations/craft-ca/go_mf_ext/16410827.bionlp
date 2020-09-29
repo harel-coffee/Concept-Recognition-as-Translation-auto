@@ -1,0 +1,63 @@
+T1	CHEBI_GO_EXT:ligand 10 16	Ligand
+T2	CHEBI_GO_EXT:ligand 601 608	ligands
+T3	CHEBI_GO_EXT:ligand 665 671	ligand
+T4	CHEBI_GO_EXT:ligand 2599 2605	ligand
+T5	GO_EXT:0004872 5270 5278	receptor
+T6	CHEBI_GO_EXT:ligand 5287 5294	ligands
+T7	GO_EXT:0004872 5382 5391	receptors
+T8	CHEBI_GO_EXT:ligand 5413 5420	ligands
+T9	GO_EXT:0004872 5695 5703	receptor
+T10	GO_EXT:transcription_factor 5886 5907	transcription factors
+T11	GO_EXT:transcription_factor 6258 6278	transcription factor
+T12	CHEBI_GO_EXT:ligand 6889 6896	ligands
+T13	GO_EXT:recombinase 7577 7588	recombinase
+T14	GO_EXT:0004872 8596 8605	receptors
+T15	GO_EXT:recombinase 8813 8824	recombinase
+T16	GO_EXT:recombinase 8953 8964	recombinase
+T17	GO_EXT:reverse_transcription_or_reverse_transcriptase 9858 9860	RT
+T18	GO_EXT:recombinase 10731 10743	recombinases
+T19	GO_EXT:reverse_transcription_or_reverse_transcriptase 11748 11750	RT
+T20	GO_EXT:recombinase 12245 12256	recombinase
+T21	GO:0097617 12632 12645	hybridization
+T22	GO_PR_EXT:fibroblast_growth_factor_receptor 13020 13053	Fibroblast growth factor receptor
+T23	GO:0097617 13327 13340	hybridization
+T24	GO_EXT:recombinase 13499 13510	recombinase
+T25	GO_EXT:recombinase 13699 13710	recombinase
+T26	GO_EXT:recombinase 13914 13925	recombinase
+T27	GO:0097617 14120 14133	hybridization
+T28	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 21941 21946	binds
+T29	CHEBI_GO_EXT:ligand 24224 24230	ligand
+T30	GO_EXT:transcription_factor 25072 25092	transcription factor
+T31	CHEBI_GO_EXT:ligand 31090 31096	ligand
+T32	CHEBI_GO_EXT:ligand 35487 35493	ligand
+T33	GO_EXT:0008083 35990 36003	growth factor
+T34	GO_EXT:transcription_factor 36023 36043	transcription factor
+T35	CHEBI_GO_EXT:ligand 36582 36589	ligands
+T36	CHEBI_GO_EXT:ligand 39766 39772	ligand
+T37	CHEBI_GO_EXT:ligand 40288 40294	ligand
+T38	CHEBI_GO_EXT:ligand 40404 40411	ligands
+T39	GO:0097617 44405 44418	hybridization
+T40	GO_EXT:phosphoglycerate_kinase 44671 44674	PGK
+T41	CHEBI_GO_EXT:neomycin_or_neomycin_phosphotransferase 44674 44677	neo
+T42	GO_EXT:phosphoglycerate_kinase 44774 44777	PGK
+T43	CHEBI_GO_EXT:neomycin_or_neomycin_phosphotransferase 44777 44780	neo
+T44	GO_EXT:phosphoglycerate_kinase 45214 45217	PGK
+T45	CHEBI_GO_EXT:neomycin_or_neomycin_phosphotransferase 45217 45220	neo
+T46	GO_EXT:phosphoglycerate_kinase 46676 46679	PGK
+T47	CHEBI_GO_EXT:neomycin_or_neomycin_phosphotransferase 46679 46682	neo
+T48	GO_EXT:phosphoglycerate_kinase 46787 46790	PGK
+T49	CHEBI_GO_EXT:neomycin_or_neomycin_phosphotransferase 46790 46793	neo
+T50	GO_EXT:phosphoglycerate_kinase 46820 46823	PGK
+T51	CHEBI_GO_EXT:neomycin_or_neomycin_phosphotransferase 46823 46826	neo
+T52	GO_EXT:recombinase 46883 46894	recombinase
+T53	GO_EXT:recombinase 47313 47324	recombinase
+T54	GO:0097617 50512 50525	hybridization
+T55	GO_EXT:reverse_transcription_or_reverse_transcriptase 50530 50532	RT
+T56	GO:0097617 50719 50732	hybridization
+T57	GO:0097617 51052 51065	hybridization
+T58	GO:0097617 51348 51361	hybridization
+T59	GO:0097617 51425 51438	hybridization
+T60	GO_EXT:reverse_transcription_or_reverse_transcriptase 51486 51488	RT
+T61	GO_EXT:0003964 51742 51763	reverse transcriptase
+T62	GO_EXT:0008083 52678 52691	growth factor
+T63	CHEBI_GO_EXT:ligand 53181 53187	ligand

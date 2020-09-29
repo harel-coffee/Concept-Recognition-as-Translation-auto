@@ -1,0 +1,59 @@
+T1	CL:0002327 2440 2464	mammary epithelial cells
+T2	CL:0000136 5924 5934	adipocytes
+T3	CL:0000499 5939 5952	stromal cells
+T4	CL:0000499 6064 6077	stromal cells
+T5	CL:0000499 7102 7114	stromal cell
+T6	CL:0002327 7159 7183	mammary epithelial cells
+T7	CL:0000057 8202 8213	fibroblasts
+T8	CL:0002322 8827 8847	embryonic stem cells
+T9	CL:0002322 8909 8929	embryonic stem cells
+T10	CL:0000445 10494 10509	apoptotic cells
+T11	CL:0000586 12295 12305	germ cells
+T12	CL:0002322 13844 13864	embryonic stem cells
+T13	CL:0000151 17547 17556;17577 17582	secretory ... cells
+T14	CL:0010003 17557 17582	alveolar epithelial cells
+T15	CL:0002327 19410 19433	mammary epithelial cell
+T16	CL:0000068 20039 20045;20058 20074	ductal ... epithelial cells
+T17	CL:0010003 20049 20074	alveolar epithelial cells
+T18	CL:0000068 20205 20228	ductal epithelial cells
+T19	CL:0010003 20246 20271	alveolar epithelial cells
+T20	CL:0000068 20312 20335	ductal epithelial cells
+T21	CL:0000068 20498 20521	ductal epithelial cells
+T22	CL:0000445 21009 21018;21030 21035	Apoptotic ... cells
+T23	CL:0000066 21019 21035	epithelial cells
+T24	CL:0000445 21179 21194	apoptotic cells
+T25	CL:0000499 22559 22571	stromal cell
+T26	CL:0010003 23265 23289	alveolar epithelial cell
+T27	CL:0000068 23948 23971	ductal epithelial cells
+T28	CL:0010003 24634 24659	alveolar epithelial cells
+T29	CL:0002327 24910 24934	mammary epithelial cells
+T30	CL:0000499 25672 25684	stromal cell
+T31	CL:0002327 27784 27807	mammary epithelial cell
+T32	CL:0002451 34567 34585	mammary stem cells
+T33	CL:0000068 34760 34783	ductal epithelial cells
+T34	CL:0000066 34811 34827	epithelial cells
+T35	CL:0000068 35260 35283	ductal epithelial cells
+T36	CL:0000066 35308 35324	epithelial cells
+T37	CL:0000499 35501 35513	stromal cell
+T38	CL:0000068 35593 35616	ductal epithelial cells
+T39	CL:0000066 35639 35655	epithelial cells
+T40	CL:0000068 35978 36000	ductal epithelial cell
+T41	CL:0002327 38113 38137	mammary epithelial cells
+T42	CL:0000057 39073 39083	fibroblast
+T43	CL:0002322 39588 39608	embryonic stem cells
+T44	CL:0000057 41045 41056	fibroblasts
+T45	CL:0002322 41434 41454	embryonic stem cells
+T46	CL:0002322 41555 41575	embryonic stem cells
+T47	CL:0000136 42173 42183	adipocytes
+T48	CL:0000066 42185 42201	epithelial cells
+T49	CL:0002327 43785 43808	Mammary epithelial cell
+T50	CL:0000445 44378 44393	apoptotic cells
+T51	CL:0000066 44502 44518	epithelial cells
+T52	CL:0000057 44908 44919	fibroblasts
+T53	CL:0000068 45935 45958	ductal epithelial cells
+T54	CL:0000068 45960 45963	DEC
+T55	CL:0000499 46029 46041	stromal cell
+T56	CL:0000499 46043 46044	S
+T57	CL:0000068 46224 46227	DEC
+T58	CL:0000068 46245 46268	ductal epithelial cells
+T59	CL:0000068 46270 46273	DEC

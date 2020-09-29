@@ -1,0 +1,153 @@
+T1	GO_PATO_EXT:biological_behavior 279 287	behavior
+T2	GO_PATO_EXT:biological_localization_process_or_quality 872 881	localized
+T3	GO:0010467 891 901	expression
+T4	GO:0010467 928 938	expression
+T5	GO:0007067 1124 1131	mitosis
+T6	GO:0007126 1135 1142	meiosis
+T7	GO:0022403 1345 1354;1359 1369	stages of ... cell cycle
+T8	GO:0051325 1396 1406	interphase
+T9	GO:0007067 1425 1432	mitosis
+T10	GO:0008219 1436 1446	cell death
+T11	GO_PATO_EXT:biological_behavior 1814 1822	behavior
+T12	CHEBI_GO_EXT:biological_process_or_quality_or_role 1919 1926	biology
+T13	GO:0007601 2150 2156	visual
+T14	GO:0010467 3194 3204	expressing
+T15	GO:0010467 3340 3347	express
+T16	GO_PATO_EXT:biological_behavior 3396 3404	behavior
+T17	GO:0022403 4290 4299;4304 4314	phases of ... cell cycle
+T18	GO_PATO_EXT:biological_behavior 4352 4360	behavior
+T19	GO_PATO_EXT:biological_localization_process_or_quality 4710 4722	localization
+T20	GO:0051301 4882 4895	cell division
+T21	GO:0007067 5101 5108	mitosis
+T22	GO:0007059 5433 5447;5462 5473	segregation of ... chromosomes
+T23	GO:0010467 5521 5531	expression
+T24	GO:0007049 5641 5651	cell cycle
+T25	GO_PATO_EXT:biological_localization_process_or_quality 5771 5780	localized
+T26	GO_PATO_EXT:biological_localization_process_or_quality 5878 5890	localization
+T27	GO:0010467 6569 6584	gene expression
+T28	GO:0010467 6709 6719	expressing
+T29	GO:0010467 6796 6806	expressing
+T30	GO:0010467 6929 6939	expression
+T31	GO_PATO_EXT:biological_maturation 7229 7237	maturing
+T32	GO:0010467 7401 7411	expressing
+T33	GO:0007067 7575 7582	mitotic
+T34	GO:0051325 7632 7642	interphase
+T35	GO:0007067 7723 7730	mitosis
+T36	GO:0098763 7757 7773	stage of mitosis
+T37	GO:0051301 7791 7804	cell division
+T38	GO:0010467 7876 7885	expressed
+T39	GO:0007049 7915 7925	cell cycle
+T40	GO:0098763 8030 8047	phases of mitosis
+T41	GO_EXT:biological_growth_entity_or_process 8130 8136	growth
+T42	GO:0007067 8145 8152	mitotic
+T43	GO:0007067 8313 8320	mitosis
+T44	GO:0051324 8371 8379	prophase
+T45	GO:0000910 8383 8394	cytokinesis
+T46	GO:0010467 8604 8614	expressing
+T47	GO:0010467 8731 8741	expressing
+T48	GO:0010467 8946 8956	expressing
+T49	GO:0051323 9113 9122	metaphase
+T50	GO:0051323 9150 9159	metaphase
+T51	GO:0007067 9195 9202	mitotic
+T52	GO:0010467 9563 9573	expressing
+T53	GO:0051322 9637 9645	anaphase
+T54	GO:0051326 9648 9657	telophase
+T55	GO_PATO_EXT:necrosis 9725 9733	necrosed
+T56	GO:0006915 9737 9746	apoptosed
+T57	GO:0010467 9845 9855	expressing
+T58	GO:0051325 9933 9943	interphase
+T59	GO:0007067 9954 9961	mitotic
+T60	GO:0030263 9993 10001	pycnotic
+T61	GO:0007067 10078 10085	mitosis
+T62	GO:0051322 10331 10339	anaphase
+T63	GO:0000910 10343 10354	cytokinesis
+T64	GO:0051324 10398 10406	prophase
+T65	GO:0051326 10410 10419	telophase
+T66	GO:0051324 10487 10495	prophase
+T67	GO:0000910 10499 10510	cytokinesis
+T68	GO:0010467 10605 10615	expression
+T69	GO:0010467 10738 10748	expressing
+T70	GO_EXT:breeding 10775 10780	breed
+T71	GO:0010467 10875 10885	expression
+T72	GO_EXT:breeding 10989 10997	breeding
+T73	GO_EXT:breeding 11062 11070	breeding
+T74	GO:0007067 11202 11209	mitosis
+T75	GO:0007126 11213 11220	meiosis
+T76	GO:0010467 11317 11327	expression
+T77	GO:0010467 11465 11474	expressed
+T78	GO:0051325 11798 11808	interphase
+T79	GO:0007067 11834 11841	mitotic
+T80	GO:0007566 12586 12598	implantation
+T81	GO:0007566 12613 12625	implantation
+T82	GO:0010467 12672 12681	expressed
+T83	GO:0007566 12814 12826	implantation
+T84	GO:0051323 12896 12905	metaphase
+T85	GO:0051324 13624 13632	prophase
+T86	GO:0007067 14561 14568	mitosis
+T87	GO:0051301 16231 16244	cell division
+T88	GO:0008219 16249 16259	cell death
+T89	GO:0007566 16355 16367	implantation
+T90	GO:0007067 18072 18079	mitotic
+T91	GO:0030263 18107 18115	pycnotic
+T92	GO:0010467 18330 18340	expressing
+T93	GO:0065007 18379 18389	regulation
+T94	GO:0007067 18668 18675	mitosis
+T95	GO_PATO_EXT:biological_localization_process_or_quality 18989 18998	localized
+T96	GO:0010467 18999 19009	expression
+T97	GO:0048870 20018 20031	cell movement
+T98	GO:0051301 20018 20022;20033 20041	cell ... division
+T99	GO:0008219 20018 20022;20047 20052	cell ... death
+T100	GO_PATO_EXT:physiological_process_or_quality 20224 20237	physiological
+T101	GO:0007566 20653 20665	implantation
+T102	GO:0009653 21000 21013	morphogenetic
+T103	GO:0007369 21040 21052	gastrulation
+T104	GO:0008283 21408 21426	cell proliferation
+T105	GO:0007566 21815 21827	implantation
+T106	GO:0007566 21836 21848	implantation
+T107	GO:0010467 21960 21970	expressing
+T108	GO:0007067 22290 22297	mitosis
+T109	GO:0006915 22376 22385	apoptosis
+T110	GO_PATO_EXT:necrosis 22389 22397	necrosis
+T111	GO:0007566 22492 22504	implantation
+T112	GO:0001824 22583 22595;22600 22610	formation of ... blastocyst
+T113	GO:0007369 22710 22722	gastrulation
+T114	GO:0007566 22733 22745	implantation
+T115	GO:0051301 22802 22815	cell division
+T116	GO_PATO_EXT:biological_localization_process_or_quality 23141 23150	localized
+T117	GO:0048864 23207 23220;23242 23246;23252 23257	generation of ... stem ... cells
+T118	GO:0010467 23285 23295	expression
+T119	GO:0010467 23906 23916	expressing
+T120	GO_PATO_EXT:biological_behavior 24065 24074	behaviors
+T121	GO:0010467 26091 26101	expressing
+T122	GO:0030261 26673 26696	chromosome condensation
+T123	GO:0030261 26788 26812	chromosomal condensation
+T124	GO:0098763 26840 26857	phases of mitosis
+T125	GO:0031498 26900 26923	chromatin fragmentation
+T126	GO:0008150 27519 27539	biological processes
+T127	GO:0010467 27632 27642	expressing
+T128	GO_PATO_EXT:biological_behavior 27742 27750	behavior
+T129	GO:0008150 27763 27783	biological processes
+T130	CHEBI_GO_EXT:biological_process_or_quality_or_role 27895 27905	biological
+T131	CHEBI_GO_EXT:biological_process_or_quality_or_role 28085 28092	biology
+T132	CHEBI_GO_EXT:biological_process_or_quality_or_role 28232 28242	biological
+T133	GO:0009294 28910 28922	transfection
+T134	GO:0009294 28969 28981	Transfection
+T135	GO_PATO_EXT:biological_localization_process_or_quality 29231 29240	localized
+T136	GO:0008283 29341 29354	proliferation
+T137	GO:0007067 29363 29370	mitotic
+T138	GO:0010467 29447 29457	expressing
+T139	GO:0010467 30120 30130	expression
+T140	GO_RO_EXT:developmental_differentiation_process 30213 30228	differentiation
+T141	GO:0040007 30293 30298	grown
+T142	GO_RO_EXT:developmental_differentiation_process 30338 30353	differentiation
+T143	GO:0040007 30369 30374	grown
+T144	GO_EXT:biological_direction_or_guidance 30584 30592	directed
+T145	GO_RO_EXT:developmental_differentiation_process 30593 30608	differentiation
+T146	GO:0010467 30669 30678	expressed
+T147	GO:0010467 30741 30751	expressing
+T148	GO_EXT:breeding 30868 30872	bred
+T149	GO_EXT:breeding 31517 31525	breeding
+T150	GO_PATO_EXT:physiological_process_or_quality 31924 31937	physiological
+T151	GO_PATO_EXT:physiological_process_or_quality 32573 32586	physiological
+T152	GO:0007566 35905 35916	mplantation
+T153	GO:0007566 36104 36116	implantation

@@ -1,0 +1,113 @@
+T1	GO:0002507 35 49;60 69	development of ... tolerance
+T2	GO:0002507 337 351;362 371	development of ... tolerance
+T3	GO:0065007 720 727	control
+T4	GO:0002507 732 746;757 766	development of ... tolerance
+T5	GO:0002507 1961 1975;1986 1995	acquisition of ... tolerance
+T6	GO:0065007 2403 2413	regulating
+T7	GO:0002507 2418 2432;2443 2452	development of ... tolerance
+T8	GO:0002507 3392 3406;3417 3426	development of ... tolerance
+T9	GO:0065007 3715 3725	regulating
+T10	GO:0002507 3730 3744;3755 3764	development of ... tolerance
+T11	GO:0002507 3839 3853;3864 3873	development of ... tolerance
+T12	GO:0065007 4434 4445	controlling
+T13	GO_EXT:reaction_or_response 4456 4465	responses
+T14	GO:0065007 4676 4683	control
+T15	GO_EXT:reaction_or_response 4720 4729	responses
+T16	GO:0002507 4888 4902;4913 4922	development of ... tolerance
+T17	GO:0002507 6647 6661;6672 6681	Development of ... tolerance
+T18	GO_EXT:macromolecule_denaturation 8730 8739	denatured
+T19	GO_EXT:reaction_or_response 9605 9614	responses
+T20	GO:0002507 12450 12464;12475 12484	development of ... tolerance
+T21	GO_EXT:reaction_or_response 12645 12654	responses
+T22	GO:0002507 13252 13266;13277 13286	development of ... tolerance
+T23	GO:0065007 18597 18608	controlling
+T24	GO:0002507 18613 18637	development of tolerance
+T25	GO:0002507 19177 19191;19202 19211	Development of ... tolerance
+T26	GO:0002507 19593 19607;19618 19627	development of ... tolerance
+T27	GO:0002507 20474 20498	acquisition of tolerance
+T28	GO:0002507 20604 20618;20629 20638	development of ... tolerance
+T29	GO:0002507 20981 20995;21006 21015	development of ... tolerance
+T30	GO_EXT:regulator 21068 21078	regulators
+T31	GO:0002507 21086 21110	acquisition of tolerance
+T32	GO_EXT:breeding 22317 22322	breed
+T33	GO:0002507 23245 23259;23270 23279	development of ... tolerance
+T34	GO:0065007 23336 23345	regulated
+T35	GO:0065007 23552 23563	controlling
+T36	GO:0002507 23568 23592	development of tolerance
+T37	GO:0065007 23712 23720	modulate
+T38	GO_PATO_EXT:inflammatory_process_or_quality 23738 23750	inflammation
+T39	GO_PATO_EXT:inflammatory_process_or_quality 23814 23826	inflammatory
+T40	GO_EXT:biological_recruitment 23832 23843	recruitment
+T41	GO_PATO_EXT:inflammatory_process_or_quality 23856 23868	inflammation
+T42	GO_EXT:biological_movement_or_translocation_process 23885 23893	movement
+T43	GO_PATO_EXT:necrosis 23981 23989	necrosis
+T44	GO_EXT:transcription 24101 24114	transcription
+T45	GO:0065007 24129 24139	regulation
+T46	GO_PATO_EXT:inflammatory_process_or_quality 24147 24159	inflammatory
+T47	GO_EXT:biological_growth_entity_or_process 24300 24306	growth
+T48	GO_EXT:biological_mover_or_transporter 24452 24459	carrier
+T49	GO_EXT:biological_mover_or_transporter 24476 24487	transporter
+T50	GO_EXT:biological_mover_or_transporter 24520 24531	transporter
+T51	GO:0030168 24821 24840	platelet-activating
+T52	GO_PATO_EXT:inflammatory_process_or_quality 25110 25122	inflammatory
+T53	GO_EXT:biological_mover_or_transporter 25289 25296	carrier
+T54	GO_EXT:biological_mover_or_transporter 25313 25324	transporter
+T55	GO_EXT:biological_mover_or_transporter 25393 25405	transporters
+T56	GO:0002507 25501 25515;25526 25535	development of ... tolerance
+T57	GO:0065007 25573 25582	regulated
+T58	GO_EXT:transcription 25695 25710	transcriptional
+T59	GO:0065007 25723 25733	regulation
+T60	GO:0002507 25766 25790	development of tolerance
+T61	GO_EXT:biological_movement_or_translocation_process 26123 26131	movement
+T62	GO_PATO_EXT:inflammatory_process_or_quality 26145 26157	inflammatory
+T63	GO:0065007 26169 26178	regulated
+T64	GO:0006935 26182 26193	chemotactic
+T65	GO_EXT:cell_communication_or_signaling_or_signal_transduction 26226 26232	signal
+T66	GO_PATO_EXT:inflammatory_process_or_quality 26332 26344	inflammatory
+T67	GO_EXT:biological_direction_or_guidance 26402 26411	direction
+T68	GO_EXT:biological_routing_or_transport 26420 26431	trafficking
+T69	GO_PATO_EXT:inflammatory_process_or_quality 26439 26451	inflammation
+T70	GO:0010467 26459 26469	expression
+T71	GO:0010467 26543 26558	gene expression
+T72	GO:0065007 26563 26570	control
+T73	GO_EXT:biological_movement_or_translocation_process 26591 26600	migration
+T74	GO:0010467 26674 26681	express
+T75	GO_EXT:biological_recruitment 26711 26718	recruit
+T76	GO:0006955 26797 26812	immune response
+T77	GO_PATO_EXT:inflammatory_process_or_quality 26832 26844	inflammation
+T78	GO:0010467 26948 26958	expression
+T79	GO_PATO_EXT:inflammatory_process_or_quality 26965 26977	inflammatory
+T80	GO:0065007 27053 27061	modulate
+T81	GO_EXT:reaction_or_response 27119 27127	response
+T82	GO_EXT:biological_growth_entity_or_process 27189 27195	growth
+T83	GO:0000165 27449 27477	MAP kinase signaling cascade
+T84	GO:0010467 27491 27501	expression
+T85	GO_EXT:secretion_entity_or_process 27506 27515	secretion
+T86	GO:0046903 27525 27533	Secreted
+T87	GO:0048246 27780 27801	macrophage chemotaxis
+T88	GO:0035556 28110 28134	intra-cellular signaling
+T89	GO:0006955 28258 28273	immune response
+T90	GO:0010467 28487 28497	expression
+T91	GO:0002507 28549 28573	development of tolerance
+T92	GO:0010467 28660 28670	expression
+T93	GO:0002507 29026 29050	development of tolerance
+T94	GO:0002224 29290 29318	toll-like receptor signaling
+T95	GO:0065007 29343 29353	regulation
+T96	GO:0034146 29435 29449	Tlr5 signaling
+T97	GO:0065007 29454 29462	regulate
+T98	GO:0002507 29467 29491	development of tolerance
+T99	GO:0002224 29678 29706	toll-like receptor signaling
+T100	GO:0065007 30087 30095	regulate
+T101	GO:0002507 30100 30124	development of tolerance
+T102	GO_EXT:transcription 30180 30193	transcription
+T103	GO:0010467 30341 30356	gene expression
+T104	GO:0065007 30474 30484	regulatory
+T105	GO_EXT:cell_communication_or_signaling_or_signal_transduction 30511 30520	signaling
+T106	GO:0065007 30528 30536	modulate
+T107	GO:0002507 30652 30666;30671 30680	development of ... tolerance
+T108	GO:0045087 30720 30735	innate immunity
+T109	GO:0002224 30923 30951	toll-like receptor signaling
+T110	GO:0065007 30978 30986	regulate
+T111	GO_EXT:reaction_or_response 30995 31004	responses
+T112	GO:0002507 31789 31803;31814 31823	development of ... tolerance
+T113	GO:0002507 31935 31949;31960 31969	acquisition of ... tolerance

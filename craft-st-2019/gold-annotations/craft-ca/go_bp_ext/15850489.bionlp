@@ -1,0 +1,133 @@
+T1	GO_PATO_EXT:biological_behavior 68 76	behavior
+T2	GO_EXT:reaction_or_response 100 108	response
+T3	GO:0065007 269 278	modulated
+T4	GO_PATO_EXT:biological_behavior 424 432	behavior
+T5	GO_EXT:reaction_or_response 450 459	responses
+T6	GO:0010467 513 522	expressed
+T7	GO:0016265 625 628	die
+T8	GO:0007567 633 640	natally
+T9	GO_PATO_EXT:biological_behavior 722 731	behaviors
+T10	GO_PATO_EXT:biological_behavior 786 794	behavior
+T11	GO:0010467 896 906	expression
+T12	GO:0010467 1148 1163	gene expression
+T13	GO_PATO_EXT:biological_behavior 1514 1526	Behaviorally
+T14	GO_PATO_EXT:biological_behavior 1575 1584	behaviors
+T15	GO_EXT:reaction_or_response 1692 1700	response
+T16	GO:0010467 1965 1975	expressing
+T17	GO:0010467 2149 2159	expression
+T18	GO_PATO_EXT:biological_behavior 2189 2198	behaviors
+T19	GO_EXT:reaction_or_response 2247 2255	response
+T20	GO_PATO_EXT:biological_behavior 2385 2393	behavior
+T21	GO:0065007 2603 2612	modulated
+T22	GO_EXT:reaction_or_response 3059 3068	responses
+T23	GO:0010467 3193 3202	expressed
+T24	GO:0043113 3339 3352;3359 3361	clustering of ... Rs
+T25	GO:0016265 3630 3634	died
+T26	GO:0007567 3646 3651	natal
+T27	GO:0007567 3692 3697	natal
+T28	GO:0007567 3735 3740	birth
+T29	GO:0060013 3837 3852	righting reflex
+T30	GO_PATO_EXT:biological_behavior 4058 4070	Behaviorally
+T31	GO:0060013 4179 4194	righting reflex
+T32	GO_PATO_EXT:biological_behavior 4385 4394	behaviors
+T33	GO_EXT:reaction_or_response 4406 4415	responses
+T34	GO:0010467 4604 4614	expression
+T35	GO_PATO_EXT:biological_behavior 4719 4728	behaviors
+T36	GO_EXT:reaction_or_response 4746 4755	responses
+T37	GO:0010467 5062 5072	expression
+T38	GO_PATO_EXT:biological_behavior 5408 5417	behaviors
+T39	GO_EXT:reaction_or_response 5454 5462	response
+T40	GO:0010467 5671 5681	expressing
+T41	GO:0007618 6224 6229	mated
+T42	GO_EXT:breeding 6285 6289	bred
+T43	GO:0007608 8422 8431	olfactory
+T44	GO_PATO_EXT:biological_behavior 10378 10388	Behavioral
+T45	GO_PATO_EXT:biological_behavior 10423 10433	behavioral
+T46	GO_PATO_EXT:biological_behavior 10602 10610	behavior
+T47	GO_EXT:reaction_or_response 10614 10622	response
+T48	GO_PATO_EXT:biological_behavior 10879 10887	behavior
+T49	GO:0040011 11015 11025	locomotion
+T50	GO_PATO_EXT:biological_behavior 11079 11089	behavioral
+T51	GO_PATO_EXT:biological_behavior 11151 11161	behavioral
+T52	GO_EXT:reaction_or_response 11162 11170	response
+T53	GO:0040011 11307 11316	locomotor
+T54	GO_PATO_EXT:biological_behavior 11427 11435	behavior
+T55	GO_PATO_EXT:biological_behavior 11511 11519	behavior
+T56	GO_EXT:reaction_or_response 11573 11582	responses
+T57	GO:0060013 11679 11694	righting reflex
+T58	GO_EXT:reaction_or_response 11796 11804	response
+T59	GO:0007618 12186 12191	mated
+T60	GO:0010467 12217 12227	expressing
+T61	GO:0010467 12335 12344	expressed
+T62	GO_SO_EXT:sequence_rearrangement_process 12581 12591	recombined
+T63	GO_SO_EXT:sequence_rearrangement_process 12656 12669	recombination
+T64	GO_SO_EXT:sequence_rearrangement_process 12783 12793	recombined
+T65	GO:0007618 12815 12820	mated
+T66	GO_SO_EXT:sequence_rearrangement_process 12862 12872	recombined
+T67	GO:0007618 12931 12937	mating
+T68	GO_SO_EXT:sequence_rearrangement_process 12971 12981	recombined
+T69	GO:0016265 13094 13098	died
+T70	GO:0007567 13120 13125	birth
+T71	GO:0007567 13160 13165	natal
+T72	GO_EXT:fatality_or_lethality 13188 13197	lethality
+T73	GO_SO_EXT:sequence_rearrangement_process 13371 13384	recombination
+T74	CHEBI_GO_EXT:biological_process_or_quality_or_role 13550 13557	biology
+T75	GO:0010467 13695 13705	expression
+T76	GO:0016265 13882 13885	die
+T77	GO:0010467 13972 13982	expression
+T78	GO:0010467 14215 14225	expressing
+T79	GO:0008380 14665 14671	splice
+T80	GO:0010467 14717 14724	express
+T81	GO:0008380 14750 14756	splice
+T82	GO_EXT:fatality_or_lethality 15307 15313	lethal
+T83	GO:0008380 15403 15411	splicing
+T84	GO_SO_EXT:frameshift_entity_or_process 15451 15461	frameshift
+T85	GO:0008380 15480 15488	splicing
+T86	GO_EXT:negative_regulation 15496 15511	down regulating
+T87	GO:0010467 15512 15527	gene expression
+T88	GO:0010467 15639 15649	expression
+T89	GO:0010467 16210 16220	expression
+T90	GO:0010467 16424 16434	expression
+T91	GO:0010467 16739 16749	expression
+T92	GO:0010467 16987 17002	gene expression
+T93	GO_PATO_EXT:biological_behavior 17134 17144	behavioral
+T94	GO_PATO_EXT:biological_behavior 17199 17207	behavior
+T95	GO_PATO_EXT:biological_behavior 17264 17272	behavior
+T96	GO:0032800 19232 19245;19252 19254	production of ... Rs
+T97	GO_PATO_EXT:biological_localization_process_or_quality 19585 19597	localization
+T98	GO_EXT:reaction_or_response 20251 20260	responses
+T99	GO_EXT:reaction_or_response 20496 20504	response
+T100	GO_EXT:biological_routing_or_transport 21957 21968	trafficking
+T101	GO_EXT:reaction_or_response 22202 22210	response
+T102	GO:0043113 22252 22265;22272 22274	clustering of ... Rs
+T103	GO_PATO_EXT:biological_behavior 22300 22310	behavioral
+T104	GO_EXT:reaction_or_response 22311 22320	responses
+T105	GO_EXT:reaction_or_response 22418 22427	responses
+T106	GO_PATO_EXT:biological_behavior 22593 22603	behavioral
+T107	GO_EXT:reaction_or_response 22604 22612	response
+T108	GO_PATO_EXT:biological_behavior 22731 22741	behavioral
+T109	GO:0008380 23276 23282	splice
+T110	GO_PATO_EXT:biological_behavior 23356 23366	behavioral
+T111	GO_EXT:reaction_or_response 23367 23375	response
+T112	GO_PATO_EXT:biological_behavior 23935 23945	behavioral
+T113	GO:0010467 24208 24218	expressing
+T114	GO:0043631 24666 24681	polyadenylation
+T115	GO_EXT:transcription 24852 24865	transcription
+T116	GO:0010467 24897 24907	expression
+T117	GO:0007618 25945 25950	mated
+T118	GO_EXT:breeding 26042 26046	bred
+T119	GO_EXT:killing 26359 26369	sacrificed
+T120	GO_EXT:killing 27968 27978	sacrificed
+T121	GO_SO_EXT:sequence_rearrangement_process 30177 30188	recombinant
+T122	GO:0060013 30433 30448	righting reflex
+T123	GO_EXT:reaction_or_response 30452 30460	response
+T124	GO:0060013 30909 30924	righting reflex
+T125	GO:0060013 31026 31031	right
+T126	GO:0060013 31276 31291	righting reflex
+T127	GO_PATO_EXT:biological_behavior 31374 31382	behavior
+T128	GO_EXT:biological_movement_or_translocation_process 32045 32050	motor
+T129	GO:0040011 32219 32227	traveled
+T130	GO_EXT:biological_movement_or_translocation_process 32398 32403	motor
+T131	GO_SO_EXT:sequence_rearrangement_process 33268 33278	recombined
+T132	GO:0007608 34663 34672	olfactory
+T133	GO_PATO_EXT:biological_behavior 34885 34895	Behavioral

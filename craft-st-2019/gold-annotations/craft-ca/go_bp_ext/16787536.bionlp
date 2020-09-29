@@ -1,0 +1,134 @@
+T1	GO_EXT:somite_development_or_somitogenesis 118 134	somite formation
+T2	GO:0006897 291 302	endocytosis
+T3	GO:0009790 459 480	embryonic development
+T4	GO_EXT:fatality_or_lethality 528 534	lethal
+T5	GO:0016265 540 545	death
+T6	GO:0007620 583 589	coitum
+T7	GO_EXT:somite_development_or_somitogenesis 1053 1069	somite formation
+T8	GO:0009790 1559 1580	embryonic development
+T9	GO_EXT:somite_development_or_somitogenesis 1606 1626	formation of somites
+T10	GO:0007492 1606 1618;1639 1647	formation of ... endoderm
+T11	GO_EXT:biological_routing_or_transport 1734 1743	transport
+T12	GO:0010467 1814 1823	expressed
+T13	GO:0050892 2127 2148	intestinal absorption
+T14	GO:0006897 2196 2205	endocytic
+T15	GO:0046903 2476 2485	secretory
+T16	GO:0006897 2625 2634	endocytic
+T17	GO:0006897 2766 2777	endocytosis
+T18	GO:0006897 2817 2828	endocytosis
+T19	GO_EXT:biological_growth_entity_or_process 2920 2926	growth
+T20	GO:0006897 2965 2974	endocytic
+T21	GO_EXT:biological_routing_or_transport 3280 3289	transport
+T22	GO:0010467 3414 3423	expressed
+T23	GO_EXT:biological_routing_or_transport 3520 3529	transport
+T24	GO:0007565 3857 3865	pregnant
+T25	GO_EXT:biological_growth_entity_or_process 4057 4063	growth
+T26	GO_EXT:biological_growth_entity_or_process 4180 4186	growth
+T27	GO:0009790 4422 4443	embryonic development
+T28	GO_SO_EXT:sequence_rearrangement_process 4986 4999	recombination
+T29	GO_EXT:biological_movement_or_translocation_process 5174 5185	transferred
+T30	GO:0006412 6071 6081	translated
+T31	GO_EXT:transcription 6289 6302	transcription
+T32	GO_SO_EXT:sequence_rearrangement_process 6385 6398	recombination
+T33	GO_SO_EXT:sequence_rearrangement_process 7091 7102	recombinant
+T34	GO_EXT:fatality_or_lethality 7323 7332	lethality
+T35	GO:0007618 7413 7420	matings
+T36	GO_EXT:fatality_or_lethality 7561 7570	lethality
+T37	GO_EXT:fatality_or_lethality 7800 7809	lethality
+T38	GO:0007618 7975 7982	matings
+T39	GO_EXT:fatality_or_lethality 8227 8236	lethality
+T40	GO:0007618 8354 8361	matings
+T41	GO:0007618 8557 8564	matings
+T42	GO:0016265 8917 8920	die
+T43	GO_EXT:reverse_transcription_or_reverse_transcriptase 9218 9220	RT
+T44	GO:0010467 9695 9702	express
+T45	GO_EXT:reverse_transcription_or_reverse_transcriptase 9734 9736	RT
+T46	GO:0010467 9757 9767	expression
+T47	GO:0010467 9967 9977	expression
+T48	GO:0010467 10092 10102	expression
+T49	GO_EXT:biological_growth_entity_or_process 10666 10672	growth
+T50	GO_EXT:somite_development_or_somitogenesis 10690 10702;10739 10746	formation of ... somites
+T51	GO:0007618 10869 10875	mating
+T52	GO:0007369 11304 11316	gastrulation
+T53	GO:0030097 12012 12025	hematopoietic
+T54	GO:0030097 12141 12154	hematopoietic
+T55	GO_EXT:fatality_or_lethality 13988 13997	lethality
+T56	GO:0001568 14170 14192	blood vessel formation
+T57	GO:0007618 14220 14227	matings
+T58	GO:0001568 14298 14320	blood vessel formation
+T59	GO:0009653 16324 16337	morphogenesis
+T60	GO:0060429 17394 17406;17410 17420	formation of ... epithelium
+T61	GO_RO_EXT:developmental_differentiation_process 17602 17617	differentiation
+T62	GO:0010467 18834 18844	expression
+T63	GO:0010467 18913 18923	expression
+T64	GO:0010467 19145 19154	expressed
+T65	GO_EXT:biological_direction_or_guidance 19237 19243	direct
+T66	GO_EXT:biological_routing_or_transport 19257 19268	trafficking
+T67	GO:0010467 19330 19340	expression
+T68	GO:0010467 19480 19490	expression
+T69	GO:0010467 19685 19695	expressing
+T70	GO:0010467 20589 20599	expressing
+T71	GO:0010467 20624 20634	expression
+T72	GO:0010467 21353 21362	expressed
+T73	GO:0007498 21905 21923	mesoderm formation
+T74	GO_EXT:somite_development_or_somitogenesis 22128 22141	somitogenesis
+T75	GO:0060429 22641 22650;22670 22672;22679 22688	formation ... of ... epithelia
+T76	GO_RO_EXT:developmental_differentiation_process 22880 22895	differentiation
+T77	GO:0007369 22943 22955	gastrulation
+T78	GO_EXT:biological_recruitment 22963 22974	recruitment
+T79	GO_EXT:biological_growth_entity_or_process 23187 23193	growth
+T80	GO:0065007 23201 23208	control
+T81	GO:0048339 23213 23243	formation of paraxial mesoderm
+T82	GO:0006897 23333 23342	endocytic
+T83	GO:0010467 23388 23398	expression
+T84	GO_EXT:biological_routing_or_transport 23455 23464	transport
+T85	GO_EXT:biological_routing_or_transport 23555 23566	transported
+T86	GO:0046903 23790 23799	secretory
+T87	GO_EXT:fatality_or_lethality 24170 24179	lethality
+T88	GO_EXT:fatality_or_lethality 24422 24431	lethality
+T89	GO:0016265 24492 24495	die
+T90	GO:0007567 24500 24507	natally
+T91	GO:0048853 24529 24545;24550 24559	morphogenesis of ... forebrain
+T92	GO:0060425 24529 24545;24587 24591	morphogenesis of ... lung
+T93	GO:0060993 24529 24545;24596 24602	morphogenesis of ... kidney
+T94	GO:0010467 24699 24708	expressed
+T95	GO:0007369 25138 25150	gastrulation
+T96	GO:0006897 25204 25215	endocytosis
+T97	GO_EXT:fatality_or_lethality 25240 25249	lethality
+T98	GO:0006897 25306 25315	endocytic
+T99	GO:0010467 25326 25335	expressed
+T100	GO:0010467 25934 25943	expresses
+T101	GO_EXT:biological_routing_or_transport 26165 26174	delivered
+T102	GO_PATO_EXT:biological_localization_process_or_quality 26273 26282	localized
+T103	GO:0046903 26322 26331	secretory
+T104	GO_EXT:fatality_or_lethality 26513 26522	lethality
+T105	GO_EXT:biological_routing_or_transport 26585 26594	targeting
+T106	GO:0009790 26703 26724	embryonic development
+T107	GO_EXT:transcription 27140 27155	transcriptional
+T108	GO:0006413 27184 27206	translation initiation
+T109	GO:0006415 27263 27289	termination of translation
+T110	GO:0010467 27315 27322	express
+T111	GO:0009790 27787 27808	embryonic development
+T112	GO_EXT:biological_routing_or_transport 27979 27990	trafficking
+T113	GO:0046907 28109 28134	intracellular trafficking
+T114	GO:0009790 28162 28183	embryonic development
+T115	GO:0010467 28237 28244	express
+T116	GO:0010467 28412 28422	expression
+T117	GO:0009790 28557 28570	embryogenesis
+T118	GO:0007492 28591 28612	formation of endoderm
+T119	GO_EXT:somite_development_or_somitogenesis 28591 28603;28617 28624	formation of ... somites
+T120	GO_EXT:biological_routing_or_transport 28714 28723	transport
+T121	GO_SO_EXT:sequence_rearrangement_process 30732 30745	recombination
+T122	GO_EXT:biological_movement_or_translocation_process 30878 30889	transferred
+T123	GO:0007620 31306 31312	coitum
+T124	GO:0007618 32480 32487	matings
+T125	GO:0007565 32967 32975	pregnant
+T126	GO:0007618 33022 33029	matings
+T127	GO_EXT:reverse_transcription_or_reverse_transcriptase 33895 33897	RT
+T128	GO:0007618 33974 33981	matings
+T129	GO:0007565 36782 36790	pregnant
+T130	GO:0007620 37184 37190	coitum
+T131	GO_EXT:biological_routing_or_transport 37536 37545	transport
+T132	GO_EXT:biological_direction_or_guidance 37835 37843	directed
+T133	GO:0007566 38004 38014;38029 38041	blastocyst ... implantation
+T134	GO_EXT:transcription 38366 38379	transcription
