@@ -2,7 +2,7 @@
 
 
 craft_path='../CRAFT-3.1.3/'
-concept_recognition_path='../Concept-Recognition-As-Translation/'
+concept_recognition_path='../Concept-Recognition-As-Translation/Output_Folders/'
 
 eval_path='../Output_Folders/Evaluation_Files/'
 
@@ -27,7 +27,7 @@ gold_standard='True'
 algos='LSTM_ELMO' #CRF, LSTM, LSTM_CRF, CHAR_EMBEDDINGS, LSTM_ELMO, BIOBERT
 #algos='BIOBERT'
 
-all_lcs_path='/Users/MaylaB/Dropbox/Documents/0_Thesis_stuff-Larry_Sonia/0_Gold_Standard_Annotation/Ontologies/Ontology_Of_Ignorance_all_cues_2020-03-27.txt'
+# all_lcs_path='/Users/MaylaB/Dropbox/Documents/0_Thesis_stuff-Larry_Sonia/0_Gold_Standard_Annotation/Ontologies/Ontology_Of_Ignorance_all_cues_2020-03-27.txt'
 
 
 python3 eval_preprocess_docs.py -craft_path=$craft_path -concept_recognition_path=$concept_recognition_path -eval_path=$eval_path -concept_system_output=$concept_system_output -article_folder=$article_folder -tokenized_files=$tokenized_files -pmcid_sentence_files=$pmcid_sentence_files_path -concept_annotation=$concept_annotation -ontologies=$ontologies -evaluation_files=$evaluation_files --gold_standard=$gold_standard
@@ -42,7 +42,7 @@ python3 eval_preprocess_docs.py -craft_path=$craft_path -concept_recognition_pat
 
 
 
-##FOR BIOBERT
+##FOR BIOBERT and LSTM-ELMO which need to be run on supercomputers (GPUs ideally)
 biobert='BIOBERT'
 lstm_elmo='LSTM_ELMO'
 
@@ -130,12 +130,12 @@ if [ $algos == $biobert ]; then
 #    python3 biobert_eval_dataframe_output.py -ontologies=$ontologies -excluded_files=$evaluation_files -tokenized_file_path=$eval_path$tokenized_files -biobert_prediction_results=$biobert_prediction_results -output_path=$biobert_prediction_results -algos=$algos --pmcid_sentence_files_path=$pmcid_sentence_files_path
 
 ##Run lstm-elmo on supercomputer because issues locally
-# elif [ $algos == $lstm_elmo ]; then
-#     tokenized_files_updated='Tokenized_Files'
-#     fiji_path='/Users/mabo1182/negacy_project/Evaluation_Files/'
+elif [ $algos == $lstm_elmo ]; then
+    tokenized_files_updated='Tokenized_Files'
+    fiji_path='/Users/mabo1182/negacy_project/Evaluation_Files/'
 #     scp $eval_path$tokenized_files_updated/* mabo1182@fiji.colorado.edu:$fiji_path$tokenized_files_updated/
 
-#     pmcid_sentence_files_path_updated='PMCID_files_sentences'
+    pmcid_sentence_files_path_updated='PMCID_files_sentences'
 #     scp $eval_path$pmcid_sentence_files_path_updated/* mabo1182@fiji.colorado.edu:$fiji_path$pmcid_sentence_files_path_updated/
 
 
