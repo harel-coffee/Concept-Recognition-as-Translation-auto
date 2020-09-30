@@ -27,13 +27,23 @@ All output folders for all algorithms
 	d. shuffled_ids = an experimental run that scrambles the relationship between concept and ID. Shuffled-ids in the paper. 
 
 	e. alphabetical = an experimental run that alphabetizes the concepts by label and assigns consecutive IDs. Alphabetical-ids in the paper.
+
 4. Evaluation_Files: All of the folders and files for the evaluation pipeline. 
 	
-	a. 
+	a. Articles = the gold standard articles to perform the full concept recognition pipeline on.
 
-	b. 
+	b. Tokenized_Files = the gold standard articles preprocessed into BIO- format as well as BIOBERT format (in the BIOBERT folder)
 
-	c. 
+	c. PMCID_files_sentences and PMCID_files_sentences_EXT = the sentence information for the gold standard articles for both without and with extensions (EXT) respectively.
+
+	d. Results_span_detection = the spans identified from running the span detection models in BIO- format of the gold standard articles.
+
+	e. Concept_Norm_Files = the preprocessed span detection files adding the concept ID information for the concept normalization step by ontology with and without extensions.
+
+	f. Results_concept_norm_files = the resulting prediction files from concept normalization in the format of Open NMT.
+
+	g. concept_system_output = the final output of the full concept recognition run in the bionlp format by span detection model for all ontologies with and without extensions.
+
 5. concept_system_output: The final full system output by MODEL (CRF, LSTM, LSTM_CRF, CHAR_EMBEDDINGS, LSTEM_ELMO, and BIOBERT) and then by ontology with and without extensions. The summary results files are also included: Full_results_all_models.xlsx and Full_results_all_models_EXT.xlsx, as well as results for each span detection model type.
 
 ### CRAFT-3.1.3
