@@ -27,7 +27,14 @@ All output folders for all algorithms
 	d. shuffled_ids = an experimental run that scrambles the relationship between concept and ID. Shuffled-ids in the paper. 
 
 	e. alphabetical = an experimental run that alphabetizes the concepts by label and assigns consecutive IDs. Alphabetical-ids in the paper.
+4. Evaluation_Files: All of the folders and files for the evaluation pipeline. 
+	
+	a. 
 
+	b. 
+
+	c. 
+5. concept_system_output: The final full system output by MODEL (CRF, LSTM, LSTM_CRF, CHAR_EMBEDDINGS, LSTEM_ELMO, and BIOBERT) and then by ontology with and without extensions. The summary results files are also included: Full_results_all_models.xlsx and Full_results_all_models_EXT.xlsx, as well as results for each span detection model type.
 
 ### CRAFT-3.1.3
 Version 3 of the CRAFT corpus that was used for the 2019 CRAFT Shared Task. More details can be found here: https://github.com/UCDenver-ccp/CRAFT/releases/tag/v3.1.3. We use the concept-annotation folder for all annotations. 
