@@ -17,11 +17,17 @@ All output folders for all algorithms
 1. Tokenized Files: All articles by ontology preprocessed into BIO- Format. 
 2. PMCID_files_sentences and PMCID_files_sentences_EXT: All articles by sentence with sentence information and concept annotation information for both the 10 ontologies without and with extensions (EXT) respectively. 
 3. Concept_Norm_Files: All files related to the concept normalization process including the preprocessed files to the prediction files for each ontology with and without extensions. There are 5 different folders within each ontology corresponding to the different runs of Open NMT:
+
 	a. full_files = the token level where all mappings of spans to concepts, even though some are the same string and concept, only occurring in different places in the text. This is the original run used for all training algorithms. Token-ids in the paper.
+
 	b. no_duplicates = the type level where there is one mapping of a given span to a concept regardless of frequency. Type-ids in the paper.
+
 	c. random_ids = an experimental run replacing the concept IDs with random numbers of the same length, drawn without replacement. Random-ids in the paper. 
+
 	d. shuffled_ids = an experimental run that scrambles the relationship between concept and ID. Shuffled-ids in the paper. 
+
 	e. alphabetical = an experimental run that alphabetizes the concepts by label and assigns consecutive IDs. Alphabetical-ids in the paper.
+
 
 ### CRAFT-3.1.3
 Version 3 of the CRAFT corpus that was used for the 2019 CRAFT Shared Task. More details can be found here: https://github.com/UCDenver-ccp/CRAFT/releases/tag/v3.1.3. We use the concept-annotation folder for all annotations. 
