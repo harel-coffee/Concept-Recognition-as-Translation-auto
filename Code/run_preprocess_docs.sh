@@ -29,7 +29,6 @@ excluded_files='11532192,17696610'
 
 ##path to the concept norm file path
 concept_norm_files_path='../Output_Folders/Concept_Norm_Files/'
-
 full_files_path='full_files/'
 
 
