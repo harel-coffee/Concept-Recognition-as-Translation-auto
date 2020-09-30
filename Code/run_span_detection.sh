@@ -19,7 +19,7 @@ tokenized_file_path='../Output_Folders/Tokenized_Files/'
 save_models_path='../Models/SPAN_DETECTION/'
 
 ##the algorithm to use
-algo='LSTM' #CRF, LSTM, LSTM-CRF, char_embeddings, BIOBERT
+algo='LSTM' #CRF, LSTM, LSTM-CRF, char_embeddings, LSTM_ELMO, BIOBERT
 
 ##Corpus we are using
 corpus='CRAFT'
