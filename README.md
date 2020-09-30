@@ -11,6 +11,16 @@ All of the code to generate the knowtator files from CRAFT to BIO- format, and t
 
 ### Models
 All of the models for span detection and concept normalization with separate models for each ontology.
+##### Span Detection
+1. Conditional Random Fields (CRF): a discriminative algorithm that utilizes a combination of arbitrary, overlapping, and agglomerative observation features from boththe past and future to predict the output sequence. 
+2. Bidirectional Long Short Term Memory (BiLSTM): a special form of a recurrent neural network that by default remembers information for long periods of time, allowing for more distant context to be included in the algorithm.
+3. BiLSTM combined with a CRF (BiLSTM-CRF): the architecture of a regular BiLSTM with a CRF as the last layer.
+4. BiLSTM with character embeddings (char-embeddings): a BiLSTM with a different underlying sequence representation based on character embedddings. 
+5. BiLSTM and Embeddings from a Language Model (BiLSTM-ELMo): a BiLSTM with a new underlying sequence representation from the language model ELMo. ELMo is a language model trained on the 1 Billion Word Benchmark set with representation that are contextual, deep, and character based. 
+6. Bidirectional Encoder Representations from Transformers fro Biomedical Text Mining (BioBERT): a biomedical-specific language model pre-trained on biomedical documents from both PubMed abstracts and PubMed Central full-text articles based on the original BERT architecture. 
+
+##### Concept Normalization
+Open-source Toolkit for Neural Machine Translation (OpenNMT) implements stacked BiLSTMs with attention models and learns condensed vector representations of characters from the training data, processing one character at a time.
 
 ### Output Folders
 All output folders for all algorithms
