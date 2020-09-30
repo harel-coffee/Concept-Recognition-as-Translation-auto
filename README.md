@@ -1,13 +1,45 @@
 # Concept-Recognition-as-Translation
 
-All code and models for reformulating Concept Recognition as a machine translation task using the 2019 CRAFT Shared Tasks (https://sites.google.com/view/craft-shared-task-2019/home) for Concept Annotation. 
+All code and models for reformulating Concept Recognition as a machine translation task using the 2019 CRAFT Shared Tasks (https://sites.google.com/view/craft-shared-task-2019/home) for Concept Annotation. We split the task of Concept Recognition into two:
+1. Span Detection (also referred to as named entity recognition or mention detection): to delimit a particluar textual region that refers to some ontoloical concept.
+2. Concept Normalization (also referred to as named entity normalization): to identify the specific ontological concept to which the text span (from span detection) refers to.
 
 ## Contents
 
 ### Code
-All of the code to generate the knowtator files from CRAFT to BIO- format, and tune, train, and test the models that appear in the /Models folder. All of the ten ontologies in CRAFT are processed separately creating a model for each one. We split the task of Concept Recognition into two:
-1. Span Detection (also referred to as named entity recognition or mention detection): to delimit a particluar textual region that refers to some ontoloical concept.
-2. Concept Normalization (also referred to as named entity normalization): to identify the specific ontological concept to which the text span (from span detection) refers to.
+All of the code to generate the knowtator files from CRAFT to BIO- format, and tune, train, test, and evaluate the models that appear in the /Models folder. All of the ten ontologies along with their extension classes, in CRAFT are processed separately creating a model for each one. 
+#####Tuning models
+1. run_preprocess_docs.sh: processes all concept annotations into BIO- format, collect extra ontology concepts from the ontologies that are not in CRAFT, and processes all ontology concepts into OpenNMT format for concept normalization. 
+
+	a. Inputs: File paths to CRAFT (articles and annotations), a list of the ontologies, the output paths, and any excluded files
+
+	b. Outputs: Tokenized_Files/, PMCID_sentence_files/, PMCID_sentence_files_EXT/, and Concept_Norm_Files/
+
+2. run_span_detection.sh: training for all the span detection algorithms. The algorithm is indicated by algo and can be: CRF, LSTM, LSTM-CRF, char_embeddings, LSTM_ELMO, BIOBERT
+	
+	a. Inputs: a list of the ontologies, any excluded files, the biotags to use, file paths to the tokenized files and to where to save the models, the algorithm type along with any hyperparameters, whether or not to save the model, and whether to use crf hyperparameters.
+
+	b. Outputs: Span detection model files in Models/SPAN_DETECTION/.
+
+3. 
+	
+	a. Inputs: 
+
+	b. Outputs: 
+
+4. 
+	
+	a. Inputs: 
+
+	b. Outputs: 
+
+5. 
+	
+	a. Inputs: 
+
+	b. Outputs: 
+
+
 
 ### Models
 All of the models for span detection and concept normalization with separate models for each ontology.
@@ -23,10 +55,10 @@ All of the models for span detection and concept normalization with separate mod
 Open-source Toolkit for Neural Machine Translation (OpenNMT) implements stacked BiLSTMs with attention models and learns condensed vector representations of characters from the training data, processing one character at a time.
 
 ### Output Folders
-All output folders for all algorithms
+All output folders for all algorithms:
 1. Tokenized Files: All articles by ontology preprocessed into BIO- Format. 
 2. PMCID_files_sentences and PMCID_files_sentences_EXT: All articles by sentence with sentence information and concept annotation information for both the 10 ontologies without and with extensions (EXT) respectively. 
-3. Concept_Norm_Files: All files related to the concept normalization process including the preprocessed files to the prediction files for each ontology with and without extensions. There are 5 different folders within each ontology corresponding to the different runs of Open NMT:
+3. Concept_Norm_Files: All files related to the concept normalization process including the preprocessed files to the prediction files for each ontology with and without extensions. There are 5 different folders within each ontology corresponding to the different runs of OpenNMT:
 
 	a. full_files = the token level where all mappings of spans to concepts, even though some are the same string and concept, only occurring in different places in the text. This is the original run used for all training algorithms. Token-ids in the paper.
 
@@ -50,7 +82,7 @@ All output folders for all algorithms
 
 	e. Concept_Norm_Files = the preprocessed span detection files adding the concept ID information for the concept normalization step by ontology with and without extensions.
 
-	f. Results_concept_norm_files = the resulting prediction files from concept normalization in the format of Open NMT.
+	f. Results_concept_norm_files = the resulting prediction files from concept normalization in the format of OpenNMT.
 
 	g. concept_system_output = the final output of the full concept recognition run in the bionlp format by span detection model for all ontologies with and without extensions.
 
