@@ -8,7 +8,7 @@ All code and models for reformulating Concept Recognition as a machine translati
 
 ### Code
 All of the code to generate the knowtator files from CRAFT to BIO- format, and tune, train, test, and evaluate the models that appear in the /Models folder. All of the ten ontologies along with their extension classes, in CRAFT are processed separately creating a model for each one. 
-#####Tuning models
+#####Tuning and Training Models
 1. run_preprocess_docs.sh: processes all concept annotations into BIO- format, collect extra ontology concepts from the ontologies that are not in CRAFT, and processes all ontology concepts into OpenNMT format for concept normalization. 
 
 	a. Inputs: File paths to CRAFT (articles and annotations), a list of the ontologies, the output paths, and any excluded files
@@ -21,29 +21,49 @@ All of the code to generate the knowtator files from CRAFT to BIO- format, and t
 
 	b. Outputs: Span detection model files in Models/SPAN_DETECTION/.
 
-3. 
+3. fiji_run_open_nmt_full.sh: training for concept normalization algorithm OpenNMT for all ontologies. Ideally these are run on GPUs on a supercomputer (the name of ours is fiji, hence the name). Also all models can be trained independently in parallel for each ontology, and thus there is a file for all ontologies following the format: ONTOLOGY_fiji_run_open_nmt_full.sh. Lastly, all experiments for concept normalization can be run with this script as well.
 	
-	a. Inputs: 
+	a. Inputs: one ontology to run, any excluded files, file paths to the tokenized files and the concept normalization files
 
-	b. Outputs: 
+	b. Outputs: OpenNMT model files for each ontology in Models/CONCEPT_NORMALIZATION/. Also prediction files and summary files in Output_Folders/Concept_Norm_Files/
 
-4. 
+##### Evaluation pipeline
+1. run_eval_pipeline_1.sh: preprocess all articles to be word tokenized, run span detection models either locally or on a supercomputer (LSTM-ELMo and BioBERT), process the spans detected for concept normalization using OpenNMT
 	
-	a. Inputs: 
+	a. Inputs: CRAFT folder path for articles to process, all output folders for the evaluation files, list of ontologies to include, a list of the PMC articles to evaluate, if there exists a gold standard or not, the algorithm type 
 
-	b. Outputs: 
+	b. Outputs: spans detected in /Output_Folders/Evaluation_Files/Results_span_detection/ and the input for the concept normalization step from the spans detected in /Output_Folders/Evaluation_Files/Concept_Norm_Files/
 
-5. 
+2. run_eval_open_nmt.sh: Run the concept normalization pipeline (OpenNMT) on a supercomputer for all ontologies. 
 	
-	a. Inputs: 
+	a. Inputs: the folder with the spans detected on the character level, the ontologies of interest, the output folder for the concepts
 
-	b. Outputs: 
+	b. Outputs: concept IDs for the spans detected in /Output_Folders/Evaluation_Files/Results_concept_norm_files/
 
+3. run_eval_pipeline_2.sh: Processes the concept norm files along with the span detection files to create the full concept recognition final output in bionlp format. 
+	
+	a. Inputs: a list of the ontologies of interest, the results of the concept normalization, the output folder, if there exists a gold standard or not, a list of PMC articles to evaluate, whether or not to perform an evaluation analysis
+
+	b. Outputs: the final output of the full concept recognition path in bionlp format, summary metrics of the full pipeline if there is a gold standard
+
+##### CRAFT Evaluation pipeline
+The exact same process as the Evaluation pipeline (steps 1-3 as above) except focusing on the 30 held out documents for the CRAFT shared task evaluation. Add "0_craft" to the beginning of each bash filename for this CRAFT evaluation. Also there is one extra step for this pipeline. 
+
+1. 0_craft_run_eval_pipeline_1.sh
+2. 0_craft_run_eval_open_nmt.sh
+3. 0_craft_run_eval_pipeline_2.sh
+4. 0_craft_run_final_output.sh: process the final results of the full concept recognition pipeline into the format for the final CRAFT Shared Task performance analysis via Docker.
+	
+	a. Inputs: the evaluation path, a list of the ontologies of interest, the full concept recognition output folder, a list of PMC articles to evaluate, the complete final output folder for each span detection algorithm, the span detection algorithm used and the corresponding model name
+
+	b. Outputs: the final output format for the final performance analysis by span detection algorithm for each PMC article
 
 
 ### Models
 All of the models for span detection and concept normalization with separate models for each ontology.
 ##### Span Detection
+We explored 6 different methods for span detection. We also provide the optimal hyperparameterization for each algorithm. 
+
 1. Conditional Random Fields (CRF): a discriminative algorithm that utilizes a combination of arbitrary, overlapping, and agglomerative observation features from boththe past and future to predict the output sequence. 
 2. Bidirectional Long Short Term Memory (BiLSTM): a special form of a recurrent neural network that by default remembers information for long periods of time, allowing for more distant context to be included in the algorithm.
 3. BiLSTM combined with a CRF (BiLSTM-CRF): the architecture of a regular BiLSTM with a CRF as the last layer.
