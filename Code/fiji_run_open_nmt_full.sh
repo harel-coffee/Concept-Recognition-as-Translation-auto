@@ -10,10 +10,10 @@ ont='CHEBI'
 excluded_files='11532192,17696610'
 
 ##Path to the BIO- format tokenized files that were preprocessed
-tokenized_file_path='/Users/mabo1182/negacy_project/Tokenized_Files/'
+tokenized_file_path='/../Output_Folders/Tokenized_Files/'
 
 ##path to the concept norm file path
-concept_norm_files_path='/Users/mabo1182/negacy_project/Concept_Norm_Files'
+concept_norm_files_path='../Output_Folders/Concept_Norm_Files'
 full_files_path='full_files/'
 
 
@@ -44,7 +44,7 @@ echo "CURRENT ONTOLOGY: $ont"
 
 
 ##the filenames of the different experiments for concept normalization 
-declare -a arr=('no_duplicates' 'random_ids' 'shuffled_ids' 'alphabetical')
+declare -a arr=('full files' 'no_duplicates' 'random_ids' 'shuffled_ids' 'alphabetical')
 
 ##the model name for OpenNMT
 declare -a mod=('model-char_step_100000')
