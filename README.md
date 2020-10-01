@@ -4,10 +4,16 @@ All code and models for reformulating Concept Recognition as a machine translati
 1. Span Detection (also referred to as named entity recognition or mention detection): to delimit a particluar textual region that refers to some ontoloical concept.
 2. Concept Normalization (also referred to as named entity normalization): to identify the specific ontological concept to which the text span (from span detection) refers to.
 
+Clone this github repository and follow the instructions within the Code section. The Models section discusses the different models evaluated here. The Output Folders section provides details on how all output from the code is organized and stored. Lastly, the two CRAFT sections are details on the corpus we used for this project. 
+
+To use the models we have here, skip to the Evaluation Pipeline section or the CRAFT Evaluation Pipeline section and edit the bash scripts mentioned. 
+
+To tune and train models from scratch, start from the beginning of the Code section. 
+
 ## Contents
 
 ### Code
-All of the code to generate the knowtator files from CRAFT to BIO- format, and tune, train, test, and evaluate the models that appear in the /Models folder. All of the ten ontologies along with their extension classes, in CRAFT are processed separately creating a model for each one. 
+All of the code to generate BIO- format from the knowtator files from CRAFT, and tune, train, test, and evaluate the models that appear in the /Models folder. All of the ten ontologies along with their extension classes, in CRAFT are processed separately creating a model for each one. 
 #####Tuning and Training Models
 1. run_preprocess_docs.sh: processes all concept annotations into BIO- format, collect extra ontology concepts from the ontologies that are not in CRAFT, and processes all ontology concepts into OpenNMT format for concept normalization. 
 
@@ -27,7 +33,7 @@ All of the code to generate the knowtator files from CRAFT to BIO- format, and t
 
 	b. Outputs: OpenNMT model files for each ontology in Models/CONCEPT_NORMALIZATION/. Also prediction files and summary files in Output_Folders/Concept_Norm_Files/
 
-##### Evaluation pipeline
+##### Evaluation Pipeline
 1. run_eval_pipeline_1.sh: preprocess all articles to be word tokenized, run span detection models either locally or on a supercomputer (LSTM-ELMo and BioBERT), process the spans detected for concept normalization using OpenNMT
 	
 	a. Inputs: CRAFT folder path for articles to process, all output folders for the evaluation files, list of ontologies to include, a list of the PMC articles to evaluate, if there exists a gold standard or not, the algorithm type 
@@ -46,8 +52,8 @@ All of the code to generate the knowtator files from CRAFT to BIO- format, and t
 
 	b. Outputs: the final output of the full concept recognition path in bionlp format, summary metrics of the full pipeline if there is a gold standard
 
-##### CRAFT Evaluation pipeline
-The exact same process as the Evaluation pipeline (steps 1-3 as above) except focusing on the 30 held out documents for the CRAFT shared task evaluation. Add "0_craft" to the beginning of each bash filename for this CRAFT evaluation. Also there is one extra step for this pipeline. 
+##### CRAFT Evaluation Pipeline
+The exact same process as the Evaluation Pipeline (steps 1-3 as above) except focusing on the 30 held out documents for the CRAFT shared task evaluation. Add "0_craft" to the beginning of each bash filename for this CRAFT evaluation. Also there is one extra step for this pipeline. 
 
 1. 0_craft_run_eval_pipeline_1.sh
 2. 0_craft_run_eval_open_nmt.sh
