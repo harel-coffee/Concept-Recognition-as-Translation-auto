@@ -23,7 +23,7 @@ pmcid_sentence_files_path='PMCID_files_sentences/' #the sentence files for the P
 concept_annotation='concept-annotation/' #the concept annotations for CRAFT
 
 ##list of the ontologies of interest
-ontologies="CHEBI,CL,GO_BP,GO_CC,GO_MF,MOP,NCBITaxon,PR,SO,UBERON"
+ontologies="CL"
 
 ##list of the files to run through the concept recognition pipeline
 evaluation_files="11319941,11604102,14624252,14675480,14691534,15018652,15070402,15238161,15328538,15560850,15615595,15619330,15784609,15850489,15882093,16026622,16027110,16410827,16517939,16611361,16787536,16800892,16968134,17029558,17201918,17206865,17465682,17503968,17565376,17677002"

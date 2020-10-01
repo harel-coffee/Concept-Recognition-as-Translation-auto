@@ -32,7 +32,7 @@ gold_standard='True'
 algos='LSTM_ELMO' #CRF, LSTM, LSTM_CRF, CHAR_EMBEDDINGS, LSTM_ELMO, BIOBERT
 
 
-##preprocess the articles to BIO- format to prepare for span detection
+##preprocess the articles (word tokenize) to prepare for span detection
 python3 eval_preprocess_docs.py -craft_path=$craft_path -concept_recognition_path=$concept_recognition_path -eval_path=$eval_path -concept_system_output=$concept_system_output -article_folder=$article_folder -tokenized_files=$tokenized_files -pmcid_sentence_files=$pmcid_sentence_files_path -concept_annotation=$concept_annotation -ontologies=$ontologies -evaluation_files=$evaluation_files --gold_standard=$gold_standard
 
 
@@ -49,8 +49,9 @@ if [ $algos == $biobert ]; then
 
     ## 1. Move ONTOLOGY_test.tsv (where ONTOLOGY are all the ontologies) file to supercomputer for predictions (Fiji)
     ## 2. On the supercomputer run fiji_run_eval_biobert.sh
-    ## 3. Move label_test.txt and token_test.txt locally 
-    ## 4. Run run_eval_biobert_pipepine_1.5.sh to process the results from BioBERT
+    ## 3. Move the biobert models local to save for each ontology
+    ## 4. Move label_test.txt and token_test.txt locally for each ontology
+    ## 5. Run run_eval_biobert_pipepine_1.5.sh to process the results from BioBERT
 
     
 
@@ -59,7 +60,8 @@ elif [ $algos == $lstm_elmo ]; then
     tokenized_files_updated='Tokenized_Files'
     fiji_path='/Output_Folders/Evaluation_Files/'
     pmcid_sentence_files_path_updated='PMCID_files_sentences'
-#     scp $eval_path$pmcid_sentence_files_path_updated/* mabo1182@fiji.colorado.edu:$fiji_path$pmcid_sentence_files_path_updated/
+    
+
     ## 1. Move tokenized files to supercomputer (fiji)
     ## 2. Move sentence files (PMCID_files_sentences/) to supercomputer (fiji)
     ## 3. Run ONTOLOGY_fiji_LSTM_ELMO_span_detection.sh (ONTOLOGY is the ontologies of choice) on supercomputer 
