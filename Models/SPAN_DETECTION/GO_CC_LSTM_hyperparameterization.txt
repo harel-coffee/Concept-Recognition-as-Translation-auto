@@ -1,0 +1,1 @@
+GO_CC	rmsprop	categorical_crossentropy	25	200	106	0.733	0.8	0.779	1
