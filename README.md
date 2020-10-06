@@ -4,7 +4,17 @@ All code and models for reformulating Concept Recognition as a machine translati
 1. Span Detection (also referred to as named entity recognition or mention detection): to delimit a particluar textual region that refers to some ontoloical concept.
 2. Concept Normalization (also referred to as named entity normalization): to identify the specific ontological concept to which the text span (from span detection) refers to.
 
-Clone this github repository and follow the instructions within the Code section. The Models section discusses the different models evaluated here. The Output Folders section provides details on how all output from the code is organized and stored. Lastly, the two CRAFT sections are details on the corpus we used for this project. 
+Clone this github repository. Some files were too large to upload here so we uploaded them to Zenodo. 
+Download all the files and put all the .tar.gz files within the Concept-Recognition-as-Translation/ folder. 
+Then in the command line navigate to the folder you just put them in and run Code/untar_all_files.sh which will untar all of the files (FILENAME) using the command: tar -xzvf FILENAME. This will put all the files in the correct place on your local machine. Do not unzip them using the builtin compression because it will make duplicate copies of everything. The files can be found here: 
+They include:
+1. Output_Folders-Tokenized_Files.tar.gz
+2. Output_Folders-Evaluation_Files.tar.gz
+3. Output_Folders-Concept_Norm_Files.tar.gz
+4. Code-biobert_v1.0_pubmed_pmc.tar.gz
+5. Models-SPAN_DETECTION-ONTOLOGY-BIOBERT.tar.gz (where ONTOLOGY is the ontology of choice - 20 ontologies with a corresponding Biobert file)
+
+Then follow the instructions within the Code section. The Models section discusses the different models evaluated here. The Output Folders section provides details on how all output from the code is organized and stored. Lastly, the two CRAFT sections are details on the corpus we used for this project. 
 
 To use the models we have here, skip to the Evaluation Pipeline section or the CRAFT Evaluation Pipeline section and edit the bash scripts mentioned. 
 
