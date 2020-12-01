@@ -24,7 +24,8 @@ To tune and train models from scratch, start from the beginning of the Code sect
 
 ### Code
 All of the code to generate BIO- format from the knowtator files from CRAFT, and tune, train, test, and evaluate the models that appear in the /Models folder. All of the ten ontologies along with their extension classes, in CRAFT are processed separately creating a model for each one. 
-#####Tuning and Training Models
+
+##### Tuning and Training Models
 1. run_preprocess_docs.sh: processes all concept annotations into BIO- format, collect extra ontology concepts from the ontologies that are not in CRAFT, and processes all ontology concepts into OpenNMT format for concept normalization. 
 
 	a. Inputs: File paths to CRAFT (articles and annotations), a list of the ontologies, the output paths, and any excluded files
