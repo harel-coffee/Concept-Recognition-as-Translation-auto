@@ -1,0 +1,6409 @@
+P R : P 6 2 8 8 6
+P R : Q 7 D B R 3
+P R : 6 0 6 9 6 0 6 0 0
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : 0 1 0 1 6 0 1 1 1
+P R : Q 7 L U D 9
+P R : Q 7 L U D 9
+P R : Q 4 Z V Q 6
+P R : Q 7 L U D 9
+P R : Q 7 L U D 9
+P R : Q 7 L U D 9
+P R : 6 4 4 9 6 4 9 6 0
+P R : Q 7 L D G 6
+P R : Q 7 L U D 9
+P R : Q 6 J H U 5
+P R : Q 6 J I S 6
+P R : Q 6 Z 0 L 6
+P R : Q 9 D B N 6
+P R : Q 6 J I S 6
+P R : 0 7 7 0 6 0 6 0 0
+P R : Q 6 Z 0 L 6
+P R : 6 9 0 9 9 9 9 9 1
+P R : Q 6 J I S 6
+P R : Q 6 Z 0 L 6
+P R : Q 6 Z 0 L 6
+P R : Q 9 D B N 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 Z 0 L 6
+P R : Q 9 D B N 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 C Q C 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 Z 0 L 6
+P R : 6 9 0 9 9 9 9 9 1
+P R : Q 6 Z 0 L 6
+P R : Q 6 J H I 6
+P R : 6 9 0 9 9 7 4 9 4
+P R : Q 6 C G N 6
+P R : Q 6 Z 0 L 6
+P R : Q 6 J H I 6
+P R : Q 6 Z 0 L 6
+P R : Q 6 Z 0 L 6
+P R : Q 9 D B N 6
+P R : Q 6 C G N 6
+P R : Q 6 Z 0 L 6
+P R : Q 6 C G N 6
+P R : Q 4 S Y L 6
+P R : Q 2 J I P 0
+P R : Q 9 D B N 6
+P R : Q 9 D B N 6
+P R : Q 7 J L Z 6
+P R : Q 6 Z 0 L 6
+P R : Q 6 Z 0 L 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 Z 0 L 6
+P R : Q 9 D B N 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 C Q C 6
+P R : 6 7 6 9 6 1 6 6 0
+P R : Q 6 J I S 6
+P R : Q 6 C Q C 6
+P R : Q 6 J I S 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 J I S 6
+P R : Q 6 J H J 9
+P R : Q 6 C Q C 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 J H I 6
+P R : Q 6 J H I 6
+P R : Q 6 J I S 6
+P R : Q 6 J H I 6
+P R : Q 6 J I S 6
+P R : G 5 9 9 9 9
+P R : G 5 9 9 9 9
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : 6 4 4 9 9 9 9 9 1
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 9 D B N 6
+P R : G 5 9 9 9 9
+P R : G 5 9 9 9 9
+P R : G 5 9 9 9 9
+P R : 6 9 0 9 6 0 9 0 0
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 9 D B N 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 9 D B N 6
+P R : Q 6 J I S 6
+P R : Q 9 D B N 6
+P R : Q 6 J I S 6
+P R : Q 9 D B N 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 9 D B N 6
+P R : Q 6 Z 0 L 6
+P R : Q 9 D B N 6
+P R : Q 6 J I S 6
+P R : Q 7 B G E 6
+P R : Q 7 B G W 6
+P R : 6 1 6 9 6 1 1 6 0
+P R : Q 7 B G E 6
+P R : Q 7 B G W 6
+P R : Q 6 J I S 6
+P R : Q 9 D B N 6
+P R : Q 6 Z 0 L 6
+P R : Q 6 J I S 6
+P R : Q 9 D B N 6
+P R : Q 9 D B N 6
+P R : Q 6 J I S 6
+P R : 6 9 0 9 9 9 1 1 1
+P R : 6 9 0 9 9 9 1 1 1
+P R : 5 4 4 4 4 4 4 9 4
+P R : Q 4 V C C 6
+P R : 6 9 0 9 9 9 1 1 1
+P R : Q 7 D B N 6
+P R : 6 7 6 9 6 0 6 0 0
+P R : 6 9 0 9 9 9 1 1 1
+P R : Q 6 J I S 6
+P R : Q 9 D B N 6
+P R : Q 6 J H I 6
+P R : Q 6 J I S 6
+P R : Q 6 J H I 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 4 V C S 6
+P R : 6 1 6 9 6 1 1 6 0
+P R : Q 6 J I S 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : 6 4 4 9 9 9 9 9 1
+P R : Q 6 J I S 6
+P R : Q 6 J H I 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 J H J 9
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 J I S 6
+P R : Q 6 J H U 2
+P R : 6 7 6 9 6 0 6 0 0
+P R : Q 6 C G K 5
+P R : Q 6 C G K 5
+P R : Q 6 0 4 9 9
+P R : Q 6 J H U 2
+P R : 0 7 6 9 9 9 6 0 1
+P R : Q 7 R 5 M 9
+P R : P 6 2 8 0 2
+P R : P 6 2 8 8 6
+P R : 6 9 6 9 9 9 9 9 1
+P R : P 7 0 7 0 9
+P R : 6 9 9 9 9 9 9 9 1
+P R : Q 7 J H I 6
+P R : Q 6 J H U 2
+P R : Q 6 J H U 2
+P R : P 7 0 7 0 9
+P R : 0 7 7 0 6 0 6 0 0
+P R : 5 4 4 9 9 1 4 9 1
+P R : Q 2 J H I 6
+P R : 0 0 0 9 9 0 1 0 0
+P R : Q 6 J H U 2
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 4 D B X 0
+P R : Q 4 D B X 0
+P R : Q 4 D B X 0
+P R : Q 4 D B X 0
+P R : Q 4 D B X 0
+P R : 6 4 7 6 9 6 4 6 0
+P R : 6 7 4 5 6 4 9 6 0
+P R : Q 8 6 4 5 6
+P R : Q 6 S U S 3
+P R : Q 8 6 4 5 6
+P R : Q 6 S U S 3
+P R : Q 8 6 4 5 6
+P R : Q 6 J H U 2
+P R : Q 6 J H U 2
+P R : P 7 0 7 0 9
+P R : Q 6 J H U 2
+P R : Q 6 C G K 5
+P R : P 7 0 7 0 9
+P R : Q 6 C G K 5
+P R : P 6 2 8 0 2
+P R : Q 6 J H U 2
+P R : P 7 0 7 0 9
+P R : Q 6 J H U 2
+P R : Q 6 J H U 2
+P R : Q 6 J H U 2
+P R : P 7 0 7 0 9
+P R : Q 6 C G V 6
+P R : Q 7 R 5 M 9
+P R : Q 6 C G K 5
+P R : Q 6 C G V 6
+P R : Q 7 R 0 M 3
+P R : P 6 2 8 0 2
+P R : P 7 0 7 0 9
+P R : 8 8 8 8 6 8 8 0 0
+P R : 0 7 7 0 6 0 6 0 0
+P R : Q 8 0 4 6 0
+P R : Q 6 J H U 2
+P R : Q 6 J H U 2
+P R : Q 6 J H U 2
+P R : Q 4 D B X 0
+P R : P 6 2 8 0 2
+P R : Q 4 D B X 0
+P R : P 6 2 8 0 2
+P R : Q 6 J H U 2
+P R : Q 2 J H I 6
+P R : 0 0 0 9 9 0 1 0 0
+P R : 0 7 7 9 9 9 1 0 1
+P R : Q 6 S U S 3
+P R : Q 6 S U S 3
+P R : Q 6 J H U 2
+P R : P 6 2 8 0 2
+P R : Q 8 6 4 5 6
+P R : 8 4 8 8 9 8 8 0 0
+P R : Q 4 D B X 0
+P R : Q 8 6 4 5 6
+P R : P 7 0 7 0 9
+P R : Q 6 C G K 5
+P R : 6 7 6 9 6 0 6 0 0
+P R : Q 4 D B X 0
+P R : P 7 0 7 0 9
+P R : 6 9 6 9 9 9 9 9 1
+P R : Q 2 J H I 6
+P R : 5 4 4 9 9 1 4 9 1
+P R : Q 7 R 0 M 3
+P R : 6 9 0 9 9 9 9 9 1
+P R : Q 6 C G K 5
+P R : Q 6 J H U 2
+P R : O 0 7 7 7 7
+P R : 6 6 6 6 6 6 6 6 6
+P R : Q 2 J H I 6
+P R : 0 0 0 9 9 0 1 0 0
+P R : Q 4 D B X 0
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 6 C Q X 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 6 4 5 6
+P R : Q 6 6 4 5 6
+P R : Q 7 B G W 9
+P R : Q 6 4 4 5 6
+P R : Q 7 B G W 9
+P R : Q 7 B G W 9
+P R : Q 7 B G W 9
+P R : Q 8 6 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 6 6 4 5 6
+P R : Q 8 6 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 8 4 2 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q X 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 6 C Q X 6
+P R : Q 8 5 4 5 6
+P R : Q 8 6 4 5 6
+P R : Q 6 6 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 6 4 5 6
+P R : Q 6 6 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 6 C Q X 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : 6 9 6 9 9 1 6 1 0
+P R : Q 7 L U A 9
+P R : Q 7 L U A 9
+P R : Q 7 L U A 9
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 8 5 4 5 6
+P R : Q 6 C Q C 6
+P R : Q 7 L U A 9
+P R : Q 6 C Q C 6
+P R : Q 4 Z 8 L 6
+P R : Q 6 C G N 6
+P R : Q 4 Z 8 L 6
+P R : Q 4 Z 8 L 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 6 C Q X 6
+P R : Q 8 6 4 5 6
+P R : Q 6 6 4 5 6
+P R : Q 4 S Y L 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : 6 6 6 6 6 6 6 6 6
+P R : 6 6 6 6 6 6 6 6 6
+P R : Q 8 5 4 5 6
+P R : Q 6 C Q X 6
+P R : Q 8 6 4 5 6
+P R : Q 4 S Y L 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 6 C Q X 6
+P R : Q 8 5 4 5 6
+P R : Q 6 C Q X 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 6 C Q X 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 6 C Q X 6
+P R : Q 8 5 4 5 6
+P R : Q 6 C Q X 6
+P R : Q 8 5 4 5 6
+P R : Q 6 C Q X 6
+P R : Q 8 5 4 5 6
+P R : Q 6 C Q X 6
+P R : Q 8 5 4 5 6
+P R : Q 6 C Q X 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 6 C Q X 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 6 C Q X 6
+P R : Q 8 6 4 5 6
+P R : Q 4 S Y L 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : P 6 4 4 6 4
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : P 6 4 4 6 4
+P R : P 6 4 4 6 4
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 0 M G C 6
+P R : 0 0 6 9 6 0 6 0 0
+P R : Q 8 5 4 5 6
+P R : 9 7 6 9 6 0 6 0 1
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 0 M G C 6
+P R : 1 7 6 9 6 1 6 3 1
+P R : Q 8 5 4 5 6
+P R : Q 0 M G C 6
+P R : Q 8 5 4 5 6
+P R : 9 7 6 9 6 0 6 0 1
+P R : 9 7 6 9 6 0 6 0 1
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 4 Z 8 L 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 6 C Q C 6
+P R : Q 8 5 4 5 6
+P R : Q 4 S Y L 6
+P R : Q 4 S Y L 6
+P R : Q 6 0 4 6 6
+P R : Q 6 S A A 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 6 C Q X 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 7 L U A 9
+P R : Q 7 L U A 9
+P R : Q 8 5 4 5 6
+P R : Q 4 S Y L 6
+P R : Q 7 L U A 9
+P R : Q 8 5 4 5 6
+P R : Q 4 S Y L 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : P 7 0 8 0 5
+P R : P 7 0 7 0 0
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 7 L U A 5
+P R : Q 6 S A A 8
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : 6 4 4 9 6 4 9 6 0
+P R : Q 8 C A A 9
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 6 C Q X 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 6 4 5 6
+P R : Q 4 S Y L 6
+P R : Q 7 B G W 9
+P R : 9 7 6 9 6 0 6 0 1
+P R : Q 6 C Q X 6
+P R : P 6 4 4 6 4
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : 6 6 6 6 6 6 6 6 6
+P R : Q 8 5 4 5 6
+P R : Q 8 5 4 5 6
+P R : Q 6 C Q X 6
+P R : P 6 4 4 6 4
+P R : Q 8 5 4 5 6
+P R : Q 8 6 4 5 6
+P R : Q 4 S Y L 6
+P R : Q 6 C Q X 6
+P R : Q 8 5 4 5 6
+P R : 1 7 6 9 6 1 6 3 1
+P R : Q 0 M G C 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 6 S U S 3
+P R : Q 4 Z 8 L 6
+P R : Q 6 C Q C 6
+P R : Q 2 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : 0 7 7 1 6 0 1 0 1
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 2 S Y L 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 4 Z 8 L 6
+P R : Q 7 J H I 6
+P R : Q 4 Z 8 L 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 4 Z 8 L 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 6 S U S 3
+P R : Q 7 J H I 6
+P R : Q 6 S U S 3
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 6 C Q C 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 6 S U S 3
+P R : Q 6 S U S 3
+P R : Q 6 S U S 3
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 6 S U S 3
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 4 Z 8 L 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 4 S Y L 6
+P R : Q 4 S Y L 6
+P R : 1 7 7 6 9 6 1 0 1
+P R : Q 4 S Y L 6
+P R : Q 4 S Y L 6
+P R : Q 4 S Y L 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 4 S Y L 6
+P R : Q 4 S Y L 6
+P R : Q 4 S Y L 6
+P R : Q 4 S Y L 6
+P R : Q 4 S Y L 6
+P R : Q 4 S Y L 6
+P R : Q 7 J H I 6
+P R : Q 4 S Y L 6
+P R : Q 4 S Y L 6
+P R : Q 7 J H I 6
+P R : Q 4 S Y L 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 4 S Y L 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 8 0 7 5 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 6 S U S 3
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 6 S U S 3
+P R : Q 4 Z 8 L 6
+P R : Q 6 C Q C 6
+P R : Q 2 J H I 6
+P R : Q 6 S U S 3
+P R : Q 7 J H I 6
+P R : Q 6 S U S 3
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 6 S U S 3
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 6 S U S 3
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 4 Z 8 L 6
+P R : Q 2 J H I 6
+P R : Q 6 C Q C 6
+P R : 6 7 7 1 6 1 6 1 1
+P R : Q 4 Z 8 L 6
+P R : Q 2 J H I 6
+P R : Q 6 S U S 3
+P R : Q 4 Z 8 L 6
+P R : Q 6 S U S 3
+P R : Q 6 C Q C 6
+P R : Q 4 Z 8 L 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 4 Z 8 L 6
+P R : Q 4 Z 8 L 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 4 Z 8 L 6
+P R : Q 2 J H I 6
+P R : Q 7 J H I 6
+P R : Q 2 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 2 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 6 C Q C 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 4 Z 8 L 6
+P R : Q 4 Z 8 L 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 6 C Q C 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 4 Z 8 L 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 S Y I 6
+P R : Q 7 J H I 6
+P R : Q 4 Z 8 L 6
+P R : Q 6 L P L 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 6 C Q C 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 6 S U S 3
+P R : Q 7 J H I 6
+P R : Q 6 S U S 3
+P R : Q 6 S U S 3
+P R : Q 6 S U S 3
+P R : Q 7 J H I 6
+P R : Q 4 Z 8 L 6
+P R : Q 6 S U S 3
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 R 8 P 5
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 4 S Y L 6
+P R : Q 4 S Y L 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : 0 0 0 9 9 9 9 1 0
+P R : Q 6 S U S 3
+P R : Q 6 S U S 3
+P R : Q 6 S U S 3
+P R : Q 4 S I V 6
+P R : Q 6 S U S 3
+P R : Q 7 J H I 6
+P R : Q 8 C Q V 9
+P R : Q 8 0 7 5 6
+P R : Q 6 C Q C 6
+P R : Q 2 J H I 6
+P R : Q 7 J H I 6
+P R : Q 8 0 4 6 0
+P R : Q 4 S Y L 6
+P R : 1 7 7 6 9 6 1 0 1
+P R : Q 7 J H I 6
+P R : 0 7 7 1 6 0 1 0 1
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 6 S U S 3
+P R : Q 7 J H I 6
+P R : Q 6 S U S 3
+P R : Q 6 S U S 3
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 4 S Y L 6
+P R : Q 4 S Y L 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 R 8 P 5
+P R : O 9 9 5 5 5
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 4 S Y L 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 4 S Y L 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 4 S Y L 6
+P R : Q 4 S Y L 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 8 0 7 5 6
+P R : Q 7 J H I 6
+P R : Q 8 0 7 5 6
+P R : Q 6 S U S 3
+P R : Q 6 S U S 3
+P R : Q 7 J H I 6
+P R : Q 6 S U S 3
+P R : Q 6 S U S 3
+P R : Q 4 S I V 6
+P R : Q 6 C Q C 6
+P R : Q 2 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 4 Z 8 L 6
+P R : Q 6 S U S 3
+P R : Q 6 C Q C 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 6 B G W 2
+P R : Q 0 L D R 7
+P R : Q 6 C G V 6
+P R : Q 6 B G W 2
+P R : Q 0 L D R 7
+P R : Q 6 C G V 6
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 C G V 6
+P R : Q 0 L D R 7
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 7 L U D 9
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 7 L U D 9
+P R : Q 6 B G W 2
+P R : Q 7 L U D 9
+P R : Q 6 6 4 6 6
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 7 L U D 9
+P R : Q 7 L U D 9
+P R : Q 7 L U D 9
+P R : Q 6 B G W 2
+P R : Q 7 L U D 9
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 7 L U D 9
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 7 L U D 9
+P R : Q 7 L U D 9
+P R : Q 7 J L Z 6
+P R : Q 7 J L Z 6
+P R : Q 7 L U D 9
+P R : Q 6 6 4 6 6
+P R : Q 7 L U D 9
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : Q 0 L U D 9
+P R : Q 0 L U D 9
+P R : 6 7 7 6 9 6 1 6 0
+P R : Q 0 L U D 9
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : 6 9 0 9 9 1 1 1 1
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : 6 9 0 9 9 1 1 1 1
+P R : 6 9 0 9 9 1 1 1 1
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : Q 0 L U D 9
+P R : Q 0 L U D 9
+P R : Q 0 L U D 9
+P R : Q 0 L U D 9
+P R : Q 0 L U D 9
+P R : Q 0 L U D 9
+P R : 6 4 4 9 6 4 9 6 0
+P R : Q 0 L U D 9
+P R : 0 1 0 1 6 0 6 0 0
+P R : Q 6 D B N 6
+P R : Q 0 L U D 9
+P R : Q 0 L U D 9
+P R : Q 0 L U D 9
+P R : 6 7 7 6 9 7 6 6 0
+P R : Q 0 L U D 9
+P R : Q 0 L U D 9
+P R : Q 7 L D G 6
+P R : Q 0 L U D 9
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : Q 0 L U D 9
+P R : 6 7 7 6 9 6 1 6 0
+P R : Q 0 L U D 9
+P R : Q 0 L U D 9
+P R : Q 0 L U D 9
+P R : Q 6 D B N 6
+P R : Q 0 L U D 9
+P R : Q 0 L U D 9
+P R : Q 0 L U D 9
+P R : Q 0 L U D 9
+P R : Q 7 B G W 9
+P R : Q 8 0 4 5 0
+P R : Q 7 B G W 9
+P R : Q 6 D B N 6
+P R : Q 7 B G W 9
+P R : Q 0 F F F 6
+P R : Q 0 L U D 9
+P R : Q 0 L U D 9
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : Q 7 J H I 6
+P R : Q 0 L U D 9
+P R : Q 7 J H I 6
+P R : Q 6 D B N 6
+P R : Q 6 D B N 6
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : 0 1 0 1 6 0 6 0 0
+P R : Q 6 C Q U 5
+P R : Q 3 L D G 6
+P R : Q 6 C W U 4
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : Q 4 N C C 9
+P R : P 7 4 4 4 9
+P R : Q 6 C W U 4
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : Q 0 L U D 9
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : Q 0 L U D 9
+P R : Q 0 L U D 9
+P R : Q 8 0 4 6 0
+P R : Q 3 Y D R 9
+P R : Q 0 L U D 9
+P R : 6 1 6 9 9 9 1 1 1
+P R : P 7 4 4 4 9
+P R : Q 6 C Q U 5
+P R : 0 7 4 4 4 4 4 9 4
+P R : Q 6 C Q U 5
+P R : Q 3 L D G 6
+P R : Q 6 C W U 4
+P R : Q 0 L U D 9
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : Q 8 0 4 6 0
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : Q 0 L U D 9
+P R : Q 0 L U D 9
+P R : Q 7 B G W 9
+P R : Q 8 0 4 5 0
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : Q 0 L U D 9
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : Q 7 B G W 9
+P R : Q 8 0 4 5 0
+P R : Q 7 B G W 9
+P R : Q 7 B G W 9
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : 6 9 0 9 9 1 1 1 1
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : 6 9 0 9 9 1 1 1 1
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : 6 9 0 9 9 1 1 1 1
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : 6 9 0 9 9 1 1 1 1
+P R : Q 6 C Q U 5
+P R : 6 9 0 9 9 1 1 1 1
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : 6 9 0 9 9 1 1 1 1
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : 6 9 0 9 9 1 1 1 1
+P R : Q 6 C Q U 5
+P R : 9 7 7 9 9 9 9 9 9
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : 6 9 0 9 9 1 1 1 1
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : 6 9 0 9 9 1 1 1 1
+P R : Q 0 L U D 9
+P R : 6 9 0 9 9 1 1 1 1
+P R : 6 9 0 9 9 1 1 1 1
+P R : 6 9 0 9 9 1 1 1 1
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : 6 1 6 9 6 1 1 6 0
+P R : Q 6 C Q U 5
+P R : Q 6 C W U 4
+P R : Q 3 L D G 6
+P R : Q 6 C W U 4
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : 6 4 4 9 6 4 9 6 0
+P R : Q 6 C Q A 9
+P R : Q 0 L U D 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : Q 0 L U D 9
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : 6 9 0 9 9 1 1 1 1
+P R : Q 0 L U D 9
+P R : Q 0 L U D 9
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : 6 9 0 9 9 1 1 1 1
+P R : Q 8 6 4 6 6
+P R : Q 2 R 7 M 3
+P R : Q 0 L U D 9
+P R : Q 7 L D G 6
+P R : Q 7 J H I 6
+P R : Q 6 D B N 6
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : 6 1 6 9 6 1 1 6 0
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : Q 0 L U D 9
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : Q 0 L U D 9
+P R : Q 0 L U D 9
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : Q 8 0 4 6 0
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : Q 6 D B N 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 7 J L Z 6
+P R : Q 8 0 4 6 0
+P R : Q 0 L U D 9
+P R : 0 1 7 1 6 0 6 0 0
+P R : 8 4 4 9 9 0 9 0 0
+P R : Q 0 L U D 9
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : Q 0 L U D 9
+P R : 0 1 7 1 6 0 6 0 0
+P R : Q 0 L U D 9
+P R : 6 9 0 9 9 1 1 1 1
+P R : 6 9 0 9 9 1 1 1 1
+P R : Q 6 C Q U 5
+P R : Q 6 C Q U 5
+P R : 6 4 4 9 6 4 9 6 0
+P R : Q 6 C Q A 9
+P R : Q 6 C Q C 6
+P R : 0 0 4 4 4 4 4 4 4
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : 6 4 4 9 6 4 9 6 0
+P R : Q 6 C Q A 9
+P R : Q 7 C Z W 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : 0 0 0 9 9 0 1 0 0
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : 0 0 0 9 9 0 1 0 0
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : 0 0 0 9 9 0 1 0 0
+P R : Q 6 C Q A 9
+P R : 0 0 0 9 9 0 1 0 0
+P R : Q 6 C Q A 9
+P R : 0 0 0 9 9 0 1 0 0
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : 1 7 7 1 6 1 6 1 0
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q C 6
+P R : Q 4 L D D 9
+P R : 0 0 4 4 4 4 4 4 4
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 4 L D D 9
+P R : 0 0 4 4 4 4 4 4 4
+P R : Q 6 C Q A 9
+P R : Q 4 L D D 9
+P R : 0 0 4 4 4 4 4 4 4
+P R : Q 6 C Q A 9
+P R : Q 4 L D D 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 0 4 7 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q A 9
+P R : Q 6 0 4 7 6
+P R : Q 6 C Q C 6
+P R : Q 6 0 4 7 6
+P R : Q 6 C Q C 6
+P R : Q 6 0 4 7 6
+P R : Q 6 0 4 7 6
+P R : Q 6 C Q A 9
+P R : Q 6 0 4 7 6
+P R : Q 6 C Q A 9
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q C 6
+P R : Q 6 0 4 7 6
+P R : Q 6 0 4 7 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q A 9
+P R : Q 6 0 4 7 6
+P R : Q 6 C Q C 6
+P R : 6 7 7 6 9 7 4 6 0
+P R : Q 6 0 4 7 6
+P R : Q 6 0 4 7 6
+P R : Q 6 C Q C 6
+P R : Q 6 0 4 7 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 0 4 7 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q A 9
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q A 9
+P R : Q 6 C Q C 6
+P R : Q 6 0 4 7 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 0 4 7 6
+P R : Q 6 0 4 7 6
+P R : Q 6 0 4 7 6
+P R : Q 6 0 4 7 6
+P R : Q 6 0 4 7 6
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q C 6
+P R : Q 6 0 4 7 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q A 9
+P R : Q 6 0 4 7 6
+P R : Q 6 0 4 7 6
+P R : Q 6 0 4 7 6
+P R : Q 6 C Q C 6
+P R : Q 6 0 4 7 6
+P R : Q 6 0 4 7 6
+P R : Q 6 0 4 7 6
+P R : Q 6 0 4 7 6
+P R : Q 6 C Q A 9
+P R : Q 6 C Q C 6
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 0 4 7 6
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 0 4 7 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 7 J L Z 6
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 7 C Z W 9
+P R : Q 4 Z U Y 7
+P R : Q 6 0 4 7 6
+P R : Q 6 C Q A 9
+P R : Q 6 C Q C 6
+P R : Q 6 C Q A 9
+P R : P 1 7 4 0 1
+P R : Q 6 C Q A 9
+P R : 0 7 7 9 9 9 1 0 1
+P R : Q 6 C Q A 9
+P R : 0 0 0 9 9 0 1 0 0
+P R : 0 0 0 9 9 0 1 0 0
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 C Q A 9
+P R : Q 6 0 4 7 6
+P R : Q 6 C Q A 9
+P R : P 7 4 4 6 6
+P R : 0 7 7 0 6 0 6 0 0
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : 0 7 7 0 6 0 6 0 0
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : 6 9 0 9 9 1 6 1 0
+P R : Q 6 0 4 2 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : 3 4 4 9 9 4 9 9 4
+P R : Q 6 C Q C 6
+P R : 6 7 6 9 6 0 6 0 0
+P R : P 7 7 4 6 6
+P R : 6 4 4 5 6 4 4 5 4
+P R : P 7 0 0 0 4
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : 6 4 4 6 9 6 4 6 0
+P R : Q 2 J H I 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : Q 6 0 4 2 6
+P R : P 7 4 4 6 6
+P R : Q 6 0 4 2 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : Q 6 0 4 2 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : 1 4 4 9 9 1 4 9 1
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 7 4 6 2
+P R : 6 9 4 9 9 9 1 1 1
+P R : Q 6 C Q C 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 7 4 6 6
+P R : P 7 7 4 6 6
+P R : P 7 7 4 6 6
+P R : P 7 7 4 6 6
+P R : P 7 0 0 0 4
+P R : P 7 0 0 0 4
+P R : P 7 0 0 0 4
+P R : P 7 0 0 0 4
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : Q 2 J H I 6
+P R : Q 6 C Q C 6
+P R : 3 4 4 9 9 4 9 9 4
+P R : P 7 4 4 6 6
+P R : 0 7 7 0 6 0 6 0 0
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 0 0 0 4
+P R : 6 4 4 5 6 4 4 5 4
+P R : Q 6 0 4 2 6
+P R : 6 9 0 9 9 1 6 1 0
+P R : Q 2 J H I 6
+P R : 6 4 4 6 9 6 4 6 0
+P R : P 7 7 4 6 6
+P R : 6 7 6 9 6 0 6 0 0
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : Q 6 0 4 2 6
+P R : P 7 4 4 6 6
+P R : Q 6 0 4 2 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : Q 2 J H I 6
+P R : P 7 4 4 6 6
+P R : Q 2 J H I 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : Q 2 J H I 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : P 7 4 4 6 6
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : Q 8 S Y L 6
+P R : Q 3 L D R 7
+P R : P 7 0 4 0 2
+P R : Q 7 J H I 6
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : P 4 4 2 0 4
+P R : Q 6 J H U 2
+P R : P 4 4 2 0 4
+P R : Q 6 J H U 2
+P R : P 4 4 2 0 4
+P R : 6 9 0 9 9 9 9 1 0
+P R : P 4 4 2 0 4
+P R : 6 9 0 9 9 9 9 1 0
+P R : Q 6 J H U 2
+P R : P 4 4 2 0 4
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : Q 7 J H I 6
+P R : 6 9 0 9 9 9 9 1 0
+P R : P 7 0 4 0 2
+P R : 6 9 0 9 9 9 9 1 0
+P R : P 4 4 2 0 4
+P R : 6 9 0 9 9 9 9 1 0
+P R : Q 8 S Y L 6
+P R : Q 3 L D R 7
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : Q 7 J H I 6
+P R : P 4 4 2 0 4
+P R : P 7 7 0 0 6
+P R : P 4 4 4 0 4
+P R : P 4 4 2 0 4
+P R : 6 9 0 9 9 9 9 1 0
+P R : P 4 4 4 0 4
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : Q 6 J H U 2
+P R : P 4 4 2 0 4
+P R : P 4 4 2 0 4
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 7 7 5 9 1 1 1 1
+P R : Q 2 J H I 6
+P R : 6 4 4 6 9 6 4 6 0
+P R : Q 2 J H I 6
+P R : 6 9 0 9 9 9 9 1 0
+P R : P 4 4 2 0 4
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : P 4 4 2 0 4
+P R : Q 6 J H U 2
+P R : P 4 4 2 0 4
+P R : 6 9 0 9 9 9 9 1 0
+P R : P 4 4 2 0 4
+P R : 6 9 0 9 9 9 9 1 0
+P R : P 4 4 2 0 4
+P R : 6 9 0 9 9 9 9 1 0
+P R : Q 6 J H U 2
+P R : P 4 4 2 0 4
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : Q 6 J H U 2
+P R : P 4 4 2 0 4
+P R : 6 9 0 9 9 9 9 1 0
+P R : Q 6 J H U 2
+P R : P 4 4 2 0 4
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : P 4 4 2 0 4
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : Q 6 J H U 2
+P R : 6 9 0 9 9 9 9 1 0
+P R : Q 6 J H U 2
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 7 7 5 9 1 1 1 1
+P R : Q 6 J H U 2
+P R : P 4 4 2 0 4
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : Q 6 J H U 2
+P R : P 4 4 2 0 4
+P R : Q 6 J H U 2
+P R : P 4 4 2 0 4
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 7 7 5 9 1 1 1 1
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 4 4 6 9 6 4 6 0
+P R : Q 2 J H I 6
+P R : Q 6 J H U 2
+P R : P 4 4 2 0 4
+P R : 6 9 0 9 9 9 9 1 0
+P R : Q 8 0 7 5 6
+P R : P 8 0 8 8 4
+P R : 6 9 0 9 9 9 9 1 0
+P R : Q 6 J H U 2
+P R : P 4 4 2 0 4
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : P 4 4 2 0 4
+P R : Q 8 S Y L 6
+P R : Q 3 L D R 7
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : Q 4 S Y L 6
+P R : Q 8 S I U 2
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : P 4 4 2 0 4
+P R : P 4 4 2 0 4
+P R : Q 6 0 4 7 6
+P R : P 4 4 2 0 4
+P R : Q 3 L D R 7
+P R : Q 3 L D R 7
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : Q 8 S Y L 6
+P R : Q 3 L D R 7
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : P 4 4 2 0 4
+P R : Q 6 J H U 2
+P R : P 4 4 2 0 4
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : Q 6 J H U 2
+P R : P 4 4 2 0 4
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : Q 6 J H U 2
+P R : P 4 4 2 0 4
+P R : 6 9 0 9 9 9 9 1 0
+P R : Q 6 J H U 2
+P R : P 4 4 2 0 4
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : Q 6 J H U 2
+P R : P 4 4 2 0 4
+P R : Q 2 J H I 6
+P R : Q 6 J H U 2
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 7 7 5 9 1 1 1 1
+P R : Q 2 J H I 6
+P R : Q 6 J H U 2
+P R : P 4 4 2 0 4
+P R : 6 9 0 9 9 9 9 1 0
+P R : 6 9 0 9 9 9 9 1 0
+P R : P 4 4 2 0 4
+P R : 6 9 0 9 9 9 9 1 0
+P R : P 4 4 2 0 4
+P R : P 4 4 2 0 4
+P R : Q 2 J H I 6
+P R : 6 4 4 9 9 9 1 0 1
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : 6 4 4 9 9 9 1 0 1
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 7 B G W 2
+P R : Q 7 B G W 2
+P R : Q 7 B G W 2
+P R : Q 7 J K F 6
+P R : Q 7 J H I 6
+P R : Q 7 B G W 2
+P R : Q 7 B G W 2
+P R : Q 7 J K F 6
+P R : Q 7 B G W 2
+P R : Q 7 B G W 2
+P R : Q 7 B G W 2
+P R : Q 7 B G W 2
+P R : Q 7 J K F 6
+P R : Q 7 B G W 2
+P R : Q 7 J K F 6
+P R : Q 7 J K F 6
+P R : Q 7 J K F 6
+P R : Q 7 B G W 2
+P R : Q 7 J K F 6
+P R : Q 7 J K F 6
+P R : Q 7 B G W 2
+P R : Q 7 B G W 2
+P R : Q 7 B G W 2
+P R : Q 2 J H I 6
+P R : 6 4 4 9 9 9 1 0 1
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : 6 4 4 9 9 9 1 0 1
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 7 B G W 2
+P R : Q 7 J K F 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : 1 1 1 1 1 1 1 1 1
+P R : 1 1 1 1 1 1 1 1 1
+P R : 1 1 1 1 1 1 1 1 1
+P R : 1 1 1 1 1 1 1 1 1
+P R : 1 1 1 1 1 1 1 1 1
+P R : 1 1 1 1 1 1 1 1 1
+P R : Q 7 J L Z 6
+P R : 1 1 1 1 1 1 1 1 1
+P R : 1 1 0 1 9 1 1 1 1
+P R : 1 1 1 1 1 1 1 1 1
+P R : 1 1 1 1 1 1 1 1 1
+P R : P 6 4 3 6 5
+P R : P 6 4 3 6 5
+P R : P 6 4 3 6 5
+P R : P 6 4 3 6 5
+P R : P 6 4 3 6 5
+P R : P 6 4 3 6 5
+P R : P 6 4 3 6 5
+P R : P 6 4 3 6 5
+P R : P 6 4 3 6 5
+P R : 1 1 1 1 1 1 1 1 1
+P R : P 6 4 3 6 5
+P R : P 6 4 3 6 5
+P R : P 6 4 3 6 5
+P R : Q 8 0 4 7 6
+P R : Q 8 0 4 7 6
+P R : P 6 4 3 6 5
+P R : P 6 4 3 6 5
+P R : P 6 4 3 6 5
+P R : P 6 4 3 6 5
+P R : P 6 4 3 6 5
+P R : P 6 4 3 6 5
+P R : P 6 4 3 6 5
+P R : P 6 4 3 6 5
+P R : P 6 4 3 6 5
+P R : P 6 4 3 6 5
+P R : P 6 4 3 6 5
+P R : P 6 4 3 6 5
+P R : 1 1 1 1 1 1 1 1 1
+P R : P 6 4 3 6 5
+P R : P 6 4 3 6 5
+P R : P 6 4 3 6 5
+P R : P 6 4 3 6 5
+P R : P 6 4 3 6 5
+P R : P 6 4 3 6 5
+P R : 1 1 1 1 1 1 1 1 1
+P R : P 6 4 3 6 5
+P R : 1 1 0 1 9 1 1 1 1
+P R : P 6 4 3 6 5
+P R : P 6 4 3 6 5
+P R : 1 1 0 1 9 1 1 1 1
+P R : P 6 4 3 6 5
+P R : P 6 4 3 6 5
+P R : 1 1 0 1 9 1 1 1 1
+P R : P 6 4 3 6 5
+P R : P 6 4 3 6 5
+P R : P 6 4 3 6 5
+P R : P 6 4 3 6 5
+P R : P 6 4 3 6 5
+P R : P 6 4 3 6 5
+P R : P 6 4 3 6 5
+P R : P 6 4 3 6 5
+P R : Q 8 0 4 7 6
+P R : Q 8 0 4 7 6
+P R : P 6 4 3 6 5
+P R : P 6 4 3 6 5
+P R : P 6 4 3 6 5
+P R : P 6 4 3 6 5
+P R : P 6 4 3 6 5
+P R : P 6 4 3 6 5
+P R : P 6 4 3 6 5
+P R : P 6 4 3 6 5
+P R : P 6 4 3 6 5
+P R : P 6 4 3 6 5
+P R : P 6 4 3 6 5
+P R : P 6 4 3 6 5
+P R : P 6 4 3 6 5
+P R : 6 9 4 9 9 9 1 1 1
+P R : 6 9 4 9 9 9 1 1 1
+P R : 6 9 4 9 9 9 1 1 1
+P R : 4 4 4 1 6 4 4 4 4
+P R : Q 7 J L Z 6
+P R : 4 4 4 1 6 4 4 4 4
+P R : Q 7 J L Z 6
+P R : Q 7 J L Z 6
+P R : Q 7 J L Z 6
+P R : 6 9 4 9 9 9 1 1 1
+P R : 6 9 4 9 9 9 1 1 1
+P R : 4 9 4 9 9 9 9 1 1
+P R : 4 4 4 1 6 4 4 4 4
+P R : 4 9 4 9 9 9 9 1 1
+P R : 4 4 4 1 6 4 4 4 4
+P R : 4 9 4 9 9 9 9 1 1
+P R : 4 4 4 1 6 4 4 4 4
+P R : 6 9 4 9 9 9 1 1 1
+P R : 6 9 4 9 9 9 1 1 1
+P R : 6 9 4 9 9 9 1 1 1
+P R : 6 9 4 9 9 9 1 1 1
+P R : 6 9 4 9 9 9 1 1 1
+P R : 6 9 4 9 9 9 1 1 1
+P R : 6 9 4 9 9 9 1 1 1
+P R : 6 9 4 9 9 9 1 1 1
+P R : 6 9 4 9 9 9 1 1 1
+P R : 6 9 4 9 9 9 1 1 1
+P R : 6 9 4 9 9 9 1 1 1
+P R : 6 9 4 9 9 9 1 1 1
+P R : 6 9 4 9 9 9 1 1 1
+P R : 6 9 4 9 9 9 1 1 1
+P R : 6 9 4 9 9 9 1 1 1
+P R : 6 9 4 9 9 9 1 1 1
+P R : Q 2 S Y L 6
+P R : 6 1 6 9 9 1 1 1 1
+P R : Q 6 6 4 6 6
+P R : 6 9 4 9 9 9 1 1 1
+P R : 0 7 7 1 6 0 6 0 0
+P R : 6 9 4 9 9 9 1 1 1
+P R : 6 9 4 9 9 9 1 1 1
+P R : 6 9 4 9 9 9 1 1 1
+P R : 6 9 4 9 9 9 1 1 1
+P R : 6 9 4 9 9 9 1 1 1
+P R : 6 9 4 9 9 9 1 1 1
+P R : 6 9 4 9 9 9 1 1 1
+P R : 6 9 4 9 9 9 1 1 1
+P R : 6 9 4 9 9 9 1 1 1
+P R : 4 9 4 9 9 9 9 1 1
+P R : 6 9 4 9 9 9 1 1 1
+P R : 4 9 4 9 9 9 9 1 1
+P R : 6 9 4 9 9 9 1 1 1
+P R : 6 9 4 9 9 9 1 1 1
+P R : 6 9 4 9 9 9 1 1 1
+P R : 4 4 4 1 6 4 4 4 4
+P R : 6 9 4 9 9 9 1 1 1
+P R : 0 7 7 1 6 0 6 0 0
+P R : 0 7 7 1 6 0 6 0 0
+P R : 6 9 4 9 9 9 1 1 1
+P R : Q 7 J L Z 6
+P R : Q 7 J L Z 6
+P R : 6 9 4 9 9 9 1 1 1
+P R : 6 9 4 9 9 9 1 1 1
+P R : 6 9 4 9 9 9 1 1 1
+P R : 4 9 4 9 9 9 9 1 1
+P R : 6 9 4 9 9 9 1 1 1
+P R : 6 9 4 9 9 9 1 1 1
+P R : 4 4 4 1 6 4 4 4 4
+P R : 6 9 4 9 9 9 1 1 1
+P R : 6 9 4 9 9 9 1 1 1
+P R : 6 9 4 9 9 9 1 1 1
+P R : 6 9 4 9 9 9 1 1 1
+P R : 6 9 4 9 9 9 1 1 1
+P R : 6 9 4 9 9 9 1 1 1
+P R : 6 7 7 5 6 7 4 6 0
+P R : 6 7 6 9 9 9 6 0 1
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : 6 7 6 9 9 9 6 0 1
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : 6 7 6 9 9 9 6 0 1
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 3 L D D 3
+P R : Q 3 L D D 3
+P R : Q 3 L D D 3
+P R : P 9 9 9 9 9
+P R : Q 5 K K K 5
+P R : Q 5 K K K 5
+P R : Q 5 K K K 5
+P R : 6 7 6 9 9 9 6 0 1
+P R : 6 7 6 9 9 9 6 0 1
+P R : 6 3 6 9 9 1 6 1 0
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : 6 4 4 9 9 9 9 9 1
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 3 L D D 3
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : 6 7 6 9 6 0 6 0 0
+P R : 6 7 6 9 9 9 6 0 1
+P R : Q 5 L D G 8
+P R : 6 7 6 9 9 9 6 0 1
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : 0 7 6 9 9 9 9 1 1
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : 6 7 6 9 9 9 6 0 1
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : 6 1 6 9 9 9 1 1 1
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : 6 7 6 9 9 9 6 0 1
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : 6 7 6 9 9 9 6 0 1
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : 6 3 6 9 9 1 6 1 0
+P R : Q 5 L D G 8
+P R : 6 7 6 9 9 9 6 0 1
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : 6 7 6 9 9 9 6 0 1
+P R : Q 7 C W U 4
+P R : 0 7 6 9 9 9 6 0 1
+P R : Q 5 L D G 8
+P R : 6 7 6 9 9 9 6 0 1
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 3 L D D 3
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 3 L D D 3
+P R : Q 5 L D G 8
+P R : Q 7 L D G 6
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 7 L D G 6
+P R : Q 5 L D G 8
+P R : 6 1 6 9 9 1 6 1 1
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 3 L D D 3
+P R : Q 5 L D G 8
+P R : 6 7 7 6 9 7 4 6 0
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : P 7 2 8 0 6
+P R : P 7 7 4 6 2
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : 6 4 4 9 9 9 9 9 1
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : 6 1 6 9 9 9 1 1 1
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : 6 4 4 9 9 9 9 9 1
+P R : Q 5 L D G 8
+P R : 6 4 4 9 9 9 9 9 1
+P R : 6 1 6 9 9 9 1 1 1
+P R : Q 5 L D G 8
+P R : Q 5 L D G 8
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 7 L S W 2
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 7 L U D 9
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 7 L U D 9
+P R : Q 3 S Y G 7
+P R : Q 7 B G W 9
+P R : Q 3 S Y G 7
+P R : Q 7 B G W 9
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 7 L S W 2
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 7 L S W 2
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 7 L S W 2
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 7 L S W 2
+P R : Q 3 S Y L 7
+P R : Q 7 L S W 2
+P R : Q 3 S J Q 6
+P R : 4 7 4 8 4 4 4 5 4
+P R : Q 9 S Y G 7
+P R : Q 9 S Y G 7
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : 6 1 4 1 6 1 4 6 0
+P R : Q 6 6 4 6 6
+P R : Q 3 L D G 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 7 L U D 9
+P R : Q 3 S Y G 7
+P R : Q 3 S Y G 7
+P R : Q 7 L U D 9
+P R : Q 7 L U D 9
+P R : Q 3 S Y G 7
+P R : Q 3 S J Q 6
+P R : Q 3 S Y G 7
+P R : Q 7 L U D 9
+P R : Q 7 L U D 9
+P R : Q 3 S J Q 6
+P R : Q 7 L U D 9
+P R : Q 7 L U D 9
+P R : Q 3 S J Q 6
+P R : Q 7 L U D 9
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 7 L U D 9
+P R : Q 3 S J Q 6
+P R : Q 7 L U D 9
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 7 L U D 9
+P R : Q 7 L U D 9
+P R : Q 3 S J Q 6
+P R : Q 7 L U D 9
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 7 L U D 9
+P R : Q 3 S J Q 6
+P R : Q 7 B G W 9
+P R : Q 7 L D G 6
+P R : Q 7 B G W 9
+P R : Q 3 S Y G 7
+P R : Q 7 L D G 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S Y L 7
+P R : Q 7 L S W 2
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S Y L 7
+P R : Q 3 S Y L 7
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S Y L 7
+P R : Q 3 S Y L 7
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S Y L 7
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : 0 7 7 0 6 0 6 0 0
+P R : 0 9 9 9 9 9 7 0 0
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : 0 9 9 9 9 9 7 0 0
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 7 L U D 9
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 7 L U D 9
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 6 B G W 2
+P R : Q 3 S Y G 7
+P R : Q 8 5 7 5 6
+P R : Q 3 S Y G 7
+P R : Q 3 S J Q 6
+P R : Q 3 S Y G 7
+P R : Q 3 S Y G 7
+P R : Q 7 L D G 6
+P R : Q 3 S J Q 6
+P R : Q 3 S Y G 7
+P R : Q 3 S Y G 7
+P R : Q 7 L D G 6
+P R : Q 7 B G W 9
+P R : Q 7 L U D 9
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 9 S Y G 7
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S Y L 7
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 7 L D G 6
+P R : Q 3 L D G 6
+P R : Q 7 L U D 9
+P R : Q 3 S Y G 7
+P R : Q 9 S Y G 7
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 7 L S W 2
+P R : Q 7 B G W 9
+P R : 0 9 9 9 9 9 7 0 0
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S Y G 7
+P R : Q 7 L U D 9
+P R : Q 3 S J Q 6
+P R : Q 3 S Y G 7
+P R : Q 7 L U D 9
+P R : Q 7 L U D 9
+P R : Q 3 S J Q 6
+P R : Q 7 L U D 9
+P R : Q 3 S J Q 6
+P R : Q 7 L U D 9
+P R : Q 3 S J Q 6
+P R : Q 7 L U D 9
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 7 L U D 9
+P R : Q 7 L U D 9
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 L D G 6
+P R : Q 7 L D G 6
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : 0 9 9 9 9 9 7 0 0
+P R : 0 7 7 0 6 0 6 0 0
+P R : Q 9 S Y G 7
+P R : 4 7 4 8 4 4 4 5 4
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : O 9 9 5 5 5
+P R : Q 7 R 8 P 5
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 9 S Y G 7
+P R : Q 3 L D G 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 7 L U D 9
+P R : Q 3 S Y G 7
+P R : Q 3 S J Q 6
+P R : Q 7 L U D 9
+P R : Q 3 S J Q 6
+P R : Q 7 L U D 9
+P R : Q 7 L U D 9
+P R : Q 3 S J Q 6
+P R : Q 7 L U D 9
+P R : Q 3 S J Q 6
+P R : Q 7 B G W 9
+P R : Q 3 S J Q 6
+P R : Q 7 L D G 6
+P R : Q 3 S Y L 7
+P R : Q 7 L S W 2
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 7 L S W 2
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 7 L S W 2
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : 0 9 9 9 9 9 7 0 0
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S Y L 7
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 7 B G W 9
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : Q 3 S Y L 7
+P R : Q 3 S J Q 6
+P R : Q 3 S J Q 6
+P R : 0 7 7 5 6 4 5 5 5
+P R : Q 6 V I K 6
+P R : Q 6 V I K 6
+P R : Q 6 V I K 6
+P R : 0 7 7 5 6 4 5 5 5
+P R : Q 6 V I K 6
+P R : Q 6 V I K 6
+P R : Q 6 V I K 6
+P R : 5 7 7 6 9 7 4 7 4
+P R : Q 6 6 4 5 5
+P R : 0 7 7 8 0 7 8 7 0
+P R : P 7 7 7 0 6
+P R : 6 4 4 1 6 0 1 6 0
+P R : Q 3 J I P 5
+P R : P 7 7 7 0 6
+P R : 6 1 6 9 6 1 1 6 0
+P R : 9 7 7 8 6 0 6 0 0
+P R : 9 7 7 5 6 4 4 9 1
+P R : 6 9 6 9 9 9 9 9 1
+P R : 5 4 4 4 9 4 4 9 4
+P R : 6 9 0 9 9 9 9 9 4
+P R : P 7 0 8 0 4
+P R : 9 7 7 8 6 0 6 0 0
+P R : 6 4 8 8 6 0 8 0 1
+P R : 5 7 7 6 9 4 4 9 1
+P R : 5 7 7 5 6 4 4 9 1
+P R : 6 9 6 9 9 9 9 9 1
+P R : 6 9 4 9 9 9 9 9 1
+P R : 2 1 4 1 6 1 1 6 0
+P R : Q 7 B G W 9
+P R : 0 1 4 1 6 1 1 6 0
+P R : Q 7 J H J 6
+P R : 5 4 4 4 9 4 4 9 4
+P R : Q 4 Z 8 L 6
+P R : Q 7 J H J 6
+P R : Q 7 B G W 9
+P R : P 7 4 4 6 4
+P R : 6 1 4 9 9 1 1 6 0
+P R : 7 7 7 7 6 7 7 6 0
+P R : Q 6 Z 8 L 6
+P R : 0 7 7 6 6 0 6 0 0
+P R : Q 7 R 7 M 3
+P R : 0 7 6 9 6 0 6 0 0
+P R : Q 6 Q Z N 6
+P R : 6 4 4 9 9 1 4 9 4
+P R : 5 9 4 5 9 6 5 5 5
+P R : Q 6 V I K 6
+P R : 0 7 7 5 6 4 5 5 5
+P R : Q 6 V I K 6
+P R : 6 1 6 1 6 0 6 0 0
+P R : Q 6 V I K 6
+P R : Q 6 V I K 6
+P R : Q 6 V I K 6
+P R : Q 6 V I K 6
+P R : Q 6 V I K 6
+P R : 5 9 4 5 9 6 5 5 5
+P R : Q 6 V I K 6
+P R : 6 1 6 1 6 0 6 0 0
+P R : Q 6 V I K 6
+P R : Q 6 V I K 6
+P R : 5 9 4 5 9 6 5 5 5
+P R : Q 6 V I K 6
+P R : Q 6 V I K 6
+P R : 0 1 0 1 6 0 6 0 0
+P R : Q 6 V I K 6
+P R : Q 6 V I K 6
+P R : P 7 0 8 0 4
+P R : P 7 0 8 0 4
+P R : Q 6 V I K 6
+P R : 6 1 6 1 6 0 6 0 0
+P R : Q 6 V I K 6
+P R : Q 6 V I K 6
+P R : 5 9 4 5 9 6 5 5 5
+P R : Q 6 V I K 6
+P R : Q 6 V I K 6
+P R : Q 6 V I K 6
+P R : Q 2 V H K 2
+P R : Q 6 N P H 8
+P R : Q 2 V H K 2
+P R : Q 6 N P H 8
+P R : Q 4 N P H 8
+P R : Q 4 S J Q 6
+P R : Q 2 V H K 2
+P R : Q 6 N P H 8
+P R : Q 6 6 4 2 6
+P R : Q 2 V H K 2
+P R : Q 6 N P H 8
+P R : Q 2 V H K 2
+P R : Q 6 N P H 8
+P R : Q 2 V H K 2
+P R : Q 6 N P H 8
+P R : Q 2 V H K 2
+P R : Q 6 N P H 8
+P R : Q 2 V H K 2
+P R : Q 6 N P H 8
+P R : Q 4 N P H 8
+P R : Q 8 N P H 8
+P R : Q 6 6 4 2 6
+P R : Q 6 B G W 2
+P R : Q 6 B G W 2
+P R : Q 6 6 4 2 6
+P R : Q 4 V I I 1
+P R : Q 4 S J Q 6
+P R : P 7 0 7 0 5
+P R : Q 4 N P H 8
+P R : Q 2 V H K 2
+P R : Q 6 N P H 8
+P R : Q 4 S J Q 6
+P R : Q 3 J I M 9
+P R : Q 4 N P H 8
+P R : Q 4 S J Q 6
+P R : Q 7 L D G 6
+P R : Q 8 6 4 5 6
+P R : Q 3 J I M 9
+P R : Q 4 N P H 8
+P R : Q 3 J I M 9
+P R : Q 3 J I M 9
+P R : Q 4 N P H 8
+P R : Q 3 J I M 9
+P R : Q 3 J I M 9
+P R : Q 4 N P H 8
+P R : Q 4 S J Q 6
+P R : Q 4 S J Q 6
+P R : Q 2 V H K 2
+P R : Q 6 N P H 8
+P R : Q 3 J I M 9
+P R : Q 4 N P H 8
+P R : Q 4 N P H 8
+P R : Q 4 S J Q 6
+P R : Q 4 S J Q 6
+P R : Q 4 S J Q 6
+P R : P 7 0 7 0 2
+P R : Q 6 6 4 2 6
+P R : Q 6 C Q V 9
+P R : Q 2 V H K 2
+P R : Q 6 N P H 8
+P R : Q 2 V H K 2
+P R : Q 6 N P H 8
+P R : Q 6 C Q V 9
+P R : Q 2 V H K 2
+P R : Q 6 N P H 8
+P R : Q 6 C Q V 9
+P R : Q 2 V H K 2
+P R : Q 6 N P H 8
+P R : Q 2 R 7 M 3
+P R : Q 7 L D G 6
+P R : Q 8 6 4 5 6
+P R : Q 2 V H K 2
+P R : Q 6 N P H 8
+P R : Q 3 J I M 9
+P R : Q 4 N P H 8
+P R : Q 3 J I M 9
+P R : Q 4 N P H 8
+P R : Q 4 S J Q 6
+P R : Q 2 V H K 2
+P R : Q 6 N P H 8
+P R : Q 6 0 4 6 6
+P R : Q 2 V H K 2
+P R : Q 6 6 4 2 6
+P R : Q 2 V H K 2
+P R : Q 6 N P H 8
+P R : Q 2 V H K 2
+P R : Q 6 N P H 8
+P R : Q 2 V H K 2
+P R : Q 6 N P H 8
+P R : Q 2 V H K 2
+P R : Q 6 N P H 8
+P R : Q 2 R 7 M 3
+P R : Q 2 V H K 2
+P R : Q 6 N P H 8
+P R : Q 0 L D R 5
+P R : Q 2 V H K 2
+P R : Q 6 N P H 8
+P R : Q 2 V H K 2
+P R : Q 6 N P H 8
+P R : Q 2 V H K 2
+P R : Q 6 N P H 8
+P R : Q 7 L D G 6
+P R : Q 8 6 4 5 6
+P R : Q 7 L D G 6
+P R : Q 8 6 4 5 6
+P R : Q 7 L D G 6
+P R : Q 8 6 4 5 6
+P R : Q 2 V H K 2
+P R : Q 6 N P H 8
+P R : Q 7 L D G 6
+P R : Q 8 6 4 5 6
+P R : Q 2 V H K 2
+P R : Q 6 N P H 8
+P R : Q 7 L D G 6
+P R : Q 8 6 4 5 6
+P R : Q 7 L D G 6
+P R : Q 8 6 4 5 6
+P R : Q 7 L D G 6
+P R : Q 8 6 4 5 6
+P R : Q 5 S Y G 7
+P R : Q 6 C Q C 6
+P R : Q 7 B G W 2
+P R : Q 2 V H K 2
+P R : Q 6 N P H 8
+P R : Q 2 V H K 2
+P R : Q 6 N P H 8
+P R : Q 2 V H K 2
+P R : Q 6 N P H 8
+P R : Q 8 Z V Q 6
+P R : Q 2 V H K 2
+P R : Q 6 N P H 8
+P R : Q 6 C Q C 6
+P R : Q 8 6 4 2 6
+P R : Q 7 B G W 2
+P R : Q 2 V H K 2
+P R : Q 6 N P H 8
+P R : Q 5 S Y G 7
+P R : Q 8 Z V Q 6
+P R : Q 6 C Q C 6
+P R : Q 8 6 4 2 6
+P R : Q 7 B G W 2
+P R : Q 2 V H K 2
+P R : Q 6 N P H 8
+P R : Q 6 C Q C 6
+P R : Q 2 V H K 2
+P R : Q 6 N P H 8
+P R : Q 5 S Y G 7
+P R : Q 8 6 4 2 6
+P R : Q 5 S Y G 7
+P R : Q 8 6 4 2 6
+P R : Q 5 S Y G 7
+P R : Q 2 V H K 2
+P R : Q 6 N P H 8
+P R : Q 2 V H K 2
+P R : Q 6 N P H 8
+P R : Q 2 V H K 2
+P R : Q 6 N P H 8
+P R : Q 4 N P H 8
+P R : Q 6 6 4 2 6
+P R : Q 4 N P H 8
+P R : Q 4 N P H 8
+P R : Q 4 N P H 8
+P R : Q 3 J I M 9
+P R : Q 4 N P H 8
+P R : Q 3 J I M 9
+P R : Q 4 N P H 8
+P R : Q 2 V H K 2
+P R : Q 6 N P H 8
+P R : Q 2 V H K 2
+P R : Q 6 N P H 8
+P R : Q 2 V H K 2
+P R : Q 6 N P H 8
+P R : Q 6 C Q C 6
+P R : Q 7 B G W 2
+P R : Q 2 V H K 2
+P R : Q 6 N P H 8
+P R : Q 7 L D G 6
+P R : Q 2 V H K 2
+P R : Q 6 N P H 8
+P R : Q 2 V H K 2
+P R : Q 6 N P H 8
+P R : Q 7 L D G 6
+P R : Q 8 6 4 5 6
+P R : Q 2 V H K 2
+P R : Q 6 N P H 8
+P R : Q 2 V H K 2
+P R : Q 6 N P H 8
+P R : Q 2 V H K 2
+P R : Q 6 N P H 8
+P R : Q 2 V H K 2
+P R : Q 6 N P H 8
+P R : Q 4 S J Q 6
+P R : Q 4 S J Q 6
+P R : Q 2 V H K 2
+P R : Q 6 N P H 8
+P R : Q 2 V H K 2
+P R : Q 6 N P H 8
+P R : Q 2 R 7 M 3
+P R : Q 2 R 7 M 3
+P R : Q 3 J I M 9
+P R : Q 4 N P H 8
+P R : Q 7 L D G 6
+P R : Q 8 6 4 5 6
+P R : Q 7 L D G 6
+P R : Q 8 6 4 5 6
+P R : Q 2 V H K 2
+P R : Q 6 N P H 8
+P R : Q 8 F N A 6
+P R : 6 4 4 9 9 9 4 9 1
+P R : Q 5 F V Q 9
+P R : Q 0 3 7 1 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 3 S Y L 7
+P R : Q 4 Z 8 L 6
+P R : Q 8 F N A 6
+P R : Q 3 S Y L 7
+P R : Q 4 Z 8 L 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 3 S Y L 7
+P R : Q 4 Z 8 L 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 6 J I M 9
+P R : 6 9 6 9 9 9 1 1 1
+P R : Q 4 Z 8 L 6
+P R : Q 2 L D R 7
+P R : Q 0 Y G Z 6
+P R : Q 0 Y G N 6
+P R : 9 9 9 9 9 9 1 0 1
+P R : Q 6 S U S 3
+P R : Q 6 S U S 3
+P R : Q 0 L S Q 6
+P R : Q 5 F V Q 6
+P R : Q 5 F V Q 9
+P R : Q 0 5 7 1 6
+P R : Q 0 3 7 1 6
+P R : Q 0 L F S 6
+P R : Q 8 F N E 9
+P R : Q 0 L F S 6
+P R : Q 8 F N E 9
+P R : Q 4 Z 8 L 6
+P R : Q 3 S U T 1
+P R : Q 7 J H I 1
+P R : Q 7 J H I 6
+P R : Q 3 S U T 1
+P R : Q 8 L U D 9
+P R : Q 8 L U D 9
+P R : Q 3 S Y L 7
+P R : Q 3 S Y L 7
+P R : Q 7 B G W 2
+P R : Q 3 S Y L 7
+P R : Q 8 L U D 9
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 6 J I S 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 3 S Y L 7
+P R : Q 4 Z 8 L 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 6 J I M 9
+P R : 6 9 6 9 9 9 1 1 1
+P R : Q 7 D B Q 5
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 7 F N E 9
+P R : Q 7 F N E 9
+P R : Q 7 F N E 9
+P R : Q 7 F N E 9
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 7 F N E 9
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 6 J I S 6
+P R : Q 8 F N A 6
+P R : Q 6 J I S 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : 0 7 7 0 6 0 6 0 0
+P R : Q 6 6 6 6 6
+P R : Q 6 J I S 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 6 J I S 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 6 J I S 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 6 J I S 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 6 J I S 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : P 9 0 0 0 0
+P R : 6 9 6 9 9 9 6 3 0
+P R : Q 8 F N A 6
+P R : 0 0 0 0 6 0 6 0 0
+P R : Q 4 V D D 9
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 4 Z 8 L 6
+P R : Q 3 S Y L 7
+P R : Q 8 F N A 6
+P R : Q 4 Z 8 L 6
+P R : Q 4 Z 8 L 6
+P R : Q 0 L D D 9
+P R : Q 3 S Y L 7
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 4 Z 8 L 6
+P R : Q 3 S Y L 7
+P R : Q 4 Z 8 L 6
+P R : Q 3 S Y L 7
+P R : Q 4 Z 8 L 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 4 Z 8 L 6
+P R : Q 3 S Y L 7
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 3 S Y L 7
+P R : Q 4 Z 8 L 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 4 Z 8 L 6
+P R : Q 3 S Y L 7
+P R : Q 4 Z 8 L 6
+P R : Q 3 S Y L 7
+P R : Q 4 Z 8 L 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 3 S Y L 7
+P R : Q 4 Z 8 L 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 3 S Y L 7
+P R : Q 8 F N A 6
+P R : Q 3 S Y L 7
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 3 S Y L 7
+P R : Q 8 F N A 6
+P R : Q 3 S Y L 7
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 3 S Y L 7
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 3 S Y L 7
+P R : Q 8 F N A 6
+P R : Q 3 S Y L 7
+P R : Q 3 S Y L 7
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 3 S Y L 7
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 3 S Y L 7
+P R : Q 8 F N A 6
+P R : Q 3 S Y L 7
+P R : Q 8 F N A 6
+P R : Q 3 S Y L 7
+P R : Q 8 F N A 6
+P R : Q 3 S Y L 7
+P R : Q 8 F N A 6
+P R : Q 3 S Y L 7
+P R : Q 3 S Y L 7
+P R : Q 8 F N A 6
+P R : Q 3 S Y L 7
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 3 S Y L 7
+P R : Q 3 S Y L 7
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 3 S Y L 7
+P R : Q 8 F N A 6
+P R : Q 3 S Y L 7
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 3 S Y L 7
+P R : Q 4 Z 8 L 6
+P R : Q 8 F N A 6
+P R : Q 3 S Y L 7
+P R : Q 4 Z 8 L 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : 6 9 6 9 9 9 6 3 0
+P R : Q 6 6 6 6 6
+P R : Q 8 F N A 6
+P R : Q 6 6 6 6 6
+P R : Q 8 F N A 6
+P R : Q 6 6 6 6 6
+P R : Q 3 S Y L 7
+P R : Q 3 S Y L 7
+P R : Q 8 F N A 6
+P R : Q 3 S Y L 7
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 4 Z 8 L 6
+P R : Q 8 F N A 6
+P R : Q 3 S Y L 7
+P R : Q 4 Z 8 L 6
+P R : Q 3 S Y L 7
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 0 L F S 6
+P R : Q 8 F N E 9
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 4 Z 8 L 6
+P R : 0 7 6 9 9 0 6 0 0
+P R : Q 4 Z 8 L 6
+P R : 0 7 6 9 9 0 6 0 0
+P R : Q 7 Z U A 0
+P R : 6 6 6 9 6 0 6 0 0
+P R : Q 4 Z U Y 7
+P R : Q 7 Z W R 7
+P R : Q 4 Z U Y 7
+P R : Q 8 F N A 6
+P R : Q 4 Z U Y 7
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 0 L F S 6
+P R : Q 8 F N E 9
+P R : Q 0 L F S 6
+P R : Q 8 F N A 6
+P R : Q 0 L F S 6
+P R : Q 0 L F S 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 7 Z W R 7
+P R : Q 3 S Y L 7
+P R : Q 8 F N A 6
+P R : Q 3 S Y L 7
+P R : Q 3 S Y L 7
+P R : Q 3 S Y L 7
+P R : Q 6 J L B 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 3 S Y L 7
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 6 J I S 6
+P R : Q 7 F N E 9
+P R : Q 6 J I S 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 6 J I S 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 6 J I S 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 6 J I S 6
+P R : Q 7 F N E 9
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : P 9 0 0 0 0
+P R : Q 4 Z 8 L 6
+P R : Q 3 S Y L 7
+P R : Q 8 F N A 6
+P R : 6 9 6 9 9 9 6 3 0
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 8 F N A 6
+P R : Q 4 Z U Y 7
+P R : 6 6 6 9 6 0 6 0 0
+P R : Q 6 J I M 9
+P R : Q 6 J I M 9
+P R : 6 9 6 9 9 9 1 1 1
+P R : Q 8 F N A 6
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : Q 7 B L 0 9
+P R : P 7 4 4 4 9
+P R : Q 7 B L 0 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : Q 7 B L 0 9
+P R : Q 2 S Y L 6
+P R : Q 4 S Y L 6
+P R : Q 4 S Y L 6
+P R : P 7 4 4 4 9
+P R : 6 9 9 9 9 9 9 0 0
+P R : Q 9 B G W 9
+P R : Q 7 B G W 2
+P R : Q 2 S Y L 6
+P R : 1 1 1 1 1 1 1 1 1
+P R : Q 8 6 4 5 6
+P R : P 7 4 4 4 9
+P R : Q 2 S Y L 6
+P R : Q 2 S Y L 6
+P R : P 7 4 4 4 9
+P R : Q 9 B G W 9
+P R : P 7 4 4 4 9
+P R : Q 2 S Y L 6
+P R : P 7 4 4 4 9
+P R : Q 8 6 4 5 6
+P R : Q 4 V I M 2
+P R : P 7 4 4 4 9
+P R : Q 8 6 4 5 6
+P R : Q 4 V I M 2
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : Q 8 6 4 5 6
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : 6 9 9 9 9 9 9 0 0
+P R : Q 9 B G W 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : 6 9 9 9 9 9 9 0 0
+P R : Q 9 B G W 9
+P R : Q 9 B G W 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : 6 9 9 9 9 9 9 0 0
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : Q 8 6 4 5 6
+P R : Q 7 B L 0 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : Q 7 B L 0 9
+P R : P 7 7 4 4 4
+P R : Q 4 Z V Q 6
+P R : P 7 4 4 4 9
+P R : Q 7 B L 0 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : 6 9 9 9 9 9 9 0 0
+P R : Q 9 B G W 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : Q 9 B G W 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : Q 7 B L 0 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : Q 7 B L 0 9
+P R : Q 6 N Y L 1
+P R : Q 7 B L 0 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : Q 7 B L 0 9
+P R : Q 6 N Y L 1
+P R : Q 7 B L 0 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : Q 7 B L 0 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : Q 4 V I M 2
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : Q 7 B L 0 9
+P R : Q 6 N Y L 1
+P R : Q 7 B L 0 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : Q 4 V I M 2
+P R : Q 8 6 4 5 6
+P R : Q 8 6 4 5 6
+P R : P 7 4 4 4 9
+P R : Q 7 B L 0 9
+P R : P 7 4 4 4 9
+P R : Q 7 B L 0 9
+P R : Q 2 S Y L 6
+P R : P 7 4 4 4 9
+P R : Q 9 B G W 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : Q 2 S Y L 6
+P R : P 7 4 4 4 9
+P R : Q 2 S Y L 6
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : Q 2 S Y L 6
+P R : P 7 4 4 4 9
+P R : Q 8 6 4 5 6
+P R : Q 2 S Y L 6
+P R : P 7 4 4 4 9
+P R : 6 9 9 9 9 9 9 0 0
+P R : P 7 4 4 4 9
+P R : 6 9 9 9 9 9 9 0 0
+P R : P 9 0 8 0 0
+P R : 6 0 0 9 9 9 9 9 1
+P R : P 9 9 8 0 4
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : Q 7 B L 0 9
+P R : Q 7 B L 0 9
+P R : Q 8 6 4 5 6
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : Q 7 B L 0 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : Q 8 6 4 5 6
+P R : Q 9 B G W 9
+P R : P 7 4 4 4 9
+P R : Q 4 S J Q 6
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : Q 7 B L 0 9
+P R : Q 6 N Y L 1
+P R : Q 7 B L 0 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : Q 7 B L 0 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : P 7 4 4 4 9
+P R : Q 7 B L 0 9
+P R : Q 7 B L 0 9
+P R : Q 7 B L 0 9
+P R : P 7 4 4 4 9
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : 6 9 0 9 9 1 6 1 0
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 2 V I K 1
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 2 V I K 1
+P R : 0 7 6 9 9 9 9 1 1
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 2 V I K 1
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 2 V I K 1
+P R : Q 2 V I K 1
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : 6 9 0 9 9 1 6 1 0
+P R : Q 6 6 4 6 6
+P R : Q 8 Z U U 5
+P R : 6 9 0 9 9 1 6 1 0
+P R : Q 8 C A Q 6
+P R : Q 6 6 4 6 6
+P R : 6 9 0 9 9 1 6 1 0
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : 6 9 0 9 9 1 6 1 0
+P R : Q 6 6 4 6 6
+P R : 6 9 0 9 9 1 6 1 0
+P R : Q 6 6 4 6 6
+P R : 6 9 0 9 9 1 6 1 0
+P R : Q 6 6 4 6 6
+P R : 6 9 0 9 9 1 6 1 0
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : 6 9 0 9 9 1 6 1 0
+P R : Q 6 6 4 6 6
+P R : 6 9 0 9 9 1 6 1 0
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : 6 9 0 9 9 1 6 1 0
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : 6 9 0 9 9 1 6 1 0
+P R : Q 6 6 4 6 6
+P R : 6 9 0 9 9 1 6 1 0
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : 6 9 0 9 9 1 6 1 0
+P R : Q 6 6 4 6 6
+P R : 6 9 0 9 9 1 6 1 0
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : 6 9 0 9 9 1 6 1 0
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : 6 9 0 9 9 1 6 1 0
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : 6 9 0 9 9 1 6 1 0
+P R : Q 6 6 4 6 6
+P R : 6 9 0 9 9 1 6 1 0
+P R : Q 6 C G N 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : 6 9 0 9 9 1 6 1 0
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 2 V I K 1
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : Q 2 V I K 1
+P R : Q 6 6 4 6 6
+P R : Q 6 6 4 6 6
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 7 6 9 6 1 6 1 1
+P R : 7 7 7 7 6 7 0 7 0
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 0 0 0 1 6 0 6 0 0
+P R : 0 7 7 1 6 0 7 6 0
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 4 9 9 1 1 9 1
+P R : 6 0 6 9 6 0 6 0 0
+P R : 6 0 0 9 9 1 6 1 0
+P R : 6 0 0 1 6 0 6 0 0
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 7 6 9 6 1 6 1 1
+P R : 6 7 6 9 6 1 6 1 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 0 7 7 1 6 0 7 6 0
+P R : 6 1 6 9 6 1 1 6 1
+P R : 0 7 7 1 6 0 7 6 0
+P R : 6 9 0 9 9 1 4 9 1
+P R : 6 0 6 9 6 0 6 0 0
+P R : Q 6 C G N 6
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 7 7 7 7 6 7 0 7 0
+P R : Q 5 Z U T 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : Q 5 Z U T 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 0 0 0 1 6 0 6 0 0
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 6 6 6 6 6 6 6 6
+P R : 6 6 6 6 6 6 6 6 6
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : P 7 0 2 0 6
+P R : P 7 0 2 0 6
+P R : 6 1 6 9 6 1 1 6 1
+P R : P 7 0 2 0 6
+P R : P 7 0 2 0 6
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 7 6 9 6 1 6 1 1
+P R : 6 7 6 9 6 1 6 1 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 7 6 9 6 1 6 1 1
+P R : 6 7 6 9 6 1 6 1 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 7 6 9 6 1 6 1 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : Q 5 Z U T 1
+P R : Q 5 Z U T 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : Q 5 Z U T 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : Q 5 Z U T 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : Q 5 Z U T 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : Q 5 Z U T 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : Q 5 Z U T 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : Q 5 Z U T 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : Q 5 Z U T 1
+P R : Q 5 Z U T 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : Q 5 Z U T 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 4 9 9 1 1 9 1
+P R : 6 0 6 9 6 0 6 0 0
+P R : 6 0 0 9 9 1 6 1 0
+P R : 6 0 0 1 6 0 6 0 0
+P R : 0 7 7 1 6 0 7 6 0
+P R : 6 1 6 9 6 1 1 6 1
+P R : 0 0 0 0 6 0 6 0 0
+P R : Q 1 Q Y W 9
+P R : Q 1 Q Y W 9
+P R : 6 1 6 9 6 1 1 6 1
+P R : Q 5 Z U T 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 7 7 7 7 6 7 0 7 0
+P R : 6 7 6 9 6 1 6 1 1
+P R : 6 7 6 9 6 1 6 1 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 7 7 5 6 7 4 6 0
+P R : Q 6 S Y H 9
+P R : 6 7 6 9 6 1 6 1 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : Q 6 S Y H 9
+P R : 6 1 6 9 6 1 1 6 1
+P R : Q 6 S Y H 9
+P R : 6 1 6 9 6 1 1 6 1
+P R : Q 6 S Y H 9
+P R : 6 7 6 9 6 1 6 1 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 7 7 7 7 6 7 0 7 0
+P R : Q 6 S Y H 9
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 0 7 7 1 6 0 7 6 0
+P R : 6 1 6 9 6 1 1 6 1
+P R : 0 7 7 1 6 0 7 6 0
+P R : Q 2 Z W R 7
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : Q 5 Z U T 1
+P R : Q 5 Z U T 1
+P R : Q 5 Z U T 1
+P R : Q 5 Z U T 1
+P R : Q 5 Z U T 1
+P R : Q 5 Z U T 1
+P R : 8 1 8 8 6 1 8 6 8
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : Q 5 Z U T 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : Q 5 Z U T 1
+P R : Q 5 Z U T 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : Q 7 R 0 M 3
+P R : P 6 4 4 6 4
+P R : Q 7 R 8 P 5
+P R : 6 7 6 9 6 1 6 1 1
+P R : 6 7 6 9 6 1 6 1 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 9 4 9 9 9 9 0 1
+P R : Q 7 Z W R 7
+P R : 0 7 7 1 6 0 7 6 0
+P R : 0 0 0 1 6 0 6 0 0
+P R : Q 5 Z U T 1
+P R : 7 7 7 7 6 7 0 7 0
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : 6 1 6 9 6 1 1 6 1
+P R : Q 7 L D G 6
+P R : Q 7 L D G 6
+P R : Q 7 L D G 6
+P R : Q 7 L D G 6
+P R : 6 4 4 9 9 9 9 9 1
+P R : Q 7 B G W 9
+P R : 6 1 7 1 6 1 1 1 1
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : 6 4 4 9 9 9 9 9 1
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : 6 4 4 9 9 9 9 9 1
+P R : Q 6 C Q C 6
+P R : 6 1 6 1 6 1 1 1 1
+P R : 6 1 6 1 6 1 1 1 1
+P R : 6 1 6 1 6 1 1 1 1
+P R : Q 6 C Q C 6
+P R : 0 7 7 5 6 7 4 6 0
+P R : P 4 4 4 4 4
+P R : 6 9 6 9 9 6 9 9 1
+P R : Q 7 R 0 L 7
+P R : Q 7 B G W 9
+P R : Q 7 B G W 9
+P R : Q 7 B G W 9
+P R : Q 7 B G W 9
+P R : Q 7 B G W 9
+P R : Q 7 B G W 9
+P R : Q 7 B G W 9
+P R : Q 7 B G W 9
+P R : Q 6 C Q C 6
+P R : Q 6 6 5 5 6
+P R : Q 7 B G W 9
+P R : Q 7 B G W 9
+P R : Q 7 L D G 6
+P R : 6 4 4 9 9 9 9 9 1
+P R : 6 6 6 6 6 6 6 6 6
+P R : 6 6 6 6 6 6 6 6 6
+P R : 6 6 6 6 6 6 6 6 6
+P R : Q 7 R 8 P 5
+P R : Q 7 R 8 P 5
+P R : Q 7 R 8 P 5
+P R : 6 1 6 1 6 1 1 1 1
+P R : 6 1 6 1 6 1 1 1 1
+P R : Q 6 J H U 2
+P R : 6 4 4 9 9 9 9 9 1
+P R : Q 6 J H U 2
+P R : Q 7 R 8 P 5
+P R : Q 7 B G W 9
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : 6 1 6 1 6 1 1 1 1
+P R : 6 1 6 1 6 1 1 1 1
+P R : Q 7 B G W 9
+P R : Q 7 R 8 P 5
+P R : 8 8 8 8 6 8 8 0 1
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 8 8 8 8 6 8 8 0 1
+P R : 0 7 8 8 6 0 8 0 0
+P R : 6 9 6 9 9 1 6 1 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 8 8 8 8 6 8 8 0 0
+P R : 8 8 8 8 6 8 8 0 0
+P R : 8 8 8 8 6 8 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 8 8 8 8 6 8 8 0 0
+P R : 8 8 8 8 6 8 8 0 0
+P R : 8 8 8 8 6 8 8 0 1
+P R : 8 8 8 8 6 8 8 0 0
+P R : 8 8 8 8 6 8 8 0 0
+P R : 6 9 6 9 9 1 6 1 0
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 8 8 8 8 6 8 8 0 1
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : 8 8 8 8 6 8 8 0 1
+P R : 0 7 8 8 6 0 8 0 0
+P R : 8 8 8 8 6 8 8 0 1
+P R : 8 8 8 8 6 8 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 8 8 8 8 6 8 8 0 1
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 8 8 8 8 6 8 8 0 0
+P R : 8 8 8 8 6 8 8 0 1
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 1 1 4 9 9 1 1 1 1
+P R : P 6 4 3 6 5
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : Q 8 0 4 5 6
+P R : Q 8 0 4 5 6
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : Q 8 0 4 5 6
+P R : Q 8 0 4 5 6
+P R : 0 7 8 8 6 0 8 0 0
+P R : Q 8 0 4 5 6
+P R : Q 8 0 4 5 6
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : Q 8 0 4 5 6
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : Q 8 0 4 5 6
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : Q 8 0 4 5 6
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : 6 7 0 9 9 1 1 1 1
+P R : P 6 2 8 0 4
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : P 6 2 8 0 4
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : 4 4 4 4 4 4 4 4 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 8 8 8 8 6 8 8 0 1
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 8 8 8 8 6 8 8 0 1
+P R : 8 8 8 8 6 8 8 0 1
+P R : 0 7 8 8 6 0 8 0 0
+P R : 1 1 8 8 6 1 8 4 5
+P R : 0 7 8 8 6 0 8 0 0
+P R : 1 1 8 8 6 1 8 4 5
+P R : 0 7 8 8 6 0 8 0 0
+P R : 1 1 8 8 6 1 8 4 5
+P R : 0 7 8 8 6 0 8 0 0
+P R : 1 1 8 8 6 1 8 4 5
+P R : 0 7 8 8 6 0 8 0 0
+P R : 1 1 8 8 6 1 8 4 5
+P R : 0 7 8 8 6 0 8 0 0
+P R : Q 8 0 4 5 6
+P R : Q 8 0 4 5 6
+P R : 0 7 8 8 6 0 8 0 0
+P R : 8 8 8 8 6 8 8 0 0
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : 8 8 8 8 6 8 8 0 1
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : Q 8 0 4 5 6
+P R : 4 4 4 4 4 4 4 4 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : 8 8 8 8 6 8 8 0 1
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : 8 4 4 8 6 4 4 6 4
+P R : Q 8 0 4 5 6
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : 8 8 8 8 6 8 8 0 1
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : 6 1 6 9 9 1 6 1 0
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : P 6 2 8 0 4
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : P 6 2 8 0 4
+P R : P 6 2 8 0 4
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : Q 8 0 4 5 6
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : Q 8 0 4 5 6
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : P 6 2 8 0 4
+P R : P 6 2 8 0 4
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : Q 6 C Q X 6
+P R : Q 7 J I M 9
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 8 8 8 8 6 8 8 0 1
+P R : 0 7 8 8 6 0 8 0 0
+P R : 8 8 8 8 6 8 8 0 1
+P R : P 6 2 8 0 4
+P R : 8 8 8 8 6 8 8 0 1
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : Q 6 6 4 6 6
+P R : P 6 2 8 0 4
+P R : Q 6 6 4 6 6
+P R : 8 8 8 8 6 8 8 0 1
+P R : 0 7 8 8 6 0 8 0 0
+P R : 8 8 8 8 6 8 8 0 1
+P R : 6 7 0 9 6 0 6 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : 8 8 8 8 6 8 8 0 0
+P R : P 6 2 8 0 4
+P R : 8 8 8 8 6 8 8 0 1
+P R : 8 8 8 8 6 8 8 0 1
+P R : 6 9 0 9 9 9 9 9 1
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : 8 8 8 8 6 8 8 0 1
+P R : 8 8 8 8 6 8 8 0 1
+P R : 8 8 8 8 6 8 8 0 1
+P R : P 6 2 8 0 4
+P R : 8 8 8 8 6 8 8 0 1
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : 8 8 8 8 6 8 8 0 1
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : Q 7 J H I 6
+P R : 8 8 8 8 6 8 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 8 8 8 8 6 8 8 0 1
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 8 8 8 8 6 8 8 0 1
+P R : 8 8 8 8 6 8 8 0 1
+P R : 0 7 8 8 6 0 8 0 0
+P R : 8 8 8 8 6 8 8 0 1
+P R : P 6 2 8 0 4
+P R : 8 8 8 8 6 8 8 0 1
+P R : P 6 2 8 0 4
+P R : 8 8 8 8 6 8 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 8 8 8 8 6 8 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : Q 8 0 4 5 6
+P R : Q 8 0 4 5 6
+P R : 0 7 7 9 9 9 1 0 1
+P R : 0 7 7 9 9 9 1 0 1
+P R : 0 7 8 8 6 0 8 0 0
+P R : 8 4 4 8 6 4 4 6 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 1 1 8 8 6 1 8 4 5
+P R : Q 8 0 4 5 6
+P R : P 6 2 8 0 4
+P R : 0 1 7 1 6 0 6 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : Q 8 0 4 5 6
+P R : Q 8 0 4 5 6
+P R : P 6 2 8 0 4
+P R : 6 7 0 9 9 1 1 1 1
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : P 6 2 8 0 4
+P R : P 6 2 8 0 4
+P R : P 6 2 8 0 4
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : Q 8 0 4 7 6
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : Q 8 0 4 5 6
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : 1 1 8 8 6 1 8 4 5
+P R : Q 8 0 4 5 6
+P R : P 6 2 8 0 4
+P R : P 6 2 8 0 4
+P R : P 6 2 8 0 4
+P R : 6 9 6 9 9 1 6 1 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : Q 8 0 4 5 6
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : Q 8 0 4 5 6
+P R : Q 8 0 4 5 6
+P R : 0 7 8 8 6 0 8 0 0
+P R : Q 8 0 4 5 6
+P R : Q 8 0 4 5 6
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : Q 8 0 4 5 6
+P R : 0 7 8 8 6 0 8 0 0
+P R : Q 8 0 4 5 6
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : Q 8 0 4 7 6
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : P 6 2 8 0 4
+P R : P 6 2 8 0 4
+P R : P 6 2 8 0 4
+P R : 8 8 8 8 6 8 8 0 1
+P R : 0 7 8 8 6 0 8 0 0
+P R : 8 4 4 8 6 4 4 6 4
+P R : 1 1 8 8 6 1 8 4 5
+P R : 0 7 8 8 6 0 8 0 0
+P R : 1 1 8 8 6 1 8 4 5
+P R : 8 8 8 8 6 8 8 0 1
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : 8 8 8 8 6 8 8 0 1
+P R : 0 7 8 8 6 0 8 0 0
+P R : Q 8 0 4 5 6
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : Q 8 0 4 5 6
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : 6 1 6 9 9 1 6 1 0
+P R : P 6 2 8 0 4
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : Q 8 0 4 5 6
+P R : P 6 2 8 0 4
+P R : Q 7 C G N 6
+P R : 0 1 7 1 6 0 6 0 0
+P R : Q 8 0 4 5 6
+P R : P 6 2 8 0 4
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : Q 8 0 4 5 6
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : Q 4 S Z D 3
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : P 6 2 8 0 4
+P R : Q 4 S Z D 3
+P R : 0 7 8 8 6 0 8 0 0
+P R : 0 7 8 8 6 0 8 0 0
+P R : P 6 2 8 0 4
+P R : 0 7 8 8 6 0 8 0 0
+P R : 8 8 8 8 6 8 8 0 1
+P R : 0 7 8 8 6 0 8 0 0
+P R : 8 8 8 8 6 8 8 0 1
+P R : P 6 2 8 0 4
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 4 Z 0 Z 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : P 7 0 0 0 0
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : P 7 7 7 2 6
+P R : Q 8 C Q U 5
+P R : Q 6 C Q C 6
+P R : 2 4 4 4 9 4 9 2 4
+P R : P 7 0 8 0 0
+P R : P 7 7 7 2 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : 6 4 4 4 9 4 9 9 4
+P R : Q 7 J L Z 6
+P R : Q 7 J K V 6
+P R : Q 6 C Q C 6
+P R : Q 7 J K V 6
+P R : Q 6 C Q C 6
+P R : Q 7 J K V 6
+P R : Q 8 C Q U 5
+P R : Q 7 J K X 6
+P R : Q 0 L D H 9
+P R : Q 5 S Y G 5
+P R : Q 6 C G N 6
+P R : Q 7 J H I 6
+P R : 0 0 4 9 9 1 4 9 1
+P R : Q 6 C Q C 6
+P R : Q 7 J K V 6
+P R : Q 0 L D G 6
+P R : 0 7 7 1 6 1 1 1 1
+P R : Q 7 J K X 6
+P R : Q 0 L D H 9
+P R : Q 4 S Y L 6
+P R : Q 7 J K V 6
+P R : Q 4 S Y L 6
+P R : 1 7 7 9 9 1 1 1 1
+P R : 0 7 7 1 6 1 1 1 1
+P R : Q 6 C Q C 6
+P R : Q 7 J K V 6
+P R : 0 7 7 1 6 1 1 1 1
+P R : Q 6 C Q C 6
+P R : Q 2 V H J 1
+P R : Q 6 6 4 6 6
+P R : Q 6 P B T 1
+P R : Q 7 D B R 6
+P R : Q 6 C G C 6
+P R : Q 7 C Q W 4
+P R : Q 7 L U A 7
+P R : Q 4 S Y L 6
+P R : Q 7 J H I 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 7 J K X 6
+P R : Q 0 L D H 9
+P R : Q 5 S Y G 5
+P R : Q 6 C G N 6
+P R : Q 7 J H I 6
+P R : 0 0 4 9 9 1 4 9 1
+P R : P 7 0 8 0 4
+P R : Q 0 L D H 9
+P R : Q 2 J H I 6
+P R : Q 3 J I P 5
+P R : Q 5 S Y G 5
+P R : Q 4 Z 8 L 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : P 4 4 4 6 4
+P R : P 7 0 0 0 0
+P R : Q 6 C Q C 6
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : Q 6 C Q C 6
+P R : 0 7 6 9 6 0 6 0 0
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : 6 0 6 9 6 0 6 0 0
+P R : Q 6 C Q C 6
+P R : Q 7 J H I 6
+P R : P 7 7 7 0 2
+P R : Q 7 J H I 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : 6 0 6 9 6 0 6 0 0
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : 1 1 1 1 1 1 1 1 1
+P R : Q 6 C Q C 6
+P R : Q 8 C A C 6
+P R : Q 8 C A C 6
+P R : Q 8 C A C 6
+P R : Q 8 C A C 6
+P R : Q 8 C A C 6
+P R : Q 8 C A C 6
+P R : Q 6 C Q C 6
+P R : Q 8 C A C 6
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : Q 6 C Q C 6
+P R : 6 7 7 1 6 7 1 6 1
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : Q 6 C Q C 6
+P R : Q 2 S Y L 6
+P R : P 7 7 4 4 2
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : 6 9 4 9 9 9 1 9 1
+P R : 0 0 0 8 6 0 0 0 0
+P R : Q 8 5 4 5 5
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : 0 7 6 9 6 0 6 0 0
+P R : Q 6 C Q C 6
+P R : 6 0 6 9 6 0 6 0 0
+P R : P 7 4 7 6 6
+P R : Q 7 J H I 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 8 C A C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 4 Z 8 L 2 - 6
+P R : Q 6 C Q C 6
+P R : Q 8 C A C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 7 F H A 9
+P R : Q 0 S T X 7
+P R : Q 7 F H A 9
+P R : Q 0 S T X 7
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 8 5 4 5 5
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : 6 7 6 9 6 0 6 0 0
+P R : Q 6 C G N 6
+P R : Q 6 C G N 6
+P R : Q 4 V C S 6
+P R : Q 6 C G N 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : P 7 4 7 6 6
+P R : Q 7 J H I 6
+P R : P 7 4 7 6 6
+P R : Q 7 J H I 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : P 7 4 7 6 6
+P R : Q 7 J H I 6
+P R : P 7 4 7 6 6
+P R : Q 6 C Q C 6
+P R : P 7 4 7 6 6
+P R : Q 7 J H I 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : P 7 4 7 6 6
+P R : Q 7 J H I 6
+P R : Q 6 C Q C 6
+P R : P 7 4 7 6 6
+P R : P 7 4 7 6 6
+P R : Q 6 C Q C 6
+P R : P 7 4 7 6 6
+P R : Q 7 J H I 6
+P R : P 7 4 7 6 6
+P R : P 7 4 7 6 6
+P R : Q 6 C Q C 6
+P R : P 7 4 7 6 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : Q 6 C Q C 6
+P R : P 7 7 7 0 2
+P R : Q 7 J H I 6
+P R : Q 6 C Q C 6
+P R : Q 7 J H I 6
+P R : Q 7 J H I 6
+P R : P 7 7 7 0 2
+P R : Q 7 J H I 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 7 J H I 6
+P R : Q 3 L D R 7
+P R : Q 3 L D R 7
+P R : P 7 7 7 0 2
+P R : Q 6 J H U 2
+P R : Q 6 C G N 6
+P R : Q 7 J H I 6
+P R : Q 6 C Q C 6
+P R : Q 6 J H U 2
+P R : Q 6 C G N 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C G N 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : P 7 4 7 6 6
+P R : Q 6 C Q C 6
+P R : 0 7 6 9 6 0 6 0 0
+P R : Q 6 C Q C 6
+P R : 6 4 4 6 9 4 4 9 4
+P R : Q 6 S U S 3
+P R : 6 4 4 6 9 4 4 9 4
+P R : 6 4 4 6 9 4 4 9 4
+P R : 0 7 6 9 6 0 6 0 0
+P R : 6 7 7 1 6 1 6 1 1
+P R : Q 6 S U S 3
+P R : 6 7 7 1 6 1 6 1 1
+P R : Q 3 S J Q 5
+P R : Q 6 S U S 3
+P R : Q 3 S J Q 5
+P R : Q 3 S I U 5
+P R : 6 4 4 6 9 4 4 9 4
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : 6 4 4 6 9 4 4 9 4
+P R : Q 3 S J Q 5
+P R : Q 3 S I U 5
+P R : Q 6 C Q C 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 6 J I S 6
+P R : P 7 4 7 6 6
+P R : 0 7 6 9 6 0 6 0 0
+P R : Q 2 J H I 6
+P R : P 7 4 7 6 6
+P R : Q 6 C Q C 6
+P R : Q 2 J H I 6
+P R : P 7 4 7 6 6
+P R : P 7 4 7 6 6
+P R : Q 6 C Q C 6
+P R : P 7 4 7 6 6
+P R : P 7 4 7 6 6
+P R : P 7 4 7 6 6
+P R : Q 8 5 4 5 5
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 8 5 4 5 5
+P R : Q 6 C Q C 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 2 J H I 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : P 7 4 7 6 6
+P R : P 7 4 7 6 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : P 7 4 7 6 6
+P R : Q 6 C Q C 6
+P R : P 7 4 7 6 6
+P R : Q 8 5 4 5 5
+P R : Q 8 5 4 5 5
+P R : Q 4 Z 8 L 2 - 6
+P R : Q 6 C Q C 6
+P R : P 7 4 7 6 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : P 7 4 7 6 6
+P R : Q 7 J H I 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 0 S T X 7
+P R : Q 8 5 4 5 5
+P R : 0 0 0 8 6 0 0 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : P 7 4 7 6 6
+P R : 0 7 7 0 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : Q 7 J H I 6
+P R : 0 0 0 0 9 0 7 0 0
+P R : Q 6 C G N 6
+P R : 6 7 6 9 6 0 6 0 0
+P R : Q 6 J H U 2
+P R : 6 1 6 9 9 6 1 6 0
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : O 9 9 5 5 5
+P R : Q 7 R 8 P 5
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : 0 7 6 9 6 0 6 0 0
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 7 F H A 9
+P R : Q 6 C Q C 6
+P R : Q 7 F H A 9
+P R : Q 0 S T X 7
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : 0 7 7 0 6 0 6 0 0
+P R : P 7 4 7 6 6
+P R : Q 7 J H I 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : 0 7 7 0 6 0 6 0 0
+P R : P 7 4 7 6 6
+P R : Q 7 J H I 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : P 7 7 7 0 2
+P R : Q 7 J H I 6
+P R : Q 6 C Q C 6
+P R : P 7 7 7 0 2
+P R : Q 7 J H I 6
+P R : Q 6 C Q C 6
+P R : P 7 7 7 0 2
+P R : Q 7 J H I 6
+P R : Q 6 C Q C 6
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : Q 6 C Q C 6
+P R : 6 7 7 1 6 7 1 6 1
+P R : Q 6 C Q C 6
+P R : 0 7 7 0 6 0 6 0 0
+P R : P 7 4 7 6 6
+P R : 6 4 4 6 9 4 4 9 4
+P R : P 7 7 4 6 4
+P R : Q 6 C Q C 6
+P R : P 7 4 7 6 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : 6 4 4 9 6 3 6 0 4
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : 2 4 4 9 9 1 4 9 4
+P R : 6 4 4 4 9 4 9 9 4
+P R : 6 1 8 8 6 1 6 6 0
+P R : 6 9 6 9 9 9 4 9 4
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : 6 9 0 9 9 1 6 3 1
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : 6 9 0 9 9 1 1 1 1
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : 6 9 0 9 9 1 1 1 1
+P R : Q 7 C Q C 6
+P R : 6 9 0 9 9 1 1 1 1
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 8 S J X 6
+P R : Q 7 R 8 P 5
+P R : Q 8 S J X 6
+P R : Q 8 C G N 6
+P R : Q 7 R 8 P 5
+P R : Q 7 B G W 9
+P R : Q 7 B G W 2
+P R : Q 8 S J X 6
+P R : Q 7 R 8 P 5
+P R : Q 6 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : 6 9 0 9 9 1 1 1 1
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : 6 9 0 9 9 1 1 1 1
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : 6 9 0 9 9 1 6 3 1
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : 0 7 7 0 6 0 6 0 0
+P R : Q 7 C Q C 6
+P R : 0 7 7 0 6 0 6 0 0
+P R : Q 7 C Q C 6
+P R : Q 8 Z U F 6
+P R : Q 7 C Q C 6
+P R : Q 8 Z U F 6
+P R : Q 8 Z U F 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : 6 9 0 9 9 1 6 3 1
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : 6 9 0 9 9 1 1 1 1
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : 5 4 8 8 4 4 4 4 4
+P R : Q 7 C Q C 6
+P R : Q 0 L D R 7
+P R : Q 0 L F S 6
+P R : 6 9 6 9 9 9 4 9 4
+P R : Q 4 Z V Q 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 0 L D R 7
+P R : Q 0 L F S 6
+P R : Q 0 L D R 7
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : 0 7 6 9 6 0 6 0 0
+P R : 6 9 0 9 9 1 1 1 1
+P R : 6 9 0 9 9 1 1 1 1
+P R : Q 8 Z U F 6
+P R : 0 7 7 0 6 0 6 0 0
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 4 V H K 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : 0 7 6 9 6 0 6 0 0
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : 6 9 0 9 9 1 1 1 1
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : 6 9 0 9 9 1 1 1 1
+P R : Q 7 C Q C 6
+P R : 6 9 0 9 9 1 1 1 1
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : 6 9 0 9 9 1 1 1 1
+P R : Q 7 C Q C 6
+P R : Q 8 S J X 6
+P R : Q 7 R 8 P 5
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : 6 9 0 9 9 1 1 1 1
+P R : 6 9 0 9 9 1 6 3 1
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : 0 7 7 0 6 0 6 0 0
+P R : Q 8 Z U F 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 7 C Q C 6
+P R : Q 1 B G W 9
+P R : 6 1 6 9 9 1 1 6 0
+P R : Q 6 C G N 6
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 6 1 6 9 9 1 1 6 0
+P R : Q 6 C G N 6
+P R : 0 7 6 9 6 0 6 0 0
+P R : Q 6 C G N 6
+P R : Q 6 C G N 6
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 6 1 6 9 9 1 1 6 0
+P R : Q 6 C G N 6
+P R : 0 7 6 9 6 0 6 0 0
+P R : Q 6 C G N 6
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : Q 6 C G N 6
+P R : Q 6 C G N 6
+P R : 0 7 6 9 6 0 6 0 0
+P R : Q 6 C G N 6
+P R : Q 6 C G N 6
+P R : Q 6 C G N 6
+P R : 0 7 6 9 6 0 6 0 0
+P R : Q 6 C G N 6
+P R : 0 7 6 9 6 0 6 0 0
+P R : Q 6 C G N 6
+P R : Q 6 C G N 6
+P R : Q 6 C G N 6
+P R : 0 7 6 9 6 0 6 0 0
+P R : Q 6 C G N 6
+P R : Q 6 C G N 6
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : Q 6 C Q C 6
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 3 4 4 9 9 4 9 9 4
+P R : Q 6 C Q C 6
+P R : Q 6 C Q C 6
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 7 1 6 0 6 0 0
+P R : 0 0 6 9 9 0 6 0 0
+P R : Q 6 C Q M 9
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : Q 6 C G N 6
+P R : Q 6 C Q C 6
+P R : 0 7 7 0 7 7 0 7 0
+P R : Q 8 S I U 5
+P R : Q 6 C Q C 6
+P R : Q 8 S I U 5
+P R : 0 7 6 9 6 0 6 0 0
+P R : Q 6 C G N 6
+P R : 6 9 4 9 9 9 9 9 1
+P R : P 7 0 0 0 5
+P R : 6 4 4 6 9 6 4 6 0
+P R : 5 4 4 5 9 7 4 9 4
+P R : 6 0 6 9 9 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 6 7 6 9 9 9 6 0 1
+P R : 0 7 6 9 6 0 6 0 0
+P R : 1 7 4 5 6 4 9 5 5
+P R : Q 6 S A B 6
+P R : 0 7 6 9 6 0 6 0 0
+P R : P 7 0 0 0 5
+P R : 6 9 0 9 9 1 1 1 1
+P R : Q 6 6 5 5 5
+P R : P 6 4 4 6 5
+P R : Q 6 C G N 6
+P R : Q 6 C G N 6
+P R : Q 7 L D R 7
+P R : P 6 2 8 0 2
+P R : Q 6 0 4 6 3
+P R : 6 7 6 9 9 9 1 1 1
+P R : Q 6 C G N 6
+P R : Q 4 S Y L 6
+P R : Q 6 C G N 6
+P R : Q 6 C G N 6
+P R : 6 7 7 6 9 6 1 6 0
+P R : Q 7 R 5 M 3
+P R : Q 6 C G N 6
+P R : Q 6 0 4 6 3
+P R : P 7 0 0 0 5
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : Q 6 C Q C 6
+P R : 0 7 6 9 6 0 6 0 0
+P R : Q 6 C G N 6
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : Q 8 S I U 5
+P R : Q 6 C Q C 6
+P R : Q 6 C G N 6
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : Q 6 C Q C 6
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : Q 6 C G N 6
+P R : Q 6 C G N 6
+P R : Q 6 C G N 6
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : Q 6 J H I 6
+P R : 6 0 6 9 9 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : Q 6 C G N 6
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : Q 6 C Q C 6
+P R : 6 4 4 6 9 6 4 6 0
+P R : 6 7 4 5 6 4 9 6 0
+P R : Q 8 6 4 5 6
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : Q 6 C Q C 6
+P R : 0 7 6 9 6 0 6 0 0
+P R : Q 6 C G N 6
+P R : 6 1 6 9 9 1 1 6 0
+P R : 6 1 6 9 9 1 1 6 0
+P R : Q 6 C G N 6
+P R : 6 7 6 9 9 9 1 1 1
+P R : P 7 0 0 0 5
+P R : 6 9 4 9 9 9 9 9 1
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : Q 2 S J Q 6
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 0 0 9 9 0 1 1 0
+P R : 9 4 4 9 9 9 9 9 4
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : Q 6 Z 8 L 6
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : Q 2 S J Q 6
+P R : Q 6 C Q C 6
+P R : Q 2 S J Q 6
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 7 6 9 7 6 6 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : Q 6 Z 8 L 6
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : Q 6 C Q C 6
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : P 7 4 4 4 5
+P R : P 7 7 7 0 2
+P R : Q 7 J L Z 6
+P R : Q 7 L U D 9
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : 6 1 6 9 9 1 6 1 4
+P R : Q 7 B G W 7
+P R : 6 9 6 9 9 9 9 9 1
+P R : Q 8 Z V Q 6
+P R : Q 8 Z V Q 6
+P R : Q 8 Z V Q 6
+P R : Q 6 J H U 5
+P R : Q 8 C A C 6
+P R : Q 8 Z V Q 6
+P R : Q 8 Z V Q 6
+P R : Q 8 Z V Q 6
+P R : Q 8 Z V Q 6
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : Q 8 Z V Q 6
+P R : Q 8 Z V Q 6
+P R : Q 8 Z V Q 6
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : Q 8 Z V Q 6
+P R : 1 7 6 9 6 1 6 3 1
+P R : Q 6 5 4 4 3
+P R : P 7 4 4 4 5
+P R : 8 4 4 5 6 4 4 5 0
+P R : P 7 0 4 0 4
+P R : P 7 4 4 4 5
+P R : P 7 4 4 4 5
+P R : Q 6 6 4 5 5
+P R : P 7 4 4 4 5
+P R : P 7 4 4 4 5
+P R : Q 6 6 4 5 5
+P R : P 7 4 4 4 5
+P R : 1 7 4 5 6 4 9 5 5
+P R : 1 4 4 5 6 1 4 6 4
+P R : 1 7 4 5 6 4 9 5 5
+P R : 1 4 4 5 6 1 4 6 4
+P R : 1 7 4 5 6 4 9 5 5
+P R : 1 4 4 5 6 1 4 6 4
+P R : P 7 4 4 4 5
+P R : P 7 4 4 4 5
+P R : 1 7 7 1 6 1 6 1 0
+P R : P 7 4 4 4 5
+P R : P 7 4 4 4 5
+P R : P 7 4 4 4 5
+P R : P 7 4 4 4 5
+P R : 0 7 7 9 6 0 6 0 0
+P R : Q 7 J L Z 6
+P R : P 7 7 7 0 2
+P R : P 7 0 8 0 4
+P R : Q 7 J L Z 6
+P R : P 7 7 7 0 2
+P R : P 7 0 8 0 4
+P R : P 7 7 7 0 2
+P R : Q 7 J L Z 6
+P R : P 7 0 0 0 9
+P R : P 7 0 0 0 0
+P R : 6 6 6 9 6 0 6 0 0
+P R : Q 8 Z V Q 6
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : 0 7 7 9 6 0 6 0 0
+P R : P 7 7 7 0 0
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : P 7 4 4 4 5
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : P 7 0 8 0 4
+P R : Q 7 J K X 6
+P R : Q 7 J K X 6
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : P 7 4 4 4 5
+P R : P 7 4 4 4 5
+P R : Q 6 6 4 5 5
+P R : P 7 4 4 4 5
+P R : Q 8 Z V Q 6
+P R : P 7 4 4 4 5
+P R : P 7 4 4 4 5
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : Q 7 J L Z 6
+P R : P 7 7 7 0 2
+P R : P 7 0 8 0 4
+P R : Q 7 J L Z 6
+P R : P 7 0 0 0 0
+P R : P 7 0 0 0 0
+P R : P 7 0 0 0 9
+P R : Q 7 J L Z 6
+P R : P 7 0 0 0 0
+P R : P 7 0 0 0 9
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : P 7 7 7 0 2
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : 6 4 4 9 9 1 4 9 4
+P R : 6 1 6 1 6 0 6 0 0
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : Q 7 J L Z 6
+P R : P 7 4 4 4 5
+P R : Q 7 J L Z 6
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : 0 7 7 9 6 0 6 0 0
+P R : P 7 7 7 0 2
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : Q 7 J K X 6
+P R : P 7 0 0 0 0
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : Q 8 Z V Q 6
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : P 7 4 4 4 5
+P R : P 7 4 4 4 5
+P R : P 7 4 4 4 5
+P R : P 7 4 4 4 5
+P R : Q 6 6 4 5 5
+P R : 8 4 4 5 6 4 4 5 0
+P R : 1 7 4 5 6 4 9 5 5
+P R : 1 4 4 5 6 4 4 6 4
+P R : Q 6 5 4 4 3
+P R : 1 4 4 5 6 1 4 6 4
+P R : 1 7 7 1 6 1 6 1 0
+P R : P 7 0 4 0 4
+P R : 1 7 6 9 6 1 6 3 1
+P R : 6 1 4 9 9 1 6 1 0
+P R : P 7 7 7 0 2
+P R : Q 7 J L Z 6
+P R : P 7 0 8 0 4
+P R : 0 7 7 9 6 0 6 0 0
+P R : 6 6 6 9 6 0 6 0 0
+P R : Q 7 J L B 6
+P R : 0 7 6 9 6 0 6 0 0
+P R : P 7 0 0 0 0
+P R : 0 7 6 9 6 0 6 0 0
+P R : P 7 0 0 0 9
+P R : Q 8 Z V Q 6
+P R : P 7 4 4 4 5
+P R : P 7 4 4 4 5
+P R : Q 6 6 4 5 5
+P R : P 7 4 4 4 5
+P R : P 7 4 4 4 5
+P R : P 7 4 4 4 5
+P R : Q 6 6 4 5 5
+P R : P 7 4 4 4 5
+P R : P 7 4 4 4 5
+P R : P 7 4 4 4 5
+P R : P 7 4 4 4 5
+P R : P 7 4 4 4 5
+P R : Q 6 6 4 5 5
+P R : Q 8 Z V Q 6
+P R : P 7 4 4 4 5
+P R : P 7 4 4 4 5
+P R : 1 7 4 5 6 4 9 5 5
+P R : 1 4 4 5 6 1 4 6 4
+P R : P 7 4 4 4 5
+P R : P 7 4 4 4 5
+P R : P 7 4 4 4 5
+P R : P 7 4 4 4 5
+P R : P 7 4 4 4 5
+P R : P 7 4 4 4 5
+P R : P 7 4 4 4 5
+P R : P 7 4 4 4 5
+P R : 1 7 7 1 6 1 6 1 0
+P R : P 7 4 4 4 5
+P R : P 7 4 4 4 5
+P R : Q 8 Z V Q 6
+P R : 1 7 6 9 6 1 1 1 1
+P R : Q 8 Z V Q 6
+P R : P 7 4 4 4 5
+P R : Q 6 5 4 4 3
+P R : 8 4 4 5 6 4 4 5 0
+P R : P 7 0 4 0 4
+P R : Q 8 Z V Q 6
+P R : P 7 4 4 4 5
+P R : Q 6 6 4 5 5
+P R : P 7 4 4 4 5
+P R : Q 6 6 4 5 5
+P R : P 7 4 4 4 5
+P R : P 7 4 4 4 5
+P R : P 7 4 4 4 5
+P R : Q 6 6 4 5 5
+P R : P 7 4 4 4 5
+P R : Q 8 Z V Q 6
+P R : 0 7 7 9 6 0 6 0 0
+P R : Q 7 J L Z 6
+P R : P 7 7 7 0 2
+P R : P 7 0 8 0 4
+P R : Q 8 Z V Q 6
+P R : P 7 0 0 0 0
+P R : P 7 0 0 0 9
+P R : Q 7 J L B 6
+P R : Q 8 Z V Q 6
+P R : Q 8 Z V Q 6
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : Q 7 B G W 7
+P R : Q 8 Z V Q 6
+P R : Q 8 Z V Q 6
+P R : Q 8 Z V Q 6
+P R : Q 4 C Q C 6
+P R : 4 4 4 8 4 4 4 4 4
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : Q 6 C Q A 9
+P R : Q 6 D B U 2
+P R : Q 6 0 4 6 6
+P R : Q 0 L F D 9
+P R : Q 4 C Q C 6
+P R : 4 4 4 8 4 4 4 4 4
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : Q 6 Z 8 L 6
+P R : 9 1 8 6 9 1 6 1 4
+P R : Q 4 C Q C 6
+P R : Q 3 D C C 6
+P R : Q 7 D C C 6
+P R : P 7 4 4 6 4
+P R : Q 4 C Q C 6
+P R : P 7 4 4 6 4
+P R : Q 4 C Q C 6
+P R : P 7 4 4 6 4
+P R : P 7 4 4 6 4
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : 6 4 4 9 9 9 9 9 1
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : 6 4 4 9 9 9 9 9 1
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : 6 4 4 9 9 9 6 1 4
+P R : P 7 7 4 4 4
+P R : P 7 7 4 4 4
+P R : 6 9 6 9 9 9 9 9 9
+P R : Q 7 L U D 9
+P R : Q 7 L U D 9
+P R : 6 4 4 9 9 9 6 0 0
+P R : Q 2 R 7 M 3
+P R : 4 4 4 9 9 4 4 9 4
+P R : Q 6 C Q C 6
+P R : Q 4 C Q C 6
+P R : Q 2 R 7 M 3
+P R : 6 9 6 9 9 9 9 9 9
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : P 7 7 4 4 4
+P R : Q 2 R 7 M 3
+P R : Q 6 C Q C 6
+P R : Q 7 L U D 9
+P R : P 6 7 7 6 6
+P R : 6 4 4 9 9 9 9 9 1
+P R : 6 9 6 9 9 9 9 9 9
+P R : 6 9 6 9 9 9 6 0 4
+P R : 0 7 7 9 9 9 9 2 0
+P R : 6 9 7 9 9 9 9 9 1
+P R : Q 3 L D R 7
+P R : P 6 7 7 6 6
+P R : 6 4 4 9 9 6 1 6 0
+P R : P 6 7 7 6 6
+P R : 6 4 4 9 9 9 9 9 1
+P R : P 7 7 4 6 5
+P R : P 7 7 4 4 4
+P R : Q 2 R 7 M 3
+P R : 6 9 6 9 9 9 9 9 9
+P R : 4 4 4 9 9 4 4 9 4
+P R : 6 9 0 9 9 1 1 1 1
+P R : P 7 7 4 6 5
+P R : P 7 7 4 4 4
+P R : 6 9 0 9 9 1 1 1 1
+P R : 6 9 0 9 9 1 1 1 1
+P R : P 7 7 4 4 4
+P R : Q 4 C Q C 6
+P R : 4 4 4 4 4 4 4 4 4
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : P 7 7 4 4 4
+P R : P 7 7 4 4 4
+P R : P 7 7 4 4 4
+P R : Q 4 C Q C 6
+P R : P 7 7 4 4 4
+P R : Q 4 C Q C 6
+P R : P 7 7 4 4 4
+P R : Q 4 C Q C 6
+P R : P 7 7 4 4 4
+P R : Q 4 C Q C 6
+P R : P 7 7 4 4 4
+P R : Q 4 C Q C 6
+P R : P 7 7 4 4 4
+P R : Q 4 C Q C 6
+P R : Q 7 L U D 9
+P R : Q 2 R 7 M 3
+P R : Q 6 C Q C 6
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : P 7 7 4 4 4
+P R : P 7 7 4 4 4
+P R : P 7 7 4 4 4
+P R : P 7 7 4 4 4
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : P 7 7 4 4 4
+P R : Q 7 L U D 9
+P R : Q 2 R 7 M 3
+P R : Q 6 C Q C 6
+P R : Q 4 C Q C 6
+P R : P 7 7 4 4 4
+P R : P 7 7 4 4 4
+P R : P 7 7 4 4 4
+P R : Q 4 C Q C 6
+P R : Q 7 L U D 9
+P R : Q 2 R 7 M 3
+P R : Q 6 C Q C 6
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : Q 6 J H L 6
+P R : Q 6 J H L 6
+P R : P 7 7 4 4 4
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : 6 4 4 9 9 9 9 9 1
+P R : Q 4 C Q C 6
+P R : P 7 7 4 6 5
+P R : P 7 7 4 4 4
+P R : Q 2 R 7 M 3
+P R : 9 9 6 9 9 9 9 9 9
+P R : 6 9 4 9 9 9 0 7 0
+P R : 6 9 0 9 9 1 1 1 1
+P R : Q 4 C Q C 6
+P R : P 7 7 4 4 4
+P R : Q 2 R 7 M 3
+P R : Q 7 L U D 9
+P R : Q 7 L U D 9
+P R : Q 6 C Q C 6
+P R : P 6 7 7 6 6
+P R : Q 4 C Q C 6
+P R : Q 4 C Q C 6
+P R : 4 4 4 8 4 4 4 4 4
