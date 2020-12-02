@@ -1,7 +1,7 @@
 T302	GO_EXT:0016791 1255 1266	phosphatase
 T303	GO_EXT:0016791 5869 5880	phosphatase
 T304	GO_EXT:0008083 6035 6049	growth factors
-T305	GO_PR_EXT:phosphoenolpyruvate_carboxykinase 6059 6084	phosphoinositide 3 - kinase
+T305	GO_PR_EXT:phosphoenolpyruvate_carboxykinase 6059 6084	phosphoinositide 3-kinase
 T306	GO_PR_EXT:protein_disulfide_isomerase 6086 6090	PI3K
 T307	GO_PR_EXT:protein_disulfide_isomerase 7154 7158	PI3K
 T308	GO_EXT:0008910 8629 8632	Neo
@@ -22,7 +22,7 @@ T322	GO:00487617 40637 40655	protease inhibitor
 T323	GO_EXT:0004601 43409 43419	peroxidase
 T324	GO_EXT:0004629 45805 45830	phosphoribosyltransferase
 T325	GO_PR_EXT:protein_disulfide_isomerase 46028 46032	PI3K
-T326	GO_PR_EXT:phosphoenolpyruvate_carboxykinase 46035 46060	phosphoinositide 3 - kinase
+T326	GO_PR_EXT:phosphoenolpyruvate_carboxykinase 46035 46060	phosphoinositide 3-kinase
 T327	GO_EXT:0016791 46161 46172	phosphatase
 T328	GO_PR_EXT:alkaline_phosphatase 46972 46975	Akt
 T329	GO_PR_EXT:hydroxymethylglutaryl_CoA_reductase 47347 47351	Hprt

@@ -1,13 +1,13 @@
-T342	GO_PR_EXT:phosphoenolpyruvate_carboxykinase 2863 2880	...- thymidine kinase
+T342	GO_PR_EXT:beta3_adrenergic_receptor 2863 2880	-thymidine kinase
 T343	GO_EXT:recombinase 3015 3026	recombinase
-T344	GO_EXT:0004736 3717 3744	hygromycin - thymidine kinase
+T344	GO_EXT:0004736 3717 3744	hygromycin-thymidine kinase
 T345	GO_PR_EXT:thymidine_kinase 3752 3754	TK
 T346	GO_PR_EXT:alkaline_phosphatase 4641 4661	alkaline phosphatase
 T347	GO_PR_EXT:alkaline_phosphatase 5539 5559	alkaline phosphatase
 T348	GO_EXT:0004886 5596 5598	RT
 T349	GO_EXT:0004886 6052 6054	RT
 T350	GO_EXT:transcription_factor 8540 8560	transcription factor
-T351	GO_EXT:0004402 10094 10095	...-
+T351	GO_EXT:0004565 10094 10095	-
 T352	GO_PR_EXT:thymidine_kinase 10095 10111	thymidine kinase
 T353	GO_PR_EXT:thymidine_kinase 10138 10140	TK
 T354	GO_PR_EXT:thymidine_kinase 10416 10418	TK

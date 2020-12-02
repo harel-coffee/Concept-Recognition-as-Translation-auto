@@ -4,7 +4,7 @@ T2014	SO_EXT:sequence_coding_function 650 658	encoding
 T2015	SO_EXT:0000704 744 749	genes
 T2016	CHEBI_GO_SO_EXT:enzyme 868 875	enzymes
 T2017	CHEBI_GO_SO_EXT:enzyme 944 951	enzymes
-T2018	SO_EXT:wild_type_entity_or_quality 1593 1602	wild - type
+T2018	SO_EXT:wild_type_entity_or_quality 1593 1602	wild-type
 T2019	SO_EXT:sequence_deletion_entity_or_process 3502 3510	deletion
 T2020	SO_EXT:0001023 3561 3567	allele
 T2021	SO_EXT:0000704 3575 3579	gene
@@ -16,12 +16,12 @@ T2026	SO_EXT:sequence_deletion_entity_or_process 4206 4214	deletion
 T2027	SO_EXT:0000902 4295 4304	transgene
 T2028	SO_EXT:sequence_deletion_entity_or_process 4381 4389	deletion
 T2029	SO_EXT:sequence_deletion_entity_or_process 4447 4455	deletion
-T2030	SO:0000359 4533 4545	loxP - flanked
+T2030	SO:0000359 4533 4545	loxP-flanked
 T2031	SO_EXT:0001023 4546 4552	allele
 T2032	SO_EXT:0000902 4569 4578	transgene
 T2033	SO_EXT:sequence_deletion_entity_or_process 4640 4648	deletion
 T2034	SO_EXT:sequence_deletion_entity_or_process 4759 4768	deletions
-T2035	SO_EXT:wild_type_entity_or_quality 5232 5241	wild - type
+T2035	SO_EXT:wild_type_entity_or_quality 5232 5241	wild-type
 T2036	SO_EXT:wild_type_entity_or_quality 5243 5245	WT
 T2037	SO_EXT:0000704 5332 5336	gene
 T2038	SO_EXT:0000704 5402 5407	genes
@@ -59,17 +59,17 @@ T2069	SO_EXT:wild_type_entity_or_quality 14165 14168	WTs
 T2070	SO_EXT:sequence_alteration_process 14910 14920	processing
 T2071	SO_EXT:wild_type_entity_or_quality 14989 14991	WT
 T2072	SO_EXT:genotype_or_entity_with_genotype 15252 15261	genotypes
-T2073	SO:0000359 15964 15976	loxP - flanked
+T2073	SO:0000359 15964 15976	loxP-flanked
 T2074	SO_EXT:0001023 15977 15983	allele
 T2075	SO_EXT:0000902 16102 16111	transgene
-T2076	SO:0000359 16195 16207	loxP - flanked
+T2076	SO:0000359 16195 16207	loxP-flanked
 T2077	SO_EXT:0001023 16215 16221	allele
 T2078	SO_EXT:0000902 16242 16251	transgene
 T2079	SO_EXT:wild_type_entity_or_quality 16353 16355	WT
 T2080	SO_EXT:sequence_deletion_entity_or_process 16414 16422	deletion
 T2081	CHEBI_SO_EXT:DNA 16473 16476	DNA
 T2082	CHEBI_SO_EXT:DNA 16507 16510	DNA
-T2083	SO:0000359 16598 16610	loxP - flanked
+T2083	SO:0000359 16598 16610	loxP-flanked
 T2084	SO_EXT:biological_sequence 16831 16839	Sequence
 T2085	SO_EXT:sequence_deletion_process 17059 17067	excision
 T2086	CHEBI_SO_EXT:DNA 17103 17106	DNA
@@ -144,7 +144,7 @@ T2154	SO_EXT:wild_type_entity_or_quality 23730 23732	WT
 T2155	SO_EXT:wild_type_entity_or_quality 24177 24179	WT
 T2156	SO_EXT:wild_type_entity_or_quality 24435 24437	WT
 T2157	SO_EXT:wild_type_entity_or_quality 25857 25859	WT
-T2158	SO_EXT:wild_type_entity_or_quality 25862 25871	wild - type
+T2158	SO_EXT:wild_type_entity_or_quality 25862 25871	wild-type
 T2159	SO_EXT:wild_type_entity_or_quality 26073 26075	WT
 T2160	SO_EXT:sequence_deletion_entity_or_process 26160 26168	deletion
 T2161	SO_EXT:wild_type_entity_or_quality 26470 26472	WT

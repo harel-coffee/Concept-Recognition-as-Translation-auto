@@ -44,7 +44,7 @@ T2983	SO:0000359 6054 6060	floxed
 T2984	SO:0001030 6062 6063	F
 T2985	SO_EXT:wild_type_entity_or_quality 6095 6104	wild type
 T2986	SO_EXT:0001023 6105 6111	allele
-T2987	SO_EXT:0000188 6112 6116	(+).
+T2987	SO_EXT:0001077 6112 6116	(+).
 T2988	SO_EXT:normal_or_wild_type_or_present 6271 6273	+/
 T2989	SO_EXT:normal_or_wild_type_or_present 6301 6305	+/+,
 T2990	SO_EXT:normal_or_wild_type_or_present 6306 6308	+/
@@ -75,7 +75,7 @@ T3014	CHEBI_SO_EXT:mRNA 7870 7874	mRNA
 T3015	SO_EXT:wild_type_entity_or_quality 8181 8190	wild type
 T3016	SO_EXT:wild_type_entity_or_quality 8524 8533	wild type
 T3017	SO_EXT:wild_type_entity_or_quality 8660 8669	wild type
-T3018	SO_EXT:wild_type_entity_or_quality 8709 8718	wild - type
+T3018	SO_EXT:wild_type_entity_or_quality 8709 8718	wild-type
 T3019	SO_EXT:wild_type_entity_or_quality 9115 9124	wild type
 T3020	SO_EXT:wild_type_entity_or_quality 10358 10367	wild type
 T3021	SO_EXT:wild_type_entity_or_quality 10961 10971	wild types
@@ -96,7 +96,7 @@ T3035	SO_EXT:sequence_deletion_entity_or_process 12455 12463	deletion
 T3036	SO_EXT:genomic_DNA 12467 12478	genomic DNA
 T3037	SO_EXT:0000346 12487 12497	loxP sites
 T3038	CHEBI_SO_EXT:molecular_probe 12526 12531	Probe
-T3039	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 12554 12556	kb
+T3039	CHEBI_SO_EXT:base 12554 12556	kb
 T3040	GO_SO_EXT:sequence_rearrangement_process 12581 12591	recombined
 T3041	SO_EXT:0001023 12601 12607	allele
 T3042	GO_SO_EXT:sequence_rearrangement_process 12656 12669	recombination
@@ -107,11 +107,11 @@ T3046	SO_EXT:0001023 12712 12718	allele
 T3047	SO_EXT:0000902 12748 12757	transgene
 T3048	GO_SO_EXT:sequence_rearrangement_process 12783 12793	recombined
 T3049	SO_EXT:0001023 12797 12803	allele
-T3050	SO_EXT:0000188 12804 12807	(+/
+T3050	SO_EXT:0001087 12804 12807	(+/
 T3051	SO:0000359 12850 12856	floxed
 T3052	GO_SO_EXT:sequence_rearrangement_process 12862 12872	recombined
 T3053	SO_EXT:0001023 12876 12882	allele
-T3054	SO_EXT:0000188 12883 12886	(+/
+T3054	SO_EXT:0001087 12883 12886	(+/
 T3055	GO_SO_EXT:sequence_rearrangement_process 12971 12981	recombined
 T3056	SO_EXT:0000704 13062 13070	genetics
 T3057	SO_EXT:sequence_deletion_entity_or_process 13310 13318	deletion
@@ -143,7 +143,7 @@ T3082	SO_EXT:0000188 15326 15334	Intronic
 T3083	SO_EXT:sequence_insertion_entity_or_process 15335 15344	insertion
 T3084	SO_EXT:0001023 15372 15379	alleles
 T3085	SO:0000976 15395 15402	cryptic
-T3086	SO_EXT:alternative_splice_variant 15403 15419	splicing signals
+T3086	SO_EXT:0000156 15403 15419	splicing signals
 T3087	SO_EXT:0000704 15431 15435	gene
 T3088	GO_SO_EXT:frameshift_entity_or_process 15451 15461	frameshift
 T3089	SO_EXT:sequence_alteration_entity_or_process 15465 15476	alterations
@@ -187,7 +187,7 @@ T3126	SO_EXT:0000346 24511 24520	loxP site
 T3127	SO_EXT:sequence_insertion_process 24543 24551	inserted
 T3128	SO_EXT:0000028 24573 24575	bp
 T3129	SO_EXT:0000147 24582 24586	Exon
-T3130	SO_EXT:sequence_upstreamness 24592 24599	blunted
+T3130	SO_EXT:sequence_ubstitution_process 24592 24599	blunted
 T3131	SO_EXT:0000704 24637 24641	gene
 T3132	SO_EXT:0000167 24653 24661	promoter
 T3133	SO_EXT:0000551 24666 24689	polyadenylation signals
@@ -205,7 +205,7 @@ T3144	SO_EXT:engineered_biological_sequence 24999 25008	construct
 T3145	SO_EXT:sequence_linearization 25013 25023	linearized
 T3146	SO_EXT:0000704 25253 25257	gene
 T3147	SO_EXT:genomic_DNA 25312 25323	genomic DNA
-T3148	SO_EXT:0000997 25325 25334	Fragments
+T3148	SO_EXT:0001309 25325 25334	Fragments
 T3149	CHEBI_SO_EXT:molecular_probe 25361 25366	probe
 T3150	SO_EXT:engineered_biological_sequence 25402 25411	construct
 T3151	CHEBI_SO_EXT:DNA 25526 25529	DNA
@@ -215,14 +215,14 @@ T3154	SO_EXT:0001644 25635 25651	targeting vector
 T3155	CHEBI_GO_SO_EXT:enzyme 25674 25681	enzymes
 T3156	SO_EXT:sequence_cloned_entity 25832 25838	clones
 T3157	SO_EXT:0001023 26019 26025	allele
-T3158	SO_EXT:sequence_alteration_process 26028 26031	/+)
+T3158	SO_EXT:0001058 26028 26031	/+)
 T3159	SO_EXT:wild_type_entity_or_quality 26073 26082	wild type
-T3160	SO_EXT:sequence_deletion_process 26083 26089	(+/+),
+T3160	SO_EXT:0001084 26083 26089	(+/+),
 T3161	SO_EXT:sequence_altered_entity 26118 26125	mutants
 T3162	SO_EXT:sequence_cloned_entity 26207 26212	clone
 T3163	CHEBI_SO_EXT:RNA 26395 26398	RNA
 T3164	CHEBI_SO_EXT:RNA 26479 26482	RNA
-T3165	SO_EXT:sequence_alteration_process 26624 26631	labeled
+T3165	SO_EXT:sequence_linearization 26624 26631	labeled
 T3166	SO_EXT:cDNA 26635 26639	cDNA
 T3167	CHEBI_SO_EXT:molecular_probe 26640 26645	probe
 T3168	CHEBI_SO_EXT:molecular_probe 26694 26699	probe
@@ -239,7 +239,7 @@ T3178	SO_EXT:genotype_or_entity_with_genotype 31216 31224	genotype
 T3179	SO_EXT:genotype_or_entity_with_genotype 31236 31244	genotype
 T3180	SO_EXT:genotype_or_entity_with_genotype 32380 32388	genotype
 T3181	SO_EXT:0000704 33021 33025	Gene
-T3182	SO_EXT:0000842 33174 33183;33184 33199	region of ... gene
+T3182	SO_EXT:0000842 33174 33183;33195 33199	region of ... gene
 T3183	SO_EXT:0001644 33205 33221	targeting vector
 T3184	GO_SO_EXT:sequence_rearrangement_process 33268 33278	recombined
 T3185	SO_EXT:0001023 33288 33295	alleles
@@ -250,13 +250,13 @@ T3189	SO_EXT:0000155 33421 33428	plasmid
 T3190	SO_EXT:0005853 33502 33511	cassettes
 T3191	CHEBI_SO_EXT:DNA 33573 33577	DNAs
 T3192	CHEBI_SO_EXT:molecular_probe 33579 33584	Probe
-T3193	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 33607 33609	kb
+T3193	CHEBI_SO_EXT:base 33607 33609	kb
 T3194	SO_EXT:wild_type_entity_or_quality 33634 33643	wild type
 T3195	SO_EXT:0001023 33655 33661	allele
-T3196	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 33672 33674	kb
+T3196	CHEBI_SO_EXT:base 33672 33674	kb
 T3197	SO_EXT:0001023 33708 33714	allele
 T3198	SO_EXT:wild_type_entity_or_quality 33788 33797	wild type
-T3199	SO_EXT:sequence_deletion_process 33798 33803	(+/+)
+T3199	SO_EXT:0001084 33798 33803	(+/+)
 T3200	CHEBI_SO_EXT:RNA 33859 33862	RNA
 T3201	SO_EXT:cDNA 33884 33888	cDNA
 T3202	CHEBI_SO_EXT:molecular_probe 33908 33913	probe

@@ -1,134 +1,134 @@
-T5041	GO:0042592 44 55	Homeostasis
-T5042	GO:0007567 654 659	birth
-T5043	GO_EXT:biological_translocation_entity_or_process 1208 1221	translocation
-T5044	GO:0006955 1419 1434	immune response
-T5045	GO_EXT:biological_recruitment 1627 1638	Recruitment
-T5046	GO:0006412 2075 2088;2089 2092	production of ...
-T5047	GO_PATO_EXT:inflammatory_process_or_quality 2093 2105	inflammatory
-T5048	GO_PATO_EXT:inflammatory_process_or_quality 2998 3010	inflammatory
-T5049	GO:0006955 3130 3145	immune response
-T5050	GO:0006955 3462 3477	immune response
-T5051	GO:0000267 3550 3559	localized
-T5052	GO:0007567 3892 3897	birth
-T5053	GO:0016265 4285 4290	death
-T5054	GO_EXT:fatality_or_lethality 4390 4396	lethal
-T5055	GO_EXT:behavioral_conditioning 4656 4668	conditioning
-T5056	GO:0007129 4699 4707	transfer
-T5057	GO:0010467 5071 5081	expression
-T5058	GO_EXT:biological_translocation_entity_or_process 5175 5188	translocation
-T5059	GO_EXT:reaction_or_response 5283 5291	response
-T5060	GO_PATO_EXT:inflammatory_process_or_quality 5547 5559	inflammation
-T5061	GO:0007567 5740 5745	birth
-T5062	GO:0007567 5912 5917	birth
-T5063	GO:0065007 6475 6484	modulates
-T5064	GO:0006915 6526 6535	apoptosis
-T5065	GO_PATO_EXT:apoptotic_process_or_quality 6567 6576	apoptotic
-T5066	GO:0065007 8229 8239	regulatory
-T5067	GO:0007613 8257 8263	memory
-T5068	GO:0065007 8350 8360	regulatory
-T5069	GO:0007613 8365 8371	memory
-T5070	GO:0006915 8711 8720	apoptosis
-T5071	GO:0010467 8918 8928	expression
-T5072	GO:0010467 9286 9295	expressed
-T5073	GO_EXT:cytokine_biosynthesis_or_production 9437 9456	cytokine production
-T5074	GO:0010467 9799 9809	expression
-T5075	GO:0010467 9872 9882	expression
-T5076	GO:0010467 10011 10021	expression
-T5077	GO_EXT:killing 10543 10549	killed
-T5078	GO_EXT:biological_translocation_entity_or_process 10637 10650	translocation
-T5079	GO_EXT:biological_translocation_entity_or_process 10749 10762	translocation
-T5080	GO_EXT:biological_translocation_entity_or_process 10879 10892	translocation
-T5081	GO_EXT:killing 10921 10927	killed
-T5082	GO:0010467 12250 12260	expression
-T5083	GO:0007567 12801 12806	birth
-T5084	GO:0080118 12936 12946	overgrowth
-T5085	GO:0065007 13114 13123	modulates
-T5086	GO:0080118 13202 13212	overgrowth
-T5087	GO:0007567 13481 13486	birth
-T5088	GO:0007282 13541 13561	natal development of
-T5089	GO:0023051 13599 13609	signalling
-T5090	GO:0048513 13632 13645	organogenesis
-T5091	GO:0007566 13761 13770	postnatal
-T5092	GO:0007566 14210 14219	postnatal
-T5093	GO:0007566 14319 14328	postnatal
-T5094	GO:0006915 15259 15268	apoptosis
-T5095	GO:0007129 15885 15893	transfer
-T5096	GO:0065007 16210 16218	modulate
-T5097	GO:0006915 16223 16232	apoptosis
-T5098	GO:0006915 16315 16324	apoptosis
-T5099	GO_PATO_EXT:apoptotic_process_or_quality 16440 16449	apoptotic
-T5100	GO:0006915 16621 16630	apoptosis
-T5101	GO_PATO_EXT:inflammatory_process_or_quality 16757 16769	inflammatory
-T5102	GO_PATO_EXT:inflammatory_process_or_quality 16788 16800	inflammatory
-T5103	GO:0010467 16814 16824	expression
-T5104	GO:0006955 16940 16955	immune response
-T5105	GO_EXT:cytokine_biosynthesis_or_production 16979 16998	cytokine production
-T5106	GO_PATO_EXT:inflammatory_process_or_quality 17398 17410	inflammatory
-T5107	GO:0065007 17434 17442	modulate
-T5108	GO:0010467 17834 17844	expression
-T5109	GO_EXT:negative_regulation 17947 17960	down regulate
-T5110	GO_EXT:transcription 17965 17978	transcription
-T5111	GO:0010467 18001 18011	expression
-T5112	GO_EXT:biological_translocation_entity_or_process 18465 18478	translocation
-T5113	GO:0042116 18684 18707	bacterial translocation
-T5114	GO:0034205 18880 18902	bacteria translocation
-T5115	GO:0046730 19289 19314	adaptive immune responses
-T5116	GO_EXT:biological_translocation_entity_or_process 19398 19411	translocation
-T5117	GO_RO_EXT:developmental_differentiation_process 19462 19477	differentiation
-T5118	GO:0010467 19792 19802	expression
-T5119	GO:0042116 19900 19923	bacterial translocation
-T5120	GO:0010467 20170 20180	expression
-T5121	GO_EXT:biological_translocation_entity_or_process 20271 20284	translocation
-T5122	GO_EXT:biological_translocation_entity_or_process 20413 20426	translocation
-T5123	GO_PATO_EXT:inflammatory_process_or_quality 20726 20738	inflammation
-T5124	GO:0023051 20984 20993	signaling
-T5125	GO_EXT:reaction_or_response 21054 21062	response
-T5126	GO_PATO_EXT:inflammatory_process_or_quality 21101 21113	inflammatory
-T5127	GO_EXT:reaction_or_response 21114 21122	response
-T5128	GO:0065007 21221 21229	modulate
-T5129	GO_EXT:biological_translocation_entity_or_process 21522 21535	translocation
-T5130	GO:0006955 22073 22088	immune response
-T5131	GO_EXT:biological_translocation_entity_or_process 22116 22129	translocation
-T5132	GO:0010467 23604 23614	expression
-T5133	GO_SO_EXT:sequence_rearrangement_process 23650 23652	RT
-T5134	GO:0007567 24314 24319	birth
-T5135	GO:0007567 24377 24382	birth
-T5136	GO:0007229 26238 26247	Signaling
-T5137	GO_EXT:biological_translocation_entity_or_process 27070 27083	translocation
-T5138	GO_EXT:killing 27113 27119	killed
-T5139	GO_EXT:biological_translocation_entity_or_process 27409 27422	translocation
-T5140	GO_EXT:killing 27452 27458	killed
-T5141	GO_EXT:transcription 27639 27652	transcription
-T5142	GO_SO_EXT:sequence_rearrangement_process 27680 27682	RT
-T5143	GO:0010467 28397 28407	expression
-T5144	GO:0010467 28912 28921	expressed
-T5145	GO_EXT:killing 29292 29298	killed
-T5146	GO:0065007 31043 31053	regulatory
-T5147	GO:0007613 31058 31064	memory
-T5148	GO_PATO_EXT:apoptotic_process_or_quality 31228 31237	apoptotic
-T5149	GO_PATO_EXT:apoptotic_process_or_quality 31265 31274	Apoptotic
-T5150	GO:0050913 31645 31653	Baptiste
-T5151	GO:0007566 31838 31847	postnatal
-T5152	GO:0007567 31966 31971	birth
-T5153	GO_PATO_EXT:apoptotic_process_or_quality 32189 32198	apoptotic
-T5154	GO:0010467 33377 33387	expression
-T5155	GO:0010467 33396 33407	Expressions
-T5156	GO_EXT:biological_translocation_entity_or_process 33687 33700	translocation
-T5157	GO:0010467 33983 33993	expression
-T5158	GO_EXT:biological_translocation_entity_or_process 34113 34126	translocation
-T5159	GO_EXT:killing 34141 34147	killed
-T5160	GO_EXT:biological_translocation_entity_or_process 34187 34200	Translocation
-T5161	GO_EXT:biological_translocation_entity_or_process 34267 34280	Translocation
-T5162	GO_EXT:killing 34297 34303	killed
-T5163	GO_EXT:biological_translocation_entity_or_process 34343 34356	Translocation
-T5164	GO_EXT:killing 34371 34377	killed
-T5165	GO_SO_EXT:sequence_rearrangement_process 34965 34978	recombination
-T5166	GO_SO_EXT:sequence_rearrangement_process 35199 35212	recombination
-T5167	GO_SO_EXT:sequence_rearrangement_process 35230 35243	recombination
-T5168	GO_SO_EXT:sequence_rearrangement_process 35788 35801	Recombination
-T5169	GO_SO_EXT:sequence_rearrangement_process 36480 36493	recombination
-T5170	GO_SO_EXT:sequence_rearrangement_process 36579 36592	recombination
-T5171	GO:0010467 36745 36755	Expression
-T5172	GO_SO_EXT:sequence_rearrangement_process 36780 36782	RT
-T5173	GO:0010467 36907 36917	expression
-T5174	GO:0010467 36950 36960	expression
+T10933	GO:0042592 44 55	Homeostasis
+T10934	GO:0007567 654 659	birth
+T10935	GO_EXT:biological_translocation_entity_or_process 1208 1221	translocation
+T10936	GO:0006955 1419 1434	immune response
+T10937	GO_EXT:biological_recruitment 1627 1638	Recruitment
+T10938	GO:0014822 2075 2088;	production of ...
+T10939	GO_PATO_EXT:inflammatory_process_or_quality 2093 2105	inflammatory
+T10940	GO_PATO_EXT:inflammatory_process_or_quality 2998 3010	inflammatory
+T10941	GO:0006955 3130 3145	immune response
+T10942	GO:0006955 3462 3477	immune response
+T10943	GO:0009566 3550 3559	localized
+T10944	GO:0007567 3892 3897	birth
+T10945	GO:0016265 4285 4290	death
+T10946	GO_EXT:fatality_or_lethality 4390 4396	lethal
+T10947	GO_EXT:behavioral_conditioning 4656 4668	conditioning
+T10948	GO_EXT:biological_routing_or_tranformant 4699 4707	transfer
+T10949	GO:0010467 5071 5081	expression
+T10950	GO_EXT:biological_translocation_entity_or_process 5175 5188	translocation
+T10951	GO_EXT:reaction_or_response 5283 5291	response
+T10952	GO_PATO_EXT:inflammatory_process_or_quality 5547 5559	inflammation
+T10953	GO:0007567 5740 5745	birth
+T10954	GO:0007567 5912 5917	birth
+T10955	GO:0065007 6475 6484	modulates
+T10956	GO:0006915 6526 6535	apoptosis
+T10957	GO_PATO_EXT:apoptotic_process_or_quality 6567 6576	apoptotic
+T10958	GO:0065007 8229 8239	regulatory
+T10959	GO:0007613 8257 8263	memory
+T10960	GO:0065007 8350 8360	regulatory
+T10961	GO:0007613 8365 8371	memory
+T10962	GO:0006915 8711 8720	apoptosis
+T10963	GO:0010467 8918 8928	expression
+T10964	GO:0010467 9286 9295	expressed
+T10965	GO_EXT:cytokine_biosynthesis_or_production 9437 9456	cytokine production
+T10966	GO:0010467 9799 9809	expression
+T10967	GO:0010467 9872 9882	expression
+T10968	GO:0010467 10011 10021	expression
+T10969	GO_EXT:killing 10543 10549	killed
+T10970	GO_EXT:biological_translocation_entity_or_process 10637 10650	translocation
+T10971	GO_EXT:biological_translocation_entity_or_process 10749 10762	translocation
+T10972	GO_EXT:biological_translocation_entity_or_process 10879 10892	translocation
+T10973	GO_EXT:killing 10921 10927	killed
+T10974	GO:0010467 12250 12260	expression
+T10975	GO:0007567 12801 12806	birth
+T10976	GO:0090009 12936 12946	overgrowth
+T10977	GO:0065007 13114 13123	modulates
+T10978	GO:0090009 13202 13212	overgrowth
+T10979	GO:0007567 13481 13486	birth
+T10980	GO:0030260 13541 13561	natal development of
+T10981	GO:0007567 13599 13609	signalling
+T10982	GO:0048513 13632 13645	organogenesis
+T10983	GO:0007605 13761 13770	postnatal
+T10984	GO:0007605 14210 14219	postnatal
+T10985	GO:0007605 14319 14328	postnatal
+T10986	GO:0006915 15259 15268	apoptosis
+T10987	GO_EXT:biological_routing_or_tranformant 15885 15893	transfer
+T10988	GO:0065007 16210 16218	modulate
+T10989	GO:0006915 16223 16232	apoptosis
+T10990	GO:0006915 16315 16324	apoptosis
+T10991	GO_PATO_EXT:apoptotic_process_or_quality 16440 16449	apoptotic
+T10992	GO:0006915 16621 16630	apoptosis
+T10993	GO_PATO_EXT:inflammatory_process_or_quality 16757 16769	inflammatory
+T10994	GO_PATO_EXT:inflammatory_process_or_quality 16788 16800	inflammatory
+T10995	GO:0010467 16814 16824	expression
+T10996	GO:0006955 16940 16955	immune response
+T10997	GO_EXT:cytokine_biosynthesis_or_production 16979 16998	cytokine production
+T10998	GO_PATO_EXT:inflammatory_process_or_quality 17398 17410	inflammatory
+T10999	GO:0065007 17434 17442	modulate
+T11000	GO:0010467 17834 17844	expression
+T11001	GO_EXT:negative_regulation 17947 17960	down regulate
+T11002	GO_EXT:transcription 17965 17978	transcription
+T11003	GO:0010467 18001 18011	expression
+T11004	GO_EXT:biological_translocation_entity_or_process 18465 18478	translocation
+T11005	GO:0043143 18684 18707	bacterial translocation
+T11006	GO:0035638 18880 18902	bacteria translocation
+T11007	GO:0051866 19289 19314	adaptive immune responses
+T11008	GO_EXT:biological_translocation_entity_or_process 19398 19411	translocation
+T11009	GO_RO_EXT:developmental_differentiation_process 19462 19477	differentiation
+T11010	GO:0010467 19792 19802	expression
+T11011	GO:0043143 19900 19923	bacterial translocation
+T11012	GO:0010467 20170 20180	expression
+T11013	GO_EXT:biological_translocation_entity_or_process 20271 20284	translocation
+T11014	GO_EXT:biological_translocation_entity_or_process 20413 20426	translocation
+T11015	GO_PATO_EXT:inflammatory_process_or_quality 20726 20738	inflammation
+T11016	GO:0007568 20984 20993	signaling
+T11017	GO_EXT:reaction_or_response 21054 21062	response
+T11018	GO_PATO_EXT:inflammatory_process_or_quality 21101 21113	inflammatory
+T11019	GO_EXT:reaction_or_response 21114 21122	response
+T11020	GO:0065007 21221 21229	modulate
+T11021	GO_EXT:biological_translocation_entity_or_process 21522 21535	translocation
+T11022	GO:0006955 22073 22088	immune response
+T11023	GO_EXT:biological_translocation_entity_or_process 22116 22129	translocation
+T11024	GO:0010467 23604 23614	expression
+T11025	GO:0016246 23650 23652	RT
+T11026	GO:0007567 24314 24319	birth
+T11027	GO:0007567 24377 24382	birth
+T11028	GO:0007568 26238 26247	Signaling
+T11029	GO_EXT:biological_translocation_entity_or_process 27070 27083	translocation
+T11030	GO_EXT:killing 27113 27119	killed
+T11031	GO_EXT:biological_translocation_entity_or_process 27409 27422	translocation
+T11032	GO_EXT:killing 27452 27458	killed
+T11033	GO_EXT:transcription 27639 27652	transcription
+T11034	GO:0016246 27680 27682	RT
+T11035	GO:0010467 28397 28407	expression
+T11036	GO:0010467 28912 28921	expressed
+T11037	GO_EXT:killing 29292 29298	killed
+T11038	GO:0065007 31043 31053	regulatory
+T11039	GO:0007613 31058 31064	memory
+T11040	GO_PATO_EXT:apoptotic_process_or_quality 31228 31237	apoptotic
+T11041	GO_PATO_EXT:apoptotic_process_or_quality 31265 31274	Apoptotic
+T11042	GO:0050913 31645 31653	Baptiste
+T11043	GO:0007605 31838 31847	postnatal
+T11044	GO:0007567 31966 31971	birth
+T11045	GO_PATO_EXT:apoptotic_process_or_quality 32189 32198	apoptotic
+T11046	GO:0010467 33377 33387	expression
+T11047	GO:0010467 33396 33407	Expressions
+T11048	GO_EXT:biological_translocation_entity_or_process 33687 33700	translocation
+T11049	GO:0010467 33983 33993	expression
+T11050	GO_EXT:biological_translocation_entity_or_process 34113 34126	translocation
+T11051	GO_EXT:killing 34141 34147	killed
+T11052	GO_EXT:biological_translocation_entity_or_process 34187 34200	Translocation
+T11053	GO_EXT:biological_translocation_entity_or_process 34267 34280	Translocation
+T11054	GO_EXT:killing 34297 34303	killed
+T11055	GO_EXT:biological_translocation_entity_or_process 34343 34356	Translocation
+T11056	GO_EXT:killing 34371 34377	killed
+T11057	GO_SO_EXT:sequence_rearrangement_process 34965 34978	recombination
+T11058	GO_SO_EXT:sequence_rearrangement_process 35199 35212	recombination
+T11059	GO_SO_EXT:sequence_rearrangement_process 35230 35243	recombination
+T11060	GO_SO_EXT:sequence_rearrangement_process 35788 35801	Recombination
+T11061	GO_SO_EXT:sequence_rearrangement_process 36480 36493	recombination
+T11062	GO_SO_EXT:sequence_rearrangement_process 36579 36592	recombination
+T11063	GO:0010467 36745 36755	Expression
+T11064	GO:0016246 36780 36782	RT
+T11065	GO:0010467 36907 36917	expression
+T11066	GO:0010467 36950 36960	expression

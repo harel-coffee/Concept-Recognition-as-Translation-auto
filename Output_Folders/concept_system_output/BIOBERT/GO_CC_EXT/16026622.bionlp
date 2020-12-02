@@ -2,13 +2,13 @@ T1402	GO_SO_EXT:chromosome 1321 1331	chromosome
 T1403	GO_SO_EXT:chromosome 1365 1376	chromosomes
 T1404	GO_SO_EXT:chromosome 1516 1527	chromosomes
 T1405	GO_SO_EXT:chromosome 1782 1792	chromosome
-T1406	GO:0000785 4272 4291	chromosomal regions
+T1406	GO:0009575 4272 4291	chromosomal regions
 T1407	CL_GO_EXT:cell 7452 7456	cell
 T1408	CL_GO_EXT:cell 7482 7486	cell
 T1409	GO_SO_EXT:chromosome 11122 11132	chromosome
 T1410	GO_SO_EXT:chromosome 11248 11258	chromosome
 T1411	GO_SO_EXT:chromosome 11345 11355	chromosome
-T1412	GO:0032101 13661 13678	end of chromosome
+T1412	GO:0031915 13661 13678	end of chromosome
 T1413	GO_SO_EXT:chromosome 13955 13965	chromosome
 T1414	GO_SO_EXT:chromosome 14309 14319	chromosome
 T1415	GO_SO_EXT:chromosome 14375 14385	chromosome
@@ -28,17 +28,17 @@ T1428	GO_SO_EXT:chromosome 18007 18018	chromosomes
 T1429	GO_SO_EXT:chromosome 18278 18289	chromosomes
 T1430	GO_SO_EXT:chromosome 18473 18484	chromosomes
 T1431	GO_SO_EXT:chromosome 19350 19360	chromosome
-T1432	GO:0032101 21302 21319	end of chromosome
+T1432	GO:0031915 21302 21319	end of chromosome
 T1433	GO_SO_EXT:chromosome 21395 21405	chromosome
 T1434	GO_SO_EXT:chromosome 21506 21517	chromosomes
 T1435	GO_SO_EXT:chromosome 22818 22829	chromosomes
 T1436	GO_SO_EXT:chromosome 23093 23104	chromosomes
 T1437	GO_SO_EXT:chromosome 23506 23516	chromosome
 T1438	CL_GO_EXT:cell 23827 23831	cell
-T1439	GO:0044612 24071 24085	nuclear factor
+T1439	GO:0005643 24071 24085	nuclear factor
 T1440	GO:0005883 24087 24089	NF
 T1441	GO:0005886 24539 24554	plasma membrane
-T1442	GO:0000941 24730 24754	intervals on chromosomes
+T1442	GO:0000797 24730 24754	intervals on chromosomes
 T1443	CL_GO_EXT:cell 25457 25461	cell
 T1444	GO_SO_EXT:chromosome 25859 25870	chromosomes
 T1445	CL_GO_EXT:cell 26415 26419	cell
@@ -49,12 +49,12 @@ T1449	GO:0005883 26995 26997	NF
 T1450	CL_GO_EXT:cell 27062 27067	cells
 T1451	GO_SO_EXT:chromosome 27334 27344	chromosome
 T1452	GO_SO_EXT:chromosome 28038 28048	chromosome
-T1453	GO:0031941 28110 28115	intra
+T1453	GO:0001917 28110 28115	intra
 T1454	CL_GO_EXT:cell 28116 28124	cellular
 T1455	CL_GO_EXT:cell 29983 29988	cells
-T1456	GO:0071159 30171 30176	NF - κB
-T1457	GO:0071159 30325 30330	NF - κB
-T1458	GO:0071159 30505 30510	NF - κB
+T1456	GO:0071159 30171 30176	NF-κB
+T1457	GO:0071159 30325 30330	NF-κB
+T1458	GO:0071159 30505 30510	NF-κB
 T1459	GO_SO_EXT:chromosome 31133 31143	chromosome
 T1460	GO_SO_EXT:chromosome 31271 31282	chromosomes
 T1461	GO_SO_EXT:chromosome 31311 31321	chromosome

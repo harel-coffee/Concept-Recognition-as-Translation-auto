@@ -1,167 +1,167 @@
-T582	GO_SO_EXT:sequence_rearrangement_process 389 402	recombination
-T583	GO_EXT:fatality_or_lethality 551 560	lethality
-T584	CHEBI_GO_EXT:biological_process_or_quality_or_role 958 965	biology
-T585	GO:0010467 2252 2262	expression
-T586	GO:0010467 2350 2360	expression
-T587	GO:0030097 3454 3465	hemopoietic
-T588	GO:0006405 3543 3559;3560 3561	RNA interference ...
-T589	GO:0036271 3561 3565;3565 3579	RNAi ... transduction
-T590	GO_EXT:fatality_or_lethality 3727 3736	lethality
-T591	GO_EXT:fatality_or_lethality 3942 3951	lethality
-T592	GO_EXT:fatality_or_lethality 5095 5104	lethality
-T593	GO:0009888 5160 5172	histogenesis
-T594	GO:0010467 5360 5370	expression
-T595	GO:0044838 5977 5986	quiescent
-T596	GO_EXT:biological_growth_entity_or_process 6035 6041	growth
-T597	GO:0043277 6059 6075	phosphoinositide
-T598	GO:0009452 6077 6084;6085 6086	... kinase ...
-T599	GO:1990051 6086 6090;6090 6102	PI3K ... activation
-T600	GO:0016311 6158 6175	dephosphorylation
-T601	GO:0030989 6266 6269	Akt
-T602	GO:0042116 6270 6285	hyperactivation
-T603	GO_PATO_EXT:phosphorylation_process 6286 6301	phosphorylation
-T604	GO:0042313 6552 6566	Akt activation
-T605	CHEBI_GO_EXT:biological_process_or_quality_or_role 6596 6606	biological
-T606	GO:0010467 6641 6651	expression
-T607	GO:0016265 6966 6972	deaths
-T608	GO:0045333 7154 7171	... mTOR pathway
-T609	CHEBI_GO_EXT:biological_process_or_quality_or_role 7847 7857	biological
-T610	GO_EXT:fatality_or_lethality 8099 8108	lethality
-T611	GO_SO_EXT:sequence_rearrangement_process 8358 8371	recombination
-T612	GO:0010467 8401 8408	express
-T613	GO_EXT:transcription 8499 8514	transcriptional
-T614	GO:0065007 8653 8660	control
-T615	GO_EXT:transcription 8756 8769	Transcription
-T616	GO_SO_EXT:sequence_rearrangement_process 8797 8807	recombined
-T617	GO_EXT:transcription 8850 8863	transcription
-T618	GO:0010467 8909 8919	expression
-T619	GO_SO_EXT:sequence_rearrangement_process 8981 8991	recombined
-T620	GO_SO_EXT:sequence_rearrangement_process 9171 9181	recombined
-T621	GO_EXT:fatality_or_lethality 9365 9374	Lethality
-T622	GO_EXT:fatality_or_lethality 9476 9485	lethality
-T623	GO:0007567 9549 9553	born
-T624	GO:0007567 9814 9818	born
-T625	GO:0007565 9924 9933	gestation
-T626	GO_EXT:fatality_or_lethality 10085 10094	lethality
-T627	GO:0042313 10437 10451	Akt activation
-T628	GO_SO_EXT:sequence_rearrangement_process 10809 10811	RT
-T629	GO:0010467 10862 10872	expression
-T630	GO:0042313 11193 11207	Akt activation
-T631	GO_EXT:killing 11819 11829	sacrificed
-T632	GO:0007631 11865 11875	postmortem
-T633	GO:0007631 12461 12471	postmortem
-T634	GO_EXT:biological_growth_entity_or_process 12718 12725	growths
-T635	GO_EXT:biological_growth_entity_or_process 12791 12798	growths
-T636	GO:0030154 13694 13718	cellular differentiation
-T637	GO:0010467 13885 13895	expression
-T638	GO:0040007 14278 14285	growing
-T639	GO:0010467 15200 15209	expressed
-T640	GO:0009790 15232 15245	embryogenesis
-T641	GO_EXT:breeding 15466 15474	Breeding
-T642	GO:0007567 15635 15639	born
-T643	GO:0065007 15897 15904	control
-T644	GO:0010467 16024 16033	expressed
-T645	GO:0060526 16374 16396	prostate organogenesis
-T646	GO:0010467 16717 16724	express
-T647	GO:0010467 16786 16793	express
-T648	GO_PATO_EXT:cell_proliferation_or_proliferativity 18393 18406	proliferative
-T649	GO_RO_EXT:developmental_differentiation_process 20184 20198	differentiated
-T650	GO_PATO_EXT:developmental_differentiation_process 20260 20276	undifferentiated
-T651	GO_PATO_EXT:developmental_differentiation_process 20365 20381	undifferentiated
-T652	CHEBI_GO_EXT:biological_process_or_quality_or_role 20596 20603	Biology
-T653	CHEBI_GO_EXT:biological_process_or_quality_or_role 20662 20672	biological
-T654	GO:0050673 21072 21105	proliferation of epithelial cells
-T655	GO_PATO_EXT:cell_proliferation_or_proliferativity 21170 21183	proliferative
-T656	GO:0010467 21264 21274	expression
-T657	GO:0008283 21363 21376	proliferation
-T658	GO_EXT:biological_growth_entity_or_process 21538 21544	growth
-T659	GO_EXT:biological_growth_entity_or_process 21680 21686	growth
-T660	GO:0007219 21772 21793	Akt signaling pathway
-T661	GO:0030989 22330 22333	Akt
-T662	GO_PATO_EXT:phosphorylation_process 22334 22349	phosphorylation
-T663	GO_EXT:biological_recruitment 23248 23259	recruitment
-T664	GO:0007259 23401 23427	Phosphorylation of p27Kip1
-T665	GO:0051168 23522 23536	nuclear export
-T666	GO:0051170 23597 23611	nuclear import
-T667	GO_EXT:negative_regulation 23616 23630	downregulation
-T668	GO:0036265 23782 23786	mTOR
-T669	GO_PATO_EXT:phosphorylation_process 23787 23802	phosphorylation
-T670	GO:0018073 23817 23836	protein translation
-T671	GO:0006413 23841 23863	translation initiation
-T672	GO:0051178 23919 23931	localization
-T673	GO:0010467 23939 23949	expression
-T674	GO_EXT:negative_regulation 24094 24108	downregulation
-T675	GO:0010467 24226 24235	expressed
-T676	GO:0010467 24283 24290	express
-T677	GO:0051178 24400 24412	localization
-T678	GO_PATO_EXT:phosphorylation_process 24427 24442	phosphorylation
-T679	GO:0036265 24846 24850	mTOR
-T680	GO_PATO_EXT:phosphorylation_process 24851 24866	phosphorylation
-T681	GO_PATO_EXT:cell_proliferation_or_proliferativity 25048 25061	proliferative
-T682	GO:0065007 25444 25455	controlling
-T683	GO:0010467 26382 26392	expression
-T684	CHEBI_GO_EXT:biological_process_or_quality_or_role 26504 26514	biological
-T685	GO:0010467 27247 27257	expression
-T686	GO:0065007 28044 28054	modulating
-T687	GO:0010467 28059 28069	expression
-T688	GO_EXT:negative_regulation 28154 28168	downregulation
-T689	GO:0036367 28200 28220	PI3K / mTOR activation
-T690	GO:0010467 28374 28384	expression
-T691	GO_PATO_EXT:apoptotic_process_or_quality 29314 29323	apoptotic
-T692	GO_PATO_EXT:cell_proliferation_or_proliferativity 29780 29793	proliferative
-T693	GO:0008283 30199 30211	proliferates
-T694	GO:0010467 30385 30395	expression
-T695	GO:0023051 30418 30427	signaling
-T696	GO:0001503 30666 30675	oncogenic
-T697	GO:0010467 30725 30735	expression
-T698	GO:0010468 31534 31547;31548 31563	modulation of ... expression
-T699	GO:0010467 31761 31771	expression
-T700	GO:0042593 32017 32027	metastatic
-T701	GO:0008283 32560 32582	cellular proliferation
-T702	GO_PATO_EXT:phosphorylation_process 32609 32624	phosphorylation
-T703	CHEBI_GO_EXT:biological_process_or_quality_or_role 32934 32941	biology
-T704	GO:0010467 33084 33094	expression
-T705	GO:0031171 33135 33149	relocalization
-T706	GO_PATO_EXT:physiological_process_or_quality 33927 33945	physiopathological
-T707	CHEBI_GO_EXT:biological_process_or_quality_or_role 34783 34793	biological
-T708	GO:0009294 35027 35038	transformed
-T709	GO:0040007 35352 35356	grow
-T710	GO:0042330 36703 36716	Transfectants
-T711	GO:0060074 36993 37004	transferred
-T712	GO:0007618 37059 37064	mated
-T713	GO:0007618 37311 37316	mated
-T714	GO:0007618 37653 37658	mated
-T715	GO:0007618 38182 38187	mated
-T716	GO_SO_EXT:sequence_rearrangement_process 39181 39183	RT
-T717	GO_PATO_EXT:cell_proliferation_or_proliferativity 40039 40052	proliferative
-T718	GO:0019835 40519 40524	lysed
-T719	GO:0019835 40997 41002	lysed
-T720	GO:0019835 41006 41011	lysis
-T721	GO:0019835 41117 41122	lysed
-T722	GO:0019835 41126 41131	lysis
-T723	GO:0006289 41617 41624	Pathway
-T724	GO:0007229 41696 41705	Signaling
-T725	GO:0009293 42239 42251	Transduction
-T726	GO:0007229 42530 42539	Signaling
-T727	GO:0007229 43120 43129	Signaling
-T728	GO:0016246 46218 46222	RNAi
-T729	GO:0016246 46225 46241	RNA interference
-T730	GO_EXT:breeding 46525 46533	Breeding
-T731	GO:0010467 46621 46631	expression
-T732	GO:0010467 46786 46796	expression
-T733	GO_PATO_EXT:phosphorylation_process 46859 46874	phosphorylation
-T734	GO_EXT:transcription 47152 47167	transcriptional
-T735	GO_SO_EXT:sequence_rearrangement_process 48689 48699	recombined
-T736	GO_PATO_EXT:aging_or_agedness 50385 50389	aged
-T737	GO:0010467 51067 51077	expression
-T738	GO:0010467 51102 51111	expressed
-T739	CHEBI_GO_EXT:biological_process_or_quality_or_role 51504 51514	Biological
-T740	GO:0008283 51619 51632	proliferation
-T741	GO:0051178 51983 51995	localization
-T742	GO:0040007 52638 52645	growing
-T743	GO_PATO_EXT:cell_proliferation_or_proliferativity 53066 53079	proliferative
-T744	GO_RO_EXT:developmental_differentiation_process 54104 54118	differentiated
-T745	GO_PATO_EXT:developmental_differentiation_process 54271 54287	undifferentiated
-T746	GO:0040007 54300 54307	growing
-T747	GO:0001967 54845 54853	... AKT
-T748	GO:0010467 54961 54971	expression
+T580	GO_SO_EXT:sequence_rearrangement_process 389 402	recombination
+T581	GO_EXT:fatality_or_lethality 551 560	lethality
+T582	CHEBI_GO_EXT:biological_process_or_quality_or_role 958 965	biology
+T583	GO:0010467 2252 2262	expression
+T584	GO:0010467 2350 2360	expression
+T585	GO:0030097 3454 3465	hemopoietic
+T586	GO:0001171 3543 3559;	RNA interference ...
+T587	GO:0051413 3561 3565;3567 3579	RNAi ... transduction
+T588	GO_EXT:fatality_or_lethality 3727 3736	lethality
+T589	GO_EXT:fatality_or_lethality 3942 3951	lethality
+T590	GO_EXT:fatality_or_lethality 5095 5104	lethality
+T591	GO:0009888 5160 5172	histogenesis
+T592	GO:0010467 5360 5370	expression
+T593	GO:0044838 5977 5986	quiescent
+T594	GO_EXT:biological_growth_entity_or_process 6035 6041	growth
+T595	GO_EXT:detection_or_sensing_of_light_stimulus 6059 6075	phosphoinositide
+T596	GO:0099609 6078 6084	kinase ...
+T597	GO:0051365 6086 6090;6092 6102	PI3K ... activation
+T598	GO:0016311 6158 6175	dephosphorylation
+T599	GO:0044241 6266 6269	Akt
+T600	GO:0001764 6270 6285	hyperactivation
+T601	GO_PATO_EXT:phosphorylation_process 6286 6301	phosphorylation
+T602	GO:0046631 6552 6566	Akt activation
+T603	CHEBI_GO_EXT:biological_process_or_quality_or_role 6596 6606	biological
+T604	GO:0010467 6641 6651	expression
+T605	GO:0016265 6966 6972	deaths
+T606	GO:0032508 7159 7171	mTOR pathway
+T607	CHEBI_GO_EXT:biological_process_or_quality_or_role 7847 7857	biological
+T608	GO_EXT:fatality_or_lethality 8099 8108	lethality
+T609	GO_SO_EXT:sequence_rearrangement_process 8358 8371	recombination
+T610	GO:0010467 8401 8408	express
+T611	GO_EXT:transcription 8499 8514	transcriptional
+T612	GO:0065007 8653 8660	control
+T613	GO_EXT:transcription 8756 8769	Transcription
+T614	GO_SO_EXT:sequence_rearrangement_process 8797 8807	recombined
+T615	GO_EXT:transcription 8850 8863	transcription
+T616	GO:0010467 8909 8919	expression
+T617	GO_SO_EXT:sequence_rearrangement_process 8981 8991	recombined
+T618	GO_SO_EXT:sequence_rearrangement_process 9171 9181	recombined
+T619	GO_EXT:fatality_or_lethality 9365 9374	Lethality
+T620	GO_EXT:fatality_or_lethality 9476 9485	lethality
+T621	GO:0007567 9549 9553	born
+T622	GO:0007567 9814 9818	born
+T623	GO:0007565 9924 9933	gestation
+T624	GO_EXT:fatality_or_lethality 10085 10094	lethality
+T625	GO:0046631 10437 10451	Akt activation
+T626	GO:0016246 10809 10811	RT
+T627	GO:0010467 10862 10872	expression
+T628	GO:0046631 11193 11207	Akt activation
+T629	GO_EXT:killing 11819 11829	sacrificed
+T630	GO:0008283 11865 11875	postmortem
+T631	GO:0008283 12461 12471	postmortem
+T632	GO_EXT:biological_growth_entity_or_process 12718 12725	growths
+T633	GO_EXT:biological_growth_entity_or_process 12791 12798	growths
+T634	GO:0030154 13694 13718	cellular differentiation
+T635	GO:0010467 13885 13895	expression
+T636	GO:0040007 14278 14285	growing
+T637	GO:0010467 15200 15209	expressed
+T638	GO:0009790 15232 15245	embryogenesis
+T639	GO_EXT:breeding 15466 15474	Breeding
+T640	GO:0007567 15635 15639	born
+T641	GO:0065007 15897 15904	control
+T642	GO:0010467 16024 16033	expressed
+T643	GO:0060536 16374 16396	prostate organogenesis
+T644	GO:0010467 16717 16724	express
+T645	GO:0010467 16786 16793	express
+T646	GO_PATO_EXT:cell_proliferation_or_proliferativity 18393 18406	proliferative
+T647	GO_RO_EXT:developmental_differentiation_process 20184 20198	differentiated
+T648	GO_PATO_EXT:biological_direction_or_guidance 20260 20276	undifferentiated
+T649	GO_PATO_EXT:biological_direction_or_guidance 20365 20381	undifferentiated
+T650	CHEBI_GO_EXT:biological_process_or_quality_or_role 20596 20603	Biology
+T651	CHEBI_GO_EXT:biological_process_or_quality_or_role 20662 20672	biological
+T652	GO:0050798 21072 21105	proliferation of epithelial cells
+T653	GO_PATO_EXT:cell_proliferation_or_proliferativity 21170 21183	proliferative
+T654	GO:0010467 21264 21274	expression
+T655	GO:0008283 21363 21376	proliferation
+T656	GO_EXT:biological_growth_entity_or_process 21538 21544	growth
+T657	GO_EXT:biological_growth_entity_or_process 21680 21686	growth
+T658	GO:0097647 21772 21793	Akt signaling pathway
+T659	GO:0044241 22330 22333	Akt
+T660	GO_PATO_EXT:phosphorylation_process 22334 22349	phosphorylation
+T661	GO_EXT:biological_recruitment 23248 23259	recruitment
+T662	GO:0030517 23401 23427	Phosphorylation of p27Kip1
+T663	GO:0051168 23522 23536	nuclear export
+T664	GO:0051170 23597 23611	nuclear import
+T665	GO_EXT:negative_regulation 23616 23630	downregulation
+T666	GO:0006268 23782 23786	mTOR
+T667	GO_PATO_EXT:phosphorylation_process 23787 23802	phosphorylation
+T668	GO:0006412 23817 23836	protein translation
+T669	GO:0006413 23841 23863	translation initiation
+T670	GO:0051645 23919 23931	localization
+T671	GO:0010467 23939 23949	expression
+T672	GO_EXT:negative_regulation 24094 24108	downregulation
+T673	GO:0010467 24226 24235	expressed
+T674	GO:0010467 24283 24290	express
+T675	GO:0051645 24400 24412	localization
+T676	GO_PATO_EXT:phosphorylation_process 24427 24442	phosphorylation
+T677	GO:0006268 24846 24850	mTOR
+T678	GO_PATO_EXT:phosphorylation_process 24851 24866	phosphorylation
+T679	GO_PATO_EXT:cell_proliferation_or_proliferativity 25048 25061	proliferative
+T680	GO:0065007 25444 25455	controlling
+T681	GO:0010467 26382 26392	expression
+T682	CHEBI_GO_EXT:biological_process_or_quality_or_role 26504 26514	biological
+T683	GO:0010467 27247 27257	expression
+T684	GO:0065007 28044 28054	modulating
+T685	GO:0010467 28059 28069	expression
+T686	GO_EXT:negative_regulation 28154 28168	downregulation
+T687	GO:0070935 28200 28220	PI3K/mTOR activation
+T688	GO:0010467 28374 28384	expression
+T689	GO_PATO_EXT:apoptotic_process_or_quality 29314 29323	apoptotic
+T690	GO_PATO_EXT:cell_proliferation_or_proliferativity 29780 29793	proliferative
+T691	GO:0008283 30199 30211	proliferates
+T692	GO:0010467 30385 30395	expression
+T693	GO:0007568 30418 30427	signaling
+T694	GO:0042467 30666 30675	oncogenic
+T695	GO:0010467 30725 30735	expression
+T696	GO:0010629 31534 31547;31553 31563	modulation of ... expression
+T697	GO:0010467 31761 31771	expression
+T698	GO:0007596 32017 32027	metastatic
+T699	GO:0008283 32560 32582	cellular proliferation
+T700	GO_PATO_EXT:phosphorylation_process 32609 32624	phosphorylation
+T701	CHEBI_GO_EXT:biological_process_or_quality_or_role 32934 32941	biology
+T702	GO:0010467 33084 33094	expression
+T703	GO:0051237 33135 33149	relocalization
+T704	GO_PATO_EXT:physiological_process_or_quality 33927 33945	physiopathological
+T705	CHEBI_GO_EXT:biological_process_or_quality_or_role 34783 34793	biological
+T706	GO:0009294 35027 35038	transformed
+T707	GO:0040007 35352 35356	grow
+T708	GO:0009294 36703 36716	Transfectants
+T709	GO:0009294 36993 37004	transferred
+T710	GO:0007618 37059 37064	mated
+T711	GO:0007618 37311 37316	mated
+T712	GO:0007618 37653 37658	mated
+T713	GO:0007618 38182 38187	mated
+T714	GO:0016246 39181 39183	RT
+T715	GO_PATO_EXT:cell_proliferation_or_proliferativity 40039 40052	proliferative
+T716	GO:0019835 40519 40524	lysed
+T717	GO:0019835 40997 41002	lysed
+T718	GO:0019835 41006 41011	lysis
+T719	GO:0019835 41117 41122	lysed
+T720	GO:0019835 41126 41131	lysis
+T721	GO:0006909 41617 41624	Pathway
+T722	GO:0007568 41696 41705	Signaling
+T723	GO:0009293 42239 42251	Transduction
+T724	GO:0007568 42530 42539	Signaling
+T725	GO:0007568 43120 43129	Signaling
+T726	GO:0016246 46218 46222	RNAi
+T727	GO:0016246 46225 46241	RNA interference
+T728	GO_EXT:breeding 46525 46533	Breeding
+T729	GO:0010467 46621 46631	expression
+T730	GO:0010467 46786 46796	expression
+T731	GO_PATO_EXT:phosphorylation_process 46859 46874	phosphorylation
+T732	GO_EXT:transcription 47152 47167	transcriptional
+T733	GO_SO_EXT:sequence_rearrangement_process 48689 48699	recombined
+T734	GO_PATO_EXT:aging_or_agedness 50385 50389	aged
+T735	GO:0010467 51067 51077	expression
+T736	GO:0010467 51102 51111	expressed
+T737	CHEBI_GO_EXT:biological_process_or_quality_or_role 51504 51514	Biological
+T738	GO:0008283 51619 51632	proliferation
+T739	GO:0051645 51983 51995	localization
+T740	GO:0040007 52638 52645	growing
+T741	GO_PATO_EXT:cell_proliferation_or_proliferativity 53066 53079	proliferative
+T742	GO_RO_EXT:developmental_differentiation_process 54104 54118	differentiated
+T743	GO_PATO_EXT:biological_direction_or_guidance 54271 54287	undifferentiated
+T744	GO:0040007 54300 54307	growing
+T745	GO:0006957 54850 54853	... AKT
+T746	GO:0010467 54961 54971	expression

@@ -1,20 +1,20 @@
-T1867	GO:0031311 171 190	peripheral membrane
-T1868	GO:0005779 223 240	integral membrane
-T1869	CHEBI_GO_EXT:hemoglobin 1478 1502	high - density lipoprotein
-T1870	GO:0033173 1504 1507	HDL
-T1871	GO:0031311 1786 1805	peripheral membrane
+T1867	GO:0005640 171 190	peripheral membrane
+T1868	GO:0005637 223 240	integral membrane
+T1869	CHEBI_GO_EXT:high_density_lipoprotein_particle 1478 1502	high-density lipoprotein
+T1870	CHEBI_GO_EXT:high_density_lipoprotein_particle 1504 1507	HDL
+T1871	GO:0005640 1786 1805	peripheral membrane
 T1872	CL_GO_EXT:cell 1861 1866	cells
-T1873	CHEBI_GO_EXT:hemoglobin 2247 2271	high density lipoprotein
-T1874	GO:0033173 2273 2276	HDL
+T1873	CHEBI_GO_EXT:high_density_lipoprotein_particle 2247 2271	high density lipoprotein
+T1874	CHEBI_GO_EXT:high_density_lipoprotein_particle 2273 2276	HDL
 T1875	GO:0019814 2383 2397	immunoglobulin
 T1876	CL_GO_EXT:cell 2471 2475	cell
 T1877	GO:0009986 2506 2518	cell surface
-T1878	GO:0005779 2519 2536	integral membrane
+T1878	GO:0005637 2519 2536	integral membrane
 T1879	CHEBI_GO_EXT:low_density_lipoprotein_particle 2661 2684	low density lipoprotein
-T1880	GO:0032391 2848 2849	...-
-T1881	GO:0000790 2850 2862	.../ HDL complex
-T1882	GO:0030658 3126 3139	transmembrane
-T1883	GO:0005779 3186 3203	integral membrane
+T1880	3 2848 2849	-
+T1881	GO:0034718 2850 2862	/HDL complex
+T1882	GO:0031257 3126 3139	transmembrane
+T1883	GO:0005637 3186 3203	integral membrane
 T1884	GO:0045177 3308 3314	apical
 T1885	GO:0009986 3315 3327	cell surface
 T1886	GO:0016020 3343 3351	membrane
@@ -31,10 +31,10 @@ T1896	GO:0005883 15483 15485	NF
 T1897	CL_GO_EXT:cell 16678 16683	cells
 T1898	CL_GO_EXT:cell 17041 17046	cells
 T1899	CL_GO_EXT:cell 17181 17186	cells
-T1900	GO:0097449 17210 17226	apical processes
+T1900	GO:0042995 17210 17226	apical processes
 T1901	GO:0005902 17246 17256	microvilli
 T1902	GO:0005929 17260 17265	cilia
-T1903	GO_UBERON_EXT:lumen 17272 17279	luminal
+T1903	GO:0005618 17272 17279	luminal
 T1904	GO:0009986 17280 17287	surface
 T1905	CL_GO_EXT:cell 17328 17333	cells
 T1906	CL_GO_EXT:cell 18382 18387	cells
@@ -49,33 +49,33 @@ T1914	GO:0009986 19244 19256	cell surface
 T1915	CL_GO_EXT:cell 19650 19655	cells
 T1916	CL_GO_EXT:cell 20477 20482	cells
 T1917	GO:0032991 21279 21286	complex
-T1918	GO:0000817 21309 21322	cubam complex
+T1918	GO:0031510 21309 21322	cubam complex
 T1919	GO:0016020 21486 21494	membrane
 T1920	GO:0045177 21508 21514	apical
 T1921	CL_GO_EXT:cell 22987 22992	cells
-T1922	GO:0000817 23359 23372	cubam complex
+T1922	GO:0031510 23359 23372	cubam complex
 T1923	GO:0045177 23381 23387	apical
 T1924	GO:0019814 23700 23714	immunoglobulin
 T1925	CL_GO_EXT:cell 23785 23789	cell
 T1926	GO:0032991 23881 23888	complex
-T1927	GO:0045177 25020 25035	apical vesicles
+T1927	GO:0016324 25020 25035	apical vesicles
 T1928	CHEBI_GO_EXT:lipoprotein_particle 25455 25467	lipoproteins
 T1929	CHEBI_GO_EXT:low_density_lipoprotein_particle 25965 25968	LDL
 T1930	CL_GO_EXT:cell 26082 26087	cells
-T1931	GO:0033173 26126 26129	HDL
+T1931	CHEBI_GO_EXT:high_density_lipoprotein_particle 26126 26129	HDL
 T1932	CHEBI_GO_EXT:low_density_lipoprotein_particle 26134 26137	LDL
 T1933	CHEBI_GO_EXT:lipoprotein_particle 26241 26252	lipoprotein
-T1934	GO:0044196 26290 26317	rough endoplasmic reticulum
+T1934	GO:0005791 26290 26317	rough endoplasmic reticulum
 T1935	GO:0099503 26322 26340	secretory vesicles
 T1936	GO:0045177 26578 26584	apical
-T1937	GO:0000817 26657 26670	cubam complex
-T1938	GO:0030658 27496 27509	transmembrane
+T1937	GO:0031510 26657 26670	cubam complex
+T1938	GO:0031257 27496 27509	transmembrane
 T1939	GO:0005737 27521 27532	cytoplasmic
 T1940	GO:0045177 28009 28015	apical
-T1941	GO:0009986 28016 28027;28028 28044	surfaces of ... cells
+T1941	GO:0009986 28016 28027;28039 28044	surfaces of ... cells
 T1942	GO:0005622 28109 28122	intracellular
 T1943	GO:0045177 28405 28411	apical
-T1944	GO:0000817 28430 28443	cubam complex
+T1944	GO:0031510 28430 28443	cubam complex
 T1945	GO_SO_EXT:chromosome 29856 29866	chromosome
 T1946	CL_GO_EXT:cell 30535 30540	cells
 T1947	GO:0042571 33299 33309	Antibodies
@@ -84,5 +84,5 @@ T1949	GO:0005737 33543 33554	cytoplasmic
 T1950	GO:0042571 33562 33572	antibodies
 T1951	GO:0042571 33635 33645	antibodies
 T1952	CHEBI_GO_EXT:lipoprotein_particle 36566 36577	Lipoprotein
-T1953	CHEBI_GO_EXT:hemoglobin 37057 37081	high density lipoprotein
+T1953	CHEBI_GO_EXT:high_density_lipoprotein_particle 37057 37081	high density lipoprotein
 T1954	CL_GO_EXT:cell 37997 38002	cells

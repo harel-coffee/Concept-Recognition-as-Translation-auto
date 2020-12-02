@@ -1,80 +1,80 @@
-T2346	GO:0065007 720 727	control
-T2347	GO:0065007 2403 2413	regulating
-T2348	GO:0065007 3264 3274	controlled
-T2349	GO:0065007 3715 3725	regulating
-T2350	GO:0065007 4434 4445	controlling
-T2351	GO_EXT:reaction_or_response 4456 4465	responses
-T2352	GO:0065007 4676 4683	control
-T2353	GO_EXT:reaction_or_response 4720 4729	responses
-T2354	GO_EXT:macromolecule_denaturation 8730 8739	denatured
-T2355	GO:0006915 8774 8794	amplification cycles
-T2356	GO_RO_EXT:developmental_differentiation_process 8977 8991	differentiated
-T2357	GO_EXT:reaction_or_response 9605 9614	responses
-T2358	GO_EXT:reaction_or_response 12645 12654	responses
-T2359	GO:0065007 18597 18608	controlling
-T2360	GO_EXT:regulator 21068 21078	regulators
-T2361	GO:0065007 23336 23345	regulated
-T2362	GO:0065007 23552 23563	controlling
-T2363	GO:0065007 23712 23720	modulate
-T2364	GO_PATO_EXT:inflammatory_process_or_quality 23738 23750	inflammation
-T2365	GO_PATO_EXT:inflammatory_process_or_quality 23814 23826	inflammatory
-T2366	GO_EXT:biological_recruitment 23832 23843	recruitment
-T2367	GO_PATO_EXT:inflammatory_process_or_quality 23856 23868	inflammation
-T2368	GO:0007631 23885 23893	movement
-T2369	GO_PATO_EXT:necrosis 23981 23989	necrosis
-T2370	GO_EXT:transcription 24101 24114	transcription
-T2371	GO:0008847 24129 24142;24143 24146	regulation of ...
-T2372	GO_PATO_EXT:inflammatory_process_or_quality 24147 24159	inflammatory
-T2373	GO_EXT:biological_growth_entity_or_process 24300 24306	growth
-T2374	GO_EXT:biological_mover_or_transporter 24452 24459	carrier
-T2375	GO_EXT:biological_mover_or_transporter 24476 24487	transporter
-T2376	GO_EXT:biological_mover_or_transporter 24520 24531	transporter
-T2377	GO:0030168 24821 24840	platelet - activating
-T2378	GO_PATO_EXT:inflammatory_process_or_quality 25110 25122	inflammatory
-T2379	GO_EXT:biological_mover_or_transporter 25289 25296	carrier
-T2380	GO_EXT:biological_mover_or_transporter 25313 25324	transporter
-T2381	GO_EXT:biological_mover_or_transporter 25393 25405	transporters
-T2382	GO:0065007 25573 25582	regulated
-T2383	GO_EXT:transcription 25695 25710	transcriptional
-T2384	GO:0065007 25723 25733	regulation
-T2385	GO:0007631 26123 26131	movement
-T2386	GO_PATO_EXT:inflammatory_process_or_quality 26145 26157	inflammatory
-T2387	GO:0065007 26169 26178	regulated
-T2388	GO:0019230 26329 26344	proinflammatory
-T2389	GO:0050817 26415 26431	cell trafficking
-T2390	GO_PATO_EXT:inflammatory_process_or_quality 26439 26451	inflammation
-T2391	GO:0010467 26459 26469	expression
-T2392	GO:0010467 26543 26558	gene expression
-T2393	GO:0065007 26563 26570	control
-T2394	GO:0001774 26591 26600;26601 26615	migration ... activation
-T2395	GO:0010467 26674 26681	express
-T2396	GO_EXT:biological_recruitment 26711 26718	recruit
-T2397	GO:0006955 26797 26812	immune response
-T2398	GO_PATO_EXT:inflammatory_process_or_quality 26832 26844	inflammation
-T2399	GO:0010467 26948 26958	expression
-T2400	GO:0019230 26962 26977	proinflammatory
-T2401	GO:0065007 27053 27061	modulate
-T2402	GO_EXT:reaction_or_response 27119 27127	response
-T2403	GO_EXT:biological_growth_entity_or_process 27189 27195	growth
-T2404	GO:0002255 27460 27477	signaling cascade
-T2405	GO:0010467 27491 27501	expression
-T2406	GO_EXT:secretion_entity_or_process 27506 27515	secretion
-T2407	GO:0046903 27525 27533	Secreted
-T2408	GO:0007267 28116 28134	cellular signaling
-T2409	GO:0006955 28258 28273	immune response
-T2410	GO:0010467 28487 28497	expression
-T2411	GO:0010467 28660 28670	expression
-T2412	GO:0023051 29309 29318	signaling
-T2413	GO:0065007 29343 29353	regulation
-T2414	GO:0023051 29440 29449	signaling
-T2415	GO:0065007 29454 29462	regulate
-T2416	GO:0023051 29697 29706	signaling
-T2417	GO:0065007 30087 30095	regulate
-T2418	GO_EXT:transcription 30180 30193	transcription
-T2419	GO:0010467 30341 30356	gene expression
-T2420	GO:0065007 30474 30484	regulatory
-T2421	GO:0023051 30511 30520	signaling
-T2422	GO:0065007 30528 30536	modulate
-T2423	GO:0023051 30942 30951	signaling
-T2424	GO:0065007 30978 30986	regulate
-T2425	GO_EXT:reaction_or_response 30995 31004	responses
+T8238	GO:0065007 720 727	control
+T8239	GO:0065007 2403 2413	regulating
+T8240	GO:0065007 3264 3274	controlled
+T8241	GO:0065007 3715 3725	regulating
+T8242	GO:0065007 4434 4445	controlling
+T8243	GO_EXT:reaction_or_response 4456 4465	responses
+T8244	GO:0065007 4676 4683	control
+T8245	GO_EXT:reaction_or_response 4720 4729	responses
+T8246	GO_EXT:macromolecule_denaturation 8730 8739	denatured
+T8247	GO:0043277 8774 8794	amplification cycles
+T8248	GO_RO_EXT:developmental_differentiation_process 8977 8991	differentiated
+T8249	GO_EXT:reaction_or_response 9605 9614	responses
+T8250	GO_EXT:reaction_or_response 12645 12654	responses
+T8251	GO:0065007 18597 18608	controlling
+T8252	GO_EXT:regulator 21068 21078	regulators
+T8253	GO:0065007 23336 23345	regulated
+T8254	GO:0065007 23552 23563	controlling
+T8255	GO:0065007 23712 23720	modulate
+T8256	GO_PATO_EXT:inflammatory_process_or_quality 23738 23750	inflammation
+T8257	GO_PATO_EXT:inflammatory_process_or_quality 23814 23826	inflammatory
+T8258	GO_EXT:biological_recruitment 23832 23843	recruitment
+T8259	GO_PATO_EXT:inflammatory_process_or_quality 23856 23868	inflammation
+T8260	GO:0007114 23885 23893	movement
+T8261	GO_PATO_EXT:necrosis 23981 23989	necrosis
+T8262	GO_EXT:transcription 24101 24114	transcription
+T8263	GO:0008360 24129 24142;	regulation of ...
+T8264	GO_PATO_EXT:inflammatory_process_or_quality 24147 24159	inflammatory
+T8265	GO_EXT:biological_growth_entity_or_process 24300 24306	growth
+T8266	GO_EXT:biological_mover_or_transporter 24452 24459	carrier
+T8267	GO_EXT:biological_mover_or_transporter 24476 24487	transporter
+T8268	GO_EXT:biological_mover_or_transporter 24520 24531	transporter
+T8269	GO:0030168 24821 24840	platelet-activating
+T8270	GO_PATO_EXT:inflammatory_process_or_quality 25110 25122	inflammatory
+T8271	GO_EXT:biological_mover_or_transporter 25289 25296	carrier
+T8272	GO_EXT:biological_mover_or_transporter 25313 25324	transporter
+T8273	GO_EXT:biological_mover_or_transporter 25393 25405	transporters
+T8274	GO:0065007 25573 25582	regulated
+T8275	GO_EXT:transcription 25695 25710	transcriptional
+T8276	GO:0065007 25723 25733	regulation
+T8277	GO:0007114 26123 26131	movement
+T8278	GO_PATO_EXT:inflammatory_process_or_quality 26145 26157	inflammatory
+T8279	GO:0065007 26169 26178	regulated
+T8280	GO:0019042 26329 26344	proinflammatory
+T8281	GO:0032438 26415 26431	cell trafficking
+T8282	GO_PATO_EXT:inflammatory_process_or_quality 26439 26451	inflammation
+T8283	GO:0010467 26459 26469	expression
+T8284	GO:0010467 26543 26558	gene expression
+T8285	GO:0065007 26563 26570	control
+T8286	GO:0006412 26591 26600;26605 26615	migration ... activation
+T8287	GO:0010467 26674 26681	express
+T8288	GO_EXT:biological_recruitment 26711 26718	recruit
+T8289	GO:0006955 26797 26812	immune response
+T8290	GO_PATO_EXT:inflammatory_process_or_quality 26832 26844	inflammation
+T8291	GO:0010467 26948 26958	expression
+T8292	GO:0019042 26962 26977	proinflammatory
+T8293	GO:0065007 27053 27061	modulate
+T8294	GO_EXT:reaction_or_response 27119 27127	response
+T8295	GO_EXT:biological_growth_entity_or_process 27189 27195	growth
+T8296	GO:0007254 27460 27477	signaling cascade
+T8297	GO:0010467 27491 27501	expression
+T8298	GO_EXT:secretion_entity_or_process 27506 27515	secretion
+T8299	GO:0046903 27525 27533	Secreted
+T8300	GO:0007267 28116 28134	cellular signaling
+T8301	GO:0006955 28258 28273	immune response
+T8302	GO:0010467 28487 28497	expression
+T8303	GO:0010467 28660 28670	expression
+T8304	GO:0007568 29309 29318	signaling
+T8305	GO:0065007 29343 29353	regulation
+T8306	GO:0007568 29440 29449	signaling
+T8307	GO:0065007 29454 29462	regulate
+T8308	GO:0007568 29697 29706	signaling
+T8309	GO:0065007 30087 30095	regulate
+T8310	GO_EXT:transcription 30180 30193	transcription
+T8311	GO:0010467 30341 30356	gene expression
+T8312	GO:0065007 30474 30484	regulatory
+T8313	GO:0007568 30511 30520	signaling
+T8314	GO:0065007 30528 30536	modulate
+T8315	GO:0007568 30942 30951	signaling
+T8316	GO:0065007 30978 30986	regulate
+T8317	GO_EXT:reaction_or_response 30995 31004	responses

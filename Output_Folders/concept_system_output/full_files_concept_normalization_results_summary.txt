@@ -1,0 +1,1 @@
+Ontology	total annotations	precision (concept id)	recall (concept id)	f1 score (concept id)	precision (character)	recall (character)	f1 score (character)	% fake concept ids

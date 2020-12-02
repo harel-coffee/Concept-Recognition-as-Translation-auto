@@ -1,21 +1,21 @@
 T733	GO_EXT:transcription_factor 241 262	transcription factors
 T734	GO_EXT:transcription_factor 586 606	transcription factor
-T735	GO_EXT:0004565 1138 1153	β - galactosidase
+T735	GO_EXT:0004565 1138 1153	β-galactosidase
 T736	GO_EXT:transcription_factor 3375 3396	transcription factors
 T737	GO_EXT:transcription_factor 4105 4126	transcription factors
 T738	GO_EXT:transcription_factor 4214 4235	transcription factors
 T739	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 4297 4301	bind
 T740	GO_EXT:transcription_factor 6695 6716	transcription factors
-T741	GO_EXT:0004565 7046 7061	β - galactosidase
+T741	GO_EXT:0004565 7046 7061	β-galactosidase
 T742	GO_EXT:0008910 7062 7065	neo
 T743	GO_EXT:beta_geo 7067 7071	βgeo
-T744	GO_EXT:0004565 7380 7395	β - galactosidase
+T744	GO_EXT:0004565 7380 7395	β-galactosidase
 T745	GO:0097617 7530 7543	hybridization
 T746	GO_EXT:0008531 8295 8308	galactosidase
 T747	GO_EXT:transcription_factor 14107 14128	transcription factors
 T748	GO_EXT:transcription_factor 14255 14276	transcription factors
-T749	GO_EXT:0004565 15551 15566	β - galactosidase
-T750	GO_EXT:0004565 16568 16583	β - galactosidase
+T749	GO_EXT:0004565 15551 15566	β-galactosidase
+T750	GO_EXT:0004565 16568 16583	β-galactosidase
 T751	GO_EXT:transcription_factor 17212 17232	transcription factor
 T752	GO_EXT:beta_geo 20325 20329	βgeo
 T753	GO_EXT:beta_geo 22475 22479	βgeo
@@ -25,23 +25,23 @@ T756	GO_EXT:transcription_factor 27736 27757	transcription factors
 T757	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 30429 30436	binding
 T758	GO_EXT:transcription_factor 31539 31560	transcription factors
 T759	GO_EXT:transcription_factor 35480 35501	transcription factors
-T760	GO_EXT:0004565 37117 37132	β - galactosidase
+T760	GO_EXT:0004565 37117 37132	β-galactosidase
 T761	GO_EXT:recombinase 38019 38030	recombinase
 T762	GO:0097617 38265 38278	hybridization
-T763	GO_EXT:0004565 38285 38300	β - galactosidase
+T763	GO_EXT:0004565 38285 38300	β-galactosidase
 T764	GO_EXT:0004886 38552 38554	RT
-T765	GO_EXT:0004565 39784 39799	β - galactosidase
+T765	GO_EXT:0004565 39784 39799	β-galactosidase
 T766	GO_PR_EXT:diacylglycerol_acyltransferase 40022 40027	DARPP
-T767	GO_EXT:0004565 42707 42722	β - galactosidase
-T768	GO_EXT:0004565 43252 43267	β - galactosidase
+T767	GO_EXT:0004565 42707 42722	β-galactosidase
+T768	GO_EXT:0004565 43252 43267	β-galactosidase
 T769	GO_EXT:beta_geo 46814 46820	βgeo -
-T770	GO_EXT:0004565 46821 46836	β - galactosidase
+T770	GO_EXT:0004565 46821 46836	β-galactosidase
 T771	GO_EXT:0008910 46837 46840	neo
 T772	GO_EXT:beta_geo 47025 47029	βgeo
 T773	GO_EXT:0015666 47031 47050	Restriction enzymes
 T774	GO:0097617 47240 47250	hybridized
 T775	GO:0097617 49295 49308	hybridization
-T776	GO_EXT:0004565 51775 51790	β - galactosidase
+T776	GO_EXT:0004565 51775 51790	β-galactosidase
 T777	GO:0097617 52142 52155	hybridization
 T778	GO_EXT:beta_geo 53130 53134	βgeo
 T779	GO_EXT:0015666 53136 53155	Restriction enzymes

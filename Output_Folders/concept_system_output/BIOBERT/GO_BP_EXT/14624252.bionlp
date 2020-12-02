@@ -1,223 +1,222 @@
-T142	GO:0007212 36 54	Signaling Pathways
-T143	GO:0009902 81 97	Cell Development
-T144	GO_EXT:biological_growth_entity_or_process 130 136	growth
-T145	GO:0007268 212 231	signal transduction
-T146	GO:0023051 285 294	signaling
-T147	GO:0023051 362 371	signaling
-T148	GO:0007268 519 538	signal transduction
-T149	GO:0010467 706 715	expressed
-T150	GO:0023058 744 772	signal transduction pathways
-T151	GO:0010467 804 814	expression
-T152	GO:0023051 859 877	signaling pathways
-T153	GO:0007268 1193 1212	signal transduction
-T154	GO:0007268 1287 1306	signal transduction
-T155	GO:0023051 1397 1406	signaling
-T156	GO_EXT:biological_direction_or_guidance 1709 1717	directed
-T157	GO:0031929 2169 2182	RTK signaling
-T158	GO:0023051 2248 2257	signaling
-T159	GO:0023051 2575 2584	signaling
-T160	GO_EXT:biological_growth_entity_or_process 2761 2767	growth
-T161	GO:0023051 2795 2804	signaling
-T162	GO:0023058 2902 2930	signal transduction pathways
-T163	GO:0014003 2945 2972	oligodendrocyte development
-T164	GO:0007268 3048 3067	signal transduction
-T165	GO_EXT:biological_growth_entity_or_process 3200 3206	growth
-T166	GO_PATO_EXT:physiological_process_or_quality 3260 3275	physiologically
-T167	GO_PATO_EXT:ubiquitination_process_or_quality 3389 3407	autophosphorylated
-T168	GO_PATO_EXT:phosphorylation_process_or_quality 3462 3476	phosphorylated
-T169	GO:0023058 3569 3597	signal transduction pathways
-T170	GO:0065007 3691 3698	control
-T171	GO:0008283 3738 3751	proliferation
-T172	GO:0007601 3753 3762	migration
-T173	GO_PATO_EXT:phosphorylation_process_or_quality 3949 3963	phosphorylated
-T174	GO:0030474 3995 4023	signal transduction cascades
-T175	GO:0016441 4074 4078	PI3K
-T176	GO_EXT:transcription 4276 4289	transcription
-T177	GO:0007268 4827 4846	signal transduction
-T178	GO:0007268 4945 4964	signal transduction
-T179	GO:0008283 5481 5494	proliferation
-T180	GO:0007601 5496 5505	migration
-T181	GO:0009647 5603 5607	PDGF
-T182	GO:0007268 5608 5627	signal transduction
-T183	GO:0007567 5693 5702	perinatal
-T184	GO_EXT:fatality_or_lethality 5703 5712	lethality
-T185	GO_PATO_EXT:physiological_process_or_quality 6128 6143	physiologically
-T186	GO:0023058 6182 6210	signal transduction pathways
-T187	GO_PATO_EXT:phosphorylation_process_or_quality 6359 6373	phosphorylated
-T188	GO:0007268 6439 6458	signal transduction
-T189	GO:0010467 6506 6515	expressed
-T190	GO:0023051 6538 6547	signaling
-T191	GO:0031929 6661 6684	RTK signal transduction
-T192	GO:0065007 6700 6711	controlling
-T193	GO:0048468 6712 6732	cellular development
-T194	GO:0023051 6982 7000	signaling pathways
-T195	GO_EXT:reaction_or_response 7031 7040	responses
-T196	GO:0023051 7100 7118	signaling pathways
-T197	GO:0023051 7261 7279	signaling pathways
-T198	GO_SO_EXT:frameshift_entity_or_process 7575 7585	frameshift
-T199	GO_SO_EXT:frameshift_entity_or_process 7846 7856	frameshift
-T200	GO:0071897 8459 8472	DNA synthesis
-T201	GO_EXT:negative_regulation 8527 8541	downregulation
-T202	GO:0016265 8603 8606	die
-T203	GO:0007566 8607 8618	perinatally
-T204	GO_EXT:biological_growth_entity_or_process 9003 9009	growth
-T205	GO:0010467 9371 9380	expresses
-T206	GO_RO_EXT:developmental_differentiation_process 9431 9445	differentiated
-T207	GO:0008283 9447 9463	nonproliferating
-T208	GO:0007268 9838 9857	signal transduction
-T209	GO:0060033 10629 10640	coexpressed
-T210	GO:0007268 10823 10842	signal transduction
-T211	GO:0060033 10893 10904	coexpressed
-T212	GO:0010467 11181 11188	express
-T213	GO_EXT:positive_regulation 11221 11232	upregulated
-T214	GO:0010467 11308 11317	expresses
-T215	GO:0000267 11328 11337	localized
-T216	GO:0065007 11380 11387	control
-T217	GO:0010467 11480 11490	expression
-T218	GO:0010467 11728 11738	expressing
-T219	GO:0010467 11820 11830	expression
-T220	GO:0010467 11940 11950	expressing
-T221	GO:0010467 12225 12232	express
-T222	GO:0010467 12306 12315	expressed
-T223	GO_EXT:positive_regulation 12319 12330	upregulated
-T224	GO_PATO_EXT:biological_maturation 13790 13800	maturation
-T225	GO:1990375 14657 14677	pericyte development
-T226	GO:0042592 14710 14721	homeostasis
-T227	GO:0060931 14919 14939	Pericyte development
-T228	GO:0048468 16086 16102	cell development
-T229	GO:0007268 16273 16292	signal transduction
-T230	GO:0065007 17032 17042	controlled
-T231	GO:0038092 17052 17068	PDGFRβ signaling
-T232	GO:0023051 17121 17139	signaling pathways
-T233	GO:0038092 17286 17302	PDGFRβ signaling
-T234	GO:0065007 17303 17311	controls
-T235	GO:1990375 17312 17332	pericyte development
-T236	GO:0023051 17667 17676	signaling
-T237	GO:0048468 17815 17828;17829 17842	overgrowth of ... cells
-T238	GO:0007567 17981 17986	birth
-T239	GO:0035791 18221 18246	PDGFRβ signaling pathways
-T240	GO:0023058 18931 18959	signal transduction pathways
-T241	GO:0007268 19883 19902	signal transduction
-T242	GO:0023051 19981 19999	signaling pathways
-T243	GO:0007263 20582 20601	Signal Transduction
-T244	GO:0007268 20836 20855	signal transduction
-T245	GO:0007268 20922 20941	signal transduction
-T246	GO:0010467 21053 21062	expressed
-T247	GO_EXT:negative_regulation 21194 21207	downregulated
-T248	GO:0010467 21223 21233	expression
-T249	GO_PATO_EXT:phosphorylation_process 21357 21372	phosphorylation
-T250	GO_EXT:reaction_or_response 21376 21384	response
-T251	GO_PATO_EXT:phosphorylation_process_or_quality 21426 21440	phosphorylated
-T252	GO_PATO_EXT:phosphorylation_process 21588 21603	phosphorylation
-T253	GO_PATO_EXT:phosphorylation_process_or_quality 21753 21767	phosphorylated
-T254	GO_EXT:negative_regulation 21860 21874	downregulation
-T255	GO_PATO_EXT:phosphorylation_process_or_quality 22112 22126	phosphorylated
-T256	GO_PATO_EXT:phosphorylation_process 22157 22172	phosphorylation
-T257	GO:0000771 22758 22781;22781 22783	phosphorylation of ERK1 ... 2
-T258	GO:0001967 22788 22791	...AKT
-T259	GO:0010467 22878 22888	expressing
-T260	GO:0007268 23129 23148	signal transduction
-T261	GO:0006098 23230 23253	phosphorylation of ERK1
-T262	GO:0016246 23254 23255	...2
-T263	GO:0023051 23415 23424	signaling
-T264	GO:0007567 23669 23672	RTK
-T265	GO:0007268 23673 23692	signal transduction
-T266	GO_EXT:biological_direction_or_guidance 23720 23729	directing
-T267	GO:0048468 23802 23822	cellular development
-T268	GO:0023051 23838 23856	signaling pathways
-T269	GO:0009293 24000 24010	transduced
-T270	GO:0023058 24105 24133	signal transduction pathways
-T271	GO:0048539 24187 24205	T cell development
-T272	GO:0010467 24490 24499	expressed
-T273	GO:0007268 24823 24842	signal transmission
-T274	GO:0023051 25227 25236	signaling
-T275	GO:0007268 25685 25704	signal transduction
-T276	GO:0065007 25708 25717	regulated
-T277	GO:0007268 25748 25767	signal transduction
-T278	GO:0010467 25800 25810	expression
-T279	GO:0023051 25892 25909	signaling pathway
-T280	GO:0007268 26158 26177	signal transduction
-T281	GO:0007567 26415 26421	signal
-T282	GO:0010467 26627 26637	expression
-T283	GO:0023051 26685 26703	signaling pathways
-T284	GO:0019287 27021 27033	PI3K pathway
-T285	GO_EXT:negative_regulation 27273 27287	downregulating
-T286	GO:0023051 27403 27421	signaling pathways
-T287	GO:0007268 27447 27466	signal transduction
-T288	GO:0023051 27598 27616	signaling pathways
-T289	GO:0008283 27782 27795	proliferation
-T290	GO:0007601 27887 27896	migration
-T291	GO:0010467 28282 28297	gene expression
-T292	GO:0016441 29000 29004	PI3K
-T293	GO:0010467 29051 29061	expressing
-T294	GO:1990375 29288 29308	pericyte development
-T295	GO:0023051 29451 29460	signaling
-T296	GO:0038092 29609 29625	PDGFRβ signaling
-T297	GO:0038092 29734 29750	PDGFRβ signaling
-T298	GO:0007268 29850 29869	signal transduction
-T299	GO:0065007 29919 29929	modulating
-T300	GO_EXT:reaction_or_response 29935 29943	response
-T301	GO_PATO_EXT:phosphorylation_process_or_quality 30199 30213	phosphorylated
-T302	GO:0016458 30282 30294	signal relay
-T303	GO:0023051 30681 30690	signaling
-T304	GO_EXT:reaction_or_response 30851 30860	responses
-T305	GO:0007268 30897 30916	signal transmission
-T306	GO_EXT:fatality_or_lethality 31062 31068	lethal
-T307	GO_PATO_EXT:phosphorylation_process 31190 31205	phosphorylating
-T308	GO:0010467 31454 31463	expressed
-T309	GO:0007567 31751 31756	...- talk
-T310	GO:0023051 31856 31865	signaling
-T311	GO:0007268 32031 32050	signal transduction
-T312	GO:0007601 32277 32286	migration
-T313	GO:0023051 32537 32546	signaling
-T314	GO:0007268 32582 32601	signal transduction
-T315	GO:0007567 32660 32663	RTK
-T316	GO:0007268 32664 32683	signal transduction
-T317	GO:0048468 32757 32773	cell development
-T318	GO:0048468 32801 32817	cell development
-T319	GO:0007268 32842 32861	signal transduction
-T320	GO:0050890 32983 32984	...
-T321	GO:0048468 32987 33003	cell development
-T322	GO_EXT:biological_direction_or_guidance 33007 33015	directed
-T323	GO:0008283 33759 33772	proliferation
-T324	GO:0006915 33843 33852	apoptosis
-T325	GO:0046903 34126 34133	secrete
-T326	GO_EXT:biological_recruitment 34246 34253	recruit
-T327	GO_PATO_EXT:biological_maturation 34433 34443	maturation
-T328	GO:0023051 34596 34614	signaling pathways
-T329	GO:0065007 34691 34700	modulated
-T330	GO:0010467 34736 34745	expressed
-T331	GO:0023051 34813 34831	signaling pathways
-T332	GO:0007268 34902 34921	signal transduction
-T333	GO:0023058 35086 35114	signal transduction pathways
-T334	GO_EXT:biological_direction_or_guidance 35672 35680	directed
-T335	GO:0009294 36117 36128	transfected
-T336	GO_SO_EXT:sequence_rearrangement_process 36187 36200	recombination
-T337	GO_SO_EXT:frameshift_entity_or_process 36238 36248	frameshift
-T338	GO_SO_EXT:sequence_rearrangement_process 36513 36526	recombination
-T339	GO:0060074 38402 38413	transferred
-T340	GO_EXT:negative_regulation 39710 39724	downregulation
-T341	GO:0019835 39860 39865	lysed
-T342	GO:0007229 40201 40210	Signaling
-T343	GO:0007229 40287 40296	Signaling
-T344	GO:0009293 40367 40379	Transduction
-T345	GO:0007229 40639 40648	Signaling
-T346	GO:0007567 41563 41568	Birth
-T347	GO_EXT:biological_growth_entity_or_process 41920 41926	growth
-T348	GO_EXT:biological_growth_entity_or_process 41960 41966	growth
-T349	GO_EXT:transcription 42265 42278	transcription
-T350	GO:0007268 42570 42589	signal transduction
-T351	GO_SO_EXT:frameshift_entity_or_process 42811 42821	frameshift
-T352	GO_SO_EXT:frameshift_entity_or_process 43458 43468	frameshift
-T353	GO_SO_EXT:sequence_rearrangement_process 43683 43696	recombination
-T354	GO:0006936 44698 44709	contraction
-T355	GO:0051178 45304 45316	Localization
-T356	GO:0010467 45348 45358	Expression
-T357	GO:0010467 45522 45532	expression
-T358	GO:0000267 46393 46402	localized
-T359	GO:0007631 46437 46446	committed
-T360	GO:0010467 46871 46880	expressed
-T361	GO:0023058 46889 46917	signal transduction pathways
-T362	GO_PATO_EXT:phosphorylation_process_or_quality 47642 47656	phosphorylated
-T363	GO_PATO_EXT:phosphorylation_process_or_quality 48000 48014	phosphorylated
-T364	GO_PATO_EXT:phosphorylation_process_or_quality 48105 48121	unphosphorylated
+T141	GO:0007223 36 54	Signaling Pathways
+T142	GO:0009903 81 97	Cell Development
+T143	GO_EXT:biological_growth_entity_or_process 130 136	growth
+T144	GO:0007263 212 231	signal transduction
+T145	GO:0007568 285 294	signaling
+T146	GO:0007568 362 371	signaling
+T147	GO:0007263 519 538	signal transduction
+T148	GO:0010467 706 715	expressed
+T149	GO:0007223 744 772	signal transduction pathways
+T150	GO:0010467 804 814	expression
+T151	GO:0007223 859 877	signaling pathways
+T152	GO:0007263 1193 1212	signal transduction
+T153	GO:0007263 1287 1306	signal transduction
+T154	GO:0007568 1397 1406	signaling
+T155	GO_EXT:biological_direction_or_guidance 1709 1717	directed
+T156	GO:0016056 2169 2182	RTK signaling
+T157	GO:0007568 2248 2257	signaling
+T158	GO:0007568 2575 2584	signaling
+T159	GO_EXT:biological_growth_entity_or_process 2761 2767	growth
+T160	GO:0007568 2795 2804	signaling
+T161	GO:0007223 2902 2930	signal transduction pathways
+T162	GO:0014003 2945 2972	oligodendrocyte development
+T163	GO:0007263 3048 3067	signal transduction
+T164	GO_EXT:biological_growth_entity_or_process 3200 3206	growth
+T165	GO_PATO_EXT:physiological_process_or_quality 3260 3275	physiologically
+T166	GO_PATO_EXT:phosphorylation_process 3389 3407	autophosphorylated
+T167	GO_PATO_EXT:phosphorylation_process 3462 3476	phosphorylated
+T168	GO:0007223 3569 3597	signal transduction pathways
+T169	GO:0065007 3691 3698	control
+T170	GO:0008283 3738 3751	proliferation
+T171	GO:0051236 3753 3762	migration
+T172	GO_PATO_EXT:phosphorylation_process 3949 3963	phosphorylated
+T173	GO:0007223 3995 4023	signal transduction cascades
+T174	GO:0001967 4074 4078	PI3K
+T175	GO_EXT:transcription 4276 4289	transcription
+T176	GO:0007263 4827 4846	signal transduction
+T177	GO:0007263 4945 4964	signal transduction
+T178	GO:0008283 5481 5494	proliferation
+T179	GO:0051236 5496 5505	migration
+T180	GO:0016271 5603 5607	PDGF
+T181	GO:0007263 5608 5627	signal transduction
+T182	GO:0099503 5693 5702	perinatal
+T183	GO_EXT:fatality_or_lethality 5703 5712	lethality
+T184	GO_PATO_EXT:physiological_process_or_quality 6128 6143	physiologically
+T185	GO:0007223 6182 6210	signal transduction pathways
+T186	GO_PATO_EXT:phosphorylation_process 6359 6373	phosphorylated
+T187	GO:0007263 6439 6458	signal transduction
+T188	GO:0010467 6506 6515	expressed
+T189	GO:0007568 6538 6547	signaling
+T190	GO:0032485 6661 6684	RTK signal transduction
+T191	GO:0065007 6700 6711	controlling
+T192	GO:0048468 6712 6732	cellular development
+T193	GO:0007223 6982 7000	signaling pathways
+T194	GO_EXT:reaction_or_response 7031 7040	responses
+T195	GO:0007223 7100 7118	signaling pathways
+T196	GO:0007223 7261 7279	signaling pathways
+T197	GO_SO_EXT:frameshift_entity_or_process 7575 7585	frameshift
+T198	GO_SO_EXT:frameshift_entity_or_process 7846 7856	frameshift
+T199	GO:0071897 8459 8472	DNA synthesis
+T200	GO_EXT:negative_regulation 8527 8541	downregulation
+T201	GO:0016265 8603 8606	die
+T202	GO:0060543 8607 8618	perinatally
+T203	GO_EXT:biological_growth_entity_or_process 9003 9009	growth
+T204	GO:0010467 9371 9380	expresses
+T205	GO_RO_EXT:developmental_differentiation_process 9431 9445	differentiated
+T206	GO:0008283 9447 9463	nonproliferating
+T207	GO:0007263 9838 9857	signal transduction
+T208	GO:0010467 10629 10640	coexpressed
+T209	GO:0007263 10823 10842	signal transduction
+T210	GO:0010467 10893 10904	coexpressed
+T211	GO:0010467 11181 11188	express
+T212	GO_EXT:positive_regulation 11221 11232	upregulated
+T213	GO:0010467 11308 11317	expresses
+T214	GO:0009566 11328 11337	localized
+T215	GO:0065007 11380 11387	control
+T216	GO:0010467 11480 11490	expression
+T217	GO:0010467 11728 11738	expressing
+T218	GO:0010467 11820 11830	expression
+T219	GO:0010467 11940 11950	expressing
+T220	GO:0010467 12225 12232	express
+T221	GO:0010467 12306 12315	expressed
+T222	GO_EXT:positive_regulation 12319 12330	upregulated
+T223	GO_PATO_EXT:biological_maturation 13790 13800	maturation
+T224	GO:0010262 14657 14677	pericyte development
+T225	GO:0042592 14710 14721	homeostasis
+T226	GO:0031016 14919 14939	Pericyte development
+T227	GO:0048468 16086 16102	cell development
+T228	GO:0007263 16273 16292	signal transduction
+T229	GO:0065007 17032 17042	controlled
+T230	GO:0038092 17052 17068	PDGFRβ signaling
+T231	GO:0007223 17121 17139	signaling pathways
+T232	GO:0038092 17286 17302	PDGFRβ signaling
+T233	GO:0065007 17303 17311	controls
+T234	GO:0010262 17312 17332	pericyte development
+T235	GO:0007568 17667 17676	signaling
+T236	GO:0048468 17815 17828;17837 17842	overgrowth of ... cells
+T237	GO:0007567 17981 17986	birth
+T238	GO:0043491 18221 18246	PDGFRβ signaling pathways
+T239	GO:0007223 18931 18959	signal transduction pathways
+T240	GO:0007263 19883 19902	signal transduction
+T241	GO:0007223 19981 19999	signaling pathways
+T242	GO:0007263 20582 20601	Signal Transduction
+T243	GO:0007263 20836 20855	signal transduction
+T244	GO:0007263 20922 20941	signal transduction
+T245	GO:0010467 21053 21062	expressed
+T246	GO_EXT:negative_regulation 21194 21207	downregulated
+T247	GO:0010467 21223 21233	expression
+T248	GO_PATO_EXT:phosphorylation_process 21357 21372	phosphorylation
+T249	GO_EXT:reaction_or_response 21376 21384	response
+T250	GO_PATO_EXT:phosphorylation_process 21426 21440	phosphorylated
+T251	GO_PATO_EXT:phosphorylation_process 21588 21603	phosphorylation
+T252	GO_PATO_EXT:phosphorylation_process 21753 21767	phosphorylated
+T253	GO_EXT:negative_regulation 21860 21874	downregulation
+T254	GO_PATO_EXT:phosphorylation_process 22112 22126	phosphorylated
+T255	GO_PATO_EXT:phosphorylation_process 22157 22172	phosphorylation
+T256	GO:0070928 22758 22781;22782 22783	phosphorylation of ERK1 ... 2
+T257	GO:0006915 22788 22791	AKT
+T258	GO:0010467 22878 22888	expressing
+T259	GO:0007263 23129 23148	signal transduction
+T260	GO:0034068 23230 23253	phosphorylation of ERK1
+T261	13 23254 23255	2
+T262	GO:0007568 23415 23424	signaling
+T263	GO:0060004 23669 23672	RTK
+T264	GO:0007263 23673 23692	signal transduction
+T265	GO_EXT:biological_direction_or_guidance 23720 23729	directing
+T266	GO:0048468 23802 23822	cellular development
+T267	GO:0007223 23838 23856	signaling pathways
+T268	GO:0009293 24000 24010	transduced
+T269	GO:0007223 24105 24133	signal transduction pathways
+T270	GO:0040024 24187 24205	T cell development
+T271	GO:0010467 24490 24499	expressed
+T272	GO:0007268 24823 24842	signal transmission
+T273	GO:0007568 25227 25236	signaling
+T274	GO:0007263 25685 25704	signal transduction
+T275	GO:0065007 25708 25717	regulated
+T276	GO:0007263 25748 25767	signal transduction
+T277	GO:0010467 25800 25810	expression
+T278	GO:0007224 25892 25909	signaling pathway
+T279	GO:0007263 26158 26177	signal transduction
+T280	GO:0007565 26415 26421	signal
+T281	GO:0010467 26627 26637	expression
+T282	GO:0007223 26685 26703	signaling pathways
+T283	GO:0036348 27021 27033	PI3K pathway
+T284	GO_EXT:negative_regulation 27273 27287	downregulating
+T285	GO:0007223 27403 27421	signaling pathways
+T286	GO:0007263 27447 27466	signal transduction
+T287	GO:0007223 27598 27616	signaling pathways
+T288	GO:0008283 27782 27795	proliferation
+T289	GO:0051236 27887 27896	migration
+T290	GO:0010467 28282 28297	gene expression
+T291	GO:0001967 29000 29004	PI3K
+T292	GO:0010467 29051 29061	expressing
+T293	GO:0010262 29288 29308	pericyte development
+T294	GO:0007568 29451 29460	signaling
+T295	GO:0038092 29609 29625	PDGFRβ signaling
+T296	GO:0038092 29734 29750	PDGFRβ signaling
+T297	GO:0007263 29850 29869	signal transduction
+T298	GO:0065007 29919 29929	modulating
+T299	GO_EXT:reaction_or_response 29935 29943	response
+T300	GO_PATO_EXT:phosphorylation_process 30199 30213	phosphorylated
+T301	GO:0042263 30282 30294	signal relay
+T302	GO:0007568 30681 30690	signaling
+T303	GO_EXT:reaction_or_response 30851 30860	responses
+T304	GO:0007268 30897 30916	signal transmission
+T305	GO_EXT:fatality_or_lethality 31062 31068	lethal
+T306	GO_PATO_EXT:phosphorylation_process 31190 31205	phosphorylating
+T307	GO:0010467 31454 31463	expressed
+T308	GO:0007567 31751 31756	-talk
+T309	GO:0007568 31856 31865	signaling
+T310	GO:0007263 32031 32050	signal transduction
+T311	GO:0051236 32277 32286	migration
+T312	GO:0007568 32537 32546	signaling
+T313	GO:0007263 32582 32601	signal transduction
+T314	GO:0060004 32660 32663	RTK
+T315	GO:0007263 32664 32683	signal transduction
+T316	GO:0048468 32757 32773	cell development
+T317	GO:0048468 32801 32817	cell development
+T318	GO:0007263 32842 32861	signal transduction
+T319	GO:0048468 32987 33003	cell development
+T320	GO_EXT:biological_direction_or_guidance 33007 33015	directed
+T321	GO:0008283 33759 33772	proliferation
+T322	GO:0006915 33843 33852	apoptosis
+T323	GO:0046903 34126 34133	secrete
+T324	GO_EXT:biological_recruitment 34246 34253	recruit
+T325	GO_PATO_EXT:biological_maturation 34433 34443	maturation
+T326	GO:0007223 34596 34614	signaling pathways
+T327	GO:0065007 34691 34700	modulated
+T328	GO:0010467 34736 34745	expressed
+T329	GO:0007223 34813 34831	signaling pathways
+T330	GO:0007263 34902 34921	signal transduction
+T331	GO:0007223 35086 35114	signal transduction pathways
+T332	GO_EXT:biological_direction_or_guidance 35672 35680	directed
+T333	GO:0009294 36117 36128	transfected
+T334	GO_SO_EXT:sequence_rearrangement_process 36187 36200	recombination
+T335	GO_SO_EXT:frameshift_entity_or_process 36238 36248	frameshift
+T336	GO_SO_EXT:sequence_rearrangement_process 36513 36526	recombination
+T337	GO:0009294 38402 38413	transferred
+T338	GO_EXT:negative_regulation 39710 39724	downregulation
+T339	GO:0019835 39860 39865	lysed
+T340	GO:0007568 40201 40210	Signaling
+T341	GO:0007568 40287 40296	Signaling
+T342	GO:0009293 40367 40379	Transduction
+T343	GO:0007568 40639 40648	Signaling
+T344	GO:0007567 41563 41568	Birth
+T345	GO_EXT:biological_growth_entity_or_process 41920 41926	growth
+T346	GO_EXT:biological_growth_entity_or_process 41960 41966	growth
+T347	GO_EXT:transcription 42265 42278	transcription
+T348	GO:0007263 42570 42589	signal transduction
+T349	GO_SO_EXT:frameshift_entity_or_process 42811 42821	frameshift
+T350	GO_SO_EXT:frameshift_entity_or_process 43458 43468	frameshift
+T351	GO_SO_EXT:sequence_rearrangement_process 43683 43696	recombination
+T352	GO:0006936 44698 44709	contraction
+T353	GO:0040011 45304 45316	Localization
+T354	GO:0010467 45348 45358	Expression
+T355	GO:0010467 45522 45532	expression
+T356	GO:0009566 46393 46402	localized
+T357	GO:0007631 46437 46446	committed
+T358	GO:0010467 46871 46880	expressed
+T359	GO:0007223 46889 46917	signal transduction pathways
+T360	GO_PATO_EXT:phosphorylation_process 47642 47656	phosphorylated
+T361	GO_PATO_EXT:phosphorylation_process 48000 48014	phosphorylated
+T362	GO_PATO_EXT:phosphorylation_process 48105 48121	unphosphorylated

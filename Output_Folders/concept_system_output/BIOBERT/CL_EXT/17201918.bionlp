@@ -1,97 +1,97 @@
-T2163	CL_GO_EXT:cell 461 466	cells
-T2164	CL_GO_EXT:cell 1898 1903	cells
-T2165	CL_GO_EXT:cell 1944 1952	cellular
-T2166	CL:0000015 2440 2464	mammary epithelial cells
-T2167	CL:0000236 2907 2912	yeast
-T2168	CL:0000192 2913 2925	mother cells
-T2169	CL:0000235 2929 2938	multicell
-T2170	CL_GO_EXT:cell 3116 3121	cells
-T2171	CL_GO_EXT:cell 4932 4940	cellular
-T2172	CL:0000059 5835 5870	mammary epithelial progenitor cells
-T2173	CL:0000136 5924 5934	adipocytes
-T2174	CL:0000499 5939 5952	stromal cells
-T2175	CL:0000499 6064 6077	stromal cells
-T2176	CL:0000499 7102 7114	stromal cell
-T2177	CL:0000015 7159 7183	mammary epithelial cells
-T2178	CL:0000057 8202 8213	fibroblasts
-T2179	CL:0002322 8827 8847	embryonic stem cells
-T2180	CL:0002322 8909 8929	embryonic stem cells
-T2181	CL_GO_EXT:cell 10476 10481	cells
-T2182	CL:0000445 10494 10509	apoptotic cells
-T2183	CL_GO_EXT:cell 12278 12283	cells
-T2184	CL:0000586 12295 12305	germ cells
-T2185	CL_GO_EXT:cell 12660 12665	cells
-T2186	CL:0002322 13844 13864	embryonic stem cells
-T2187	CL_GO_EXT:cell 13988 13993	cells
-T2188	CL_GO_EXT:cell 14020 14025	cells
-T2189	CL_GO_EXT:cell 14066 14071	cells
-T2190	CL_GO_EXT:cell 16914 16925	cellularity
-T2191	CL:0002211 17547 17556	secretory
-T2192	CL:0000071 17557 17582	alveolar epithelial cells
-T2193	CL:0000067 19318 19345	epithelial progenitor cells
-T2194	CL:0000573 19399 19409	Concurrent
-T2195	CL:0000015 19410 19433	mammary epithelial cell
-T2196	CL:0000059 19559 19594	mammary epithelial progenitor cells
-T2197	CL_GO_EXT:cell 19789 19793	cell
-T2198	CL_GO_EXT:cell 19927 19932	cells
-T2199	CL_GO_EXT:cell 20005 20010	cells
-T2200	CL:0000129 20039 20045;20046 20048	ductal ...
-T2201	CL:0000071 20049 20074	alveolar epithelial cells
-T2202	CL:0000218 20205 20228	ductal epithelial cells
-T2203	CL:0000071 20246 20271	alveolar epithelial cells
-T2204	CL:0000218 20312 20335	ductal epithelial cells
-T2205	CL:0000218 20498 20521	ductal epithelial cells
-T2206	CL:0000627 20581 20595	alveolar cells
-T2207	CL:0000067 20721 20748	epithelial progenitor cells
-T2208	CL:0000445 21009 21035	Apoptotic epithelial cells
-T2209	CL:0000445 21179 21194	apoptotic cells
-T2210	CL:0000499 22559 22571	stromal cell
-T2211	CL:0000071 23265 23289	alveolar epithelial cell
-T2212	CL_GO_EXT:cell 23422 23427	cells
-T2213	CL_GO_EXT:cell 23622 23627	cells
-T2214	CL:0000218 23948 23971	ductal epithelial cells
-T2215	CL_GO_EXT:cell 24422 24427	cells
-T2216	CL:0000059 24565 24600	mammary epithelial progenitor cells
-T2217	CL:0000071 24634 24659	alveolar epithelial cells
-T2218	CL_GO_EXT:cell 24807 24815	cellular
-T2219	CL:0000015 24910 24934	mammary epithelial cells
-T2220	CL_GO_EXT:cell 25011 25016	cells
-T2221	CL:0000499 25672 25684	stromal cell
-T2222	CL_GO_EXT:cell 26025 26030	cells
-T2223	CL:0000015 27784 27807	mammary epithelial cell
-T2224	CL_GO_EXT:cell 29028 29033	cells
-T2225	CL_GO_EXT:cell 30759 30764	cells
-T2226	CL:0000059 32867 32902	mammary epithelial progenitor cells
-T2227	CL:0000015 34567 34585	mammary stem cells
-T2228	CL:0000067 34605 34632	epithelial progenitor cells
-T2229	CL:0000067 34708 34735	epithelial progenitor cells
-T2230	CL:0000218 34760 34783	ductal epithelial cells
-T2231	CL:0000066 34811 34827	epithelial cells
-T2232	CL:0000218 35260 35283	ductal epithelial cells
-T2233	CL:0000066 35308 35324	epithelial cells
-T2234	CL:0000499 35501 35513	stromal cell
-T2235	CL:0000218 35593 35616	ductal epithelial cells
-T2236	CL:0000066 35639 35655	epithelial cells
-T2237	CL:0000066 35978 36000	ductal epithelial cell
-T2238	CL_GO_EXT:cell 37933 37941	cellular
-T2239	CL:0000015 38113 38137	mammary epithelial cells
-T2240	CL:0000057 39073 39083	fibroblast
-T2241	CL:0002322 39588 39608	embryonic stem cells
-T2242	CL:0000057 41045 41056	fibroblasts
-T2243	CL:0002322 41434 41454	embryonic stem cells
-T2244	CL:0002322 41555 41575	embryonic stem cells
-T2245	CL:0000136 42173 42183	adipocytes
-T2246	CL:0000066 42185 42201	epithelial cells
-T2247	CL_GO_EXT:cell 42213 42218	cells
-T2248	CL_GO_EXT:cell 43165 43170	cells
-T2249	CL:0000059 43785 43808	Mammary epithelial cell
-T2250	CL:0000445 44378 44393	apoptotic cells
-T2251	CL:0000066 44502 44518	epithelial cells
-T2252	CL_GO_EXT:cell 44688 44693	cells
-T2253	CL:0000057 44908 44919	fibroblasts
-T2254	CL:0000079 45803 45837	Mammary epithelial precursor cells
-T2255	CL:0002322 45839 45842	EPC
-T2256	CL:0000218 45935 45958	ductal epithelial cells
-T2257	CL:0000499 46029 46041	stromal cell
-T2258	CL:0000218 46245 46268	ductal epithelial cells
-T2259	CL:0002322 46639 46642	EPC
+T2161	CL_GO_EXT:cell 461 466	cells
+T2162	CL_GO_EXT:cell 1898 1903	cells
+T2163	CL_GO_EXT:cell 1944 1952	cellular
+T2164	CL:0002327 2440 2464	mammary epithelial cells
+T2165	CL:0000232 2907 2912	yeast
+T2166	CL:0000219 2913 2925	mother cells
+T2167	CL:0000204 2929 2938	multicell
+T2168	CL_GO_EXT:cell 3116 3121	cells
+T2169	CL_GO_EXT:cell 4932 4940	cellular
+T2170	CL:0002327 5835 5870	mammary epithelial progenitor cells
+T2171	CL:0000136 5924 5934	adipocytes
+T2172	CL:0000499 5939 5952	stromal cells
+T2173	CL:0000499 6064 6077	stromal cells
+T2174	CL:0000499 7102 7114	stromal cell
+T2175	CL:0002327 7159 7183	mammary epithelial cells
+T2176	CL:0000057 8202 8213	fibroblasts
+T2177	CL:0002322 8827 8847	embryonic stem cells
+T2178	CL:0002322 8909 8929	embryonic stem cells
+T2179	CL_GO_EXT:cell 10476 10481	cells
+T2180	CL:0000445 10494 10509	apoptotic cells
+T2181	CL_GO_EXT:cell 12278 12283	cells
+T2182	CL:0000586 12295 12305	germ cells
+T2183	CL_GO_EXT:cell 12660 12665	cells
+T2184	CL:0002322 13844 13864	embryonic stem cells
+T2185	CL_GO_EXT:cell 13988 13993	cells
+T2186	CL_GO_EXT:cell 14020 14025	cells
+T2187	CL_GO_EXT:cell 14066 14071	cells
+T2188	CL_GO_EXT:cell 16914 16925	cellularity
+T2189	CL:0000596 17547 17556	secretory
+T2190	CL:0000322 17557 17582	alveolar epithelial cells
+T2191	CL:0002378 19318 19345	epithelial progenitor cells
+T2192	CL:0000573 19399 19409	Concurrent
+T2193	CL:0002327 19410 19433	mammary epithelial cell
+T2194	CL:0002327 19559 19594	mammary epithelial progenitor cells
+T2195	CL_GO_EXT:cell 19789 19793	cell
+T2196	CL_GO_EXT:cell 19927 19932	cells
+T2197	CL_GO_EXT:cell 20005 20010	cells
+T2198	CL:0000805 20039 20045	ductal ...
+T2199	CL:0000322 20049 20074	alveolar epithelial cells
+T2200	CL:0002062 20205 20228	ductal epithelial cells
+T2201	CL:0000322 20246 20271	alveolar epithelial cells
+T2202	CL:0002062 20312 20335	ductal epithelial cells
+T2203	CL:0002062 20498 20521	ductal epithelial cells
+T2204	CL:0000521 20581 20595	alveolar cells
+T2205	CL:0002378 20721 20748	epithelial progenitor cells
+T2206	CL:0000449 21009 21035	Apoptotic epithelial cells
+T2207	CL:0000445 21179 21194	apoptotic cells
+T2208	CL:0000499 22559 22571	stromal cell
+T2209	CL:0000322 23265 23289	alveolar epithelial cell
+T2210	CL_GO_EXT:cell 23422 23427	cells
+T2211	CL_GO_EXT:cell 23622 23627	cells
+T2212	CL:0002062 23948 23971	ductal epithelial cells
+T2213	CL_GO_EXT:cell 24422 24427	cells
+T2214	CL:0002327 24565 24600	mammary epithelial progenitor cells
+T2215	CL:0000322 24634 24659	alveolar epithelial cells
+T2216	CL_GO_EXT:cell 24807 24815	cellular
+T2217	CL:0002327 24910 24934	mammary epithelial cells
+T2218	CL_GO_EXT:cell 25011 25016	cells
+T2219	CL:0000499 25672 25684	stromal cell
+T2220	CL_GO_EXT:cell 26025 26030	cells
+T2221	CL:0002327 27784 27807	mammary epithelial cell
+T2222	CL_GO_EXT:cell 29028 29033	cells
+T2223	CL_GO_EXT:cell 30759 30764	cells
+T2224	CL:0002327 32867 32902	mammary epithelial progenitor cells
+T2225	CL:0002451 34567 34585	mammary stem cells
+T2226	CL:0002378 34605 34632	epithelial progenitor cells
+T2227	CL:0002378 34708 34735	epithelial progenitor cells
+T2228	CL:0002062 34760 34783	ductal epithelial cells
+T2229	CL:0000066 34811 34827	epithelial cells
+T2230	CL:0002062 35260 35283	ductal epithelial cells
+T2231	CL:0000066 35308 35324	epithelial cells
+T2232	CL:0000499 35501 35513	stromal cell
+T2233	CL:0002062 35593 35616	ductal epithelial cells
+T2234	CL:0000066 35639 35655	epithelial cells
+T2235	CL:0002538 35978 36000	ductal epithelial cell
+T2236	CL_GO_EXT:cell 37933 37941	cellular
+T2237	CL:0002327 38113 38137	mammary epithelial cells
+T2238	CL:0000057 39073 39083	fibroblast
+T2239	CL:0002322 39588 39608	embryonic stem cells
+T2240	CL:0000057 41045 41056	fibroblasts
+T2241	CL:0002322 41434 41454	embryonic stem cells
+T2242	CL:0002322 41555 41575	embryonic stem cells
+T2243	CL:0000136 42173 42183	adipocytes
+T2244	CL:0000066 42185 42201	epithelial cells
+T2245	CL_GO_EXT:cell 42213 42218	cells
+T2246	CL_GO_EXT:cell 43165 43170	cells
+T2247	CL:0002327 43785 43808	Mammary epithelial cell
+T2248	CL:0000445 44378 44393	apoptotic cells
+T2249	CL:0000066 44502 44518	epithelial cells
+T2250	CL_GO_EXT:cell 44688 44693	cells
+T2251	CL:0000057 44908 44919	fibroblasts
+T2252	CL:0002327 45803 45837	Mammary epithelial precursor cells
+T2253	CL:0002619 45839 45842	EPC
+T2254	CL:0002062 45935 45958	ductal epithelial cells
+T2255	CL:0000499 46029 46041	stromal cell
+T2256	CL:0002062 46245 46268	ductal epithelial cells
+T2257	CL:0002619 46639 46642	EPC

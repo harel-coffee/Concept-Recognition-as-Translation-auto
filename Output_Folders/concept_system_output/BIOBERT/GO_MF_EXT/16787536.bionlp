@@ -7,7 +7,7 @@ T1030	GO_EXT:0004872 2635 2643	receptor
 T1031	GO_PR_EXT:low_density_lipoprotein_receptor 2661 2693	low density lipoprotein receptor
 T1032	GO_PR_EXT:low_density_lipoprotein_receptor 2695 2699	LDLR
 T1033	GO_PR_EXT:insulin_receptor 2907 2914	insulin
-T1034	GO_EXT:0004402 2915 2919	...like
+T1034	CHEBI_GO_EXT:ligand 2915 2919	like
 T1035	GO_PR_EXT:growth_hormone 2920 2936	growth factor II
 T1036	GO_EXT:0004872 2937 2945	receptor
 T1037	GO_EXT:0004872 2975 2983	receptor
@@ -30,7 +30,7 @@ T1053	GO_EXT:0004872 25316 25325	receptors
 T1054	CHEBI_GO_EXT:antagonist 25571 25582	antagonists
 T1055	GO_EXT:0008910 30241 30245	neoR
 T1056	GO_EXT:0004886 33895 33897	RT
-T1057	GO_EXT:0001055 34068 34070	...II
+T1057	GO_PR_EXT:insulin_receptor 34068 34070	II
 T1058	GO_EXT:0003964 34071 34092	Reverse Transcriptase
 T1059	GO_PR_EXT:glyceraldehyde_3_phosphate_dehydrogenase 35077 35082	GAPDH
 T1060	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 36424 36431	binding

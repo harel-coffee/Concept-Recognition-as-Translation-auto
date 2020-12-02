@@ -1,8 +1,8 @@
-T782	GO_EXT:0004875 1660 1678	Toll - like receptor
+T782	GO_EXT:0004875 1660 1678	Toll-like receptor
 T783	GO_EXT:0034061 8633 8647	DNA polymerase
-T784	GO_EXT:0008527 19243 19261	toll - like receptor
+T784	GO_EXT:0008527 19243 19261	toll-like receptor
 T785	GO_EXT:0008009 23897 23907	chemokines
-T786	GO_PR_EXT:alkaline_phosphatase 23937 23959	ADP - ribosyltransferase
+T786	GO_PR_EXT:alkaline_phosphatase 23937 23959	ADP-ribosyltransferase
 T787	GO_EXT:0004871 23975 23996	tumor necrosis factor
 T788	GO_EXT:transcription_factor 23998 24001	TNF
 T789	GO_EXT:0004872 24003 24011	receptor
@@ -41,17 +41,17 @@ T821	GO_EXT:0005125 27482 27490	cytokine
 T822	GO_EXT:chemoattractant_or_chemoattraction 27626 27641	chemoattractant
 T823	GO_EXT:0008009 27685 27694	chemokine
 T824	CHEBI_GO_EXT:ligand 27709 27716	ligands
-T825	GO_EXT:0008527 27957 27975	toll - like receptor
+T825	GO_EXT:0008527 27957 27975	toll-like receptor
 T826	GO_EXT:0004875 28081 28085	Toll
-T827	GO_EXT:0004887 28086 28100	...like receptors
-T828	GO_EXT:0008527 29290 29308	toll - like receptor
+T827	GO_EXT:0016874 28086 28100	like receptors
+T828	GO_EXT:0008527 29290 29308	toll-like receptor
 T829	CHEBI_GO_EXT:ligand 29599 29606	ligands
 T830	CHEBI_GO_EXT:ligand 29644 29650	ligand
-T831	GO_EXT:0004887 29683 29696	...like receptor
+T831	GO_EXT:0016874 29683 29696	like receptor
 T832	CHEBI_GO_EXT:ligand 29831 29838	ligands
 T833	CHEBI_GO_EXT:ligand 29868 29875	ligands
 T834	CHEBI_GO_EXT:ligand 30032 30039	ligands
 T835	GO_EXT:transcription_factor 30180 30200	transcription factor
 T836	GO_EXT:0005125 30233 30242	cytokines
 T837	GO_PR_EXT:insulin_receptor 30622 30644	danger signal receptor
-T838	GO_EXT:0008527 30923 30941	toll - like receptor
+T838	GO_EXT:0008527 30923 30941	toll-like receptor

@@ -1,69 +1,69 @@
-T749	GO:0007281 67 90	germ cell specification
-T750	GO:0023051 164 174	signalling
-T751	GO:0010467 293 302	expressed
-T752	GO:0007369 362 374	gastrulating
-T753	GO:0007281 459 482	germ cell specification
-T754	GO:0007281 518 539	germ cell development
-T755	GO:0009790 1027 1040	embryogenesis
-T756	GO:0007281 1074 1097	germ cell specification
-T757	GO:0007565 1192 1202	programmed
-T758	GO:0009790 1223 1236	embryogenesis
-T759	GO_EXT:biological_direction_or_guidance 1304 1310	direct
-T760	GO:0001783 1316 1341	programming of germ cells
-T761	GO:0009566 1455 1468	fertilization
-T762	GO:0023051 1652 1662	signalling
-T763	GO:0006412 1833 1843	translated
-T764	GO:0007281 1915 1938	germ cell specification
-T765	GO:0010467 1972 1981	expressed
-T766	GO:0007281 2221 2244	germ cell specification
-T767	GO:0010467 2292 2302	expression
-T768	GO:0007281 2597 2617	germline development
-T769	GO:0010467 2997 3007	expression
-T770	GO:0007281 3460 3481	germ cell development
-T771	GO:0007281 4426 4449	germ cell specification
-T772	GO:0035228 4515 4536	germ cell programming
-T773	GO:0010467 4627 4637	expression
-T774	GO:0010467 4802 4811	expressed
-T775	GO:0010467 4876 4886	expression
-T776	GO:0007283 5016 5031	spermatogenesis
-T777	GO:0001541 5045 5073	ovarian follicle development
-T778	GO:0007281 5357 5380	germ cell specification
-T779	GO:0007281 5400 5421	germ cell development
-T780	GO_SO_EXT:sequence_rearrangement_process 5596 5598	RT
-T781	GO:0010467 5615 5630	gene expression
-T782	GO_SO_EXT:sequence_rearrangement_process 6052 6054	RT
-T783	GO:0010467 6099 6108	expressed
-T784	GO:0009790 6246 6267	embryonic development
-T785	GO:0007618 6690 6695	mated
-T786	GO:0009790 6915 6928	embryogenesis
-T787	GO:0007566 6964 6976	implantation
-T788	GO:0007566 7581 7593	implantation
-T789	GO:0007566 7631 7643	implantation
-T790	GO:0009790 7644 7666	development of embryos
-T791	GO:0007618 7784 7791	matings
-T792	GO:0007618 7965 7972	matings
-T793	GO:0010467 8427 8434	express
-T794	GO:0010467 8497 8507	expression
-T795	GO_EXT:transcription 8540 8553	transcription
-T796	GO:0007566 8584 8596	implantation
-T797	GO:0010467 8836 8846	expression
-T798	GO:0010467 8961 8971	expression
-T799	GO:0010467 9033 9040	express
-T800	GO:0048513 9199 9213;9214 9226;9227 9234	development of ... embryos ...
-T801	GO:0010467 9311 9321	expression
-T802	CHEBI_GO_EXT:biological_process_or_quality_or_role 9426 9436	biological
-T803	GO:0007281 9543 9566	germ cell specification
-T804	GO:0007605 9625 9632	program
-T805	GO:0009790 9750 9763	embryogenesis
-T806	GO:0006413 9951 9973	translation initiation
-T807	GO:0009294 10222 10233	transfected
-T808	GO_SO_EXT:sequence_rearrangement_process 10258 10268	recombined
-T809	GO:0009294 10454 10466	transfection
-T810	GO:0010467 10490 10500	expressing
-T811	GO_SO_EXT:sequence_rearrangement_process 11207 11209	RT
-T812	GO:0010467 11264 11274	expression
-T813	GO_SO_EXT:sequence_rearrangement_process 11315 11317	RT
-T814	GO:0007565 11501 11510	gestation
-T815	GO:0010467 12241 12251	expression
-T816	GO_EXT:breeding 12274 12278	bred
-T817	CHEBI_GO_EXT:biological_process_or_quality_or_role 12681 12691	biological
+T747	GO:0007282 67 90	germ cell specification
+T748	GO:0007567 164 174	signalling
+T749	GO:0010467 293 302	expressed
+T750	GO:0007369 362 374	gastrulating
+T751	GO:0007282 459 482	germ cell specification
+T752	GO:0007281 518 539	germ cell development
+T753	GO:0009790 1027 1040	embryogenesis
+T754	GO:0007282 1074 1097	germ cell specification
+T755	GO:0007567 1192 1202	programmed
+T756	GO:0009790 1223 1236	embryogenesis
+T757	GO_EXT:biological_direction_or_guidance 1304 1310	direct
+T758	GO:0034349 1316 1341	programming of germ cells
+T759	GO:0009566 1455 1468	fertilization
+T760	GO:0007567 1652 1662	signalling
+T761	GO:0006412 1833 1843	translated
+T762	GO:0007282 1915 1938	germ cell specification
+T763	GO:0010467 1972 1981	expressed
+T764	GO:0007282 2221 2244	germ cell specification
+T765	GO:0010467 2292 2302	expression
+T766	GO:0007281 2597 2617	germline development
+T767	GO:0010467 2997 3007	expression
+T768	GO:0007281 3460 3481	germ cell development
+T769	GO:0007282 4426 4449	germ cell specification
+T770	GO:0007295 4515 4536	germ cell programming
+T771	GO:0010467 4627 4637	expression
+T772	GO:0010467 4802 4811	expressed
+T773	GO:0010467 4876 4886	expression
+T774	GO:0007283 5016 5031	spermatogenesis
+T775	GO:0001541 5045 5073	ovarian follicle development
+T776	GO:0007282 5357 5380	germ cell specification
+T777	GO:0007281 5400 5421	germ cell development
+T778	GO:0016246 5596 5598	RT
+T779	GO:0010467 5615 5630	gene expression
+T780	GO:0016246 6052 6054	RT
+T781	GO:0010467 6099 6108	expressed
+T782	GO:0009790 6246 6267	embryonic development
+T783	GO:0007618 6690 6695	mated
+T784	GO:0009790 6915 6928	embryogenesis
+T785	GO:0007566 6964 6976	implantation
+T786	GO:0007566 7581 7593	implantation
+T787	GO:0007566 7631 7643	implantation
+T788	GO:0009790 7644 7666	development of embryos
+T789	GO:0007618 7784 7791	matings
+T790	GO:0007618 7965 7972	matings
+T791	GO:0010467 8427 8434	express
+T792	GO:0010467 8497 8507	expression
+T793	GO_EXT:transcription 8540 8553	transcription
+T794	GO:0007566 8584 8596	implantation
+T795	GO:0010467 8836 8846	expression
+T796	GO:0010467 8961 8971	expression
+T797	GO:0010467 9033 9040	express
+T798	GO:0044839 9199 9213;9219 9226;	development of ... embryos ...
+T799	GO:0010467 9311 9321	expression
+T800	CHEBI_GO_EXT:biological_process_or_quality_or_role 9426 9436	biological
+T801	GO:0007282 9543 9566	germ cell specification
+T802	GO:0035822 9625 9632	program
+T803	GO:0009790 9750 9763	embryogenesis
+T804	GO:0006413 9951 9973	translation initiation
+T805	GO:0009294 10222 10233	transfected
+T806	GO_SO_EXT:sequence_rearrangement_process 10258 10268	recombined
+T807	GO:0009294 10454 10466	transfection
+T808	GO:0010467 10490 10500	expressing
+T809	GO:0016246 11207 11209	RT
+T810	GO:0010467 11264 11274	expression
+T811	GO:0016246 11315 11317	RT
+T812	GO:0007565 11501 11510	gestation
+T813	GO:0010467 12241 12251	expression
+T814	GO_EXT:breeding 12274 12278	bred
+T815	CHEBI_GO_EXT:biological_process_or_quality_or_role 12681 12691	biological

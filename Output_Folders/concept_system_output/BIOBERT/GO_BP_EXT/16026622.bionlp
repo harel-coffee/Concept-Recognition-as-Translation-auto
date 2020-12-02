@@ -1,91 +1,91 @@
-T2570	GO:0065007 720 727	control
-T2571	GO:0065007 2403 2413	regulating
-T2572	GO:0045333 3071 3082	respiratory
-T2573	GO:0065007 3715 3725	regulating
-T2574	GO:0065007 4434 4445	controlling
-T2575	GO_EXT:reaction_or_response 4456 4465	responses
-T2576	GO:0065007 4676 4683	control
-T2577	GO_EXT:reaction_or_response 4720 4729	responses
-T2578	GO_EXT:macromolecule_denaturation 8730 8739	denatured
-T2579	GO_RO_EXT:developmental_differentiation_process 8977 8991	differentiated
-T2580	GO_EXT:reaction_or_response 9605 9614	responses
-T2581	GO:0043277 12475 12484	...tolerance
-T2582	GO_EXT:reaction_or_response 12645 12654	responses
-T2583	GO:0065007 18597 18608	controlling
-T2584	GO:0034205 19189 19211	...of pulmonary tolerance
-T2585	GO:0034205 20993 21015	...of pulmonary tolerance
-T2586	GO_EXT:regulator 21068 21078	regulators
-T2587	GO_EXT:breeding 22317 22322	breed
-T2588	GO:0065007 23336 23345	regulated
-T2589	GO:0065007 23552 23563	controlling
-T2590	GO:0065007 23712 23720	modulate
-T2591	GO_PATO_EXT:inflammatory_process_or_quality 23738 23750	inflammation
-T2592	GO_PATO_EXT:inflammatory_process_or_quality 23814 23826	inflammatory
-T2593	GO_EXT:biological_recruitment 23832 23843	recruitment
-T2594	GO_PATO_EXT:inflammatory_process_or_quality 23856 23868	inflammation
-T2595	GO:0007129 23885 23907	movement of chemokines
-T2596	GO_PATO_EXT:necrosis 23981 23989	necrosis
-T2597	GO_EXT:transcription 24101 24114	transcription
-T2598	GO:0065007 24129 24139	regulation
-T2599	GO_PATO_EXT:inflammatory_process_or_quality 24147 24167	inflammatory process
-T2600	GO_EXT:biological_growth_entity_or_process 24300 24306	growth
-T2601	GO_EXT:biological_mover_or_transporter 24452 24459	carrier
-T2602	GO_EXT:biological_mover_or_transporter 24476 24487	transporter
-T2603	GO_EXT:biological_mover_or_transporter 24520 24531	transporter
-T2604	GO_PATO_EXT:inflammatory_process_or_quality 25110 25122	inflammatory
-T2605	GO_EXT:biological_mover_or_transporter 25289 25296	carrier
-T2606	GO_EXT:biological_mover_or_transporter 25313 25324	transporter
-T2607	GO_EXT:biological_mover_or_transporter 25393 25405	transporters
-T2608	GO:0065007 25573 25582	regulated
-T2609	GO_EXT:transcription 25695 25710	transcriptional
-T2610	GO:0065007 25723 25733	regulation
-T2611	GO:0042596 26123 26134;26135 26139	movement of ...
-T2612	GO_PATO_EXT:inflammatory_process_or_quality 26145 26157	inflammatory
-T2613	GO:0065007 26169 26178	regulated
-T2614	GO:0006786 26182 26193	chemotactic
-T2615	GO:0007567 26226 26232	signal
-T2616	GO:0019230 26329 26344	proinflammatory
-T2617	GO:0050817 26415 26431	cell trafficking
-T2618	GO_PATO_EXT:inflammatory_process_or_quality 26439 26451	inflammation
-T2619	GO:0010467 26459 26469	expression
-T2620	GO:0010467 26543 26558	gene expression
-T2621	GO:0065007 26563 26570	control
-T2622	GO:0007601 26591 26600	migration
-T2623	GO:0010467 26674 26681	express
-T2624	GO_EXT:biological_recruitment 26711 26718	recruit
-T2625	GO_EXT:reaction_or_response 26804 26812	response
-T2626	GO_PATO_EXT:inflammatory_process_or_quality 26832 26844	inflammation
-T2627	GO:0010467 26948 26958	expression
-T2628	GO:0019230 26962 26977	proinflammatory
-T2629	GO:0065007 27053 27061	modulate
-T2630	GO_EXT:reaction_or_response 27119 27127	response
-T2631	GO_EXT:biological_growth_entity_or_process 27189 27195	growth
-T2632	GO:0000165 27449 27477	MAP kinase signaling cascade
-T2633	GO:0000009 27482 27490	cytokine
-T2634	GO:0010467 27491 27501	expression
-T2635	GO_EXT:secretion_entity_or_process 27506 27515	secretion
-T2636	GO:0046903 27525 27533	Secreted
-T2637	GO:0006935 27791 27801	chemotaxis
-T2638	GO:0097690 28110 28115;28115 28134	intra ... cellular signaling
-T2639	GO:0006955 28258 28273	immune response
-T2640	GO:0010467 28487 28497	expression
-T2641	GO:0010467 28660 28670	expression
-T2642	GO_EXT:secretion_entity_or_process 29300 29308	...receptor
-T2643	GO:0023051 29309 29318	signaling
-T2644	GO:0065007 29343 29353	regulation
-T2645	GO:0023051 29440 29449	signaling
-T2646	GO:0065007 29454 29462	regulate
-T2647	GO:0023051 29697 29706	signaling
-T2648	GO:0065007 30087 30095	regulate
-T2649	GO_EXT:transcription 30180 30193	transcription
-T2650	GO:0007565 30331 30340	...dependent
-T2651	GO:0010467 30341 30356	gene expression
-T2652	GO:0065007 30474 30484	regulatory
-T2653	GO:0016055 30505 30520	NF - κB signaling
-T2654	GO:0065007 30528 30536	modulate
-T2655	GO:0002782 30720 30735	innate immunity
-T2656	GO:0007631 30777 30783	...immune
-T2657	GO:0023051 30942 30951	signaling
-T2658	GO:0065007 30978 30986	regulate
-T2659	GO_EXT:reaction_or_response 30995 31004	responses
-T2660	GO:0030324 31789 31800	development
+T2568	GO:0065007 720 727	control
+T2569	GO:0065007 2403 2413	regulating
+T2570	GO:0045333 3071 3082	respiratory
+T2571	GO:0065007 3715 3725	regulating
+T2572	GO:0065007 4434 4445	controlling
+T2573	GO_EXT:reaction_or_response 4456 4465	responses
+T2574	GO:0065007 4676 4683	control
+T2575	GO_EXT:reaction_or_response 4720 4729	responses
+T2576	GO_EXT:macromolecule_denaturation 8730 8739	denatured
+T2577	GO_RO_EXT:developmental_differentiation_process 8977 8991	differentiated
+T2578	GO_EXT:reaction_or_response 9605 9614	responses
+T2579	GO:0009294 12475 12484	tolerance
+T2580	GO_EXT:reaction_or_response 12645 12654	responses
+T2581	GO:0065007 18597 18608	controlling
+T2582	GO:0034383 19189 19211	of pulmonary tolerance
+T2583	GO:0034383 20993 21015	of pulmonary tolerance
+T2584	GO_EXT:regulator 21068 21078	regulators
+T2585	GO_EXT:breeding 22317 22322	breed
+T2586	GO:0065007 23336 23345	regulated
+T2587	GO:0065007 23552 23563	controlling
+T2588	GO:0065007 23712 23720	modulate
+T2589	GO_PATO_EXT:inflammatory_process_or_quality 23738 23750	inflammation
+T2590	GO_PATO_EXT:inflammatory_process_or_quality 23814 23826	inflammatory
+T2591	GO_EXT:biological_recruitment 23832 23843	recruitment
+T2592	GO_PATO_EXT:inflammatory_process_or_quality 23856 23868	inflammation
+T2593	GO:0007136 23885 23907	movement of chemokines
+T2594	GO_PATO_EXT:necrosis 23981 23989	necrosis
+T2595	GO_EXT:transcription 24101 24114	transcription
+T2596	GO:0065007 24129 24139	regulation
+T2597	GO_PATO_EXT:inflammatory_process_or_quality 24147 24167	inflammatory process
+T2598	GO_EXT:biological_growth_entity_or_process 24300 24306	growth
+T2599	GO_EXT:biological_mover_or_transporter 24452 24459	carrier
+T2600	GO_EXT:biological_mover_or_transporter 24476 24487	transporter
+T2601	GO_EXT:biological_mover_or_transporter 24520 24531	transporter
+T2602	GO_PATO_EXT:inflammatory_process_or_quality 25110 25122	inflammatory
+T2603	GO_EXT:biological_mover_or_transporter 25289 25296	carrier
+T2604	GO_EXT:biological_mover_or_transporter 25313 25324	transporter
+T2605	GO_EXT:biological_mover_or_transporter 25393 25405	transporters
+T2606	GO:0065007 25573 25582	regulated
+T2607	GO_EXT:transcription 25695 25710	transcriptional
+T2608	GO:0065007 25723 25733	regulation
+T2609	GO:0042695 26123 26134;	movement of ...
+T2610	GO_PATO_EXT:inflammatory_process_or_quality 26145 26157	inflammatory
+T2611	GO:0065007 26169 26178	regulated
+T2612	GO:0042633 26182 26193	chemotactic
+T2613	GO:0007565 26226 26232	signal
+T2614	GO:0019042 26329 26344	proinflammatory
+T2615	GO:0032438 26415 26431	cell trafficking
+T2616	GO_PATO_EXT:inflammatory_process_or_quality 26439 26451	inflammation
+T2617	GO:0010467 26459 26469	expression
+T2618	GO:0010467 26543 26558	gene expression
+T2619	GO:0065007 26563 26570	control
+T2620	GO:0051236 26591 26600	migration
+T2621	GO:0010467 26674 26681	express
+T2622	GO_EXT:biological_recruitment 26711 26718	recruit
+T2623	GO_EXT:reaction_or_response 26804 26812	response
+T2624	GO_PATO_EXT:inflammatory_process_or_quality 26832 26844	inflammation
+T2625	GO:0010467 26948 26958	expression
+T2626	GO:0019042 26962 26977	proinflammatory
+T2627	GO:0065007 27053 27061	modulate
+T2628	GO_EXT:reaction_or_response 27119 27127	response
+T2629	GO_EXT:biological_growth_entity_or_process 27189 27195	growth
+T2630	GO:0000165 27449 27477	MAP kinase signaling cascade
+T2631	GO_EXT:cytokine_biosynthesis_or_production 27482 27490	cytokine
+T2632	GO:0010467 27491 27501	expression
+T2633	GO_EXT:secretion_entity_or_process 27506 27515	secretion
+T2634	GO:0046903 27525 27533	Secreted
+T2635	GO:0042592 27791 27801	chemotaxis
+T2636	GO:0038060 28110 28115;28116 28134	intra ... cellular signaling
+T2637	GO:0006955 28258 28273	immune response
+T2638	GO:0010467 28487 28497	expression
+T2639	GO:0010467 28660 28670	expression
+T2640	GO:0042633 29300 29308	receptor
+T2641	GO:0007568 29309 29318	signaling
+T2642	GO:0065007 29343 29353	regulation
+T2643	GO:0007568 29440 29449	signaling
+T2644	GO:0065007 29454 29462	regulate
+T2645	GO:0007568 29697 29706	signaling
+T2646	GO:0065007 30087 30095	regulate
+T2647	GO_EXT:transcription 30180 30193	transcription
+T2648	GO_EXT:macromolecule_denaturation 30331 30340	dependent
+T2649	GO:0010467 30341 30356	gene expression
+T2650	GO:0065007 30474 30484	regulatory
+T2651	GO:0007212 30505 30520	NF-κB signaling
+T2652	GO:0065007 30528 30536	modulate
+T2653	GO:0045087 30720 30735	innate immunity
+T2654	GO:0007631 30777 30783	immune
+T2655	GO:0007568 30942 30951	signaling
+T2656	GO:0065007 30978 30986	regulate
+T2657	GO_EXT:reaction_or_response 30995 31004	responses
+T2658	GO_EXT:neuron_development_or_generation 31789 31800	development

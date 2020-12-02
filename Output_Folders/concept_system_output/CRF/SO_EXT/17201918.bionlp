@@ -1,163 +1,163 @@
-T6967	SO_EXT:biological_conservation_process_or_quality 281 290	conserved
-T6968	SO_EXT:sequence_alteration_entity_or_process 792 800	mutation
-T6969	SO_EXT:0000704 814 818	gene
-T6970	SO_EXT:transgenic_entity 845 855	transgenic
-T6971	SO_EXT:sequence_rescue_process 1503 1509	rescue
-T6972	SO_EXT:sequence_rescue_process 1776 1783	rescued
-T6973	CHEBI_GO_SO_EXT:enzyme 2355 2364	enzymatic
-T6974	CHEBI_SO_EXT:dinucleotide 2541 2553	dinucleotide
-T6975	SO_EXT:biological_conservation_process_or_quality 2664 2688	evolutionarily conserved
-T6976	SO_EXT:0000319 2760 2769	telomeric
-T6977	CHEBI_SO_EXT:DNA 2832 2835	DNA
-T6978	GO_SO_EXT:sequence_rearrangement_process 2836 2849	recombination
-T6979	SO_EXT:sequence_copy_entity 2884 2888	copy
-T6980	SO_EXT:biological_conservation_process_or_quality 3356 3380	evolutionarily conserved
-T6981	SO_EXT:0000704 3690 3695	genes
-T6982	SO_EXT:biological_conservation_process_or_quality 3722 3731	conserved
-T6983	SO_EXT:0000704 4357 4362	genes
-T6984	SO_EXT:sequence_repeat_unit_or_region 6617 6623	repeat
-T6985	SO_EXT:engineered_biological_sequence 7254 7263	construct
-T6986	SO_EXT:sequence_alteration_entity_or_process 7335 7343	mutation
-T6987	SO_EXT:0000704 7357 7361	gene
-T6988	SO_EXT:transgenic_entity 7449 7459	transgenic
-T6989	SO_EXT:sequence_deletion_entity_or_process 7514 7522	deletion
-T6990	SO_EXT:0000147 7526 7530	exon
-T6991	SO_EXT:0000704 7546 7550	gene
-T6992	SO_EXT:wild_type_entity_or_quality 8004 8013	wild - type
-T6993	SO_EXT:0000704 8044 8048	gene
-T6994	SO_EXT:0000112 8061 8068	primers
-T6995	SO_EXT:0000112 8076 8082	primer
-T6996	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 8110 8115	5 ' ko
-T6997	SO_EXT:0000112 8116 8122	primer
-T6998	SO_EXT:0000132 8149 8158	3 ' primer
-T6999	SO_EXT:sequence_alteration_process 10468 10475	labeled
-T7000	CHEBI_SO_EXT:molecular_probe 10789 10795	Probes
-T7001	CHEBI_SO_EXT:molecular_probe 10837 10842	Probe
-T7002	SO_EXT:sequence_altered_entity 11633 11639	mutant
-T7003	SO_EXT:sequence_insertion_entity_or_process 11672 11681	insertion
-T7004	SO_EXT:sequence_alteration_entity_or_process 11682 11690	mutation
-T7005	SO_EXT:0000704 11717 11721	gene
-T7006	SO_EXT:0000346 11726 11729	lox
-T7007	SO_EXT:biological_sequence 11730 11739	sequences
-T7008	SO_EXT:0000704 11753 11757	gene
-T7009	SO:0000357 11758 11766	flanking
-T7010	SO_EXT:0000147 11767 11771	exon
-T7011	SO_EXT:sequence_coding_function 11779 11786	encodes
-T7012	SO_EXT:biological_conservation_process_or_quality 11789 11798	conserved
-T7013	SO_EXT:sequence_or_structure_motif 11804 11809	motif
-T7014	SO_EXT:sequence_alteration_entity_or_process 11827 11835	mutation
-T7015	SO_EXT:wild_type_entity_or_quality 11979 11988	wild - type
-T7016	SO_EXT:0001023 12019 12025	allele
-T7017	SO_EXT:0001023 12044 12050	allele
-T7018	SO_EXT:transgenic_entity 12094 12104	transgenic
-T7019	SO_EXT:genotype_or_entity_with_genotype 12175 12183	genotype
-T7020	SO_EXT:0000902 12215 12224	transgene
-T7021	SO_EXT:sequence_deletion_entity_or_process 12239 12247	deletion
-T7022	SO_EXT:0000147 12251 12255	exon
-T7023	SO_EXT:0001023 12333 12339	allele
-T7024	SO_EXT:sequence_alteration_entity_or_process 12393 12401	mutation
-T7025	SO_EXT:wild_type_entity_or_quality 12451 12460	wild - type
-T7026	SO_EXT:sequence_deletion_entity_or_process 12520 12528	deletion
-T7027	SO_EXT:sequence_alteration_entity_or_process 12529 12537	mutation
-T7028	SO_EXT:sequence_altered_entity 12738 12744	mutant
-T7029	SO_EXT:sequence_deletion_entity_or_process 12772 12780	deletion
-T7030	SO_EXT:0000147 12784 12788	exon
-T7031	SO_EXT:sequence_altered_entity 12815 12821	mutant
-T7032	SO_EXT:wild_type_entity_or_quality 12925 12934	wild - type
-T7033	SO_EXT:sequence_nullness 13003 13007	null
-T7034	CHEBI_SO_EXT:DNA 13319 13322	DNA
-T7035	CHEBI_SO_EXT:DNA 13735 13738	DNA
-T7036	GO_SO_EXT:chromosome 13789 13799	chromosome
-T7037	SO_EXT:wild_type_entity_or_quality 13978 13987	wild - type
-T7038	CHEBI_SO_EXT:DNA 14279 14282	DNA
-T7039	SO_EXT:wild_type_entity_or_quality 15426 15435	wild - type
-T7040	SO_EXT:wild_type_entity_or_quality 16226 16235	wild - type
-T7041	SO_EXT:wild_type_entity_or_quality 16929 16938	wild - type
-T7042	SO_EXT:sequence_rescue_process 17041 17047	rescue
-T7043	SO_EXT:wild_type_entity_or_quality 17385 17394	wild - type
-T7044	SO_EXT:wild_type_entity_or_quality 17870 17879	wild - type
-T7045	SO_EXT:wild_type_entity_or_quality 18266 18275	wild - type
-T7046	SO_EXT:wild_type_entity_or_quality 18540 18549	wild - type
-T7047	SO_EXT:wild_type_entity_or_quality 18706 18715	wild - type
-T7048	SO_EXT:sequence_rescue_process 18853 18859	rescue
-T7049	SO_EXT:sequence_alteration_process 19663 19671	labeling
-T7050	CHEBI_SO_EXT:deoxyribonucleotide 19696 19712	deoxynucleotidyl
-T7051	SO_EXT:sequence_alteration_process 19748 19756	Labeling
-T7052	SO_EXT:wild_type_entity_or_quality 20153 20162	wild - type
-T7053	SO_EXT:wild_type_entity_or_quality 21235 21244	wild - type
-T7054	SO_EXT:wild_type_entity_or_quality 21305 21314	wild - type
-T7055	SO_EXT:sequence_rescue_process 21440 21447	rescued
-T7056	SO_EXT:wild_type_entity_or_quality 21588 21597	wild - type
-T7057	SO_EXT:sequence_alteration_entity_or_process 22332 22341	mutations
-T7058	SO_EXT:0000704 23710 23715	genes
-T7059	SO_EXT:sequence_coding_function 23734 23740	encode
-T7060	SO_EXT:wild_type_entity_or_quality 24082 24091	wild - type
-T7061	SO_EXT:0000704 24981 24985	gene
-T7062	SO_EXT:wild_type_entity_or_quality 25577 25586	wild - type
-T7063	SO_EXT:wild_type_entity_or_quality 26383 26392	wild - type
-T7064	SO_EXT:0001060 26774 26782	isoforms
-T7065	SO_EXT:sequence_upstreamness 27691 27699	upstream
-T7066	SO_EXT:sequence_downstreamness 27720 27730	downstream
-T7067	SO_EXT:0000704 28106 28110	gene
-T7068	SO_EXT:biological_conservation_process_or_quality 28294 28318	evolutionarily conserved
-T7069	SO_EXT:sequence_alteration_entity_or_process 28882 28891	mutations
-T7070	SO_EXT:0000704 28930 28934	gene
-T7071	SO_EXT:biological_conservation_process_or_quality 29232 29241	conserved
-T7072	SO_EXT:0000704 29483 29488	genes
-T7073	SO_EXT:0000704 30074 30079	genes
-T7074	SO_EXT:0000167 30797 30805	promoter
-T7075	SO_EXT:0000704 30821 30825	gene
-T7076	SO_EXT:transgenic_entity 31338 31348	transgenic
-T7077	SO_EXT:wild_type_entity_or_quality 31666 31675	wild - type
-T7078	SO_EXT:0000704 32394 32401	genetic
-T7079	SO_EXT:sequence_alteration_entity_or_process 32402 32411	mutations
-T7080	SO_EXT:sequence_rescue_process 33195 33201	rescue
-T7081	SO_EXT:sequence_rescue_process 33395 33401	rescue
-T7082	CHEBI_SO_EXT:mRNA 34514 34519	marks
-T7083	SO_EXT:sequence_alteration_entity_or_process 36160 36169	mutations
-T7084	SO_EXT:sequence_substitution_entity_or_process 36353 36364	replacement
-T7085	SO_EXT:epigenetic_modification_entity_or_process 37214 37224	epigenetic
-T7086	CHEBI_GO_SO_EXT:enzyme 37311 37320	enzymatic
-T7087	SO_EXT:sequence_altered_entity 39418 39424	mutant
-T7088	SO_EXT:sequence_altered_entity 39581 39587	mutant
-T7089	SO_EXT:wild_type_entity_or_quality 40783 40792	wild - type
-T7090	SO_EXT:0001023 40793 40799	allele
-T7091	SO_EXT:normal_or_wild_type_or_present 40806 40809	+),
-T7092	SO_EXT:0001023 40831 40837	allele
-T7093	SO_EXT:0001023 40862 40868	allele
-T7094	SO_EXT:wild_type_entity_or_quality 40939 40948	wild - type
-T7095	SO_EXT:sequence_deletion_process 40949 40955	(+/+),
-T7096	SO_EXT:genotype_or_entity_with_genotype 41203 41212	genotypes
-T7097	SO_EXT:wild_type_entity_or_quality 41291 41300	wild - type
-T7098	SO_EXT:sequence_deletion_process 41301 41307	(+/+),
-T7099	SO_EXT:wild_type_entity_or_quality 41382 41391	wild - type
-T7100	SO_EXT:wild_type_entity_or_quality 41393 41395	WT
-T7101	SO_EXT:sequence_nullness_or_absence 41430 41433	-/-
-T7102	SO_EXT:wild_type_entity_or_quality 41507 41516	wild - type
-T7103	SO_EXT:wild_type_entity_or_quality 41518 41520	WT
-T7104	SO_EXT:sequence_nullness_or_absence 41539 41543	-/-,
-T7105	SO_EXT:sequence_nullness_or_absence 41551 41554	-/-
-T7106	SO_EXT:wild_type_entity_or_quality 41725 41734	wild - type
-T7107	SO_EXT:sequence_deletion_process 41735 41740	(+/+)
-T7108	SO_EXT:wild_type_entity_or_quality 41852 41861	wild - type
-T7109	SO_EXT:sequence_deletion_process 41862 41867	(+/+)
-T7110	SO_EXT:wild_type_entity_or_quality 42056 42065	wild - type
-T7111	SO_EXT:sequence_deletion_process 42066 42071	(+/+)
-T7112	SO_EXT:wild_type_entity_or_quality 42379 42388	wild - type
-T7113	SO_EXT:sequence_deletion_process 42389 42394	(+/+)
-T7114	SO_EXT:wild_type_entity_or_quality 43023 43032	wild type
-T7115	SO_EXT:sequence_deletion_process 43033 43038	(+/+)
-T7116	SO_EXT:wild_type_entity_or_quality 43396 43405	wild - type
-T7117	SO_EXT:sequence_deletion_process 43406 43411	(+/+)
-T7118	SO_EXT:wild_type_entity_or_quality 43695 43704	wild - type
-T7119	SO_EXT:sequence_deletion_process 43705 43710	(+/+)
-T7120	SO_EXT:wild_type_entity_or_quality 43978 43987	wild - type
-T7121	SO_EXT:sequence_deletion_process 43988 43993	(+/+)
-T7122	SO_EXT:wild_type_entity_or_quality 44227 44236	wild - type
-T7123	CHEBI_SO_EXT:deoxyribonucleotide 44306 44322	deoxynucleotidyl
-T7124	SO_EXT:sequence_alteration_process 44358 44366	Labeling
-T7125	SO_EXT:wild_type_entity_or_quality 44587 44596	wild - type
-T7126	SO_EXT:wild_type_entity_or_quality 44875 44884	wild - type
-T7127	SO_EXT:sequence_deletion_process 44885 44890	(+/+)
-T7128	SO_EXT:wild_type_entity_or_quality 45145 45154	wild - type
-T7129	SO_EXT:genotype_or_entity_with_genotype 46875 46883	genotype
+T15611	SO_EXT:biological_conservation_process_or_quality 281 290	conserved
+T15612	SO_EXT:sequence_alteration_entity_or_process 792 800	mutation
+T15613	SO_EXT:0000704 814 818	gene
+T15614	SO_EXT:transgenic_entity 845 855	transgenic
+T15615	SO_EXT:sequence_rescue_process 1503 1509	rescue
+T15616	SO_EXT:sequence_rescue_process 1776 1783	rescued
+T15617	CHEBI_GO_SO_EXT:enzyme 2355 2364	enzymatic
+T15618	CHEBI_SO_EXT:dinucleotide 2541 2553	dinucleotide
+T15619	SO_EXT:biological_conservation_process_or_quality 2664 2688	evolutionarily conserved
+T15620	SO_EXT:0001496 2760 2769	telomeric
+T15621	CHEBI_SO_EXT:DNA 2832 2835	DNA
+T15622	GO_SO_EXT:sequence_rearrangement_process 2836 2849	recombination
+T15623	SO_EXT:sequence_copy_entity 2884 2888	copy
+T15624	SO_EXT:biological_conservation_process_or_quality 3356 3380	evolutionarily conserved
+T15625	SO_EXT:0000704 3690 3695	genes
+T15626	SO_EXT:biological_conservation_process_or_quality 3722 3731	conserved
+T15627	SO_EXT:0000704 4357 4362	genes
+T15628	SO_EXT:sequence_repeat_unit_or_region 6617 6623	repeat
+T15629	SO_EXT:engineered_biological_sequence 7254 7263	construct
+T15630	SO_EXT:sequence_alteration_entity_or_process 7335 7343	mutation
+T15631	SO_EXT:0000704 7357 7361	gene
+T15632	SO_EXT:transgenic_entity 7449 7459	transgenic
+T15633	SO_EXT:sequence_deletion_entity_or_process 7514 7522	deletion
+T15634	SO_EXT:0000147 7526 7530	exon
+T15635	SO_EXT:0000704 7546 7550	gene
+T15636	SO_EXT:wild_type_entity_or_quality 8004 8013	wild-type
+T15637	SO_EXT:0000704 8044 8048	gene
+T15638	SO_EXT:0000112 8061 8068	primers
+T15639	SO_EXT:0000112 8076 8082	primer
+T15640	SO_EXT:0001465 8110 8115	5' ko
+T15641	SO_EXT:0000112 8116 8122	primer
+T15642	SO_EXT:0000132 8149 8158	3' primer
+T15643	SO_EXT:sequence_linearization 10468 10475	labeled
+T15644	CHEBI_SO_EXT:molecular_probe 10789 10795	Probes
+T15645	CHEBI_SO_EXT:molecular_probe 10837 10842	Probe
+T15646	SO_EXT:sequence_altered_entity 11633 11639	mutant
+T15647	SO_EXT:sequence_insertion_entity_or_process 11672 11681	insertion
+T15648	SO_EXT:sequence_alteration_entity_or_process 11682 11690	mutation
+T15649	SO_EXT:0000704 11717 11721	gene
+T15650	SO_EXT:0000346 11726 11729	lox
+T15651	SO_EXT:biological_sequence 11730 11739	sequences
+T15652	SO_EXT:0000704 11753 11757	gene
+T15653	SO:0000357 11758 11766	flanking
+T15654	SO_EXT:0000147 11767 11771	exon
+T15655	SO_EXT:sequence_coding_function 11779 11786	encodes
+T15656	SO_EXT:biological_conservation_process_or_quality 11789 11798	conserved
+T15657	SO_EXT:sequence_or_structure_motif 11804 11809	motif
+T15658	SO_EXT:sequence_alteration_entity_or_process 11827 11835	mutation
+T15659	SO_EXT:wild_type_entity_or_quality 11979 11988	wild-type
+T15660	SO_EXT:0001023 12019 12025	allele
+T15661	SO_EXT:0001023 12044 12050	allele
+T15662	SO_EXT:transgenic_entity 12094 12104	transgenic
+T15663	SO_EXT:genotype_or_entity_with_genotype 12175 12183	genotype
+T15664	SO_EXT:0000902 12215 12224	transgene
+T15665	SO_EXT:sequence_deletion_entity_or_process 12239 12247	deletion
+T15666	SO_EXT:0000147 12251 12255	exon
+T15667	SO_EXT:0001023 12333 12339	allele
+T15668	SO_EXT:sequence_alteration_entity_or_process 12393 12401	mutation
+T15669	SO_EXT:wild_type_entity_or_quality 12451 12460	wild-type
+T15670	SO_EXT:sequence_deletion_entity_or_process 12520 12528	deletion
+T15671	SO_EXT:sequence_alteration_entity_or_process 12529 12537	mutation
+T15672	SO_EXT:sequence_altered_entity 12738 12744	mutant
+T15673	SO_EXT:sequence_deletion_entity_or_process 12772 12780	deletion
+T15674	SO_EXT:0000147 12784 12788	exon
+T15675	SO_EXT:sequence_altered_entity 12815 12821	mutant
+T15676	SO_EXT:wild_type_entity_or_quality 12925 12934	wild-type
+T15677	SO_EXT:sequence_nullness 13003 13007	null
+T15678	CHEBI_SO_EXT:DNA 13319 13322	DNA
+T15679	CHEBI_SO_EXT:DNA 13735 13738	DNA
+T15680	GO_SO_EXT:chromosome 13789 13799	chromosome
+T15681	SO_EXT:wild_type_entity_or_quality 13978 13987	wild-type
+T15682	CHEBI_SO_EXT:DNA 14279 14282	DNA
+T15683	SO_EXT:wild_type_entity_or_quality 15426 15435	wild-type
+T15684	SO_EXT:wild_type_entity_or_quality 16226 16235	wild-type
+T15685	SO_EXT:wild_type_entity_or_quality 16929 16938	wild-type
+T15686	SO_EXT:sequence_rescue_process 17041 17047	rescue
+T15687	SO_EXT:wild_type_entity_or_quality 17385 17394	wild-type
+T15688	SO_EXT:wild_type_entity_or_quality 17870 17879	wild-type
+T15689	SO_EXT:wild_type_entity_or_quality 18266 18275	wild-type
+T15690	SO_EXT:wild_type_entity_or_quality 18540 18549	wild-type
+T15691	SO_EXT:wild_type_entity_or_quality 18706 18715	wild-type
+T15692	SO_EXT:sequence_rescue_process 18853 18859	rescue
+T15693	SO_EXT:sequence_linearization 19663 19671	labeling
+T15694	CHEBI_SO_EXT:deoxyribonucleotide 19696 19712	deoxynucleotidyl
+T15695	SO_EXT:sequence_alteration_process 19748 19756	Labeling
+T15696	SO_EXT:wild_type_entity_or_quality 20153 20162	wild-type
+T15697	SO_EXT:wild_type_entity_or_quality 21235 21244	wild-type
+T15698	SO_EXT:wild_type_entity_or_quality 21305 21314	wild-type
+T15699	SO_EXT:sequence_rescue_process 21440 21447	rescued
+T15700	SO_EXT:wild_type_entity_or_quality 21588 21597	wild-type
+T15701	SO_EXT:sequence_alteration_entity_or_process 22332 22341	mutations
+T15702	SO_EXT:0000704 23710 23715	genes
+T15703	SO_EXT:sequence_coding_function 23734 23740	encode
+T15704	SO_EXT:wild_type_entity_or_quality 24082 24091	wild-type
+T15705	SO_EXT:0000704 24981 24985	gene
+T15706	SO_EXT:wild_type_entity_or_quality 25577 25586	wild-type
+T15707	SO_EXT:wild_type_entity_or_quality 26383 26392	wild-type
+T15708	SO_EXT:0001060 26774 26782	isoforms
+T15709	SO_EXT:sequence_upstreamness 27691 27699	upstream
+T15710	SO_EXT:sequence_downstreamness 27720 27730	downstream
+T15711	SO_EXT:0000704 28106 28110	gene
+T15712	SO_EXT:biological_conservation_process_or_quality 28294 28318	evolutionarily conserved
+T15713	SO_EXT:sequence_alteration_entity_or_process 28882 28891	mutations
+T15714	SO_EXT:0000704 28930 28934	gene
+T15715	SO_EXT:biological_conservation_process_or_quality 29232 29241	conserved
+T15716	SO_EXT:0000704 29483 29488	genes
+T15717	SO_EXT:0000704 30074 30079	genes
+T15718	SO_EXT:0000167 30797 30805	promoter
+T15719	SO_EXT:0000704 30821 30825	gene
+T15720	SO_EXT:transgenic_entity 31338 31348	transgenic
+T15721	SO_EXT:wild_type_entity_or_quality 31666 31675	wild-type
+T15722	SO_EXT:0000704 32394 32401	genetic
+T15723	SO_EXT:sequence_alteration_entity_or_process 32402 32411	mutations
+T15724	SO_EXT:sequence_rescue_process 33195 33201	rescue
+T15725	SO_EXT:sequence_rescue_process 33395 33401	rescue
+T15726	SO_EXT:0000236 34514 34519	marks
+T15727	SO_EXT:sequence_alteration_entity_or_process 36160 36169	mutations
+T15728	SO_EXT:sequence_substitution_entity_or_process 36353 36364	replacement
+T15729	SO_EXT:epigenetic_modification_entity_or_process 37214 37224	epigenetic
+T15730	CHEBI_GO_SO_EXT:enzyme 37311 37320	enzymatic
+T15731	SO_EXT:sequence_altered_entity 39418 39424	mutant
+T15732	SO_EXT:sequence_altered_entity 39581 39587	mutant
+T15733	SO_EXT:wild_type_entity_or_quality 40783 40792	wild-type
+T15734	SO_EXT:0001023 40793 40799	allele
+T15735	SO_EXT:0001456 40806 40809	+),
+T15736	SO_EXT:0001023 40831 40837	allele
+T15737	SO_EXT:0001023 40862 40868	allele
+T15738	SO_EXT:wild_type_entity_or_quality 40939 40948	wild-type
+T15739	SO_EXT:0001084 40949 40955	(+/+),
+T15740	SO_EXT:genotype_or_entity_with_genotype 41203 41212	genotypes
+T15741	SO_EXT:wild_type_entity_or_quality 41291 41300	wild-type
+T15742	SO_EXT:0001084 41301 41307	(+/+),
+T15743	SO_EXT:wild_type_entity_or_quality 41382 41391	wild-type
+T15744	SO_EXT:wild_type_entity_or_quality 41393 41395	WT
+T15745	SO_EXT:sequence_nullness 41430 41433	-/-
+T15746	SO_EXT:wild_type_entity_or_quality 41507 41516	wild-type
+T15747	SO_EXT:wild_type_entity_or_quality 41518 41520	WT
+T15748	SO_EXT:0001349 41539 41543	-/-,
+T15749	SO_EXT:sequence_nullness 41551 41554	-/-
+T15750	SO_EXT:wild_type_entity_or_quality 41725 41734	wild-type
+T15751	SO_EXT:0001084 41735 41740	(+/+)
+T15752	SO_EXT:wild_type_entity_or_quality 41852 41861	wild-type
+T15753	SO_EXT:0001084 41862 41867	(+/+)
+T15754	SO_EXT:wild_type_entity_or_quality 42056 42065	wild-type
+T15755	SO_EXT:0001084 42066 42071	(+/+)
+T15756	SO_EXT:wild_type_entity_or_quality 42379 42388	wild-type
+T15757	SO_EXT:0001084 42389 42394	(+/+)
+T15758	SO_EXT:wild_type_entity_or_quality 43023 43032	wild type
+T15759	SO_EXT:0001084 43033 43038	(+/+)
+T15760	SO_EXT:wild_type_entity_or_quality 43396 43405	wild-type
+T15761	SO_EXT:0001084 43406 43411	(+/+)
+T15762	SO_EXT:wild_type_entity_or_quality 43695 43704	wild-type
+T15763	SO_EXT:0001084 43705 43710	(+/+)
+T15764	SO_EXT:wild_type_entity_or_quality 43978 43987	wild-type
+T15765	SO_EXT:0001084 43988 43993	(+/+)
+T15766	SO_EXT:wild_type_entity_or_quality 44227 44236	wild-type
+T15767	CHEBI_SO_EXT:deoxyribonucleotide 44306 44322	deoxynucleotidyl
+T15768	SO_EXT:sequence_alteration_process 44358 44366	Labeling
+T15769	SO_EXT:wild_type_entity_or_quality 44587 44596	wild-type
+T15770	SO_EXT:wild_type_entity_or_quality 44875 44884	wild-type
+T15771	SO_EXT:0001084 44885 44890	(+/+)
+T15772	SO_EXT:wild_type_entity_or_quality 45145 45154	wild-type
+T15773	SO_EXT:genotype_or_entity_with_genotype 46875 46883	genotype

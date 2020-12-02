@@ -1,20 +1,20 @@
-T972	GO_EXT:transcription_factor 937 957	transcription factor
-T973	GO_EXT:transcription_factor 2198 2218	transcription factor
-T974	GO_EXT:transcription_factor 5723 5743	transcription factor
-T975	GO_EXT:transcription_factor 5895 5915	transcription factor
-T976	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 7535 7542	binding
-T977	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 8889 8896	binding
-T978	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 8953 8960	binding
-T979	GO_EXT:transcription_factor 22716 22736	transcription factor
-T980	GO_EXT:transcription_factor 23724 23744	transcription factor
-T981	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 23892 23896	bind
-T982	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 24230 24237	binding
-T983	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 24825 24832	binding
-T984	GO_EXT:transcription_factor 26021 26041	transcription factor
-T985	GO_EXT:0005220 26466 26503	inositol triphosphate type 2 receptor
-T986	GO_EXT:0004872 26613 26621	receptor
-T987	GO_EXT:0004872 27919 27927	receptor
-T988	GO_EXT:0004887 28547 28563	MAPK phosphatase
-T989	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 29287 29294	binding
-T990	GO_EXT:0005125 29642 29650	cytokine
-T991	GO_EXT:0004601 36142 36152	peroxidase
+T2600	GO_EXT:transcription_factor 937 957	transcription factor
+T2601	GO_EXT:transcription_factor 2198 2218	transcription factor
+T2602	GO_EXT:transcription_factor 5723 5743	transcription factor
+T2603	GO_EXT:transcription_factor 5895 5915	transcription factor
+T2604	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 7535 7542	binding
+T2605	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 8889 8896	binding
+T2606	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 8953 8960	binding
+T2607	GO_EXT:transcription_factor 22716 22736	transcription factor
+T2608	GO_EXT:transcription_factor 23724 23744	transcription factor
+T2609	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 23892 23896	bind
+T2610	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 24230 24237	binding
+T2611	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 24825 24832	binding
+T2612	GO_EXT:transcription_factor 26021 26041	transcription factor
+T2613	GO_EXT:0005220 26466 26503	inositol triphosphate type 2 receptor
+T2614	GO_EXT:0004872 26613 26621	receptor
+T2615	GO_EXT:0004872 27919 27927	receptor
+T2616	GO_EXT:0004887 28547 28563	MAPK phosphatase
+T2617	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 29287 29294	binding
+T2618	GO_EXT:0005125 29642 29650	cytokine
+T2619	GO_EXT:0004601 36142 36152	peroxidase

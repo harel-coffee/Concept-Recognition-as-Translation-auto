@@ -1,7 +1,7 @@
 T961	GO_EXT:transcription_factor 203 223	transcription factor
 T962	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 1745 1752	binding
 T963	GO_EXT:0004402 1924 1949	histone acetyltransferase
-T964	GO_EXT:0003712 1954 1982	transcriptional co - activator
+T964	GO_EXT:0003712 1954 1982	transcriptional co-activator
 T965	GO_EXT:0004886 4805 4807	RT
 T966	GO_EXT:0004886 5036 5038	RT
 T967	GO_EXT:0004886 5079 5081	RT

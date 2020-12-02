@@ -1,5 +1,5 @@
 T627	GO_EXT:0004366 0 14	GABAA receptor
-T628	GO_EXT:0004357 151 191	Gamma - aminobutyric acid type A receptors
+T628	GO_EXT:0004357 151 191	Gamma-aminobutyric acid type A receptors
 T629	GO_EXT:0004366 193 198	GABAA
 T630	GO_EXT:0004175 217 237	inhibitory receptors
 T631	GO_EXT:0005267 348 359	anesthetics
@@ -9,7 +9,7 @@ T634	CHEBI_GO_EXT:ligand 1746 1753	ligands
 T635	CHEBI_GO_EXT:ligand 2279 2286	ligands
 T636	GO_EXT:0004175 2531 2551	inhibitory receptors
 T637	CHEBI_GO_EXT:ligand 2764 2770	ligand
-T638	GO_PR_EXT:phosphoenolpyruvate_carboxykinase 2771 2776	...gated
+T638	GO_PR_EXT:gua2ylate_kinase 2771 2776	gated
 T639	GO_EXT:0005216 2777 2789	ion channels
 T640	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 3954 3961	binding
 T641	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 4016 4023	binding

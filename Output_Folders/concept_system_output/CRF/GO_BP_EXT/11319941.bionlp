@@ -1,47 +1,47 @@
-T0	GO:0065007 63 71	modulate
-T1	GO:0065007 157 167	modulating
-T2	GO_EXT:biological_recruitment 168 173	motor
-T3	GO:0050890 194 203	cognitive
-T4	GO:0065007 355 363	modulate
-T5	GO:0065007 1629 1637	modulate
-T6	GO:0065007 1777 1787	modulating
-T7	GO_EXT:biological_recruitment 1788 1793	motor
-T8	GO:0050890 1814 1823	cognitive
-T9	GO:0010467 2164 2179	gene expression
-T10	GO_EXT:biological_recruitment 2393 2398	motor
-T11	GO:0050890 2426 2435	cognition
-T12	GO:0007631 2557 2565	movement
-T13	GO:0060033 2661 2668;2669 2686	control ... proliferation
-T14	GO_RO_EXT:developmental_differentiation_process 2688 2703	differentiation
-T15	GO:0042755 2799 2816	adaptive behavior
-T16	GO:0065007 2991 2999	modulate
-T17	GO:0021537 4047 4072	telencephalic development
-T18	GO:0008283 4130 4143	proliferation
-T19	GO_RO_EXT:developmental_differentiation_process 4148 4163	differentiation
-T20	GO:0065007 4385 4394	modulated
-T21	GO_SO_EXT:sequence_rearrangement_process 12016 12027	recombinant
-T22	GO:0065007 13608 13616	modulate
-T23	GO:0065007 15664 15675	controlling
-T24	GO_SO_EXT:sequence_rearrangement_process 18585 18596	recombinant
-T25	GO:0065007 18752 18758	govern
-T26	GO:0065007 18989 18998	regulated
-T27	GO:0065007 19936 19945	modulates
-T28	GO_SO_EXT:sequence_rearrangement_process 20388 20399	recombinant
-T29	GO_SO_EXT:sequence_rearrangement_process 20709 20723	recombinations
-T30	GO:0010467 21232 21247	gene expression
-T31	GO:0007420 21709 21726	brain development
-T32	GO:0065007 21846 21856	modulating
-T33	GO_EXT:negative_regulation 21944 21957	down - regulate
-T34	GO:0010467 22418 22427	expressed
-T35	GO:0007420 22457 22474	brain development
-T36	GO:0065007 22517 22527	modulating
-T37	GO:0021537 22693 22718	telencephalic development
-T38	GO:0000267 22832 22841	localized
-T39	GO:0010467 22903 22912	expressed
-T40	GO:0009790 22936 22949	embryogenesis
-T41	GO:0007411 23000 23013	axon guidance
-T42	GO_SO_EXT:sequence_rearrangement_process 24973 24984	recombinant
-T43	GO:0065007 25189 25197	modulate
-T44	GO:0065007 25782 25790	modulate
-T45	GO_SO_EXT:sequence_rearrangement_process 25911 25922	recombinant
-T46	GO:0060074 31121 31132	transferred
+T5892	GO:0065007 63 71	modulate
+T5893	GO:0065007 157 167	modulating
+T5894	GO:0065007 168 173	motor
+T5895	GO:0050890 194 203	cognitive
+T5896	GO:0065007 355 363	modulate
+T5897	GO:0065007 1629 1637	modulate
+T5898	GO:0065007 1777 1787	modulating
+T5899	GO:0065007 1788 1793	motor
+T5900	GO:0050890 1814 1823	cognitive
+T5901	GO:0010467 2164 2179	gene expression
+T5902	GO:0065007 2393 2398	motor
+T5903	GO:0050890 2426 2435	cognition
+T5904	GO:0007114 2557 2565	movement
+T5905	GO:1902003 2661 2668;2673 2686	control ... proliferation
+T5906	GO_RO_EXT:developmental_differentiation_process 2688 2703	differentiation
+T5907	GO:0042755 2799 2816	adaptive behavior
+T5908	GO:0065007 2991 2999	modulate
+T5909	GO:0022032 4047 4072	telencephalic development
+T5910	GO:0008283 4130 4143	proliferation
+T5911	GO_RO_EXT:developmental_differentiation_process 4148 4163	differentiation
+T5912	GO:0065007 4385 4394	modulated
+T5913	GO_SO_EXT:sequence_rearrangement_process 12016 12027	recombinant
+T5914	GO:0065007 13608 13616	modulate
+T5915	GO:0065007 15664 15675	controlling
+T5916	GO_SO_EXT:sequence_rearrangement_process 18585 18596	recombinant
+T5917	GO:0065007 18752 18758	govern
+T5918	GO:0065007 18989 18998	regulated
+T5919	GO:0065007 19936 19945	modulates
+T5920	GO_SO_EXT:sequence_rearrangement_process 20388 20399	recombinant
+T5921	GO_SO_EXT:sequence_rearrangement_process 20709 20723	recombinations
+T5922	GO:0010467 21232 21247	gene expression
+T5923	GO:0007420 21709 21726	brain development
+T5924	GO:0065007 21846 21856	modulating
+T5925	GO_EXT:negative_regulation 21944 21957	down-regulate
+T5926	GO:0010467 22418 22427	expressed
+T5927	GO:0007420 22457 22474	brain development
+T5928	GO:0065007 22517 22527	modulating
+T5929	GO:0022032 22693 22718	telencephalic development
+T5930	GO:0009566 22832 22841	localized
+T5931	GO:0010467 22903 22912	expressed
+T5932	GO:0009790 22936 22949	embryogenesis
+T5933	GO:0007411 23000 23013	axon guidance
+T5934	GO_SO_EXT:sequence_rearrangement_process 24973 24984	recombinant
+T5935	GO:0065007 25189 25197	modulate
+T5936	GO:0065007 25782 25790	modulate
+T5937	GO_SO_EXT:sequence_rearrangement_process 25911 25922	recombinant
+T5938	GO:0009294 31121 31132	transferred

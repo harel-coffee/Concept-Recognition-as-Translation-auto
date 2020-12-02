@@ -1,7 +1,7 @@
-T401	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 4850 4855	bound
-T402	GO_EXT:0008236 9632 9657	late - anaphase – telophase
-T403	GO_EXT:0016301 10331 10339	anaphase
-T404	GO_EXT:0008234 10410 10419	telophase
-T405	GO_EXT:polymerase 28367 28377	Polymerase
-T406	GO_EXT:phosphoglycerate_kinase 29556 29559	PGK
-T407	GO:0097617 31554 31565	hybridizing
+T2029	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 4850 4855	bound
+T2030	GO_EXT:0008236 9632 9657	late-anaphase – telophase
+T2031	GO_EXT:0016301 10331 10339	anaphase
+T2032	GO_EXT:0008234 10410 10419	telophase
+T2033	GO_EXT:polymerase 28367 28377	Polymerase
+T2034	GO_EXT:phosphoglycerate_kinase 29556 29559	PGK
+T2035	GO:0097617 31554 31565	hybridizing

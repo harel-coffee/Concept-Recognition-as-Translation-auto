@@ -1,63 +1,63 @@
-T1723	GO:0016265 217 222	death
-T1724	GO:0023051 308 326	signaling pathways
-T1725	GO:0007507 343 360	heart development
-T1726	GO:0007507 990 1009	cardiac development
-T1727	GO:0016265 1433 1438	death
-T1728	GO:0007620 3030 3036	coitum
-T1729	GO:0007565 3161 3170	gestation
-T1730	CHEBI_GO_EXT:biological_process_or_quality_or_role 3631 3638	biology
-T1731	GO_EXT:breeding 5579 5587	breeding
-T1732	GO:0065007 6194 6205	controlling
-T1733	GO:0009050 6417 6424;6425 6428	cardiac ...
-T1734	GO:0048538 6429 6447	thymus development
-T1735	GO:0048513 11763 11770	genesis
-T1736	GO:0048513 11997 12010	organogenesis
-T1737	GO_EXT:fatality_or_lethality 14514 14523	lethality
-T1738	GO:0048468 14809 14820;14821 14824	development ...
-T1739	GO:0030154 14825 14843;14844 14859;14860 14866	differentiation of ... organs ...
-T1740	GO:0009790 14867 14880	embryogenesis
-T1741	GO:0007567 14941 14950	perinatal
-T1742	GO_EXT:fatality_or_lethality 14951 14960	lethality
-T1743	GO_EXT:biological_growth_entity_or_process 14962 14968	growth
-T1744	GO_RO_EXT:developmental_differentiation_process 15016 15031	differentiation
-T1745	GO:0009790 15081 15094	embryogenesis
-T1746	GO:0030097 15178 15192	haematopoietic
-T1747	GO:0007567 15326 15335	perinatal
-T1748	GO_EXT:fatality_or_lethality 15336 15345	lethality
-T1749	GO_EXT:breeding 16695 16703	breeding
-T1750	GO_EXT:biological_growth_entity_or_process 17205 17211	growth
-T1751	GO:0010467 22506 22516	expression
-T1752	GO:0007507 22542 22559	heart development
-T1753	GO:0010467 22727 22737	expression
-T1754	GO_RO_EXT:developmental_differentiation_process 22966 22981	differentiation
-T1755	GO_RO_EXT:developmental_differentiation_process 23120 23135	differentiation
-T1756	GO:0060976 23254 23280	cardiovascular development
-T1757	GO_RO_EXT:developmental_differentiation_process 23310 23325	differentiation
-T1758	GO:0010467 23356 23366	expression
-T1759	GO:0010467 23514 23524	expression
-T1760	GO:0010467 23640 23650	expression
-T1761	GO:0010467 23715 23725	expression
-T1762	GO:0007565 24285 24294	gestation
-T1763	GO:0007565 24386 24395	gestation
-T1764	GO:0007565 24478 24487	gestation
-T1765	GO:0007567 25114 25123	perinatal
-T1766	GO_EXT:fatality_or_lethality 25124 25133	lethality
-T1767	GO:0007565 25174 25185	gestational
-T1768	GO_EXT:fatality_or_lethality 25186 25195	lethality
-T1769	GO_EXT:breeding 25852 25860	breeding
-T1770	GO:0007565 26033 26042	gestation
-T1771	GO:0007507 27477 27494	heart development
-T1772	GO:0065007 27608 27619	controlling
-T1773	GO:0048538 27677 27695	thymus development
-T1774	GO:0009050 27771 27778;27779 27782	cardiac ...
-T1775	GO:0048538 27783 27801	thymus development
-T1776	GO:0043277 27946 27974	clearance of apoptotic cells
-T1777	GO:0006915 28012 28021	apoptosis
-T1778	GO:0043277 28036 28060	apoptotic cell clearance
-T1779	GO:0007507 28101 28118	heart development
-T1780	GO_PATO_EXT:apoptotic_process_or_quality 28179 28188	apoptotic
-T1781	GO:0043277 28320 28344	apoptotic cell clearance
-T1782	GO:0007507 29112 29131	cardiac development
-T1783	GO:0007507 29225 29242	heart development
-T1784	GO:0007507 29599 29618	cardiac development
-T1785	GO:0010467 32612 32622	Expression
+T1721	GO:0016265 217 222	death
+T1722	GO:0007223 308 326	signaling pathways
+T1723	GO:0007507 343 360	heart development
+T1724	GO:0007507 990 1009	cardiac development
+T1725	GO:0016265 1433 1438	death
+T1726	GO:0007620 3030 3036	coitum
+T1727	GO:0007565 3161 3170	gestation
+T1728	CHEBI_GO_EXT:biological_process_or_quality_or_role 3631 3638	biology
+T1729	GO_EXT:breeding 5579 5587	breeding
+T1730	GO:0065007 6194 6205	controlling
+T1731	GO:0006936 6417 6424	cardiac ...
+T1732	GO:0048538 6429 6447	thymus development
+T1733	GO:0042476 11763 11770	genesis
+T1734	GO:0048513 11997 12010	organogenesis
+T1735	GO_EXT:fatality_or_lethality 14514 14523	lethality
+T1736	GO:0048468 14809 14820	development ...
+T1737	GO:0043054 14825 14843;14853 14859;	differentiation of ... organs ...
+T1738	GO:0009790 14867 14880	embryogenesis
+T1739	GO:0099503 14941 14950	perinatal
+T1740	GO_EXT:fatality_or_lethality 14951 14960	lethality
+T1741	GO_EXT:biological_growth_entity_or_process 14962 14968	growth
+T1742	GO_RO_EXT:developmental_differentiation_process 15016 15031	differentiation
+T1743	GO:0009790 15081 15094	embryogenesis
+T1744	GO:0030097 15178 15192	haematopoietic
+T1745	GO:0099503 15326 15335	perinatal
+T1746	GO_EXT:fatality_or_lethality 15336 15345	lethality
+T1747	GO_EXT:breeding 16695 16703	breeding
+T1748	GO_EXT:biological_growth_entity_or_process 17205 17211	growth
+T1749	GO:0010467 22506 22516	expression
+T1750	GO:0007507 22542 22559	heart development
+T1751	GO:0010467 22727 22737	expression
+T1752	GO_RO_EXT:developmental_differentiation_process 22966 22981	differentiation
+T1753	GO_RO_EXT:developmental_differentiation_process 23120 23135	differentiation
+T1754	GO:0060976 23254 23280	cardiovascular development
+T1755	GO_RO_EXT:developmental_differentiation_process 23310 23325	differentiation
+T1756	GO:0010467 23356 23366	expression
+T1757	GO:0010467 23514 23524	expression
+T1758	GO:0010467 23640 23650	expression
+T1759	GO:0010467 23715 23725	expression
+T1760	GO:0007565 24285 24294	gestation
+T1761	GO:0007565 24386 24395	gestation
+T1762	GO:0007565 24478 24487	gestation
+T1763	GO:0099503 25114 25123	perinatal
+T1764	GO_EXT:fatality_or_lethality 25124 25133	lethality
+T1765	GO:0007565 25174 25185	gestational
+T1766	GO_EXT:fatality_or_lethality 25186 25195	lethality
+T1767	GO_EXT:breeding 25852 25860	breeding
+T1768	GO:0007565 26033 26042	gestation
+T1769	GO:0007507 27477 27494	heart development
+T1770	GO:0065007 27608 27619	controlling
+T1771	GO:0048538 27677 27695	thymus development
+T1772	GO:0006936 27771 27778	cardiac ...
+T1773	GO:0048538 27783 27801	thymus development
+T1774	GO:0043277 27946 27974	clearance of apoptotic cells
+T1775	GO:0006915 28012 28021	apoptosis
+T1776	GO:0043277 28036 28060	apoptotic cell clearance
+T1777	GO:0007507 28101 28118	heart development
+T1778	GO_PATO_EXT:apoptotic_process_or_quality 28179 28188	apoptotic
+T1779	GO:0043277 28320 28344	apoptotic cell clearance
+T1780	GO:0007507 29112 29131	cardiac development
+T1781	GO:0007507 29225 29242	heart development
+T1782	GO:0007507 29599 29618	cardiac development
+T1783	GO:0010467 32612 32622	Expression

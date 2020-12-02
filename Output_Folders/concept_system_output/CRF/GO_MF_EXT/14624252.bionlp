@@ -1,137 +1,137 @@
-T47	GO_EXT:0004872 25 33	Receptor
-T48	GO_EXT:0008083 130 154	growth factor β receptor
-T49	GO_EXT:0004714 260 284	receptor tyrosine kinase
-T50	GO_EXT:0004872 402 410	receptor
-T51	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 499 506	binding
-T52	GO_EXT:0004872 697 705	receptor
-T53	GO_EXT:0004872 795 803	receptor
-T54	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 945 952	binding
-T55	GO_EXT:0004714 1310 1335	receptor tyrosine kinases
-T56	GO_EXT:0004872 1436 1445	receptors
-T57	GO_EXT:0004872 1726 1734	receptor
-T58	GO_EXT:0004872 1816 1824	receptor
-T59	GO_EXT:0004872 2110 2118	receptor
-T60	GO_EXT:0004872 2329 2338	receptors
-T61	GO_EXT:0008083 2761 2774	growth factor
-T62	GO_EXT:0004872 2775 2783	receptor
-T63	GO_EXT:0016301 2860 2866	kinase
-T64	GO_EXT:0016301 2889 2895	kinase
-T65	GO_EXT:0004872 3089 3097	receptor
-T66	GO_EXT:0008083 3200 3222	growth factor receptor
-T67	CHEBI_GO_EXT:ligand 3345 3351	ligand
-T68	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 3352 3359	binding
-T69	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 3494 3501	binding
-T70	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 3940 3944	bind
-T71	GO_EXT:0004629 4393 4420	phosphotyrosine phosphatase
-T72	GO_EXT:0004629 4502 4515	phospholipase
-T73	GO_EXT:0004872 4906 4914	receptor
-T74	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 5864 5871	binding
-T75	GO_EXT:0004872 5885 5893	receptor
-T76	GO_EXT:0004872 6497 6505	receptor
-T77	GO_EXT:0004872 6850 6858	receptor
-T78	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 7446 7453	binding
-T79	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 7647 7654	binding
-T80	GO_EXT:0016301 8288 8294	kinase
-T81	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 8326 8333	binding
-T82	GO_EXT:0004872 8404 8412	receptor
-T83	GO_EXT:0016301 8416 8422	kinase
-T84	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 8494 8498	bind
-T85	CHEBI_GO_EXT:ligand 8499 8505	ligand
-T86	GO_EXT:0004872 8518 8526	receptor
-T87	GO_EXT:0016301 8836 8842	kinase
-T88	GO_EXT:0004872 8897 8905	receptor
-T89	GO_EXT:0016301 8940 8946	kinase
-T90	GO_EXT:0008083 9003 9025	growth factor receptor
-T91	GO_EXT:0004565 9389 9404	β - galactosidase
-T92	GO_EXT:0004872 15461 15469	receptor
-T93	GO_EXT:0004872 15968 15976	receptor
-T94	GO_EXT:0004872 16335 16343	receptor
-T95	GO_EXT:0004872 18082 18090	receptor
-T96	GO_EXT:0004872 20103 20111	receptor
-T97	GO_EXT:0016301 20208 20214	kinase
-T98	GO_EXT:0004872 20231 20239	receptor
-T99	GO_EXT:0016301 20430 20436	kinase
-T100	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 20498 20505	binding
-T101	GO_EXT:0004872 20633 20642	receptors
-T102	GO_EXT:0004872 20825 20834	receptors
-T103	CHEBI_GO_EXT:ligand 21388 21394	ligand
-T104	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 21947 21954	binding
-T105	GO_MOP_EXT:catalysis 22194 22203	catalytic
-T106	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 22478 22485	binding
-T107	GO_EXT:0004784 22675 22697	signal - related kinases
-T108	GO_EXT:0004872 22924 22932	receptor
-T109	GO_EXT:0004872 23206 23214	receptor
-T110	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 23345 23352	binding
-T111	GO_EXT:0004872 23365 23373	receptor
-T112	GO_EXT:0004872 23491 23499	receptor
-T113	GO_EXT:0004872 23536 23545	receptors
-T114	GO_EXT:0016301 23639 23645	kinase
-T115	GO_EXT:0016015 24244 24254	morphogens
-T116	GO_EXT:0004872 24481 24489	receptor
-T117	GO_EXT:0004872 24773 24781	receptor
-T118	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 25737 25744	binding
-T119	GO_EXT:0004872 25791 25799	receptor
-T120	GO_EXT:0016301 25848 25854	kinase
-T121	GO_EXT:0004872 26096 26104	receptor
-T122	GO_EXT:0016301 26116 26122	kinase
-T123	GO_EXT:0004872 26402 26410	receptor
-T124	GO_EXT:0004872 26568 26576	receptor
-T125	GO_EXT:0016301 26604 26610	kinase
-T126	GO_EXT:0004872 26661 26669	receptor
-T127	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 27182 27186	bind
-T128	GO_EXT:0004872 27526 27534	receptor
-T129	GO_EXT:0004872 28514 28522	receptor
-T130	GO_EXT:0004872 30015 30023	receptor
-T131	GO_EXT:0004872 30323 30331	receptor
-T132	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 30372 30379	binding
-T133	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 30485 30492	binding
-T134	GO_EXT:0004872 30660 30668	receptor
-T135	GO_EXT:0004872 30732 30740	receptor
-T136	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 30955 30962	binding
-T137	GO_EXT:0004872 31002 31010	receptor
-T138	GO_EXT:0016301 31034 31040	kinase
-T139	GO_EXT:0016301 31111 31117	kinase
-T140	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 31149 31156	binding
-T141	GO_EXT:0004872 31178 31186	receptor
-T142	GO_EXT:0004872 31288 31297	receptors
-T143	GO_PR_EXT:low_density_lipoprotein_receptor 31544 31576	low - density lipoprotein receptor
-T144	GO_EXT:0016301 32249 32255	kinase
-T145	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 32376 32383	binding
-T146	CHEBI_GO_EXT:ligand 34143 34149	ligand
-T147	GO_EXT:0004872 34727 34735	receptor
-T148	GO_EXT:0004872 34849 34857	receptor
-T149	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 35977 35984	binding
-T150	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 36068 36075	binding
-T151	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 36366 36373	binding
-T152	GO_EXT:phosphoglycerate_kinase 36554 36557	PGK
-T153	GO_EXT:0008910 36558 36561	neo
-T154	GO_EXT:0004565 37793 37808	β - galactosidase
-T155	GO_EXT:0004872 39701 39709	Receptor
-T156	GO_EXT:0016301 40814 40820	kinase
-T157	GO_PR_EXT:short_chain_acyl_CoA_dehydrogenase 41738 41759	signal - related kinase
-T158	GO_EXT:0016301 41819 41825	kinase
-T159	GO_PR_EXT:MAP_kinase 41828 41860	mitogen - activated protein kinase
-T160	GO_EXT:0008083 41920 41933	growth factor
-T161	GO_PR_EXT:protein_disulfide_isomerase 41935 41940	PDGFR
-T162	GO_EXT:0008083 41960 41982	growth factor receptor
-T163	GO_EXT:0004396 42015 42043	kinase PLCγ - phospholipase
-T164	GO_EXT:0004714 42054 42078	receptor tyrosine kinase
-T165	GO_EXT:0016301 42097 42103	kinase
-T166	GO_EXT:0004629 42164 42191	phosphotyrosine phosphatase
-T167	GO_EXT:0004871 42230 42247	signal transducer
-T168	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 42537 42544	binding
-T169	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 42647 42654	binding
-T170	GO_EXT:0016301 42709 42715	kinase
-T171	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 42882 42889	binding
-T172	GO_EXT:phosphoglycerate_kinase 43188 43191	PGK
-T173	GO_EXT:0008910 43192 43195	neo
-T174	GO_EXT:0015666 43205 43223	Restriction enzyme
-T175	GO_EXT:0015666 43587 43606	Restriction enzymes
-T176	GO_EXT:0004565 44595 44610	β - galactosidase
-T177	GO_EXT:0004565 45493 45508	β - galactosidase
-T178	GO_EXT:0004565 45719 45734	β - galactosidase
-T179	GO_EXT:0004565 45921 45936	β - Galactosidase
-T180	GO_EXT:0004565 46403 46418	β - galactosidase
-T181	GO_EXT:0004565 46542 46557	β - Galactosidase
-T182	GO_EXT:0004872 46856 46864	receptor
-T183	GO_EXT:0004872 46946 46954	receptor
+T1675	GO_EXT:0004872 25 33	Receptor
+T1676	GO_EXT:0008083 130 154	growth factor β receptor
+T1677	GO_EXT:0004714 260 284	receptor tyrosine kinase
+T1678	GO_EXT:0004872 402 410	receptor
+T1679	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 499 506	binding
+T1680	GO_EXT:0004872 697 705	receptor
+T1681	GO_EXT:0004872 795 803	receptor
+T1682	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 945 952	binding
+T1683	GO_EXT:0004714 1310 1335	receptor tyrosine kinases
+T1684	GO_EXT:0004872 1436 1445	receptors
+T1685	GO_EXT:0004872 1726 1734	receptor
+T1686	GO_EXT:0004872 1816 1824	receptor
+T1687	GO_EXT:0004872 2110 2118	receptor
+T1688	GO_EXT:0004872 2329 2338	receptors
+T1689	GO_EXT:0008083 2761 2774	growth factor
+T1690	GO_EXT:0004872 2775 2783	receptor
+T1691	GO_EXT:0016301 2860 2866	kinase
+T1692	GO_EXT:0016301 2889 2895	kinase
+T1693	GO_EXT:0004872 3089 3097	receptor
+T1694	GO_EXT:0008083 3200 3222	growth factor receptor
+T1695	CHEBI_GO_EXT:ligand 3345 3351	ligand
+T1696	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 3352 3359	binding
+T1697	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 3494 3501	binding
+T1698	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 3940 3944	bind
+T1699	GO_EXT:0004629 4393 4420	phosphotyrosine phosphatase
+T1700	GO_EXT:0004629 4502 4515	phospholipase
+T1701	GO_EXT:0004872 4906 4914	receptor
+T1702	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 5864 5871	binding
+T1703	GO_EXT:0004872 5885 5893	receptor
+T1704	GO_EXT:0004872 6497 6505	receptor
+T1705	GO_EXT:0004872 6850 6858	receptor
+T1706	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 7446 7453	binding
+T1707	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 7647 7654	binding
+T1708	GO_EXT:0016301 8288 8294	kinase
+T1709	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 8326 8333	binding
+T1710	GO_EXT:0004872 8404 8412	receptor
+T1711	GO_EXT:0016301 8416 8422	kinase
+T1712	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 8494 8498	bind
+T1713	CHEBI_GO_EXT:ligand 8499 8505	ligand
+T1714	GO_EXT:0004872 8518 8526	receptor
+T1715	GO_EXT:0016301 8836 8842	kinase
+T1716	GO_EXT:0004872 8897 8905	receptor
+T1717	GO_EXT:0016301 8940 8946	kinase
+T1718	GO_EXT:0008083 9003 9025	growth factor receptor
+T1719	GO_EXT:0004565 9389 9404	β-galactosidase
+T1720	GO_EXT:0004872 15461 15469	receptor
+T1721	GO_EXT:0004872 15968 15976	receptor
+T1722	GO_EXT:0004872 16335 16343	receptor
+T1723	GO_EXT:0004872 18082 18090	receptor
+T1724	GO_EXT:0004872 20103 20111	receptor
+T1725	GO_EXT:0016301 20208 20214	kinase
+T1726	GO_EXT:0004872 20231 20239	receptor
+T1727	GO_EXT:0016301 20430 20436	kinase
+T1728	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 20498 20505	binding
+T1729	GO_EXT:0004872 20633 20642	receptors
+T1730	GO_EXT:0004872 20825 20834	receptors
+T1731	CHEBI_GO_EXT:ligand 21388 21394	ligand
+T1732	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 21947 21954	binding
+T1733	GO_MOP_EXT:catalysis 22194 22203	catalytic
+T1734	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 22478 22485	binding
+T1735	GO_EXT:0004784 22675 22697	signal-related kinases
+T1736	GO_EXT:0004872 22924 22932	receptor
+T1737	GO_EXT:0004872 23206 23214	receptor
+T1738	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 23345 23352	binding
+T1739	GO_EXT:0004872 23365 23373	receptor
+T1740	GO_EXT:0004872 23491 23499	receptor
+T1741	GO_EXT:0004872 23536 23545	receptors
+T1742	GO_EXT:0016301 23639 23645	kinase
+T1743	GO_EXT:0016015 24244 24254	morphogens
+T1744	GO_EXT:0004872 24481 24489	receptor
+T1745	GO_EXT:0004872 24773 24781	receptor
+T1746	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 25737 25744	binding
+T1747	GO_EXT:0004872 25791 25799	receptor
+T1748	GO_EXT:0016301 25848 25854	kinase
+T1749	GO_EXT:0004872 26096 26104	receptor
+T1750	GO_EXT:0016301 26116 26122	kinase
+T1751	GO_EXT:0004872 26402 26410	receptor
+T1752	GO_EXT:0004872 26568 26576	receptor
+T1753	GO_EXT:0016301 26604 26610	kinase
+T1754	GO_EXT:0004872 26661 26669	receptor
+T1755	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 27182 27186	bind
+T1756	GO_EXT:0004872 27526 27534	receptor
+T1757	GO_EXT:0004872 28514 28522	receptor
+T1758	GO_EXT:0004872 30015 30023	receptor
+T1759	GO_EXT:0004872 30323 30331	receptor
+T1760	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 30372 30379	binding
+T1761	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 30485 30492	binding
+T1762	GO_EXT:0004872 30660 30668	receptor
+T1763	GO_EXT:0004872 30732 30740	receptor
+T1764	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 30955 30962	binding
+T1765	GO_EXT:0004872 31002 31010	receptor
+T1766	GO_EXT:0016301 31034 31040	kinase
+T1767	GO_EXT:0016301 31111 31117	kinase
+T1768	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 31149 31156	binding
+T1769	GO_EXT:0004872 31178 31186	receptor
+T1770	GO_EXT:0004872 31288 31297	receptors
+T1771	GO_PR_EXT:low_density_lipoprotein_receptor 31544 31576	low-density lipoprotein receptor
+T1772	GO_EXT:0016301 32249 32255	kinase
+T1773	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 32376 32383	binding
+T1774	CHEBI_GO_EXT:ligand 34143 34149	ligand
+T1775	GO_EXT:0004872 34727 34735	receptor
+T1776	GO_EXT:0004872 34849 34857	receptor
+T1777	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 35977 35984	binding
+T1778	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 36068 36075	binding
+T1779	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 36366 36373	binding
+T1780	GO_EXT:phosphoglycerate_kinase 36554 36557	PGK
+T1781	GO_EXT:0008910 36558 36561	neo
+T1782	GO_EXT:0004565 37793 37808	β-galactosidase
+T1783	GO_EXT:0004872 39701 39709	Receptor
+T1784	GO_EXT:0016301 40814 40820	kinase
+T1785	GO_PR_EXT:short_chain_acyl_CoA_dehydrogenase 41738 41759	signal-related kinase
+T1786	GO_EXT:0016301 41819 41825	kinase
+T1787	GO_PR_EXT:MAP_kinase 41828 41860	mitogen-activated protein kinase
+T1788	GO_EXT:0008083 41920 41933	growth factor
+T1789	GO_PR_EXT:protein_disulfide_isomerase 41935 41940	PDGFR
+T1790	GO_EXT:0008083 41960 41982	growth factor receptor
+T1791	GO_EXT:0004396 42015 42043	kinase  PLCγ - phospholipase
+T1792	GO_EXT:0004714 42054 42078	receptor tyrosine kinase
+T1793	GO_EXT:0016301 42097 42103	kinase
+T1794	GO_EXT:0004629 42164 42191	phosphotyrosine phosphatase
+T1795	GO_EXT:0004871 42230 42247	signal transducer
+T1796	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 42537 42544	binding
+T1797	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 42647 42654	binding
+T1798	GO_EXT:0016301 42709 42715	kinase
+T1799	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 42882 42889	binding
+T1800	GO_EXT:phosphoglycerate_kinase 43188 43191	PGK
+T1801	GO_EXT:0008910 43192 43195	neo
+T1802	GO_EXT:0015666 43205 43223	Restriction enzyme
+T1803	GO_EXT:0015666 43587 43606	Restriction enzymes
+T1804	GO_EXT:0004565 44595 44610	β-galactosidase
+T1805	GO_EXT:0004565 45493 45508	β-galactosidase
+T1806	GO_EXT:0004565 45719 45734	β-galactosidase
+T1807	GO_EXT:0004565 45921 45936	β-Galactosidase
+T1808	GO_EXT:0004565 46403 46418	β-galactosidase
+T1809	GO_EXT:0004565 46542 46557	β-Galactosidase
+T1810	GO_EXT:0004872 46856 46864	receptor
+T1811	GO_EXT:0004872 46946 46954	receptor

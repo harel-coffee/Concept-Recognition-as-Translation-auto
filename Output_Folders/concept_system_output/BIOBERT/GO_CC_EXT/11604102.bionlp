@@ -1,7 +1,7 @@
 T64	GO:0000806 375 387	Y chromosome
 T65	GO:0030849 407 415	autosome
 T66	GO_UBERON_EXT:cellular_component_or_cell_part 777 788	subcellular
-T67	GO:0000785 914 933	chromosomal regions
+T67	GO:0009575 914 933	chromosomal regions
 T68	GO:0005737 1272 1283	cytoplasmic
 T69	GO:0005844 1323 1336	polyribosomes
 T70	GO_UBERON_EXT:cellular_component_or_cell_part 1472 1483	subcellular
@@ -43,7 +43,7 @@ T105	GO:0005739 11302 11315	mitochondrial
 T106	CL_GO_EXT:cell 11591 11599	cellular
 T107	GO:0005844 11876 11889	polyribosomes
 T108	GO:0005844 11923 11936	polyribosomes
-T109	GO:0043667 12136 12145	polysomal
+T109	GO:0005840 12136 12145	polysomal
 T110	GO:0000805 12190 12191	X
 T111	GO:0005844 12270 12283	polyribosomes
 T112	CL_GO_EXT:cell 12465 12470	cells

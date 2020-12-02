@@ -5,7 +5,7 @@ T1248	GO_EXT:transcription_factor 408 429	transcription factors
 T1249	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 1595 1602	binding
 T1250	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 2170 2177	binding
 T1251	CHEBI_GO_SO_EXT:enzyme 2355 2364	enzymatic
-T1252	CHEBI_GO_EXT:enzyme_inhibitor 2541 2563	...dinucleotide - dependent
+T1252	CHEBI_GO_EXT:enzyme_inhibitor 2541 2563	dinucleotide-dependent
 T1253	GO_EXT:0004407 2564 2584	histone deacetylases
 T1254	GO_EXT:0008083 3402 3415	growth factor
 T1255	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 3567 3572	bound
@@ -42,21 +42,21 @@ T1285	GO_PR_EXT:glucose_6_phosphate_dehydrogenase 22386 22397	GH receptor
 T1286	CHEBI_GO_PR_EXT:growth_hormone 22474 22476	GH
 T1287	GO_PR_EXT:insulin_receptor 22951 22961	IκB kinase
 T1288	GO_PR_EXT:insulin_receptor 26495 26505	IκB kinase
-T1289	GO_PR_EXT:glutathione_S_transferase 28715 28720	IGF - 1
+T1289	GO_PR_EXT:glutathione_S_transferase 28715 28720	IGF-1
 T1290	GO_EXT:0004872 28721 28729	receptor
-T1291	GO_EXT:0004738 28730 28759	phosphoinositide - 3 '- OH kinase
-T1292	GO_PR_EXT:insulin_receptor 28915 28929	IGF - 1 receptor
-T1293	GO_EXT:0001055 29005 29007	...- 1
+T1291	GO_EXT:0004738 28730 28759	phosphoinositide-3'-OH kinase
+T1292	GO_PR_EXT:insulin_receptor 28915 28929	IGF-1 receptor
+T1293	GO_PR_EXT:beta_adrenergic_receptor 29005 29007	-1
 T1294	GO_EXT:0004872 29008 29016	receptor
 T1295	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 29039 29046	binding
-T1296	GO_EXT:0004738 29085 29114	phosphoinositide - 3 '- OH kinase
+T1296	GO_EXT:0004738 29085 29114	phosphoinositide-3'-OH kinase
 T1297	GO_EXT:0016301 29123 29129	kinase
-T1298	GO:0046982 29165 29183	phosphoinositide - 3
-T1299	GO_EXT:0004402 29185 29194	...OH kinase
+T1298	GO:0046982 29165 29183	phosphoinositide-3
+T1299	GO_EXT:0004971 29185 29194	OH kinase
 T1300	GO_PR_EXT:alkaline_phosphatase 29356 29359	Akt
 T1301	GO_EXT:0016301 29360 29366	kinase
 T1302	GO_EXT:0004872 29609 29617	receptor
-T1303	GO_PR_EXT:insulin_receptor 29957 29971	IGF - 1 receptor
+T1303	GO_PR_EXT:insulin_receptor 29957 29971	IGF-1 receptor
 T1304	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 30559 30566	binding
 T1305	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 30653 30660	binding
 T1306	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 30785 30789	bind
@@ -88,7 +88,7 @@ T1331	GO_PR_EXT:alkaline_phosphatase 45513 45516	Akt
 T1332	GO_EXT:0016301 45517 45524	kinases
 T1333	GO_EXT:0008083 45685 45698	growth factor
 T1334	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 45701 45708	binding
-T1335	GO_PR_EXT:insulin_receptor 45852 45866	IGF - 1 receptor
+T1335	GO_PR_EXT:insulin_receptor 45852 45866	IGF-1 receptor
 T1336	GO_EXT:0015267 45903 45920	estrogen receptor
 T1337	GO_PR_EXT:estrogen_receptor 45922 45924	ER
 T1338	CHEBI_GO_PR_EXT:growth_hormone 46126 46140	growth hormone

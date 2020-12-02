@@ -1,208 +1,208 @@
-T5011	GO:0065007 38 49	Controlling
-T5012	GO:0019630 94 110	Lipid Metabolism
-T5013	GO:0065007 203 212	regulated
-T5014	GO_EXT:reaction_or_response 513 521	response
-T5015	GO_EXT:reaction_or_response 901 909	response
-T5016	GO:0048878 1120 1156;1156 1162	adaptive proliferative response of β ... cells
-T5017	GO:0048286 1722 1751	development of adipose tissue
-T5018	GO:0065007 1756 1763	control
-T5019	GO:0065007 1819 1828	regulated
-T5020	GO:0009630 2452 2460	adaptive
-T5021	GO:0051716 2461 2472;2473 2483	response of ... cells
-T5022	GO:0008152 2550 2559	Metabolic
-T5023	GO:0008152 2656 2665	metabolic
-T5024	GO:0065007 3137 3148	controlling
-T5025	GO:0060612 3149 3161	adipogenesis
-T5026	GO_PATO_EXT:inflammatory_process_or_quality 3504 3516	inflammatory
-T5027	GO_EXT:cytokine_biosynthesis_or_production 3550 3569	cytokine production
-T5028	GO:0023051 3723 3733	signalling
-T5029	GO:0023051 4187 4197	signalling
-T5030	GO:0006915 4212 4221	apoptosis
-T5031	GO:0060612 4336 4348	adipogenesis
-T5032	GO:0010467 4441 4450	expressed
-T5033	GO_PATO_EXT:physiological_process_or_quality 4620 4633	physiological
-T5034	GO:0010467 4646 4656	expression
-T5035	GO:0008380 4678 4684	splice
-T5036	GO_EXT:regulator 4786 4795	regulator
-T5037	GO:0060612 4799 4811	adipogenesis
-T5038	GO:0060612 4832 4842	adipogenic
-T5039	GO:0065007 4890 4899	regulated
-T5040	GO_EXT:transcription 4900 4917	transcriptionally
-T5041	GO_PATO_EXT:physiological_process_or_quality 4955 4968	physiological
-T5042	GO:0010467 4980 4990	expression
-T5043	GO_EXT:reaction_or_response 5113 5121	response
-T5044	GO:0010467 5174 5184	expression
-T5045	GO:0008152 5353 5362	metabolic
-T5046	GO:0008152 5576 5585	metabolic
-T5047	GO:0010467 6032 6042	expression
-T5048	GO_PATO_EXT:physiological_process_or_quality 6049 6062	physiological
-T5049	GO:0008152 6166 6175	metabolic
-T5050	GO_EXT:reaction_or_response 6242 6250	response
-T5051	GO_EXT:reaction_or_response 6377 6385	response
-T5052	GO_EXT:secretion_entity_or_process 6508 6517	secretion
-T5053	GO_PATO_EXT:physiological_process_or_quality 6621 6634	physiological
-T5054	GO_PATO_EXT:physiological_process_or_quality 6783 6796	physiological
-T5055	GO:0008152 6975 6984	metabolic
-T5056	GO:0065007 7032 7039	control
-T5057	GO:0008152 7146 7155	metabolic
-T5058	GO_PATO_EXT:physiological_process_or_quality 7350 7363	physiological
-T5059	GO_EXT:reaction_or_response 7588 7596	response
-T5060	GO_EXT:reaction_or_response 7713 7721	Response
-T5061	GO:0007618 7886 7893	Matings
-T5062	GO:0010467 8046 8061	gene expression
-T5063	GO_EXT:biological_growth_entity_or_process 8242 8248	growth
-T5064	GO:0007567 8363 8368	birth
-T5065	GO:0042756 8862 8867	drank
-T5066	GO:0040011 9356 9365	locomotor
-T5067	GO:0040011 9497 9506	locomotor
-T5068	GO:0035825 9764 9784	respiratory exchange
-T5069	GO:0007631 9871 9874	fed
-T5070	GO:0045333 9894 9905	respiratory
-T5071	GO:0007631 10022 10028	intake
-T5072	GO:0040011 10487 10496	locomotor
-T5073	GO:0040011 10565 10574	locomotor
-T5074	GO_EXT:biological_recruitment 10902 10913	recruitment
-T5075	GO_EXT:secretion_entity_or_process 11330 11339	secretion
-T5076	GO:0007567 11463 11468	birth
-T5077	GO_EXT:biological_mover_or_transporter 12220 12232	transporter4
-T5078	GO:0007631 12775 12778	fed
-T5079	GO_EXT:secretion_entity_or_process 13399 13408	secretion
-T5080	GO:0010467 14767 14782	Gene expression
-T5081	GO:0010467 14843 14853	expression
-T5082	GO_EXT:secretion_entity_or_process 15448 15457	Secretion
-T5083	GO_EXT:secretion_entity_or_process 15519 15528	secretion
-T5084	GO:0007586 15837 15846	digestion
-T5085	GO_EXT:secretion_entity_or_process 16057 16066	secretion
-T5086	GO:0010467 16163 16172	expressed
-T5087	GO_EXT:biological_release 16319 16326	release
-T5088	GO:0010467 16618 16628	expression
-T5089	GO:0019230 17925 17940	proinflammatory
-T5090	GO_EXT:positive_regulation 18760 18773	up - regulation
-T5091	GO_EXT:negative_regulation 18810 18825	down - regulation
-T5092	GO:0030091 19522 19531;19532 19535	formation ...
-T5093	GO:0031291 19536 19548;19549 19578	secretion of ... lipoproteins
-T5094	GO:0010467 20662 20672	expression
-T5095	GO:0008152 20676 20685	metabolic
-T5096	GO:0010467 20812 20827	Gene expression
-T5097	GO_PATO_EXT:aging_or_agedness 21316 21320	aged
-T5098	GO:0010467 21373 21383	expression
-T5099	GO:0010467 21549 21559	expression
-T5100	GO:0006629 21581 21597	lipid metabolism
-T5101	GO:0010467 21611 21621	Expression
-T5102	GO:0065007 21676 21686	regulatory
-T5103	GO:0010467 21874 21884	expression
-T5104	GO:0019432 21953 21966	TAG synthesis
-T5105	GO:0010467 22071 22081	expression
-T5106	GO:0048872 22138 22168	hydrolysis of diacylglycerides
-T5107	GO:0010467 22682 22697	gene expression
-T5108	GO:0006757 22767 22786	glutathione pathway
-T5109	GO_PATO_EXT:inflammatory_process_or_quality 23008 23020	inflammation
-T5110	GO:0010467 23052 23062	Expression
-T5111	GO:0010467 23223 23233	expression
-T5112	GO:0010467 23440 23455	Gene expression
-T5113	GO:0010467 23579 23589	expression
-T5114	GO:0046493 23619 23632;23633 23647	lipid storage ... metabolism
-T5115	GO:0010467 23679 23689	Expression
-T5116	GO:0006629 23711 23727	lipid metabolism
-T5117	GO:0008610 24048 24057	lipogenic
-T5118	GO:0010467 24210 24220	expression
-T5119	GO:0010467 24310 24320	expression
-T5120	GO:0065007 24468 24478	regulation
-T5121	GO:0006094 24593 24608	gluconeogenesis
-T5122	GO:0045754 24658 24674;24675 24680	up - regulation of ...
-T5123	GO:0045333 24731 24743	... expression
-T5124	GO_EXT:positive_regulation 24811 24823	up - regulated
-T5125	GO:0006094 24860 24875	gluconeogenesis
-T5126	GO:0008283 24983 24999	progluconeogenic
-T5127	GO:0006094 25179 25194	gluconeogenesis
-T5128	GO:0010467 25256 25271	Gene expression
-T5129	GO_EXT:negative_regulation 25368 25383	down - regulation
-T5130	GO:0010628 25412 25428;25429 25444	up - regulation of ... expression
-T5131	GO:0010467 25519 25529	expression
-T5132	GO_EXT:negative_regulation 25550 25564	down - regulated
-T5133	GO:0010467 25729 25739	expression
-T5134	GO:0006119 25743 25768	oxidative phosphorylation
-T5135	GO_EXT:biological_routing_or_transport 25817 25826	transport
-T5136	GO:0065007 26310 26321	controlling
-T5137	GO:0065007 26383 26393	regulating
-T5138	GO:0010467 26466 26475	expressed
-T5139	GO:0008152 26610 26619	metabolic
-T5140	GO:0060612 26747 26757	adipogenic
-T5141	GO:0065007 26969 26978	regulated
-T5142	GO_EXT:reaction_or_response 26982 26990	response
-T5143	GO:0008152 27153 27162	metabolic
-T5144	GO:0007568 27381 27387	eating
-T5145	GO:0008152 27640 27649	metabolic
-T5146	GO_EXT:biological_recruitment 27944 27951	recruit
-T5147	GO:0010467 28076 28086	expression
-T5148	GO_RO_EXT:developmental_differentiation_process 28122 28137	differentiation
-T5149	GO:0048286 28638 28667	development of adipose tissue
-T5150	GO:0008152 29205 29218	metabolically
-T5151	GO_EXT:biological_behavior 29901 29913	bioenergetic
-T5152	GO:0009630 30205 30213	adaptive
-T5153	GO:0006915 30214 30233	response of β - cells
-T5154	GO:0010467 31296 31306	expression
-T5155	GO:0007631 31483 31490	feeding
-T5156	GO_PATO_EXT:physiological_process_or_quality 31789 31799	physiology
-T5157	GO:0097009 31841 31859	energy homeostasis
-T5158	GO:0010467 31901 31911	expression
-T5159	GO:0010467 32850 32865	gene expression
-T5160	GO:0010467 33095 33110	gene expression
-T5161	GO:0010467 33298 33313	gene expression
-T5162	GO_PATO_EXT:inflammatory_process_or_quality 33545 33557	inflammation
-T5163	GO:0007605 34051 34063	formation of
-T5164	GO:0008380 34073 34086	...lipid species
-T5165	GO:0010467 34219 34229	expression
-T5166	GO:0065007 34242 34253	controlling
-T5167	GO:0008610 34262 34273	lipogenesis
-T5168	GO:0006768 34275 34299	transport of fatty acids
-T5169	GO:0006094 34399 34412	gluconeogenic
-T5170	GO:0006006 35075 35093	glucose metabolism
-T5171	GO:0010467 35123 35133	expression
-T5172	GO:0007631 35564 35575	food intake
-T5173	GO:0040011 35577 35586	locomotor
-T5174	GO_PATO_EXT:physiological_process_or_quality 36418 36431	physiological
-T5175	GO:0008152 36537 36546	metabolic
-T5176	GO:0010467 36816 36825	expressed
-T5177	GO:0065007 37339 37346	control
-T5178	GO:0007631 38420 38431	food intake
-T5179	GO:0007631 39251 39262	food intake
-T5180	GO:0007294 39339 39357	Oxygen consumption
-T5181	GO:0001503 39359 39371	water intake
-T5182	GO:0040011 39377 39386	locomotor
-T5183	GO:0007601 39865 39871	passed
-T5184	GO:0040011 40102 40112	Ambulatory
-T5185	GO:0040011 40246 40256	ambulatory
-T5186	GO:0007631 40592 40598	intake
-T5187	GO_SO_EXT:sequence_rearrangement_process 40788 40790	RT
-T5188	GO:0060074 41307 41318	transferred
-T5189	GO:0060041 41363 41375	transferring
-T5190	GO:0065007 41509 41518	regulated
-T5191	GO_EXT:secretion_entity_or_process 42794 42803	secretion
-T5192	GO_EXT:secretion_entity_or_process 42840 42849	secretion
-T5193	GO_EXT:secretion_entity_or_process 42868 42877	secretion
-T5194	GO:0038032 43524 43539	insulin release
-T5195	GO:0010467 46726 46741	Gene Expression
-T5196	GO:0040011 46824 46833	Locomotor
-T5197	GO:0010467 46920 46930	expression
-T5198	GO:0010467 47001 47016	Gene Expression
-T5199	GO:0010467 47090 47105	Gene Expression
-T5200	GO_EXT:biological_mover_or_transporter 48326 48337	transporter
-T5201	GO:0008152 48457 48466	Metabolic
-T5202	GO_PATO_EXT:physiological_process_or_quality 48772 48785	Physiological
-T5203	GO:0097466 49049 49060	Food intake
-T5204	GO:0007631 49206 49209	fed
-T5205	GO_EXT:secretion_entity_or_process 50629 50638	secretion
-T5206	GO_EXT:reaction_or_response 50713 50721	response
-T5207	GO:0038032 50893 50908	insulin release
-T5208	GO:0010467 51129 51144	Gene Expression
-T5209	GO:0010467 51449 51464	Gene Expression
-T5210	GO:0010467 51679 51694	gene expression
-T5211	GO:0007631 51751 51754	fed
-T5212	GO:0019332 51905 51922	Storage of Lipids
-T5213	GO:0010467 52198 52208	expression
-T5214	GO:0008152 52538 52547	Metabolic
-T5215	GO:0007631 52562 52565	Fed
-T5216	GO:0008152 52637 52646	Metabolic
-T5217	GO:0008152 53235 53244	Metabolic
-T5218	GO_PATO_EXT:physiological_process_or_quality 53397 53407	Physiology
+T5006	GO:0065007 38 49	Controlling
+T5007	GO:0042816 94 110	Lipid Metabolism
+T5008	GO:0065007 203 212	regulated
+T5009	GO_EXT:reaction_or_response 513 521	response
+T5010	GO_EXT:reaction_or_response 901 909	response
+T5011	GO:0006924 1120 1156;1157 1162	adaptive proliferative response of β ... cells
+T5012	GO:0048839 1722 1751	development of adipose tissue
+T5013	GO:0065007 1756 1763	control
+T5014	GO:0065007 1819 1828	regulated
+T5015	GO:0051318 2452 2460	adaptive
+T5016	GO:0051716 2461 2472;2478 2483	response of ... cells
+T5017	GO:0008152 2550 2559	Metabolic
+T5018	GO:0008152 2656 2665	metabolic
+T5019	GO:0065007 3137 3148	controlling
+T5020	GO:0060612 3149 3161	adipogenesis
+T5021	GO_PATO_EXT:inflammatory_process_or_quality 3504 3516	inflammatory
+T5022	GO_EXT:cytokine_biosynthesis_or_production 3550 3569	cytokine production
+T5023	GO:0007567 3723 3733	signalling
+T5024	GO:0007567 4187 4197	signalling
+T5025	GO:0006915 4212 4221	apoptosis
+T5026	GO:0060612 4336 4348	adipogenesis
+T5027	GO:0010467 4441 4450	expressed
+T5028	GO_PATO_EXT:physiological_process_or_quality 4620 4633	physiological
+T5029	GO:0010467 4646 4656	expression
+T5030	GO:0008380 4678 4684	splice
+T5031	GO_EXT:regulator 4786 4795	regulator
+T5032	GO:0060612 4799 4811	adipogenesis
+T5033	GO:0060612 4832 4842	adipogenic
+T5034	GO:0065007 4890 4899	regulated
+T5035	GO_EXT:transcription 4900 4917	transcriptionally
+T5036	GO_PATO_EXT:physiological_process_or_quality 4955 4968	physiological
+T5037	GO:0010467 4980 4990	expression
+T5038	GO_EXT:reaction_or_response 5113 5121	response
+T5039	GO:0010467 5174 5184	expression
+T5040	GO:0008152 5353 5362	metabolic
+T5041	GO:0008152 5576 5585	metabolic
+T5042	GO:0010467 6032 6042	expression
+T5043	GO_PATO_EXT:physiological_process_or_quality 6049 6062	physiological
+T5044	GO:0008152 6166 6175	metabolic
+T5045	GO_EXT:reaction_or_response 6242 6250	response
+T5046	GO_EXT:reaction_or_response 6377 6385	response
+T5047	GO_EXT:secretion_entity_or_process 6508 6517	secretion
+T5048	GO_PATO_EXT:physiological_process_or_quality 6621 6634	physiological
+T5049	GO_PATO_EXT:physiological_process_or_quality 6783 6796	physiological
+T5050	GO:0008152 6975 6984	metabolic
+T5051	GO:0065007 7032 7039	control
+T5052	GO:0008152 7146 7155	metabolic
+T5053	GO_PATO_EXT:physiological_process_or_quality 7350 7363	physiological
+T5054	GO_EXT:reaction_or_response 7588 7596	response
+T5055	GO_EXT:reaction_or_response 7713 7721	Response
+T5056	GO:0007618 7886 7893	Matings
+T5057	GO:0010467 8046 8061	gene expression
+T5058	GO_EXT:biological_growth_entity_or_process 8242 8248	growth
+T5059	GO:0007567 8363 8368	birth
+T5060	GO:0042756 8862 8867	drank
+T5061	GO:0040011 9356 9365	locomotor
+T5062	GO:0040011 9497 9506	locomotor
+T5063	GO:0035075 9764 9784	respiratory exchange
+T5064	GO:0007631 9871 9874	fed
+T5065	GO:0045333 9894 9905	respiratory
+T5066	GO:0007631 10022 10028	intake
+T5067	GO:0040011 10487 10496	locomotor
+T5068	GO:0040011 10565 10574	locomotor
+T5069	GO_EXT:biological_recruitment 10902 10913	recruitment
+T5070	GO_EXT:secretion_entity_or_process 11330 11339	secretion
+T5071	GO:0007567 11463 11468	birth
+T5072	GO_EXT:biological_mover_or_transporter 12220 12232	transporter4
+T5073	GO:0007631 12775 12778	fed
+T5074	GO_EXT:secretion_entity_or_process 13399 13408	secretion
+T5075	GO:0010467 14767 14782	Gene expression
+T5076	GO:0010467 14843 14853	expression
+T5077	GO_EXT:secretion_entity_or_process 15448 15457	Secretion
+T5078	GO_EXT:secretion_entity_or_process 15519 15528	secretion
+T5079	GO:0007586 15837 15846	digestion
+T5080	GO_EXT:secretion_entity_or_process 16057 16066	secretion
+T5081	GO:0010467 16163 16172	expressed
+T5082	GO_EXT:biological_release 16319 16326	release
+T5083	GO:0010467 16618 16628	expression
+T5084	GO:0019042 17925 17940	proinflammatory
+T5085	GO_EXT:positive_regulation 18760 18773	up-regulation
+T5086	GO_EXT:negative_regulation 18810 18825	down-regulation
+T5087	GO_EXT:glial_cell_development_or_generation 19522 19531	formation ...
+T5088	GO:0043248 19536 19548;19566 19578	secretion of ... lipoproteins
+T5089	GO:0010467 20662 20672	expression
+T5090	GO:0008152 20676 20685	metabolic
+T5091	GO:0010467 20812 20827	Gene expression
+T5092	GO_PATO_EXT:aging_or_agedness 21316 21320	aged
+T5093	GO:0010467 21373 21383	expression
+T5094	GO:0010467 21549 21559	expression
+T5095	GO:0006629 21581 21597	lipid metabolism
+T5096	GO:0010467 21611 21621	Expression
+T5097	GO:0065007 21676 21686	regulatory
+T5098	GO:0010467 21874 21884	expression
+T5099	GO:0019432 21953 21966	TAG synthesis
+T5100	GO:0010467 22071 22081	expression
+T5101	GO:0030995 22138 22168	hydrolysis of diacylglycerides
+T5102	GO:0010467 22682 22697	gene expression
+T5103	GO:0006750 22767 22786	glutathione pathway
+T5104	GO_PATO_EXT:inflammatory_process_or_quality 23008 23020	inflammation
+T5105	GO:0010467 23052 23062	Expression
+T5106	GO:0010467 23223 23233	expression
+T5107	GO:0010467 23440 23455	Gene expression
+T5108	GO:0010467 23579 23589	expression
+T5109	GO:0046492 23619 23632;23637 23647	lipid storage ... metabolism
+T5110	GO:0010467 23679 23689	Expression
+T5111	GO:0006629 23711 23727	lipid metabolism
+T5112	GO:0008610 24048 24057	lipogenic
+T5113	GO:0010467 24210 24220	expression
+T5114	GO:0010467 24310 24320	expression
+T5115	GO:0065007 24468 24478	regulation
+T5116	GO:0006094 24593 24608	gluconeogenesis
+T5117	GO:0040010 24658 24674;	up-regulation of ...
+T5118	GO:0010467 24733 24743	expression
+T5119	GO_EXT:positive_regulation 24811 24823	up-regulated
+T5120	GO:0006094 24860 24875	gluconeogenesis
+T5121	GO:0060355 24983 24999	progluconeogenic
+T5122	GO:0006094 25179 25194	gluconeogenesis
+T5123	GO:0010467 25256 25271	Gene expression
+T5124	GO_EXT:negative_regulation 25368 25383	down-regulation
+T5125	GO:0010628 25412 25428;25434 25444	up-regulation of ... expression
+T5126	GO:0010467 25519 25529	expression
+T5127	GO_EXT:negative_regulation 25550 25564	down-regulated
+T5128	GO:0010467 25729 25739	expression
+T5129	GO:0006119 25743 25768	oxidative phosphorylation
+T5130	GO_EXT:biological_routing_or_transport 25817 25826	transport
+T5131	GO:0065007 26310 26321	controlling
+T5132	GO:0065007 26383 26393	regulating
+T5133	GO:0010467 26466 26475	expressed
+T5134	GO:0008152 26610 26619	metabolic
+T5135	GO:0060612 26747 26757	adipogenic
+T5136	GO:0065007 26969 26978	regulated
+T5137	GO_EXT:reaction_or_response 26982 26990	response
+T5138	GO:0008152 27153 27162	metabolic
+T5139	GO:0007568 27381 27387	eating
+T5140	GO:0008152 27640 27649	metabolic
+T5141	GO_EXT:biological_recruitment 27944 27951	recruit
+T5142	GO:0010467 28076 28086	expression
+T5143	GO_RO_EXT:developmental_differentiation_process 28122 28137	differentiation
+T5144	GO:0048839 28638 28667	development of adipose tissue
+T5145	GO:0008152 29205 29218	metabolically
+T5146	GO_EXT:biogenesis_or_biosynthesis 29901 29913	bioenergetic
+T5147	GO:0051318 30205 30213	adaptive
+T5148	GO:0051716 30214 30233	response of β-cells
+T5149	GO:0010467 31296 31306	expression
+T5150	GO:0007631 31483 31490	feeding
+T5151	GO_PATO_EXT:physiological_process_or_quality 31789 31799	physiology
+T5152	GO:0097009 31841 31859	energy homeostasis
+T5153	GO:0010467 31901 31911	expression
+T5154	GO:0010467 32850 32865	gene expression
+T5155	GO:0010467 33095 33110	gene expression
+T5156	GO:0010467 33298 33313	gene expression
+T5157	GO_PATO_EXT:inflammatory_process_or_quality 33545 33557	inflammation
+T5158	GO_EXT:biological_growth_entity_or_process 34051 34063	formation of
+T5159	GO:0008218 34073 34086	lipid species
+T5160	GO:0010467 34219 34229	expression
+T5161	GO:0065007 34242 34253	controlling
+T5162	GO:0008610 34262 34273	lipogenesis
+T5163	GO:0046741 34275 34299	transport of fatty acids
+T5164	GO:0006094 34399 34412	gluconeogenic
+T5165	GO:0006006 35075 35093	glucose metabolism
+T5166	GO:0010467 35123 35133	expression
+T5167	GO:0007631 35564 35575	food intake
+T5168	GO:0040011 35577 35586	locomotor
+T5169	GO_PATO_EXT:physiological_process_or_quality 36418 36431	physiological
+T5170	GO:0008152 36537 36546	metabolic
+T5171	GO:0010467 36816 36825	expressed
+T5172	GO:0065007 37339 37346	control
+T5173	GO:0007631 38420 38431	food intake
+T5174	GO:0007631 39251 39262	food intake
+T5175	GO:0007309 39339 39357	Oxygen consumption
+T5176	GO:0007631 39359 39371	water intake
+T5177	GO:0040011 39377 39386	locomotor
+T5178	GO:0006909 39865 39871	passed
+T5179	GO:0007596 40102 40112	Ambulatory
+T5180	GO:0040011 40246 40256	ambulatory
+T5181	GO:0007631 40592 40598	intake
+T5182	GO:0016246 40788 40790	RT
+T5183	GO:0009294 41307 41318	transferred
+T5184	GO_EXT:biological_routing_or_tranformant 41363 41375	transferring
+T5185	GO:0065007 41509 41518	regulated
+T5186	GO_EXT:secretion_entity_or_process 42794 42803	secretion
+T5187	GO_EXT:secretion_entity_or_process 42840 42849	secretion
+T5188	GO_EXT:secretion_entity_or_process 42868 42877	secretion
+T5189	GO_EXT:interferon_gamma_biosynthesis_or_production 43524 43539	insulin release
+T5190	GO:0010467 46726 46741	Gene Expression
+T5191	GO:0040011 46824 46833	Locomotor
+T5192	GO:0010467 46920 46930	expression
+T5193	GO:0010467 47001 47016	Gene Expression
+T5194	GO:0010467 47090 47105	Gene Expression
+T5195	GO_EXT:biological_mover_or_transporter 48326 48337	transporter
+T5196	GO:0008152 48457 48466	Metabolic
+T5197	GO_PATO_EXT:physiological_process_or_quality 48772 48785	Physiological
+T5198	GO:0007631 49049 49060	Food intake
+T5199	GO:0007631 49206 49209	fed
+T5200	GO_EXT:secretion_entity_or_process 50629 50638	secretion
+T5201	GO_EXT:reaction_or_response 50713 50721	response
+T5202	GO_EXT:interferon_gamma_biosynthesis_or_production 50893 50908	insulin release
+T5203	GO:0010467 51129 51144	Gene Expression
+T5204	GO:0010467 51449 51464	Gene Expression
+T5205	GO:0010467 51679 51694	gene expression
+T5206	GO:0007631 51751 51754	fed
+T5207	GO:0019915 51905 51922	Storage of Lipids
+T5208	GO:0010467 52198 52208	expression
+T5209	GO:0008152 52538 52547	Metabolic
+T5210	GO:0007631 52562 52565	Fed
+T5211	GO:0008152 52637 52646	Metabolic
+T5212	GO:0008152 53235 53244	Metabolic
+T5213	GO_PATO_EXT:physiological_process_or_quality 53397 53407	Physiology

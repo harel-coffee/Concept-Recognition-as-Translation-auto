@@ -1,10 +1,10 @@
 T2210	SO_EXT:sequence_nullness 785 789	null
 T2211	SO_EXT:0001023 790 796	allele
-T2212	SO_EXT:0000409 1044 1052	oncogene
+T2212	SO_EXT:0000478 1044 1052	oncogene
 T2213	SO_EXT:sequence_copy_entity 1308 1314	copies
 T2214	CHEBI_SO_EXT:serine 1946 1952	serine
 T2215	CHEBI_SO_EXT:threonine 1953 1962	threonine
-T2216	CHEBI_SO_EXT:C_terminus_or_C_terminal_region 1985 1995	C - terminal
+T2216	CHEBI_SO_EXT:C_terminus_or_C_terminal_region 1985 1995	C-terminal
 T2217	SO_EXT:0000417 2001 2007	domain
 T2218	CHEBI_SO_EXT:nucleotide 2232 2242	nucleotide
 T2219	SO_EXT:sequence_alteration_entity_or_process 2838 2847	mutations
@@ -14,22 +14,22 @@ T2222	SO_EXT:0000147 3397 3402	exons
 T2223	SO_EXT:sequence_substitution_process 3415 3423	replaced
 T2224	SO_EXT:0000704 3451 3455	gene
 T2225	SO_EXT:sequence_cloned_entity 3465 3470	clone
-T2226	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 3481 3483	kb
+T2226	CHEBI_SO_EXT:base 3481 3483	kb
 T2227	SO_EXT:0001026 3484 3491	genomic
 T2228	SO_EXT:0000667 3492 3498	insert
 T2229	SO_EXT:0000147 3543 3548	exons
 T2230	SO_EXT:engineered_biological_sequence 3629 3638	construct
-T2231	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 3653 3655	kb
+T2231	CHEBI_SO_EXT:base 3653 3655	kb
 T2232	SO_EXT:sequence_upstreamness 3677 3685	upstream
 T2233	SO_EXT:0000704 3713 3717	gene
 T2234	SO_EXT:0000155 3721 3728	plasmid
-T2235	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 3745 3747	kb
+T2235	CHEBI_SO_EXT:base 3745 3747	kb
 T2236	SO_EXT:sequence_downstreamness 3748 3758	downstream
 T2237	SO_EXT:sequence_upstreamness 3764 3772	upstream
-T2238	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 3784 3786	kb
+T2238	CHEBI_SO_EXT:base 3784 3786	kb
 T2239	SO_EXT:0000318 3808 3819	start codon
 T2240	SO_EXT:0000147 3833 3837	exon
-T2241	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 3867 3869	kb
+T2241	CHEBI_SO_EXT:base 3867 3869	kb
 T2242	SO_EXT:sequence_downstreamness 3881 3891	downstream
 T2243	SO_EXT:0000147 3895 3899	exon
 T2244	SO_EXT:sequence_alteration_entity_or_process 3907 3915	mutation
@@ -54,8 +54,8 @@ T2262	SO_EXT:0000360 6576 6582	codons
 T2263	SO_EXT:0000147 6598 6603	exons
 T2264	SO_EXT:0001060 6734 6742	isoforms
 T2265	SO_EXT:0001023 6772 6778	allele
-T2266	SO_EXT:normal_or_wild_type_or_present 6852 6856	+/-)
-T2267	SO_EXT:sequence_nullness_or_absence 6909 6912	-/-
+T2266	SO_EXT:0001057 6852 6856	+/-)
+T2267	SO_EXT:sequence_nullness 6909 6912	-/-
 T2268	SO_EXT:normal_or_wild_type_or_present 7394 7397	+/-
 T2269	SO_EXT:transgenic_entity 7403 7413	transgenic
 T2270	SO_EXT:normal_or_wild_type_or_present 7456 7459	+/+
@@ -72,9 +72,9 @@ T2280	SO_EXT:normal_or_wild_type_or_present 9012 9015	+/-
 T2281	SO_EXT:normal_or_wild_type_or_present 9110 9113	+/-
 T2282	SO_EXT:normal_or_wild_type_or_present 9174 9177	+/+
 T2283	SO_EXT:sequence_nullness 9336 9340	null
-T2284	SO_EXT:sequence_nullness_or_absence 9527 9530	-/-
+T2284	SO_EXT:sequence_nullness 9527 9530	-/-
 T2285	SO_EXT:wild_type_entity_or_quality 10004 10013	wild type
-T2286	SO_EXT:sequence_alteration_process 10121 10127	marker
+T2286	CHEBI_SO_EXT:mRNA 10121 10127	marker
 T2287	SO_EXT:wild_type_entity_or_quality 10411 10420	wild type
 T2288	SO_EXT:wild_type_entity_or_quality 10833 10842	wild type
 T2289	SO_EXT:0001060 11435 11443	isoforms
@@ -90,18 +90,18 @@ T2298	SO_EXT:0000409 12808 12820	binding site
 T2299	SO_EXT:0000417 12938 12944	domain
 T2300	SO_EXT:0000417 13081 13087	domain
 T2301	SO_EXT:normal_or_wild_type_or_present 14184 14188	+/+)
-T2302	SO_EXT:normal_or_wild_type_or_present 14242 14246	+/-)
+T2302	SO_EXT:0001057 14242 14246	+/-)
 T2303	SO_EXT:genotype_or_entity_with_genotype 14347 14355	genotype
 T2304	SO_EXT:genotype_or_entity_with_genotype 14529 14537	genotype
 T2305	SO_EXT:transgenic_entity 14651 14661	transgenic
 T2306	SO_EXT:wild_type_entity_or_quality 14667 14675	wildtype
 T2307	SO_EXT:transgenic_entity 14813 14823	transgenic
 T2308	SO_EXT:transgenic_entity 14935 14945	transgenic
-T2309	SO_EXT:0000243 14964 14969	(+/-)
-T2310	SO_EXT:sequence_deletion_process 14984 14989	(+/+)
+T2309	SO_EXT:0001077 14964 14969	(+/-)
+T2310	SO_EXT:0001084 14984 14989	(+/+)
 T2311	SO_EXT:sequence_nullness 15082 15086	null
-T2312	SO_EXT:sequence_upstreamness 15087 15092	(-/-)
-T2313	SO_EXT:0001021 15154 15161	markers
+T2312	SO_EXT:0001978 15087 15092	(-/-)
+T2313	SO_EXT:0000165 15154 15161	markers
 T2314	SO_EXT:transgenic_entity 15384 15394	transgenic
 T2315	SO_EXT:transgenic_entity 15516 15526	transgenic
 T2316	SO_EXT:transgenic_entity 15766 15776	transgenic

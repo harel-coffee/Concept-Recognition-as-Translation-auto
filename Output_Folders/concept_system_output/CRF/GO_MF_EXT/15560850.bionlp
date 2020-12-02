@@ -1,20 +1,20 @@
-T377	GO_EXT:0004540 858 868	Raf kinase
-T378	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 1859 1866	binding
-T379	GO_EXT:0004674 1946 1971	serine threonine kinase C
-T380	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 2119 2123	bind
-T381	GO_EXT:nucleotide_exchange_factor 2232 2258	nucleotide exchange factor
-T382	GO_EXT:0008083 2546 2569	growth factor receptors
-T383	GO_EXT:0016301 2646 2653	kinases
-T384	GO_EXT:0016301 2785 2791	kinase
-T385	GO_EXT:0004601 5181 5191	peroxidase
-T386	GO_PR_EXT:short_chain_acyl_CoA_dehydrogenase 5822 5845	signal - regulated kinase
-T387	GO_EXT:0004540 7050 7060	Raf kinase
-T388	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 7906 7910	bind
-T389	CHEBI_GO_SO_EXT:enzyme 11902 11915	enzymatically
-T390	CHEBI_GO_SO_EXT:enzyme 12043 12056	enzymatically
-T391	CHEBI_GO_SO_EXT:enzyme 12104 12117	enzymatically
-T392	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 12792 12796	bind
-T393	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 12808 12815	binding
-T394	GO_EXT:0016887 12931 12937	ATPase
-T395	GO_PR_EXT:glyceraldehyde_3_phosphate_dehydrogenase 15277 15282	GAPDH
-T396	CHEBI_GO_SO_EXT:enzyme 16185 16198	enzymatically
+T2005	GO_EXT:0004540 858 868	Raf kinase
+T2006	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 1859 1866	binding
+T2007	GO_EXT:0004674 1946 1971	serine threonine kinase C
+T2008	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 2119 2123	bind
+T2009	GO_EXT:nucleotide_exchange_factor 2232 2258	nucleotide exchange factor
+T2010	GO_EXT:0008083 2546 2569	growth factor receptors
+T2011	GO_EXT:0016301 2646 2653	kinases
+T2012	GO_EXT:0016301 2785 2791	kinase
+T2013	GO_EXT:0004601 5181 5191	peroxidase
+T2014	GO_PR_EXT:short_chain_acyl_CoA_dehydrogenase 5822 5845	signal-regulated kinase
+T2015	GO_EXT:0004540 7050 7060	Raf kinase
+T2016	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 7906 7910	bind
+T2017	CHEBI_GO_SO_EXT:enzyme 11902 11915	enzymatically
+T2018	CHEBI_GO_SO_EXT:enzyme 12043 12056	enzymatically
+T2019	CHEBI_GO_SO_EXT:enzyme 12104 12117	enzymatically
+T2020	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 12792 12796	bind
+T2021	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 12808 12815	binding
+T2022	GO_EXT:0016887 12931 12937	ATPase
+T2023	GO_PR_EXT:glyceraldehyde_3_phosphate_dehydrogenase 15277 15282	GAPDH
+T2024	CHEBI_GO_SO_EXT:enzyme 16185 16198	enzymatically

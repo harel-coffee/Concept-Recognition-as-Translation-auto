@@ -1,12 +1,12 @@
-T1169	CL:0002322 4784 4803	embryonic stem cell
-T1170	CL:0002322 5765 5784	embryonic stem cell
-T1171	CL_GO_EXT:cell 6140 6144	cell
-T1172	CL:0001031 9692 9715	cerebellar granule cell
-T1173	CL:0001031 10008 10031	cerebellar granule cell
-T1174	CL:0001031 10238 10261	cerebellar granule cell
-T1175	CL:0002322 25061 25081	embryonic stem cells
-T1176	CL_GO_EXT:cell 25229 25234	cells
-T1177	CL:0002322 25812 25831	embryonic stem cell
-T1178	CL:0002322 26199 26206	ES cell
-T1179	CL:0000125 35876 35878	Gr
-T1180	CL:0001031 35880 35903	cerebellar granule cell
+T1167	CL:0002322 4784 4803	embryonic stem cell
+T1168	CL:0002322 5765 5784	embryonic stem cell
+T1169	CL_GO_EXT:cell 6140 6144	cell
+T1170	CL:0001031 9692 9715	cerebellar granule cell
+T1171	CL:0001031 10008 10031	cerebellar granule cell
+T1172	CL:0001031 10238 10261	cerebellar granule cell
+T1173	CL:0002322 25061 25081	embryonic stem cells
+T1174	CL_GO_EXT:cell 25229 25234	cells
+T1175	CL:0002322 25812 25831	embryonic stem cell
+T1176	CL:0002322 26199 26206	ES cell
+T1177	CL:0000400 35876 35878	Gr
+T1178	CL:0001031 35880 35903	cerebellar granule cell

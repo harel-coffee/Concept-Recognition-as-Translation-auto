@@ -1,60 +1,60 @@
-T1361	GO_SO_EXT:chromosome 1321 1331	chromosome
-T1362	GO_SO_EXT:chromosome 1365 1376	chromosomes
-T1363	GO_SO_EXT:chromosome 1516 1527	chromosomes
-T1364	GO:0000502 1771 1792	protein on chromosome
-T1365	GO:0000785 4272 4291	chromosomal regions
-T1366	CL_GO_EXT:cell 7452 7456	cell
-T1367	CL_GO_EXT:cell 7482 7486	cell
-T1368	GO:0000502 11111 11132	protein on chromosome
-T1369	GO_SO_EXT:chromosome 11248 11258	chromosome
-T1370	GO_SO_EXT:chromosome 11345 11355	chromosome
-T1371	GO_SO_EXT:chromosome 13668 13678	chromosome
-T1372	GO_SO_EXT:chromosome 13955 13965	chromosome
-T1373	GO_SO_EXT:chromosome 14309 14319	chromosome
-T1374	GO_SO_EXT:chromosome 14375 14385	chromosome
-T1375	GO_SO_EXT:chromosome 14488 14498	chromosome
-T1376	GO_SO_EXT:chromosome 14734 14744	chromosome
-T1377	GO_SO_EXT:chromosome 14793 14803	chromosome
-T1378	GO_SO_EXT:chromosome 14932 14942	chromosome
-T1379	GO_SO_EXT:chromosome 15546 15556	chromosome
-T1380	GO_SO_EXT:chromosome 15617 15627	chromosome
-T1381	GO_SO_EXT:chromosome 15758 15769	chromosomes
-T1382	GO_SO_EXT:chromosome 15843 15854	chromosomes
-T1383	GO_SO_EXT:chromosome 15981 15991	chromosome
-T1384	GO_SO_EXT:chromosome 16271 16282	chromosomes
-T1385	GO_SO_EXT:chromosome 16436 16446	chromosome
-T1386	GO_SO_EXT:chromosome 17880 17891	chromosomes
-T1387	GO_SO_EXT:chromosome 18007 18018	chromosomes
-T1388	GO_SO_EXT:chromosome 18278 18289	chromosomes
-T1389	GO_SO_EXT:chromosome 18473 18484	chromosomes
-T1390	GO:0000502 19339 19360	protein on chromosome
-T1391	GO_SO_EXT:chromosome 21309 21319	chromosome
-T1392	GO_SO_EXT:chromosome 21395 21405	chromosome
-T1393	GO_SO_EXT:chromosome 21506 21517	chromosomes
-T1394	GO_SO_EXT:chromosome 22818 22829	chromosomes
-T1395	GO_SO_EXT:chromosome 23093 23104	chromosomes
-T1396	GO_SO_EXT:chromosome 23506 23516	chromosome
-T1397	CL_GO_EXT:cell 23827 23831	cell
-T1398	GO:0005634 24071 24078	nuclear
-T1399	GO:0005883 24087 24089	NF
-T1400	GO:0005886 24539 24554	plasma membrane
-T1401	GO_SO_EXT:chromosome 24743 24754	chromosomes
-T1402	CL_GO_EXT:cell 25457 25461	cell
-T1403	GO_SO_EXT:chromosome 25859 25870	chromosomes
-T1404	CL_GO_EXT:cell 26415 26419	cell
-T1405	GO:0044307 26728 26743	dendritic cells
-T1406	CL_GO_EXT:cell 26890 26895	cells
-T1407	GO:0005883 26995 26997	NF
-T1408	CL_GO_EXT:cell 27062 27067	cells
-T1409	GO_SO_EXT:chromosome 27334 27344	chromosome
-T1410	GO_SO_EXT:chromosome 28038 28048	chromosome
-T1411	CL_GO_EXT:cell 28116 28124	cellular
-T1412	CL_GO_EXT:cell 29983 29988	cells
-T1413	GO:0005883 30171 30173	NF
-T1414	GO:0005883 30325 30327	NF
-T1415	GO:0005883 30505 30507	NF
-T1416	GO_SO_EXT:chromosome 31133 31143	chromosome
-T1417	GO_SO_EXT:chromosome 31271 31282	chromosomes
-T1418	GO_SO_EXT:chromosome 31311 31321	chromosome
-T1419	GO_SO_EXT:chromosome 31345 31355	chromosome
-T1420	GO:0000502 31613 31634	protein on chromosome
+T4543	GO_SO_EXT:chromosome 1321 1331	chromosome
+T4544	GO_SO_EXT:chromosome 1365 1376	chromosomes
+T4545	GO_SO_EXT:chromosome 1516 1527	chromosomes
+T4546	GO:0000319 1771 1792	protein on chromosome
+T4547	GO:0009575 4272 4291	chromosomal regions
+T4548	CL_GO_EXT:cell 7452 7456	cell
+T4549	CL_GO_EXT:cell 7482 7486	cell
+T4550	GO:0000319 11111 11132	protein on chromosome
+T4551	GO_SO_EXT:chromosome 11248 11258	chromosome
+T4552	GO_SO_EXT:chromosome 11345 11355	chromosome
+T4553	GO_SO_EXT:chromosome 13668 13678	chromosome
+T4554	GO_SO_EXT:chromosome 13955 13965	chromosome
+T4555	GO_SO_EXT:chromosome 14309 14319	chromosome
+T4556	GO_SO_EXT:chromosome 14375 14385	chromosome
+T4557	GO_SO_EXT:chromosome 14488 14498	chromosome
+T4558	GO_SO_EXT:chromosome 14734 14744	chromosome
+T4559	GO_SO_EXT:chromosome 14793 14803	chromosome
+T4560	GO_SO_EXT:chromosome 14932 14942	chromosome
+T4561	GO_SO_EXT:chromosome 15546 15556	chromosome
+T4562	GO_SO_EXT:chromosome 15617 15627	chromosome
+T4563	GO_SO_EXT:chromosome 15758 15769	chromosomes
+T4564	GO_SO_EXT:chromosome 15843 15854	chromosomes
+T4565	GO_SO_EXT:chromosome 15981 15991	chromosome
+T4566	GO_SO_EXT:chromosome 16271 16282	chromosomes
+T4567	GO_SO_EXT:chromosome 16436 16446	chromosome
+T4568	GO_SO_EXT:chromosome 17880 17891	chromosomes
+T4569	GO_SO_EXT:chromosome 18007 18018	chromosomes
+T4570	GO_SO_EXT:chromosome 18278 18289	chromosomes
+T4571	GO_SO_EXT:chromosome 18473 18484	chromosomes
+T4572	GO:0000319 19339 19360	protein on chromosome
+T4573	GO_SO_EXT:chromosome 21309 21319	chromosome
+T4574	GO_SO_EXT:chromosome 21395 21405	chromosome
+T4575	GO_SO_EXT:chromosome 21506 21517	chromosomes
+T4576	GO_SO_EXT:chromosome 22818 22829	chromosomes
+T4577	GO_SO_EXT:chromosome 23093 23104	chromosomes
+T4578	GO_SO_EXT:chromosome 23506 23516	chromosome
+T4579	CL_GO_EXT:cell 23827 23831	cell
+T4580	GO:0005634 24071 24078	nuclear
+T4581	GO:0005883 24087 24089	NF
+T4582	GO:0005886 24539 24554	plasma membrane
+T4583	GO_SO_EXT:chromosome 24743 24754	chromosomes
+T4584	CL_GO_EXT:cell 25457 25461	cell
+T4585	GO_SO_EXT:chromosome 25859 25870	chromosomes
+T4586	CL_GO_EXT:cell 26415 26419	cell
+T4587	GO:0044296 26728 26743	dendritic cells
+T4588	CL_GO_EXT:cell 26890 26895	cells
+T4589	GO:0005883 26995 26997	NF
+T4590	CL_GO_EXT:cell 27062 27067	cells
+T4591	GO_SO_EXT:chromosome 27334 27344	chromosome
+T4592	GO_SO_EXT:chromosome 28038 28048	chromosome
+T4593	CL_GO_EXT:cell 28116 28124	cellular
+T4594	CL_GO_EXT:cell 29983 29988	cells
+T4595	GO:0005883 30171 30173	NF
+T4596	GO:0005883 30325 30327	NF
+T4597	GO:0005883 30505 30507	NF
+T4598	GO_SO_EXT:chromosome 31133 31143	chromosome
+T4599	GO_SO_EXT:chromosome 31271 31282	chromosomes
+T4600	GO_SO_EXT:chromosome 31311 31321	chromosome
+T4601	GO_SO_EXT:chromosome 31345 31355	chromosome
+T4602	GO:0000319 31613 31634	protein on chromosome

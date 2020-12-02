@@ -45,7 +45,7 @@ T2674	SO_EXT:0000704 3805 3810	genes
 T2675	CHEBI_SO_EXT:DNA 3836 3839	DNA
 T2676	SO_EXT:engineered_biological_sequence 3840 3850	constructs
 T2677	SO_EXT:coding_sequence 3888 3903	coding sequence
-T2678	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 3911 3921	N - terminal
+T2678	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 3911 3921	N-terminal
 T2679	SO_EXT:0001528 3922 3949	nuclear localization signal
 T2680	SO_EXT:sequence_deletion_process 3954 3961	excised
 T2681	SO_EXT:0000155 3971 3978	plasmid
@@ -70,13 +70,13 @@ T2699	SO_EXT:0000440 4767 4773	vector
 T2700	SO_EXT:sequence_linearization 4778 4788	linearized
 T2701	SO_EXT:0000167 4820 4828	promoter
 T2702	SO_EXT:0001026 4848 4855	genomic
-T2703	CHEBI_SO_EXT:amino_acid 4863 4866	...DNA
+T2703	CHEBI_SO_EXT:DNA 4863 4866	DNA
 T2704	SO_EXT:sequence_cloning_process 4900 4906	cloned
 T2705	SO_EXT:sequence_upstreamness 4907 4915	upstream
 T2706	SO_EXT:0001528 4923 4926	NLS
 T2707	SO_EXT:0000902 4931 4940	transgene
 T2708	SO_EXT:sequence_linearization 5091 5101	linearized
-T2709	SO_EXT:0000153 5109 5115	...vector
+T2709	SO_EXT:0000440 5109 5115	vector
 T2710	SO_EXT:0000704 5185 5189	Gene
 T2711	SO_EXT:sequence_cloned_entity 5493 5499	clones
 T2712	SO_EXT:sequence_cloned_entity 5524 5530	clones
@@ -112,12 +112,12 @@ T2741	SO_EXT:0000112 8223 8230	primers
 T2742	SO_EXT:0001023 8268 8274	allele
 T2743	SO_EXT:0005853 8295 8303	cassette
 T2744	SO_EXT:0000028 8414 8416	bp
-T2745	SO_EXT:wild_type_entity_or_quality 8427 8436	wild - type
+T2745	SO_EXT:wild_type_entity_or_quality 8427 8436	wild-type
 T2746	SO_EXT:0001023 8444 8450	allele
 T2747	SO_EXT:0000028 8486 8488	bp
 T2748	SO_EXT:0000112 8495 8502	primers
 T2749	SO_EXT:0001023 8676 8682	allele
-T2750	SO_EXT:wild_type_entity_or_quality 8693 8702	wild - type
+T2750	SO_EXT:wild_type_entity_or_quality 8693 8702	wild-type
 T2751	SO_EXT:0001023 8703 8709	allele
 T2752	SO_EXT:0000006 8769 8781	PCR products
 T2753	SO_EXT:sequence_insertion_process 9340 9348	inserted
@@ -125,8 +125,8 @@ T2754	SO_EXT:0000147 9363 9367	exon
 T2755	SO_EXT:0000147 9401 9406	exons
 T2756	SO_EXT:0000704 9436 9440	gene
 T2757	SO_EXT:0000147 9578 9582	exon
-T2758	SO:0000359 9586 9603	loxP site - flanked
-T2759	SO_EXT:sequence_alteration_process 9615 9621	marker
+T2758	SO:0000359 9586 9603	loxP site-flanked
+T2759	CHEBI_SO_EXT:mRNA 9615 9621	marker
 T2760	SO_EXT:coding_sequence 9641 9657	coding sequences
 T2761	SO_EXT:0000243 9674 9703	internal ribosomal entry site
 T2762	SO_EXT:0000243 9705 9709	IRES
@@ -141,7 +141,7 @@ T2770	SO_EXT:0000243 9918 9922	IRES
 T2771	SO_EXT:biological_sequence 9923 9931	sequence
 T2772	SO_EXT:sequence_deletion_process 9944 9952	excision
 T2773	SO_EXT:0000551 9976 9999	polyadenylation signals
-T2774	SO_EXT:sequence_alteration_process 10018 10024	marker
+T2774	CHEBI_SO_EXT:mRNA 10018 10024	marker
 T2775	CHEBI_SO_EXT:mRNA 10035 10039	mRNA
 T2776	SO_EXT:sequence_downstreamness 10070 10080	downstream
 T2777	SO_EXT:coding_sequence 10081 10097	coding sequences
@@ -164,20 +164,20 @@ T2793	SO_EXT:0000243 12105 12109	IRES
 T2794	SO_EXT:0000902 12115 12124	transgene
 T2795	SO_EXT:0001023 12219 12225	allele
 T2796	SO_EXT:0000902 12316 12325	transgene
-T2797	SO_EXT:sequence_alteration_process 12387 12390	/+)
-T2798	SO_EXT:sequence_alteration_process 12437 12440	/+)
-T2799	SO_EXT:sequence_alteration_process 12483 12486	/+)
+T2797	SO_EXT:0001058 12387 12390	/+)
+T2798	SO_EXT:0001058 12437 12440	/+)
+T2799	SO_EXT:0001058 12483 12486	/+)
 T2800	SO_EXT:0000902 12530 12540	transgenes
 T2801	SO_EXT:0000346 12563 12567	loxP
 T2802	SO_EXT:0000902 12626 12635	transgene
 T2803	SO_EXT:sequence_deletion_process 13122 13130	excision
-T2804	SO:0000359 13138 13150	loxP - flanked
+T2804	SO:0000359 13138 13150	loxP-flanked
 T2805	SO_EXT:biological_sequence 13162 13170	sequence
 T2806	SO_EXT:transgenic_entity 13459 13469	transgenic
-T2807	SO_EXT:sequence_alteration_process 13482 13485	/+,
+T2807	SO_EXT:0001083 13482 13485	/+,
 T2808	SO_EXT:0000243 13498 13502	IRES
-T2809	SO_EXT:sequence_alteration_process 13509 13512	/+,
-T2810	SO_EXT:sequence_alteration_process 13531 13533	/+
+T2809	SO_EXT:0001083 13509 13512	/+,
+T2810	SO_EXT:normal_or_wild_type_or_present 13531 13533	/+
 T2811	SO_EXT:transgenic_entity 13740 13750	transgenic
 T2812	SO_EXT:sequence_altered_entity 13843 13849	mutant
 T2813	SO_EXT:sequence_altered_entity 14044 14051	mutants
@@ -187,38 +187,38 @@ T2816	SO_EXT:sequence_altered_entity 14648 14654	mutant
 T2817	SO_EXT:transgenic_entity 14811 14821	transgenic
 T2818	SO_EXT:0000902 14836 14846	transgenes
 T2819	SO_EXT:0000243 14885 14889	IRES
-T2820	SO_EXT:sequence_alteration_process 14896 14899	/+,
-T2821	SO_EXT:sequence_alteration_process 14918 14921	/+,
+T2820	SO_EXT:0001083 14896 14899	/+,
+T2821	SO_EXT:0001083 14918 14921	/+,
 T2822	SO_EXT:sequence_deletion_process 15089 15097	excision
 T2823	SO_EXT:transgenic_entity 15913 15923	transgenic
-T2824	SO_EXT:sequence_alteration_process 15936 15939	/+,
+T2824	SO_EXT:0001083 15936 15939	/+,
 T2825	SO_EXT:0000243 15952 15956	IRES
-T2826	SO_EXT:sequence_alteration_process 15963 15966	/+,
-T2827	SO_EXT:sequence_alteration_process 15985 15987	/+
+T2826	SO_EXT:0001083 15963 15966	/+,
+T2827	SO_EXT:normal_or_wild_type_or_present 15985 15987	/+
 T2828	SO_EXT:transgenic_entity 16106 16116	transgenic
-T2829	SO_EXT:sequence_alteration_process 16344 16347	/+,
+T2829	SO_EXT:0001083 16344 16347	/+,
 T2830	SO_EXT:0000243 16360 16364	IRES
-T2831	SO_EXT:sequence_alteration_process 16371 16374	/+,
-T2832	SO_EXT:sequence_alteration_process 16393 16395	/+
+T2831	SO_EXT:0001083 16371 16374	/+,
+T2832	SO_EXT:normal_or_wild_type_or_present 16393 16395	/+
 T2833	SO_EXT:transgenic_entity 16628 16638	transgenic
 T2834	SO_EXT:transgenic_entity 17013 17023	transgenic
 T2835	SO_EXT:0000243 17191 17195	IRES
-T2836	SO_EXT:sequence_alteration_process 17202 17205	/+,
-T2837	SO_EXT:sequence_alteration_process 17224 17227	/+,
-T2838	SO_EXT:sequence_alteration_process 17791 17794	/+,
+T2836	SO_EXT:0001083 17202 17205	/+,
+T2837	SO_EXT:0001083 17224 17227	/+,
+T2838	SO_EXT:0001083 17791 17794	/+,
 T2839	SO_EXT:0000243 17807 17811	IRES
-T2840	SO_EXT:sequence_alteration_process 17818 17821	/+,
-T2841	SO_EXT:sequence_alteration_process 17840 17842	/+
+T2840	SO_EXT:0001083 17818 17821	/+,
+T2841	SO_EXT:normal_or_wild_type_or_present 17840 17842	/+
 T2842	SO_EXT:sequence_altered_entity 17936 17942	mutant
-T2843	SO_EXT:sequence_alteration_process 17955 17958	/+,
+T2843	SO_EXT:0001083 17955 17958	/+,
 T2844	SO_EXT:0000243 17971 17975	IRES
-T2845	SO_EXT:sequence_alteration_process 17982 17985	/+,
-T2846	SO_EXT:sequence_alteration_process 18004 18006	/+
+T2845	SO_EXT:0001083 17982 17985	/+,
+T2846	SO_EXT:normal_or_wild_type_or_present 18004 18006	/+
 T2847	GO_SO_EXT:sequence_rearrangement_process 18825 18836	recombinant
-T2848	SO_EXT:sequence_alteration_process 19521 19524	/+,
+T2848	SO_EXT:0001083 19521 19524	/+,
 T2849	SO_EXT:0000243 19537 19541	IRES
-T2850	SO_EXT:sequence_alteration_process 19548 19551	/+,
-T2851	SO_EXT:sequence_alteration_process 19570 19572	/+
+T2850	SO_EXT:0001083 19548 19551	/+,
+T2851	SO_EXT:normal_or_wild_type_or_present 19570 19572	/+
 T2852	SO_EXT:sequence_altered_entity 19969 19975	mutant
 T2853	SO_EXT:sequence_altered_entity 20096 20102	mutant
 T2854	SO_EXT:sequence_altered_entity 20337 20343	mutant
@@ -226,16 +226,16 @@ T2855	SO_EXT:sequence_altered_entity 20492 20498	mutant
 T2856	SO_EXT:transgenic_entity 21497 21507	transgenic
 T2857	SO_EXT:0000902 21774 21783	transgene
 T2858	SO_EXT:0001023 21811 21817	allele
-T2859	SO_EXT:sequence_alteration_process 21917 21920	/+,
+T2859	SO_EXT:0001083 21917 21920	/+,
 T2860	SO_EXT:0000243 21933 21937	IRES
-T2861	SO_EXT:sequence_alteration_process 21944 21947	/+,
-T2862	SO_EXT:sequence_alteration_process 21966 21968	/+
+T2861	SO_EXT:0001083 21944 21947	/+,
+T2862	SO_EXT:normal_or_wild_type_or_present 21966 21968	/+
 T2863	SO_EXT:transgenic_entity 21976 21986	transgenic
 T2864	SO_EXT:transgenic_entity 22944 22954	transgenic
-T2865	SO_EXT:sequence_alteration_process 22994 22997	/+,
+T2865	SO_EXT:0001083 22994 22997	/+,
 T2866	SO_EXT:0000243 23010 23014	IRES
-T2867	SO_EXT:sequence_alteration_process 23021 23024	/+,
-T2868	SO_EXT:sequence_alteration_process 23043 23045	/+
+T2867	SO_EXT:0001083 23021 23024	/+,
+T2868	SO_EXT:normal_or_wild_type_or_present 23043 23045	/+
 T2869	SO_EXT:transgenic_entity 23053 23063	transgenic
 T2870	SO_EXT:transgenic_entity 23898 23908	transgenic
 T2871	SO_EXT:0000902 24009 24018	transgene
@@ -255,7 +255,7 @@ T2884	SO_EXT:0000902 26135 26144	transgene
 T2885	SO_EXT:0000147 26196 26201	exons
 T2886	SO_EXT:0000704 26216 26220	gene
 T2887	SO_EXT:0000346 26274 26284	loxP sites
-T2888	SO_EXT:sequence_insertion_entity_or_process 26290 26305	insertion point
+T2888	SO_EXT:0000627 26290 26305	insertion point
 T2889	SO_EXT:0000061 26331 26348	restriction sites
 T2890	SO_EXT:genomic_DNA 26486 26497	genomic DNA
 T2891	CHEBI_SO_EXT:molecular_probe 26564 26569	probe
@@ -269,40 +269,40 @@ T2898	SO_EXT:0000346 27051 27055	loxP
 T2899	SO_EXT:transgenic_entity 27090 27100	transgenic
 T2900	SO_EXT:sequence_insertion_entity_or_process 27155 27164	insertion
 T2901	SO_EXT:0000243 27189 27193	IRES
-T2902	SO_EXT:0000079 27199 27210	bicistronic
+T2902	SO:0000879 27199 27210	bicistronic
 T2903	SO_EXT:0000902 27211 27220	transgene
 T2904	SO_EXT:transgenic_entity 27255 27265	transgenic
 T2905	SO_EXT:0000902 27304 27313	transgene
 T2906	SO_EXT:transgenic_entity 27426 27436	transgenic
-T2907	SO_EXT:sequence_alteration_process 27455 27458	/+,
+T2907	SO_EXT:0001083 27455 27458	/+,
 T2908	SO_EXT:0000243 27476 27480	IRES
-T2909	SO_EXT:sequence_alteration_process 27487 27490	/+,
-T2910	SO_EXT:0000188 27503 27507	/+).
+T2909	SO_EXT:0001083 27487 27490	/+,
+T2910	SO_EXT:0001083 27503 27507	/+).
 T2911	SO_EXT:0000704 27921 27925	gene
 T2912	SO_EXT:0000243 28117 28121	IRES
-T2913	SO_EXT:0000079 28127 28138	bicistronic
+T2913	SO:0000879 28127 28138	bicistronic
 T2914	SO_EXT:0000902 28139 28148	transgene
 T2915	SO_EXT:transgenic_entity 28276 28286	transgenic
-T2916	SO_EXT:sequence_alteration_process 28299 28302	/+,
+T2916	SO_EXT:0001083 28299 28302	/+,
 T2917	SO_EXT:0000243 28315 28319	IRES
-T2918	SO_EXT:sequence_alteration_process 28326 28329	/+,
-T2919	SO_EXT:sequence_alteration_process 28348 28350	/+
+T2918	SO_EXT:0001083 28326 28329	/+,
+T2919	SO_EXT:normal_or_wild_type_or_present 28348 28350	/+
 T2920	SO_EXT:transgenic_entity 28572 28582	transgenic
 T2921	SO_EXT:transgenic_entity 28825 28835	transgenic
 T2922	SO_EXT:transgenic_entity 29067 29077	transgenic
-T2923	CHEBI_SO_EXT:mRNA 29351 29356	marks
+T2923	SO_EXT:0000236 29351 29356	marks
 T2924	SO_EXT:transgenic_entity 29426 29436	transgenic
 T2925	SO_EXT:transgenic_entity 29463 29473	transgenic
-T2926	SO_EXT:sequence_alteration_process 29486 29489	/+,
+T2926	SO_EXT:0001083 29486 29489	/+,
 T2927	SO_EXT:0000243 29502 29506	IRES
-T2928	SO_EXT:sequence_alteration_process 29513 29516	/+,
-T2929	SO_EXT:sequence_alteration_process 29535 29537	/+
+T2928	SO_EXT:0001083 29513 29516	/+,
+T2929	SO_EXT:normal_or_wild_type_or_present 29535 29537	/+
 T2930	SO_EXT:transgenic_entity 29674 29684	transgenic
 T2931	SO_EXT:sequence_deletion_process 29959 29967	excision
-T2932	SO_EXT:sequence_alteration_process 30129 30132	/+,
+T2932	SO_EXT:0001083 30129 30132	/+,
 T2933	SO_EXT:0000243 30145 30149	IRES
-T2934	SO_EXT:sequence_alteration_process 30156 30159	/+,
-T2935	SO_EXT:sequence_alteration_process 30178 30180	/+
+T2934	SO_EXT:0001083 30156 30159	/+,
+T2935	SO_EXT:normal_or_wild_type_or_present 30178 30180	/+
 T2936	SO_EXT:transgenic_entity 30233 30243	transgenic
 T2937	SO_EXT:sequence_altered_entity 30547 30553	mutant
 T2938	SO_EXT:transgenic_entity 30931 30941	transgenic
