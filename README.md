@@ -1,11 +1,11 @@
 # Concept-Recognition-as-Translation
 
-All code and models for reformulating Concept Recognition as a machine translation task using the 2019 CRAFT Shared Tasks (https://sites.google.com/view/craft-shared-task-2019/home) for Concept Annotation. We split the task of Concept Recognition into two:
+All code and models for reformulating Concept Recognition as a machine translation task using the 2019 CRAFT Shared Tasks (https://sites.google.com/view/craft-shared-task-2019/home) for Concept Annotation framework. We split the task of Concept Recognition into two distinct tasks and accomplish each differently:
 1. Span Detection (also referred to as named entity recognition or mention detection): to delimit a particluar textual region that refers to some ontoloical concept.
-2. Concept Normalization (also referred to as named entity normalization): to identify the specific ontological concept to which the text span (from span detection) refers to.
+2. Concept Normalization (also referred to as named entity normalization or entitiy linking): to identify the specific ontological concept to which the text span (from span detection) refers to.
 
-Clone this github repository. Some files were too large to upload here so we uploaded them to Zenodo. 
-Download all the files and put all the .tar.gz files within the Concept-Recognition-as-Translation/ folder. 
+To implement or use the models created here, start by cloning this github repository. Some files are too large to upload here so we uploaded them to Zenodo. 
+Download all the files from Zenodo also and put all the .tar.gz files within the Concept-Recognition-as-Translation/ folder. 
 Then in the command line navigate to the folder you just put them in and run Code/untar_all_files.sh which will untar all of the files (FILENAME) using the command: tar -xzvf FILENAME. This will put all the files in the correct place on your local machine. Do not unzip them using the builtin compression because it will make duplicate copies of everything. The files can be found here: 
 They include:
 1. Output_Folders-Tokenized_Files.tar.gz
@@ -14,7 +14,7 @@ They include:
 4. Code-biobert_v1.0_pubmed_pmc.tar.gz
 5. Models-SPAN_DETECTION-ONTOLOGY-BIOBERT.tar.gz (where ONTOLOGY is the ontology of choice - 20 ontologies with a corresponding Biobert file)
 
-Then follow the instructions within the Code section. The Models section discusses the different models evaluated here. The Output Folders section provides details on how all output from the code is organized and stored. Lastly, the two CRAFT sections are details on the corpus we used for this project. 
+After everything is downloaded, follow the instructions within the Code section on how to tackle the concept recognition from scratch. The Models section discusses the different models evaluated here. The Output Folders section provides details on how all output from the code is organized and stored. The ConceptMapper Baseline section discusses how ConceptMapper was used as a baseline for concept normalization. Lastly, the two CRAFT sections are details on the corpus we used for this project. 
 
 To use the models we have here, skip to the Evaluation Pipeline section or the CRAFT Evaluation Pipeline section and edit the bash scripts mentioned. 
 
@@ -23,10 +23,16 @@ To tune and train models from scratch, start from the beginning of the Code sect
 ## Contents
 
 ### Code
-All of the code to generate BIO- format from the knowtator files from CRAFT, and tune, train, test, and evaluate the models that appear in the /Models folder. All of the ten ontologies along with their extension classes, in CRAFT are processed separately creating a model for each one. 
+All of the code to generate BIO- format from the knowtator files from CRAFT, and tune, train, test, and evaluate the models that appear in the /Models folder. All of the ten ontologies along with their extension classes, in CRAFT are processed separately creating a model for each one. In all bash scripts (.sh files), the file paths start from the Concept-Recognition-as-Translation folder. Thus, please add the path to that folder into all file paths.
 
 ##### Tuning and Training Models
-1. run_preprocess_docs.sh: processes all concept annotations into BIO- format, collect extra ontology concepts from the ontologies that are not in CRAFT, and processes all ontology concepts into OpenNMT format for concept normalization. 
+0. 0_run_create_overview_table.sh: calculates corpus statistics for both the training data and evaluation data, including total and unique annotation counts, average and median total and unique annotation counts per article, and total additional OBO concepts.
+	
+	a. Inputs: ontologies (core and core+extensions sets), file paths to the tokenized files, the obo addition files, the evaluation gold standard path, and the output path to save the overview table
+
+	b. Outputs: overview_table_summary.txt
+
+1. run_preprocess_docs.sh: processes all concept annotations into BIO- format, collect extra ontology concepts from the ontologies (.obo files) that are not seen in CRAFT, and processes all ontology concepts into the OpenNMT format for concept normalization. 
 
 	a. Inputs: File paths to CRAFT (articles and annotations), a list of the ontologies, the output paths, and any excluded files
 
@@ -64,7 +70,7 @@ All of the code to generate BIO- format from the knowtator files from CRAFT, and
 	b. Outputs: the final output of the full concept recognition path in bionlp format, summary metrics of the full pipeline if there is a gold standard
 
 ##### CRAFT Evaluation Pipeline
-The exact same process as the Evaluation Pipeline (steps 1-3 as above) except focusing on the 30 held out documents for the CRAFT shared task evaluation. Add "0_craft" to the beginning of each bash filename for this CRAFT evaluation. Also there is one extra step for this pipeline. 
+The exact same process as the Evaluation Pipeline (steps 1-3 as above) except focusing on the 30 held out documents for the CRAFT shared task evaluation. Add "0_craft" to the beginning of each bash filename for this CRAFT evaluation. Also there is one extra step for this pipeline at the end.
 
 1. 0_craft_run_eval_pipeline_1.sh
 2. 0_craft_run_eval_open_nmt.sh
@@ -74,6 +80,28 @@ The exact same process as the Evaluation Pipeline (steps 1-3 as above) except fo
 	a. Inputs: the evaluation path, a list of the ontologies of interest, the full concept recognition output folder, a list of PMC articles to evaluate, the complete final output folder for each span detection algorithm, the span detection algorithm used and the corresponding model name
 
 	b. Outputs: the final output format for the final performance analysis by span detection algorithm for each PMC article
+
+5. Evaluate all runs via the Docker evaluation found here: https://github.com/UCDenver-ccp/craft-shared-tasks/wiki/Concept-Annotation-Task-Evaluation
+
+We also want to evaluate how well each task performed on the 30 held out document evaluation set for both span detection and concept normalization separately and combine the results from the Docker evaluation. All output files can be found in /Output_Folders/concept_system_output/
+
+1. 0_craft_calculate_sd_metrics.sh: Calculates how well each algorithm performs on the span detection task as compared to the gold standard data (F1 scores)
+	
+	a. Inputs: a list of PMC articles to evaluate, file paths to the gold standard evaluation set, the predicted results, and the output path, a list of the span detection algorithms of interest, and a list of the ontologies of interest
+
+	b. Outputs: all files with "span_detection_results" included in the filename, including a file for each algorithm for both the core and core+extensions sets for both the full data and discontinuous spans only. The full results have "span_detection_results_summary" in the file name 
+
+2. 0_craft_concept_normalization_metrics.sh: Gathers all the concept mentions from the gold standard evaluation set to run through the concept normalizaton pipeline to evaluate the performance of concept normalization on the gold standard concept mentions. This includes running OpenNMT for all ontologies, calculating the exact match on concept ID level and character concept ID level, and doing the same thing for the experimental runs. This also calculates the metrics for ConceptMapper (the baseline model).
+	
+	a. Inputs: a list of PMC articles to evaluate, many file paths including but not limited to the gold standard evaluation set, the output path, and the predicted path, a list of the ontologies of interest, a list of the experiments to run, the model names, ConceptMapper file paths
+
+	b. Outputs: all files with "concept_normalization_results_summary" included in the filename, including a file for the full run, each experiment, and ConceptMapper
+
+3. 0_craft_run_merge_docker_eval_results.sh: Merge all the results from the Docker evaluation per ontology per algorithm to all together per algorithm and fully together with just F1 scores
+	
+	a. Inputs: a list of the ontologies of interest, the file path to the output path, and a list of the span detection algorithms of interest
+
+	b. Outputs: all files with "full_craft_docker_results" included in the filename, including a file for each algorithm with all metrics and then overall for both the core and core+extensions sets with F1 score only
 
 
 ### Models
