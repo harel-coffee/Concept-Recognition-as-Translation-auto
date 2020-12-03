@@ -8,8 +8,6 @@ def final_craft_output(ontology, concept_system_output_path, evaluation_files, f
     ##run over all files in the model concept system output
     for root, directories, filenames in os.walk('%s%s/' % (concept_system_output_path, ontology)):
         for filename in sorted(filenames):
-            # print(filename)
-            # print(algo_filename_info)
             ##add in the different models as we add them (
             if filename.endswith('.bionlp') and filename.startswith('%s_%s' %(ontology, algo_filename_info)) and filename.split('_')[-1].replace('.bionlp','') in evaluation_files:
                 ##the pmcid that will be the name of the file
@@ -42,7 +40,7 @@ if __name__ == '__main__':
     evaluation_files = args.evaluation_files.split(',')
     concept_system_output_path = args.eval_path + args.concept_system_output
 
-
+    ##loop over each ontology to gather the final output
     for ontology in ontologies:
         print('PROGRESS:', ontology)
         final_craft_output(ontology, concept_system_output_path, evaluation_files, args.final_output, args.algo.upper(), args.algo_filename_info)
