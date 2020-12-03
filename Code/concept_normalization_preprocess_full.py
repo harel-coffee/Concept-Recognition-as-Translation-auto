@@ -14,14 +14,14 @@ def gather_spanned_text(tokenized_file_path, concept_norm_files_path , ontology,
     all_output_files = [] ##list of all the output files
     for file in filename_combo_list:
 
-        current_output_file = open('%s/%s/%s%s_%s.txt' %(concept_norm_files_path, ontology, full_files_path, ontology, file),'w+')
-        current_output_file_val = open('%s/%s/%s%s_%s_val.txt' %(concept_norm_files_path, ontology, full_files_path, ontology, file),'w+')
+        current_output_file = open('%s%s/%s%s_%s.txt' %(concept_norm_files_path, ontology, full_files_path, ontology, file),'w+')
+        current_output_file_val = open('%s%s/%s%s_%s_val.txt' %(concept_norm_files_path, ontology, full_files_path, ontology, file),'w+')
 
         all_output_files += [current_output_file, current_output_file_val]
 
         if 'link' not in file:
-            current_output_file_char = open('%s/%s/%s%s_%s_char.txt' %(concept_norm_files_path, ontology, full_files_path, ontology, file), 'w+')
-            current_output_file_char_val = open('%s/%s/%s%s_%s_char_val.txt' % (concept_norm_files_path, ontology, full_files_path, ontology, file), 'w+')
+            current_output_file_char = open('%s%s/%s%s_%s_char.txt' %(concept_norm_files_path, ontology, full_files_path, ontology, file), 'w+')
+            current_output_file_char_val = open('%s%s/%s%s_%s_char_val.txt' % (concept_norm_files_path, ontology, full_files_path, ontology, file), 'w+')
 
             all_output_files += [current_output_file_char, current_output_file_char_val]
 
@@ -30,7 +30,7 @@ def gather_spanned_text(tokenized_file_path, concept_norm_files_path , ontology,
 
     print('NUMBER OF OUTPUT FILES:', len(all_output_files))
     ## mention_ID_dict: mention_ID -> (start_list, end_list, spanned_text, mention_class_ID, class_label, sentence_number)
-    ##load the mention_ID_dict
+    ##load the mention_ID_dict for each pmcid
     for root, directories, filenames in os.walk(tokenized_file_path + ontology + '/'):
         for filename in sorted(filenames):
 
@@ -38,8 +38,10 @@ def gather_spanned_text(tokenized_file_path, concept_norm_files_path , ontology,
             if filename.endswith('.pkl') and 'mention_id_dict' in filename and filename.replace('_mention_id_dict.pkl','') not in excluded_files:
                 mention_ID_dict_pkl = open(root+filename, 'rb')
                 mention_ID_dict = pickle.load(mention_ID_dict_pkl)
-                # print('NUMBER OF CONCEPTS PER PMCID FILE:', len(mention_ID_dict.keys()))
+                ##collect the number of concepts
                 total_concepts += len(mention_ID_dict.keys())
+
+                ##grab all information for each mention
                 for index, mention_ID in enumerate(mention_ID_dict.keys()):
                     (start_list, end_list, spanned_text, mention_class_ID, class_label, sentence_number) = mention_ID_dict[mention_ID]
 
@@ -49,12 +51,14 @@ def gather_spanned_text(tokenized_file_path, concept_norm_files_path , ontology,
                     char_spanned_text = ''
                     for c in spanned_text:
                         char_spanned_text += '%s ' % c
-                    char_spanned_text = char_spanned_text[
-                                        :len(char_spanned_text) - 1]  # get rid of the extra whitespace at the end
+                    char_spanned_text = char_spanned_text[:len(char_spanned_text) - 1]  # get rid of the extra whitespace at the end
+
+                    ##training file
                     if index % 10 != 0:
                         all_output_files[0].write('%s\n' %spanned_text)
                         all_output_files[2].write('%s\n' %char_spanned_text)
-                    else: #evaluation files
+                    ##validation file - 10%
+                    else:
                         all_output_files[1].write('%s\n' %spanned_text)
                         all_output_files[3].write('%s\n' % char_spanned_text)
 
@@ -64,10 +68,12 @@ def gather_spanned_text(tokenized_file_path, concept_norm_files_path , ontology,
                         char_mention_class_ID += '%s ' % c
                     char_mention_class_ID = char_mention_class_ID[:len(char_mention_class_ID) - 1]
 
+                    ##training file
                     if index % 10 != 0:
                         all_output_files[4].write('%s\n' %mention_class_ID)
                         all_output_files[6].write('%s\n' %char_mention_class_ID)
-                    else: #evaluation files
+                    ##validation file - 10%
+                    else:
                         all_output_files[5].write('%s\n' % mention_class_ID)
                         all_output_files[7].write('%s\n' % char_mention_class_ID)
 
@@ -76,23 +82,30 @@ def gather_spanned_text(tokenized_file_path, concept_norm_files_path , ontology,
                     for c in class_label:
                         char_class_label += '%s ' % c
                     char_class_label = char_class_label[:len(char_class_label) - 1]
+
+                    ##training file
                     if index % 10 != 0:
                         all_output_files[8].write('%s\n' %class_label)
                         all_output_files[10].write('%s\n' %char_class_label)
-                    else: #evaluation
+                    ##validation file - 10%
+                    else:
                         all_output_files[9].write('%s\n' % class_label)
                         all_output_files[11].write('%s\n' % char_class_label)
 
                     ##MENTION_ID
+                    ##training file
                     if index % 10 != 0:
                         all_output_files[12].write('%s\n' %mention_ID)
-                    else: #evaluation
+                    ##validation file - 10%
+                    else:
                         all_output_files[13].write('%s\n' % mention_ID)
 
                     ##SENTENCE NUMBER
+                    ##training file
                     if index % 10 != 0:
                         all_output_files[14].write('%s\n' %sentence_number)
-                    else: #evaluation
+                    ##validation file - 10%
+                    else:
                         all_output_files[15].write('%s\n' % sentence_number)
 
     print('TOTAL CONCEPTS:', total_concepts)
@@ -100,13 +113,18 @@ def gather_spanned_text(tokenized_file_path, concept_norm_files_path , ontology,
 
 
 def additional_obo_concepts(ontology, concept_norm_files_path, all_output_files):
-
-
-    with open('%s/%s/%s_addition.txt' %(concept_norm_files_path, ontology, ontology), 'r') as obo_addition_file:
-        next(obo_addition_file) #the first line is the ontology and the number of terms TODO: maybe take in the first line to make sure we have all the concepts added
+    ##grab all the additional obo concepts not seen in CRAFT bur from the .obo files
+    with open('%s%s/%s_addition.txt' %(concept_norm_files_path, ontology, ontology), 'r') as obo_addition_file:
+        next(obo_addition_file) #the first line is the ontology and the number of terms
 
         count = 0
+        char_name_count = 0
+        char_ont_id_count = 0
+        char_label_count = 0
+        char_mention_id_count = 0
+        char_sent_num_count = 0
 
+        ##loop over each line grabbing the concept information
         for line in obo_addition_file:
             [ont_id, name, definition, synonyms] = line.split('\t')
             all_names = ast.literal_eval(synonyms) + [name] #convert to a list
@@ -114,60 +132,88 @@ def additional_obo_concepts(ontology, concept_norm_files_path, all_output_files)
 
             for name in all_names_unique:
                 count += 1
-                ##all the output files
-
-
+                ##add info to all the output files - training and validation (10%)
                 ##SPANNED_TEXT - name
                 char_name = ''
                 for c in name:
                     char_name += '%s ' % c
                 char_name = char_name[:len(char_name) - 1]  # get rid of the extra whitespace at the end
+                ##training file
                 if count % 10 != 0:
                     all_output_files[0].write('%s\n' % name)
                     all_output_files[2].write('%s\n' % char_name)
-                else:  # evaluation files
+                    char_name_count += 1
+                ##validation file - 10%
+                else:
                     all_output_files[1].write('%s\n' % name)
                     all_output_files[3].write('%s\n' % char_name)
+                    char_name_count += 1
 
                 ##MENTION_CLASS_ID - ont_id
                 char_ont_id = ''
                 for c in ont_id:
                     char_ont_id += '%s ' % c
                 char_ont_id = char_ont_id[:len(char_ont_id) - 1]
-
+                ##training file
                 if count % 10 != 0:
                     all_output_files[4].write('%s\n' % ont_id)
                     all_output_files[6].write('%s\n' % char_ont_id)
-                else:  # evaluation files
+                    char_ont_id_count += 1
+                ##validation file - 10%
+                else:
                     all_output_files[5].write('%s\n' % ont_id)
                     all_output_files[7].write('%s\n' % char_ont_id)
+                    char_ont_id_count += 1
 
                 ##CLASS LABEL - name
                 char_name = ''
                 for c in name:
                     char_name += '%s ' % c
                 char_name = char_name[:len(char_name) - 1]
+                ##training file
                 if count % 10 != 0:
                     all_output_files[8].write('%s\n' % name)
                     all_output_files[10].write('%s\n' % char_name)
-                else:  # evaluation
+                    char_label_count += 1
+                ##validation file - 10%
+                else:
                     all_output_files[9].write('%s\n' % name)
                     all_output_files[11].write('%s\n' % char_name)
+                    char_label_count += 1
 
                 ##MENTION_ID - obo_addition
+                ##training file
                 if count % 10 != 0:
                     all_output_files[12].write('%s_addition\n' % ontology)
-                else:  # evaluation
+                    char_mention_id_count += 1
+                ##validation file - 10%
+                else:
                     all_output_files[13].write('%s_addition\n' % ontology)
+                    char_mention_id_count += 1
 
                 ##SENTENCE NUMBER - obo_addition
+                ##training file
                 if count % 10 != 0:
                     all_output_files[14].write('%s_addition\n' % ontology)
-                else:  # evaluation
+                    char_sent_num_count += 1
+                ##validation file - 10%
+                else:
                     all_output_files[15].write('%s_addition\n' % ontology)
+                    char_sent_num_count += 1
 
+            ##check that everything is outputted correctly and together
+            if len({char_name_count, char_ont_id_count, char_label_count, char_mention_id_count, char_sent_num_count}) != 1:
+                print('line error:')
+                print(line)
+                print('count errors:')
+                print(char_name_count)
+                print(char_ont_id_count)
+                print(char_label_count)
+                print(char_mention_id_count)
+                print(char_sent_num_count)
+                raise Exception('ERROR: issue with outputting everything together')
 
-
+        print('PROGRESS:finished obo addition!')
 
 def ontology_dictionary(ontology, concept_norm_path, full_files_path, character_info_file):
     #create a dictionary from concept ID to [ontology string concepts]
@@ -179,14 +225,16 @@ def ontology_dictionary(ontology, concept_norm_path, full_files_path, character_
     concept_char_lengths = []
     concept_id_char_lengths = []
 
-
+    ##filenames
     src_char_file='combo_src_file_char.txt'
     tgt_char_file = 'combo_tgt_concept_ids_char.txt'
     src_char_val_file = 'combo_src_file_char_val.txt'
     tgt_char_val_file = 'combo_tgt_concept_ids_char_val.txt'
 
-    with open('%s/%s/%s%s_%s' %(concept_norm_path, ontology, full_files_path, ontology, src_char_file), 'r+') as src_file, open('%s/%s/%s%s_%s' %(concept_norm_path, ontology, full_files_path, ontology, tgt_char_file), 'r+') as tgt_file,  open('%s/%s/%s%s_%s' %(concept_norm_path, ontology, full_files_path, ontology, src_char_val_file), 'r+') as src_file_val, open('%s/%s/%s%s_%s' %(concept_norm_path, ontology, full_files_path, ontology, tgt_char_val_file), 'r+') as tgt_file_val:
+    ##create the ontology dictionary from all the concept norm training and validation files to conduct experiments by randomizing, shuffling, and alphebatizing ids
+    with open('%s%s/%s%s_%s' %(concept_norm_path, ontology, full_files_path, ontology, src_char_file), 'r+') as src_file, open('%s%s/%s%s_%s' %(concept_norm_path, ontology, full_files_path, ontology, tgt_char_file), 'r+') as tgt_file,  open('%s%s/%s%s_%s' %(concept_norm_path, ontology, full_files_path, ontology, src_char_val_file), 'r+') as src_file_val, open('%s%s/%s%s_%s' %(concept_norm_path, ontology, full_files_path, ontology, tgt_char_val_file), 'r+') as tgt_file_val:
 
+        ##grab all concepts in src and target file - training - there are multiple concept names per concept id
         for concept, concept_id in zip(src_file, tgt_file):
             updated_concept = concept.strip('\n').lower()
             updated_concept_id = concept_id.strip('\n')
@@ -200,7 +248,7 @@ def ontology_dictionary(ontology, concept_norm_path, full_files_path, character_
             else:
                 ontology_dict[updated_concept_id] = {updated_concept}
 
-
+        ##grab all concepts in src_val, target_val files - validation - there are multiple concept names per concept id
         for concept_val, concept_id_val in zip(src_file_val, tgt_file_val):
             updated_concept_val = concept_val.strip('\n').lower()
             updated_concept_id_val = concept_id_val.strip('\n')
@@ -214,25 +262,26 @@ def ontology_dictionary(ontology, concept_norm_path, full_files_path, character_
             else:
                 ontology_dict_val[updated_concept_id_val] = {updated_concept_val}
 
+
+    ##output all information for character info
     ##'%s\t%s\t%s\t%s\t%s\n' %('ONTOLOGY', 'MIN CONCEPT CHAR LENGTH', 'MAX CONCEPT CHAR LENGTH', 'MIN CONCEPT ID CHAR LENGTH', 'MAX CONCEPT ID CHAR LENGTH'))
     if concept_id_char_lengths and concept_char_lengths:
         character_info_file.write('%s\t%s\t%s\t%s\t%s\n' %(ontology, min(concept_char_lengths), max(concept_char_lengths), min(concept_id_char_lengths), max(concept_id_char_lengths)))
     else:
         print(concept_char_lengths)
         print(concept_id_char_lengths)
-        character_info_file.write('%s\t%s\t%s\t%s\t%s\n' % (
-        ontology, 0, 0, 0, 0))
-        # raise Exception('hold!')
+        character_info_file.write('%s\t%s\t%s\t%s\t%s\n' % (ontology, 0, 0, 0, 0))
 
     return ontology_dict, ontology_dict_val
 
 
-
+##determine a random number
 def randN(N):
     min = pow(10, N-1)
     max = pow(10, N) - 1
     return random.randint(min, max)
 
+##generate a random concept ID of a specific length
 def random_id_generate(concept_id, all_random_ids):
     random_id = ''
     for d in concept_id.split(' '):
@@ -247,10 +296,11 @@ def random_id_generate(concept_id, all_random_ids):
     else:
         return random_id[1:]
 
+##generate a shuffled id if it has digits in it only
 def shuffled_id_generate(concept_id, all_shuffled_ids, ontology_dict, all_concept_ids_nums_only):
     #we only shuffle if it has digits in it
     if any(map(str.isdigit, concept_id)):
-        unused_concept_ids = list(set(all_concept_ids_nums_only) - set(all_shuffled_ids))
+        unused_concept_ids = list(set(all_concept_ids_nums_only).difference(set(all_shuffled_ids)))
         shuffled_id = random.choice(unused_concept_ids)
         all_shuffled_ids += [shuffled_id]
         return shuffled_id
@@ -260,7 +310,7 @@ def shuffled_id_generate(concept_id, all_shuffled_ids, ontology_dict, all_concep
         shuffled_id = concept_id
         return shuffled_id
 
-
+##get rid of all duplicate ontology concepts
 def no_duplicates_lower(ontology, ontology_dict, ontology_dict_val, concept_norm_files_path, main_files, additional_file_paths):
     ##set up output files:
     all_output_files = []  ##list of all the output files
@@ -271,15 +321,13 @@ def no_duplicates_lower(ontology, ontology_dict, ontology_dict_val, concept_norm
     shuffled_ids_dict = {} #dictionary from concept_id -> shuffled_id
     all_shuffled_ids = [] #list of shuffled_ids
 
-    alphabetical_dict = {} #dictionary from concept -> alphabetical_id
-
 
     for file in main_files:
         for a in additional_file_paths:
             current_output_file = open(
-                '%s/%s/%s%s_%s.txt' % (concept_norm_files_path, ontology, a, ontology, file), 'w+')
+                '%s%s/%s%s_%s.txt' % (concept_norm_files_path, ontology, a, ontology, file), 'w+')
             current_output_file_val = open(
-                '%s/%s/%s%s_%s_val.txt' % (concept_norm_files_path, ontology, a, ontology, file), 'w+')
+                '%s%s/%s%s_%s_val.txt' % (concept_norm_files_path, ontology, a, ontology, file), 'w+')
 
             all_output_files += [current_output_file, current_output_file_val]
 
@@ -292,6 +340,7 @@ def no_duplicates_lower(ontology, ontology_dict, ontology_dict_val, concept_norm
     all_concepts = []
     all_concept_ids = list(ontology_dict.keys())
 
+    ##only number concept ids for random and shuffled ids
     all_concept_ids_nums_only = []
     for c_id in all_concept_ids:
         ##take all concepts for alphabetical
@@ -304,7 +353,6 @@ def no_duplicates_lower(ontology, ontology_dict, ontology_dict_val, concept_norm
         else:
             pass
 
-    # print('only ontology dict length of concepts:', len(all_concepts))
 
     ##src/tgt val files
     all_concept_ids_val = list(ontology_dict_val.keys())
@@ -320,31 +368,18 @@ def no_duplicates_lower(ontology, ontology_dict, ontology_dict_val, concept_norm
         else:
             pass
 
-    ##sort the list alphabetically
-    all_concept_ids_full = set(all_concept_ids).copy()
-    all_concept_ids_full.update(set(all_concept_ids_val))
 
 
-
-    all_concepts_sorted = sorted(list(set(all_concepts))) #sorted set of concepts so we have no duplicates
-    alphabet_num_digits = len(str(len(all_concepts_sorted))) #total number of digits we need for this ontology
-    print('num digits needed for alphabet:', ontology, alphabet_num_digits)
-
-    for r, sorted_concept in enumerate(all_concepts_sorted):
-        alphabetical_id = ontology + ':' + str(r).zfill(alphabet_num_digits)
-        alphabetical_id = ' '.join(alphabetical_id)
-        alphabetical_dict[sorted_concept] = alphabetical_id
-
-
-
+    ##create all output files for experiments
     ##src/tgt files - ontology_dict: concept_id -> [concept_list]
     for concept_id, concept_list in ontology_dict.items():
+        ##ensure no duplicates for the experiments
         if len(set(concept_list)) != len(concept_list):
             raise Exception('ERROR WITH MAKING SURE WE HAVE NO DUPLICATES DURING ONTOLOGY DICT BUILD!')
         else:
             pass
 
-
+        ##create dictionary for random and shuffled ids and output the experiment files
         for i,j in zip(range(0, int(len(all_output_files)/2), 2), range(0, len(additional_file_paths))):
             if 'random_ids' in additional_file_paths[j]:
                 random_id = random_id_generate(concept_id, all_random_ids)
@@ -358,11 +393,12 @@ def no_duplicates_lower(ontology, ontology_dict, ontology_dict_val, concept_norm
 
 
 
-            ##for each concept in the list we have the same concept_id
+            ##for each concept in the list we have the same concept_id - output all files
             for c in concept_list:
                 all_output_files[i].write('%s\n' %c)
-
-
+                if 'full_files' in all_output_files[i + int(len(all_output_files) / 2)]:
+                    print(all_output_files[i + int(len(all_output_files) / 2)])
+                    raise Exception('ERROR: We already have full files so need to get rid of it from the all_output_files!')
                 if 'no_duplicates' in additional_file_paths[j]:
                     all_output_files[i+int(len(all_output_files)/2)].write('%s\n' %concept_id)
 
@@ -372,21 +408,18 @@ def no_duplicates_lower(ontology, ontology_dict, ontology_dict_val, concept_norm
                 elif 'shuffled_ids' in additional_file_paths[j]:
                     all_output_files[i + int(len(all_output_files) / 2)].write('%s\n' % shuffled_id)
 
-                elif 'alphabetical' in additional_file_paths[j]:
-                    all_output_files[i + int(len(all_output_files) / 2)].write('%s\n' % alphabetical_dict[c])
-
-
-
-
+    ##now focus on validation information for experiments
+    print('PROGRESS: finished with src file now onto validation!')
     unique_concept_id_val = list(set(all_concept_ids_val_nums_only) - set(all_concept_ids_nums_only))
 
-
+    ##set up all dictionaries for all experiments
     for concept_id_val, concept_list_val in ontology_dict_val.items():
         if len(set(concept_list_val)) != len(concept_list_val):
             raise Exception('ERROR WITH MAKING SURE WE HAVE NO DUPLICATES DURING ONTOLOGY DICT BUILD!')
         else:
             pass
 
+        ##experiment dictionaries
         for i,j in zip(range(1, int(len(all_output_files)/2), 2), range(0, len(additional_file_paths))):
             if 'random_ids' in additional_file_paths[j]:
                 if random_ids_dict.get(concept_id_val):
@@ -405,7 +438,7 @@ def no_duplicates_lower(ontology, ontology_dict, ontology_dict_val, concept_norm
                     shuffled_ids_dict[concept_id_val] = shuffled_id_val
 
 
-
+            ##output all information for exerpiments for validation files
             ##for each concept in the list we have the same concept_id
             for c_val in concept_list_val:
                 all_output_files[i].write('%s\n' %c_val)
@@ -420,8 +453,67 @@ def no_duplicates_lower(ontology, ontology_dict, ontology_dict_val, concept_norm
                 elif 'shuffled_ids' in additional_file_paths[j]:
                     all_output_files[i + int(len(all_output_files) / 2)].write('%s\n' % shuffled_id_val)
 
-                elif 'alphabetical' in additional_file_paths[j]:
-                    all_output_files[i + int(len(all_output_files) / 2)].write('%s\n' % alphabetical_dict[c_val])
+
+
+
+##alphabetical experiment
+def alphabetical_output(ontology, concept_norm_files_path, main_files):
+
+    ##final dictionary
+    alphabetical_dict = {}  # dictionary from span -> alphabetical_id
+
+    ##open the no duplicates and read in just the spans from both regular and val
+    src_file_list = []
+    src_file_val_list = []
+    with open('%s%s/%s/%s_%s.txt' %(concept_norm_files_path, ontology, 'no_duplicates', ontology, 'combo_src_file_char'), 'r+') as src_file, open('%s%s/%s/%s_%s.txt' %(concept_norm_files_path, ontology, 'no_duplicates', ontology, 'combo_src_file_char_val'), 'r+') as src_file_val:
+        ##src file
+        for line in src_file:
+            span = line.strip('\n')
+            src_file_list += [span]
+
+        ##src file val
+        for line in src_file_val:
+            span = line.strip('\n')
+            src_file_val_list += [span]
+
+
+    all_no_duplicate_spans = src_file_list + src_file_val_list ##list of all spans in order
+    ##alphabetize them (sort)
+    unique_spans_sorted = sorted(list(set(all_no_duplicate_spans)))
+    alphabet_num_digits = len(str(len(unique_spans_sorted)))  # total number of digits we need for this ontology
+
+
+    ##assign them a new id in order: alphabetized concept id via dictionary
+    for r, sorted_span in enumerate(unique_spans_sorted):
+        alphabetical_id = ontology + ':' + str(r).zfill(alphabet_num_digits) #pads with zeros up to the correct length - alphabet num digits
+        alphabetical_id = ' '.join(alphabetical_id)
+        alphabetical_dict[sorted_span] = alphabetical_id
+
+    ##output them to the files following the order of the training and validation files
+    all_output_files = []
+    for file in main_files:
+        current_output_file = open(
+            '%s%s/%s/%s_%s.txt' % (concept_norm_files_path, ontology, 'alphabetical', ontology, file), 'w+')
+        current_output_file_val = open(
+            '%s%s/%s/%s_%s_val.txt' % (concept_norm_files_path, ontology, 'alphabetical', ontology, file), 'w+')
+
+        all_output_files += [current_output_file, current_output_file_val]
+
+    ##all_output_files: src, src_val, tgt, tgt_val
+    print('all output files', len(all_output_files))
+
+    #output combos file
+    for span in src_file_list:
+        all_output_files[0].write('%s\n' % (span))
+        all_output_files[2].write('%s\n' %(alphabetical_dict[span]))
+
+
+    #output combo files val
+    for span in src_file_val_list:
+        all_output_files[1].write('%s\n' % (span))
+        all_output_files[3].write('%s\n' % (alphabetical_dict[span]))
+
+
 
 
 
@@ -431,7 +523,6 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('-tokenized_file_path', type=str, help='a string file path to the tokenized files')
     parser.add_argument('-excluded_files', type=str, help='a string list of the files to exclude in this run - comma delimited with no spaces')
-    # parser.add_argument('-save_models_path', type=str, help='a string file path to the saved models')
     parser.add_argument('-ontologies', type=str, help='a list of ontologies to use delimited with ,')
     parser.add_argument('-concept_norm_files_path', type=str, help='a file path to the output for the concept norm files for concept normalization')
     parser.add_argument('-full_files_path', type=str,help='the string folder with the full files in it')
@@ -443,6 +534,8 @@ if __name__ == '__main__':
     ontologies = args.ontologies.split(',')
     excluded_files = args.excluded_files.split(',')
 
+
+    ##character info files
     if args.extensions:
         character_info_file = open('%s%s.txt' %(args.concept_norm_files_path, 'character_info_EXT'), 'w+')
     else:
@@ -450,6 +543,7 @@ if __name__ == '__main__':
 
     character_info_file.write('%s\t%s\t%s\t%s\t%s\n' %('ONTOLOGY', 'MIN CONCEPT CHAR LENGTH', 'MAX CONCEPT CHAR LENGTH', 'MIN CONCEPT ID CHAR LENGTH', 'MAX CONCEPT ID CHAR LENGTH'))
 
+    ##loop over each ontology and create concept normalizaiton training data along with experiments data for both training and validation
     for ontology in ontologies:
         print('PROGRESS:', ontology)
 
@@ -457,21 +551,28 @@ if __name__ == '__main__':
         filename_combo_list = ['combo_src_file', 'combo_tgt_concept_ids', 'combo_tgt_ont_labels','combo_link_mention_ids','combo_link_sent_nums']
 
 
-        ### output_all_files(concept_norm_files_path, ontology, ontology_dict, od_indices, filename_combo_list)
+        ##gather all spanned text to then output
         all_output_files = gather_spanned_text(args.tokenized_file_path, args.concept_norm_files_path , ontology, args.full_files_path, filename_combo_list, excluded_files)
 
+        ##add in the additional obo concepts
         additional_obo_concepts(ontology, args.concept_norm_files_path, all_output_files)
 
 
-        ##TODO: make all of them lowercase and uniform! also duplicates!
+        ##make all of them lowercase and uniform! also duplicates! = experiments!
         ##now that we have all the regular files with the full stuff let's do more
         #ontology dictionary by ID
         ontology_dict, ontology_dict_val = ontology_dictionary(ontology, args.concept_norm_files_path, args.full_files_path, character_info_file)
         print('total ontology concept ids:', len(ontology_dict.keys()))
 
         main_files = ['combo_src_file_char', 'combo_tgt_concept_ids_char']
-        additional_file_paths = ['no_duplicates/', 'random_ids/', 'shuffled_ids/', 'alphabetical/']
+        ##the experiment file paths with alphetical separately
+        additional_file_paths = ['no_duplicates/', 'random_ids/', 'shuffled_ids/']
 
-
+        ##get rid of duplicates
         no_duplicates_lower(ontology, ontology_dict, ontology_dict_val, args.concept_norm_files_path, main_files, additional_file_paths)
+
+        print('PROGRESS: finished no duplicates, random ids, and shuffled ids')
+
+        ##alphabetical stuff specifically based on no_duplicates
+        alphabetical_output(ontology, args.concept_norm_files_path, main_files)
 
