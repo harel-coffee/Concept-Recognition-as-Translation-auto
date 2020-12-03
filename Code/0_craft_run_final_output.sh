@@ -17,10 +17,10 @@ evaluation_files="11319941,11604102,14624252,14675480,14691534,15018652,15070402
 final_output='/Output_Folders/concept_system_output/'
 
 ##the span detection algorithm to use
-algo='LSTM_ELMO' #CRF, LSTM, LSTM_CRF, CHAR_EMBEDDINGS, LSTM_ELMo, BIOBERT
+algo='CRF,LSTM,LSTM_CRF,CHAR_EMBEDDINGS,LSTM_ELMO,BIOBERT' #CRF, LSTM, LSTM_CRF, CHAR_EMBEDDINGS, LSTM_ELMo, BIOBERT
 
 ##the corresponding model name for each span detection algorithm in order
-algo_filename_info='LSTM_ELMO_model_weights' #crf_model_full, LSTM_model, LSTM_CRF_model, char_embeddings_LSTM_model, LSTM_ELMO_model_weights, biobert_model
+algo_filename_info='crf_model_full,LSTM_model,LSTM_CRF_model,char_embeddings_LSTM_model,LSTM_ELMO_model_weights,biobert_model_local' #crf_model_full, LSTM_model, LSTM_CRF_model, char_embeddings_LSTM_model, LSTM_ELMO_model_weights, biobert_model_local
 
 ##run the final output formatting for final performance analysis
 python3 0_craft_final_output.py -ontologies=$ontologies -eval_path=$eval_path -evaluation_files=$evaluation_files -concept_system_output=$concept_system_output -final_output=$final_output -algo=$algo -algo_filename_info=$algo_filename_info
