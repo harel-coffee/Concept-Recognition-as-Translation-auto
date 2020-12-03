@@ -1,0 +1,3446 @@
+QTLs
+genes
+quantitative trait loci
+QTLs
+QTLs
+gene
+genes
+genetic
+genes
+genetic
+genic
+quantitative trait loci
+QTLs
+genes
+genetic
+genetic
+QTL
+genetically
+genetically
+QTL
+QTL
+Alleles
+QTL
+genetic
+genome
+genome
+Alleles
+alleles
+allele
+allele
+allele
+allele
+allele
+genome
+QTL
+Allelic
+genetic
+genes
+QTL
+QTL
+QTL
+gene
+genetic
+genome
+genetic
+genetic
+QTL
+gene
+allele
+QTL
+genes
+QTLs
+gene
+QTLs
+QTL
+cluster of linked genes
+QTL
+genes
+genes
+gene
+gene
+gene
+QTL
+genes
+gene
+genes
+genetic
+QTLs
+QTLs
+QTLs
+genomes
+alleles
+QTL
+Genomic
+genome
+QTL
+QTLs
+gene
+domains
+gene
+genes
+genomic
+syntenic ... regions
+orthologue
+genome
+genes
+genes
+gene
+genes
+genes
+genes
+gene
+Genetic
+homologue
+segment in ... UTR
+5' UTR
+gene
+genes
+domains
+gene
+cDNA clones
+bp
+5' untranslated region
+5' ... UTR
+open reading frame
+bp
+3' UTR
+orthologue
+3' UTR
+bp
+bp
+bp
+segments in ... UTR
+3' UTR
+regulatory elements
+domains
+bp
+reading frame
+domains
+Genomic
+genomic
+exons
+exon
+intron
+exon
+genomic
+gene
+genome
+genes
+exons
+intron
+insertion sites
+exons
+Exon
+intron
+genes
+Introns
+primers
+intronic
+genomic
+gene
+syntenic
+gene
+alleles
+transcripts
+transcript
+cDNA clones
+transcripts
+gene
+genomic
+primers
+introns
+genomic
+pre-mRNA
+genes
+genes
+pre-mRNAs
+exon
+polypyrimidine tract
+genomic
+orthologue
+3' UTR
+domain
+homology
+cDNA clones
+cDNA clones
+primer
+primer
+primers
+PCR products
+vector
+5' UTR
+cDNA clone
+cDNA clone
+insert
+genomic clones
+genomic
+flanking
+exons
+primers
+intronic
+flanking
+exon
+primers
+bp
+genomic
+gene
+transcripts
+primers
+bp
+bp
+primer
+intron
+insertion sites
+insert of ... cDNA clone
+in-frame
+vector
+vectors
+allelic
+domains
+binding sites
+domain
+gene
+domain
+allele
+binding sites
+domain
+allelic
+Allelic
+allelic
+binding site
+premature stop codon
+binding site
+targeting vector
+allele
+allele
+domain
+binding sites
+allele
+alleles
+promoter
+transgene
+allele
+allele
+alleles
+allele
+allele
+allele
+alleles
+alleles
+transgene
+alleles
+alleles
+alleles
+domain
+allele
+domain
+protein-binding sites
+binding sites
+binding site
+domain
+alleles
+alleles
+allele
+domain
+domain
+allele
+gene
+allele
+allele
+alleles
+alleles
+allele
+domain
+domain
+binding sites
+allele
+binding site
+gene
+gene
+restriction site
+targeting vector
+vector
+exons
+targeting vector
+genomic
+targeting vector
+targeting vector
+genomic
+exons
+binding sites
+targeting vector
+premature stop codon
+binding site
+cassettes
+insert
+domain
+domain
+homology
+domain
+Allelic
+alleles
+genomic
+binding site(s)
+allele
+binding site
+allele
+stop codon
+binding site
+Targeting vector
+allele
+exons
+Targeting vector
+exons
+allele
+allele
+allele
+exon
+exons
+exons
+FRT sites
+loxP sites
+allele
+allele
+alleles
+allelic
+allelic
+allele
+gene
+gene
+isoforms
+antisense
+isoforms
+gene
+gene
+exons
+genomic
+exons
+5' untranslated region
+exons
+3' untranslated region
+region in exon
+targeting vector
+exons
+vector
+gene
+cassette
+polyadenylation sequence
+gene
+exons
+gene
+cassette
+exon
+exon
+exon
+gene
+targeting vector
+exons
+gene
+cassette
+cassette
+targeting vector
+antisense RNA
+antisense RNA
+antisense RNA
+antisense RNA
+region of ... gene
+genetic
+genetic
+promoter
+genomic clone
+BAC
+genomic
+EST
+BAC
+targeting vector
+exons
+gene
+vector
+PCR product
+primers
+cassette
+primers
+cassette
+targeting vector
+targeting vector
+targeting vector
+primers
+primers
+alleles
+bp
+3' utr
+bp
+3' utr
+primers
+PCR products
+antisense
+T7 promoter
+gene
+allele
+genetic
+homolog
+gene
+genomic
+gene
+genes
+allelic
+gene
+allele
+allele
+allele
+genetic
+Small interfering RNA
+siRNA
+allelic
+gene
+allele
+genetically
+allele
+gene
+intron
+cassette
+promoter
+cassette
+allele
+gene
+allele
+allele
+allele
+genetically
+exons
+flanked
+loxP sites
+cassette
+alleles
+cassette
+floxed
+floxed
+allele
+loxP
+loxP
+gene
+gene
+gene
+promoter
+gene
+gene
+gene
+promoter
+gene
+promoter
+promoter
+loxP
+loxP
+loxP
+loxP
+loxP
+gene
+allele
+genetic
+allele
+allele
+allele
+genetic
+gene
+genetic
+alleles
+primers
+Targeting vector
+genomic
+exons
+genomic
+genomic
+allele
+loxP
+allele
+allele
+loxP
+floxed
+allele
+loxp
+primer
+primer
+primer
+allele
+primer
+loxP
+loxP
+bp
+exon
+forward ... primer
+exon
+exon
+reverse primer
+PCR products
+primers
+bp
+homolog
+siRNA
+small interfering RNA
+alleles
+exon
+forward ... primers
+exon
+reverse ... primers
+Gene
+cassette
+floxed
+exons
+genomic
+exons
+cassette
+loxP site
+genomic
+primers
+floxed
+allele
+loxP
+allele
+loxP
+floxed
+loxP
+loxP
+loxP
+primers
+loxP
+loxP
+loxP
+loxp
+loxP
+primers
+loxP
+allele
+loxP
+loxP
+allele
+gene
+gene
+gene
+Genome
+gene
+gene
+gene
+gene
+open reading frame
+cassette
+flanked
+loxP sites
+cassette
+genomic
+gene
+exons
+non-coding regions of ... first ... exons
+non-coding regions of ... last exons
+cassette
+open reading frame
+gene
+cassette
+portions of ... gene
+loxP site
+primers
+alleles
+allele
+PCR product
+bp
+primers
+allele
+PCR product
+bp
+primers
+gene
+gene
+gene
+genome
+homologues
+processed ... pseudogenes
+intron
+homologue
+pseudogenes
+genetic
+transgene
+promoter
+transgene
+gene
+gene
+genes
+genomic
+translation initiation site
+termination codon
+cassette
+flanked
+loxP
+genomic
+cassette
+plasmid
+genomic
+genetic
+Primers
+allele
+PCR product
+bp
+primers
+allele
+PCR product
+bp
+primers
+transgene
+linear
+gene
+transgene
+gene
+genetic
+gene
+gene
+gene
+coiled-coil
+domain
+gene
+gene
+allele
+orthologs
+gene
+transcripts
+gene
+domain
+domains
+coiled-coil
+domain
+domain
+coiled-coil
+domain
+transcript
+ORF
+bp
+bp
+EST
+ORF
+bp
+transcripts
+coiled-coil
+Coiled-coil
+coiled-coil
+homology
+domain
+domain
+domains
+domain
+domains
+CC
+coiled-coil
+domain
+domain
+homology
+gap
+sequence matches
+ESTs
+gene
+exons
+gene
+domains
+coiled-coil
+homology
+transcript
+coiled-coil
+coiled-coil
+transcript
+transcript
+transcript
+transcript
+transcript
+transcript
+coiled-coil
+domain
+coiled-coil
+coiled-coil
+domain
+domain
+coiled-coil
+domain
+gene
+gene
+homology
+gene
+paralog
+domains
+gene
+genes
+homology
+coiled-coil
+gene
+Plasmid
+vectors
+vectors
+vectors
+primers
+ESTs
+PCR product
+vectors
+region of ... coding region
+vector
+domain
+vector
+domain
+domain
+genes
+vector
+domain
+bp
+antisense
+vectors
+gene
+isoforms
+genetic
+genes
+antisense
+gene
+transcripts
+gene
+gene
+gene
+genes
+vector
+gene
+vector
+genes
+gene
+genes
+genomic
+gene
+genes
+allele
+gene
+promoter
+gene
+gene
+transgene
+loxP-flanked
+allele
+transgene
+gene
+genes
+isoform
+loxP-flanked
+allele
+transgene
+loxP-flanked
+allele
+transgene
+loxP-flanked
+primers
+forward primer
+F
+reverse primer
+R
+gene
+gene
+primers
+reverse primer
+R
+forward primer
+F
+reverse primer
+R
+forward primer
+F
+reverse primer
+R
+forward primer
+F
+reverse primer
+R
+forward primer
+F
+reverse primer
+R
+forward primer
+F
+gene
+gene
+isoforms
+Gene
+gene
+gene
+allele
+domain
+gene
+vector
+exons
+gene
+genomic
+insert
+exons
+gene
+plasmid
+start codon
+exon
+exon
+allele
+primers
+exon
+gene
+base pairs
+allele
+gene
+exons
+gene
+isoforms
+start codons
+exons
+isoforms
+allele
+gene
+alleles
+isoforms
+isoforms
+genetic
+gene
+binding site
+domain
+domain
+Genetic
+genes
+gene
+genetic
+genes
+genes
+genetically
+genes
+genome
+gene
+transposon
+genomic
+genome
+gene
+genome
+genome
+gene
+gene
+loxP-flanked
+cassette
+gene
+gene
+gene
+genetic
+genes
+alleles
+genes
+genome
+genetic
+genetically
+transgene
+genetically
+genetically
+nuclear localization sequences
+nls
+nls
+vectors
+promoter
+gene
+transgene
+transgene
+promoter
+transgene
+genetically
+genome
+genetically
+genetically
+genomic
+gene
+genomic
+plasmids
+plasmids
+vectors
+circular
+plasmid
+transgene
+transgene
+site of integration
+gene
+plasmid
+transgene
+transgenes
+transgene
+genes
+transgenes
+gene
+genetic
+genes
+genetic
+gene
+gene
+gene
+loxP sites
+genomic
+loxP flanked
+transgene
+promoter
+gene
+loxP flanked
+transgene
+gene
+transgene
+gene
+transgene
+gene
+transgene
+genes
+nuclear localization signal
+plasmid
+IRES
+plasmid
+vector
+IRES
+IRES
+vector
+vector
+IRES
+insert
+vector
+vector
+target vector
+vector
+promoter
+genomic
+NLS
+transgene
+target vector
+Gene
+genetic
+vector
+circular
+plasmid
+plasmid
+vector
+transgene
+transgene
+genomic
+vector
+gene
+genomic
+primers
+genomic
+primers
+allele
+cassette
+bp
+allele
+bp
+primers
+allele
+allele
+PCR products
+exon
+exons
+gene
+exon
+loxP site-flanked
+internal ribosomal entry site
+IRES
+nuclear localization signal
+IRES
+polyadenylation signals
+loxP flanked
+promoter
+transgene
+loxP flanked
+plasmid
+vector
+transgene
+promoter
+IRES
+transgene
+allele
+transgene
+transgenes
+loxP
+transgene
+loxP-flanked
+IRES
+transgenes
+IRES
+IRES
+IRES
+IRES
+IRES
+IRES
+IRES
+transgene
+allele
+IRES
+IRES
+transgene
+gene
+transgenes
+promoter
+promoter
+genes
+transgenes
+genomic
+IRES
+vectors
+IRES
+transgene
+exons
+gene
+loxP sites
+insertion point
+restriction sites
+genomic
+plasmid
+cassettes
+plasmid
+transgene
+loxP
+IRES
+bicistronic
+transgene
+transgene
+GENE
+IRES
+GENE
+GENE
+GENE
+gene
+IRES
+bicistronic
+transgene
+IRES
+IRES
+IRES
+gene
+cassette
+intron
+gene
+gene
+gene
+intron
+gene
+genetically
+binding sites
+binding sites
+gene
+gene
+gene
+intron
+genomic
+intronic
+alleles
+genes
+allele
+exon
+gene
+flanked
+loxP sites
+gene
+restriction fragment length polymorphisms
+exon
+flanked
+loxP sites
+floxed
+F
+allele
+F
+F
+F
+F
+allele
+allele
+F
+F
+F
+floxed
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+gene
+loxP sites
+flank
+exon
+gene
+loxP sites
+floxed
+transgene
+promoter
+Restriction fragment polymorphism
+genomic
+loxP sites
+allele
+exon
+allele
+transgene
+allele
+f
+floxed
+allele
+F
+f
+f
+f
+f
+f
+f
+f
+f
+exon
+loxP sites
+exon
+gene
+Genetic
+genetic
+genetic
+intronic
+alleles
+alleles
+gene
+gene
+Intronic
+alleles
+cryptic
+gene
+gene
+gene
+alleles
+allele
+intronic
+gene
+binding sites
+binding site
+isoforms
+genetically
+genetically
+genetically
+genomic
+Exons
+gene
+Genome
+loxP site
+bp
+Exon
+gene
+promoter
+polyadenylation signals
+loxP site
+bp
+Exon
+gene
+cassette
+genomic
+gene
+genomic
+cassette
+targeting vector
+allele
+F
+F
+F
+binding sites
+Gene
+gene
+targeting vector
+F
+alleles
+restriction sites
+exons
+loxP sites
+plasmid
+cassettes
+allele
+allele
+F
+F
+binding sites
+allele
+Gene
+helix
+helix
+domains
+genes
+homology
+allele
+allele
+in-frame
+open reading frame
+allele
+alleles
+allele
+gene
+allele
+allele
+genes
+Promoter
+genes
+genes
+genes
+promoter
+genes
+open reading frame
+allele
+allele
+internal ribosomal entry site
+IRES
+allele
+flanked
+LoxP sites
+allele
+gene
+promoter
+alleles
+allele
+alleles
+allele
+allele
+genes
+genes
+alleles
+allele
+promoter
+alleles
+alleles
+allele
+allele
+allele
+allele
+allele
+alleles
+allele
+alleles
+alleles
+allele
+homology
+domains
+genes
+orthologs
+genes
+genes
+genetically
+genes
+orthologs
+gene
+alleles
+allele
+alleles
+promoter
+allele
+allele
+genes
+Gene
+gene
+exon
+polyadenylation signal
+targeting vector
+promoters
+genetic
+vector
+open reading frame
+flanked
+LoxP
+cassettes
+IRES
+polyA
+plasmid
+vector
+allele
+allele
+plasmid
+allele
+vector
+allele
+helix
+helix
+IRES
+internal ribosomal entry site
+Allele
+exon
+genomic
+gene
+promoter
+Allele
+IRES
+LoxP sites
+IRES
+genomic
+Allele
+alleles
+allele
+allele
+allele
+allele
+alleles
+allele
+genes
+genetic
+genes
+Genome
+haplotype
+quantitative trait locus
+QTL
+QTL
+genes
+QTL
+gene
+quantitative trait locus
+QTL
+QTLs
+QTLs
+haplotypes
+QTLs
+gene
+QTL
+Genetic
+genes
+QTL
+gene
+genetic
+gene
+genes
+genetic
+genome
+regions of conserved synteny
+genes
+quantitative trait locus
+QTL
+genes
+QTLs
+Genomic
+Genomic
+SSLPs
+genome
+primer
+SSLPs
+SSLP
+primer
+genomic
+PCR products
+genome
+QTL
+SSLP
+SSLPs
+genome
+QTL
+QTLs
+SSLPs
+Haplotype
+haplotype
+QTL
+QTL
+haplotype
+Haplotypes
+SSLPs
+haplotype
+QTL
+QTL
+haplotypes
+QTLs
+genetic
+genome
+QTLs
+genome
+QTL
+QTLs
+Genome
+QTLs
+SSLPs
+QTL
+QTL
+QTL
+QTL
+SSLPs
+QTLs
+QTLs
+QTLs
+QTLs
+Haplotype
+haplotype
+haplotype
+QTL
+QTLs
+SSLP
+SSLP
+haplotypes
+haplotypes
+SSLPs
+QTLs
+haplotype
+haplotypes
+haplotypes
+QTLs
+QTLs
+haplotype
+haplotype
+QTLs
+genes
+QTLs
+genes
+genes
+gene
+transcript
+genes
+genes
+gene
+QTL
+genetic
+gene
+genetic
+genetic
+genes
+QTL
+QTL
+QTLs
+QTL
+QTL
+QTLs
+QTL
+QTL
+QTL
+QTL
+QTL
+haplotype
+allelic
+QTLs
+haplotype
+QTLs
+QTLs
+genes
+genes
+QTL
+genes
+QTL
+genes
+QTLs
+genes
+gene
+genes
+QTL
+genes
+gene
+QTL
+genes
+gene
+gene
+gene
+regulatory element
+QTL
+QTLs
+Haplotype
+QTL
+genetic
+genes
+QTL
+orthologs
+homology
+domain
+genes
+ortholog
+domain
+orthologs
+orthologs
+homology
+domain
+ortholog
+homolog
+orthologs
+genes
+Gene
+primers
+BAC
+primers
+vector
+genes
+BAC
+plasmids
+PCR products
+plasmid
+in-frame
+plasmid
+plasmid
+vector
+plasmid
+plasmid
+domain
+promoter
+genes
+genes
+exonic
+genes
+homologs
+expressed sequence tags
+ESTs
+homology
+BAC
+isoform
+cDNA clone
+intron
+BAC
+genomic
+exon
+intron
+gene
+gene
+coding exons
+in-frame
+exons
+gene
+BAC
+EST
+homology
+exonic
+gene
+exons
+cDNA clone
+sequence match
+exonic
+genomic
+homology
+isoforms
+exon
+genes
+genes
+gene
+homology
+orthologs
+homologies
+domain
+domain
+domain
+domain
+binding region
+domain
+isoform
+plasmids
+nuclear localization signal
+nuclear localization signal
+NLS
+domain
+NLS
+NLS
+NLS
+NLS
+NLS
+NLS
+NLS
+domain
+NLS
+NLS
+NLS
+NLS
+NLS
+NLS
+NLS
+NLS
+NLS
+NLS
+NLS
+NLS
+NLS
+domain
+domains
+domains
+domain
+plasmid
+Plasmid
+intron
+flanked
+transcripts
+transcripts
+binding sites
+domains
+genes
+gene
+genes
+transcripts
+transcripts
+cryptic
+NLS
+transcripts
+homology
+domain
+plasmids
+Exon
+intron
+genes
+genomic
+Exons
+translational initiation codon
+translation termination codons
+in-frame
+codons
+protein domains
+domains
+domain
+domain
+domain
+plasmids
+plasmids
+NLS
+plasmids
+NLS
+NLS
+plasmids
+plasmid
+plasmids
+plasmids
+plasmid
+gene
+gene
+genetic
+genetic
+helix
+helix
+homolog
+gene
+homologs
+genes
+gene
+gene
+alleles
+gene
+allele
+gene
+loxP
+gene
+Allele
+Gene
+allele
+flanking
+domain
+exon
+exon
+gene
+loxP sites
+domain
+region of ... gene
+allele
+flox
+promoter
+flox
+floxed
+allele
+allele
+primers
+floxed
+exon
+flox
+allele
+allele
+Allele
+Gene
+flox
+targeting vector
+loxP sites
+exon
+domain
+exon
+exon
+cassette
+flanked
+FRT sites
+gene
+Primer
+primers
+exon
+bp
+allele
+bp
+allele
+exon
+flox
+flox
+allele
+allele
+flox
+exon
+floxed
+allele
+flox
+allele
+exon
+flox
+gene
+genes
+allele
+allele
+gene
+allele
+gene
+genes
+gene
+gene
+genes
+gene
+alleles
+genes
+gene
+allele
+allele
+bacterial artificial chromosome
+genomic
+bacterial artificial chromosome
+targeting vector
+exon
+vector
+loxP
+FRT
+FRT
+cassette
+exon
+loxP
+FRT
+FRT
+cassette
+exon
+vector
+loxP site
+vector
+gene
+loxP
+FRT
+FRT
+vector
+targeting vector
+flox
+primer
+loxP site
+loxP site
+primers
+flanked
+loxP site
+allele
+primers
+cassette
+cassette
+FRT-flanked
+cassette
+flox
+flox
+allele
+allele
+allele
+flox
+alleles
+allele
+allele
+allele
+flox
+flox
+flox
+flox
+primers
+forward
+reverse
+primers
+flank
+LoxP site
+primer
+LoxP site
+reverse primer
+alleles
+primers
+forward
+reverse
+primers
+forward
+reverse
+reverse primer
+allele
+flox
+allele
+in-frame
+domain
+floxed
+flox
+allele
+bp
+exon
+primers
+vector
+primer
+primers
+flanked
+exon
+isoform
+isoforms
+genes
+exon
+isoform
+pre-mRNA
+promoter
+genetic
+Genome
+genes
+isoforms
+gene
+promoter
+domain
+allele
+domain
+domain
+domain
+exon
+genes
+domain
+isoform
+isoform
+genomic
+BAC
+contig
+genomic
+exon
+genomic
+genomic
+homologous
+exon
+genomic clone
+contig
+Bacterial artificial chromosome
+BAC
+intron/exon boundaries
+Exon
+gene
+BAC
+contig
+genomic
+Primers
+F
+R
+genomic
+exon
+gap
+genomic
+exon
+primer
+F
+R
+F
+R
+primer
+F
+F
+R
+R
+F
+R
+PCR products
+exon
+exon
+gene
+primer
+PCR products
+primers
+Targeting vector
+vector
+exon
+cassette
+BAC
+primers
+F
+R
+F
+R
+exon
+intron
+intron
+cassette
+transcriptional stop signal
+targeting vector
+Genomic
+Primer
+isoform
+isoforms
+genomic
+exon
+exon
+exon
+Exon
+exon
+message
+isoform
+exon
+exon
+exons
+exons
+forward primers
+exons
+exon
+antisense
+primers
+promoter
+exon
+exon
+exon
+exon
+reading frame
+exon
+Exon
+untranslated sequences
+exon
+promoter
+exon
+isoform
+initiation codon
+isoform
+domain
+exon
+promoter
+isoforms
+domain
+promoter
+genomic
+exon
+bp
+homology
+exon
+gap
+genomic
+gap
+genomic
+bp
+exon
+promoter
+exon
+isoform
+exon
+domain
+exon
+intron
+intron
+exon
+allele
+exon
+exon
+exon
+exon
+exon
+exons
+primers
+exon
+bp
+bp
+alleles
+bp
+exon
+exon
+exon
+cassette
+exon
+initiation codon
+message
+reading frame
+Gene
+initiation codon
+allele
+isoforms
+isoforms
+isoform
+genome
+allele
+isoforms
+isoform
+gene
+gene
+gene
+promoter
+exon
+domain
+isoform
+gene
+genes
+genomic
+genetic
+domain
+domain
+domain
+gene
+isoform
+isoforms
+gene
+protein domains
+allele
+gene
+DNA-binding ... region
+domain
+isoform
+domain
+domain
+exon
+untranslated ... exons
+coding ... exons
+exon
+exon
+forward ... primers
+F ... primers
+reverse ... primers
+R ... primers
+exon
+intron
+primers
+F
+R
+bp
+primers
+F
+R
+bp
+primers
+bp
+message
+promoter
+Pro
+promoter
+Pro
+transcript
+exon
+exon
+exon
+exon ... coding sequence
+exon
+isoforms
+domain
+isoform
+domains
+exon
+exon
+cassette
+exon
+initiation codon
+domain
+domain
+domains
+genomic
+Intron
+Int
+F
+Int
+R
+Int
+F
+R
+alleles
+primers
+exons
+PCR products
+processed pseudogene
+exon
+exon
+exon
+cassette
+reading
+initiation codon
+allele
+allele
+loxP
+LoxP elements
+introns
+flanking
+exon
+gene
+allele
+loxP sites
+allele
+floxed
+gene
+domains
+allele
+flank
+exon
+loxP elements
+exon
+loxP elements
+targeting vector
+loxP element
+exons
+cassette
+loxP element
+gene
+exons
+FRT sites
+flanked
+gene
+restriction endonuclease cleavage sites
+targeting vector
+alleles
+targeting vector
+loxP
+genomic
+targeting vector
+loxP site
+cassette
+loxP
+allele
+loxP
+allele
+allele
+cassette
+loxP
+cassette
+FRT sites
+loxP
+gene
+promoter
+cassette
+loxP
+loxP
+loxP
+allele
+genomic
+targeting vector
+exons
+primers
+loxP ... sites
+FRT ... sites
+cassettes
+restriction endonuclease fragments
+genomic
+loxP
+allele
+allele
+Exon
+cassette
+exon
+flanked
+loxP elements
+loxP
+loxP
+restriction fragments
+genomic
+Primers
+bp
+loxP
+bp
+bp
+alleles
+bp
+F
+R
+bp
+bp
+transgenes
+gene
+loxP
+loxP
+loxP
+promoter
+loxP
+loxP
+loxP
+loxP
+loxP
+loxP
+loxP sites
+loxP
+loxP
+loxP
+loxP
+loxP
+loxP
+primers
+loxP elements
+loxP
+loxP
+loxP
+loxP
+loxP
+loxP
+loxP
+loxP
+loxP
+loxP
+gene
+loxP
+loxP
+loxP
+loxP
+promoter
+loxP
+loxP
+loxP
+loxP
+loxP
+loxP
+loxP
+allele
+loxP
+loxP sites
+loxP
+allele
+allele
+genomic
+loxP
+loxP
+transgene
+loxP
+loxP
+loxP
+loxP
+Plasmid
+bacterial artificial chromosome
+BAC
+genomic
+Plasmid
+genomic
+exons
+vector
+cassette
+plasmid
+cassette
+loxP
+loxP
+plasmid
+primers
+bp
+intron
+intron
+cassette
+loxP site
+loxP
+cassette
+primers
+bp
+bp
+intron
+cassette
+intron
+targeting vector
+Linear
+targeting vector
+allele
+loxP
+loxP
+loxp
+cassette
+transgene
+loxP
+loxP
+loxp
+loxP elements
+transgene
+primer
+F
+R
+primer
+F
+R
+targeting vector
+plasmids
+plasmids
+genetic
+gene
+gene
+gene
+gene
+exon
+intron
+portion of ... gene
+gene
+targeting vector
+exons
+flanking
+allele
+gene
+domains
+binding regions
+gene
+gene
+exons
+alleles
+portions of ... exons
+untranslated sequences
+promoter
+loxP
+floxed
+cassettes
+exon
+bp
+bp
+transcription initiation site
+exon
+exon ... coding sequence
+exons
+allele
+allele
+genomic
+allele
+allele
+genomic
+allele
+exon
+gene
+gene
+exons
+primer
+regions of ... transcript
+primer
+transcripts
+transcripts
+primer
+region of ... transcript
+transcript
+primer
+region of ... transcript
+transcript
+cassette
+gene
+gene
+gene
+genetic
+genes
+genetic
+exons
+transcripts
+transcriptional start sites
+translation initiation sites
+module
+domain
+domain
+gene
+Targeting vector
+primers
+bp
+genomic
+Genome
+BAC
+BAC
+intron
+exon
+portion of ... gene
+exons
+BAC
+genomic
+contig
+targeting vector
+exons
+gene
+exon
+loxP
+floxed
+cassette
+cassette
+targeting vector
+allele
+genetic
+primer
+allele
+genomic
+primer
+antisense
+primer
+bp
+allele
+primer
+antisense
+primer
+bp
+domain
+transcript
+primer
+transcript
+primer
+forward primer
+exon
+reverse primer
+exon
+bp
+primer
+forward primer
+exon
+reverse primer
+exon
+bp
+transcript
+forward primer
+reverse primer
+bp
+transcript
+forward primer
+reverse primer
+bp
+transcript
+forward primer
+reverse primer
+bp
+targeting vector
+BAC
+targeting vector
+targeting vector
+vector
+transcription initiation sites
+5' UTR
+exon
+Gene
+gene
+gene
+transposon
+transposable elements
+transposon
+transposon
+vector
+genes
+transposon
+gene
+gene
+transposon
+gene
+genes
+promoter
+gene
+gene
+vector
+transgene
+gene
+vectors
+gene
+vector
+gene
+gene
+genes
+genes
+vector
+gene
+genes
+gene
+gene
+transposon
+transposable elements
+transposon
+genes
+genetic
+genetic
+genes
+genes
+gene
+gene
+gene
+transposon
+transposon
+gene
+genes
+transposon
+gene
+polyA
+transposon
+vectors
+vectors
+genes
+transgene
+promoter
+promoter
+gene
+transposon
+vector
+gene
+gene
+genes
+transgenes
+transposon
+transposon
+gene
+transposon
+gene
+vector
+gene
+vector
+transgene
+gene
+internal ribosomal entry site
+IRES
+polyadenylation signal
+stop codon
+reading frame
+IRES
+transposon
+vector
+gene
+transposon
+gene
+gene
+gene
+open reading frame
+exon
+gene
+gene
+gene
+transposon
+intron
+gene
+exon
+IRES ... elements
+bicistronic messenger RNA
+gene
+stop codons
+IRES
+IRES
+cap
+open reading frame
+vector
+gene
+gene
+gene
+gene
+cassette
+transposon
+vector
+transgene
+transposon
+vector plasmid
+gene
+genome
+cassette
+transposon
+vector
+gene
+cassette
+transposon
+gene
+transposon
+cassette
+IRES
+cassette
+gene
+exon
+gene
+primers
+gene
+gene
+exon
+gene
+gene
+gene
+vector
+gene
+transgene
+gene
+transposon
+vectors
+transgene
+genome
+transgenes
+transposon
+transgene
+gene
+transposons
+transposons
+transposon
+transposons
+gene
+transposon
+transposon
+transposon
+transposon
+transposons
+transposons
+genome
+gene
+transposons
+base pairs
+double-strand
+transposon
+transgene
+flank
+gene
+gene
+loxP sites
+vector
+flanking
+gene
+vector
+gene
+gene
+transgene
+transposon
+gene
+transposon
+transposon
+genomic
+genome
+transposons
+genome
+genes
+primer
+transposon
+gene
+vector
+gene
+genes
+gene
+intron
+gene
+intron
+predicted ... gene
+primers
+exons
+gene
+IRES
+exon
+IRES
+bicistronic transcripts
+transcript
+transcript
+transcript
+gene
+exon
+transcripts
+promoter
+transgene
+gene
+vectors
+promoter
+transgene
+transgene
+gene
+transposons
+transgenes
+transposable elements
+transposons
+transposon
+gene
+gene
+domains
+gene
+genes
+gene
+exons
+isoforms
+primers
+exons
+flank
+transcripts
+gene
+IRES
+transcript
+gene
+transposon
+genetically
+transposons
+gene
+cap
+IRES
+gene
+gene
+transposon
+gene
+vector
+genes
+gene
+genes
+genes
+transgene
+gene
+transposon
+genes
+vector
+gene
+promoter
+transgene
+vector
+transposon
+transposon
+genome
+genomic
+transposon
+genome
+transposon
+gene
+vectors
+genes
+vector
+gene
+gene
+gene
+gene
+gene
+vectors
+genes
+polyadenylation signals
+plasmid
+gene
+vectors
+genes
+vectors
+genes
+IRES
+gene
+gene
+vector
+IRES
+IRES
+gene
+IRES
+gene
+domain of ... gene
+gene
+gene
+transposons
+genomic
+gene
+transposons
+transposons
+plasmid
+gene
+transposon
+genome
+genome
+linkage groups
+enhancer
+genes
+enhancer
+promoter
+gene
+gene
+transgenes
+gene
+transposon
+gene
+vector
+genes
+genetic
+promoters
+gene
+gene
+transposon
+vector
+genome
+gene
+transgene
+gene
+transgenes
+gene
+transposon
+vectors
+primer
+gene
+vectors
+exon
+exon
+stop codons
+reading frame
+plasmid
+primers
+bp
+overlap
+plasmid
+overlapped region
+plasmid
+loxP site
+bp
+loxP sequence
+loxP sequence
+loxP
+loxP
+transposon
+vector
+loxP
+loxP
+loxp
+bp
+transcriptional termination sequence
+gene
+loxp
+loxp
+plasmid vectors
+polyadenylation signals
+gene
+loxP site
+loxp
+gene
+plasmid
+primer
+primers
+primers
+primer
+bp
+plasmid
+minigene
+transposon
+minigene
+insertion site
+plasmid
+BAC
+genomic
+bp
+open reading frame
+bp
+bp
+Transposons
+genomic
+genomic
+vector
+gene
+transgenes
+gene
+gene
+gene
+genes
+gene
+branch point
+gene
+exon
+genes
+genomic
+predicted genes
+Primer
+Transposon
+Gene
+vector
+vectors
+genes
+genes
+gene
+transposon
+gene
+vector
+gene
+IRES
+bicistronic mRNA
+polyadenylation site
+bicistronic mRNA
+cap
+exons
+transposon
+vector
+plasmid
+gene
+transposon
+transposon
+gene
+transposon
+transposon
+gene
+gene
+gene
+Genes
+exons
+IRES
+gene
+isoforms
+gene
+transgene
+genes
+genes
+exons
+IRES
+cassette
+gene
+transgene
+base pairs
+primer
+gene
+transposons
+Transposon
+genetic
+gene
+lox
+gene
+gene
+promoter
+alleles
+domain
+domain
+domain
+domain
+domain
+domain
+domain
+allele
+domain
+genetic
+transgene
+transgene
+genetic
+transgene
+transgene
+transgene
+transgene
+gene
+genetically
+genetic
+genetic
+gene
+premature stop codon
+gene
+domain
+domain
+genetic
+gene
+domain
+domain
+allele
+cassette
+site in ... exon
+start codon
+gene
+primers
+F
+R
+primer
+allele
+allele
+lox
+vector
+transgene
+transgene
+transgene
+vectors
+vector
+vector
+lox
+alleles
+genes
+alleles
+plasmid
+plasmid
+transgene
+transgene
+transgene
+genetic
+genetic
+genetic
+genetic
+genetic
+genes
+genes
+gene
+gene
+genetic
+genetic
+genetic
+genetic
+genes
+genetic
+genome
+genetic
+domains in ... protein
+genetic
+genome
+simple sequence length polymorphism
+transversion
+domains in ... protein
+Gene
+transversion
+domains
+domain
+domain
+orthologous
+allele
+isoform
+transcripts
+isoform
+isoform
+domain
+genetic
+isoform
+Genetic
+site of ... integration
+domains
+domain
+consensus
+domains
+promoter
+domain
+domain
+alpha helix
+domain
+domain
+allele
+isoform
+allele
+transcript
+isoform
+isoform
+genetic
+gene
+gene
+domain
+genes
+genetic
+gene
+gene
+genetic
+Genetic
+genome
+genetic
+genetic
+gene
+mating type loci
+genes
+genes
+gene
+exon
+gene
+gene
+primers
+5' ... primer
+5' ... primer
+3' primer
+gene
+lox sequences
+gene
+flanking
+exon
+allele
+allele
+transgene
+exon
+allele
+inframe
+exon
+double-strand
+double-strand
+genes
+gene
+isoforms
+gene
+gene
+genes
+genes
+promoter
+gene
+genetic
+allele
+allele
+allele
+alleles
+gene
+genetic
+alleles
+allele
+alleles
+gene
+alleles
+genetic
+gene
+alleles
+gene
+alleles
+genes
+genetic
+genes
+gene
+genetic
+allele
+premature stop codon
+alleles
+alleles
+Short Interfering RNA
+short interfering RNA
+siRNA
+siRNA
+siRNA
+siRNA
+siRNAs
+siRNA
+open reading frame
+siRNA
+Genes
+genes
+genes
+gene
+siRNA
+siRNA
+siRNA
+siRNA
+alleles
+premature termination codons
+exons
+alleles
+gene
+open reading frame
+exons
+siRNA
+siRNA
+gene
+transcript
+siRNA
+siRNA
+boundary of exons
+transcript
+transcript
+transcript
+siRNA
+allele
+gene
+exon
+gene
+gene
+allele
+premature stop codon
+allele
+gene
+transcript
+siRNA
+genetic
+genes
+genome
+gene
+siRNA
+siRNAs
+siRNAs
+siRNA
+siRNA
+siRNA
+siRNA
+siRNA
+alleles
+premature stop codon
+allele
+alleles
+exons
+alleles
+alleles
+genetic
+genetic
+genetic
+genes
+genetic
+genes
+allele
+genetic
+allele
+genetic
+siRNA
+siRNA
+SiRNA
+vector
+plasmid
+siRNA
+siRNAs
+siRNA
+gene
+siRNA
+siRNAs
+genes
+gene
+genes
+genes
+siRNA
+siRNA
+genetic
+allele
+allele
+genome
+assembly
+gene
+exon
+genomic
+genome
+Gene
+Gene
+genes
+siRNAs
+siRNA
+siRNA
+short interfering RNA
+siRNA
+siRNAs
+siRNAs
+junctions of exons
+junctions of ... exons
+siRNAs
+siRNAs
+siRNA
+siRNA
+siRNA
+siRNA
+siRNA
+genes
+siRNA
+siRNAs
+siRNA
+siRNA
+siRNA
+siRNA
+siRNA
+siRNA
+siRNA
+allele
+gene
+siRNA
+isoform
+isoform
+isoform
+isoform
+isoform
+genetically
+isoforms
+isoform
+isoform
+genetic
+isoforms
+isoforms
+isoforms
+genetic
+isoforms
+isoforms
+genetic
+isoform
+gene
+Gene
+isoform
+genes
+genes
+Gene
+genes
+genes
+sterol regulatory element
+gene
+Gene
+genes
+genes
+genes
+genes
+genes
+Gene
+Gene
+isoform
+isoform
+isoform
+isoform
+genetic
+genetic
+isoform
+isoform
+isoform
+gene
+gene
+gene
+genes
+isoform
+exon
+gene
+Gene
+Gene
+Gene
+genes
+gene
+Gene
+genes
+Gene
+gene
+gene
+genetic
+genetic
+gene
+gene
+Domain
+domain
+genes
+genetic
+first coding exon
+domains
+start codon
+cassette
+cassette
+Genomic
+primers
+primers
+primers
+antisense
+primers
+gene
+allele
+restriction maps
+allele
+allele
+cassette
+Exons
+restriction sites
+gene
+in frame
+floxed
+cassette
+site
+exon
+site
+exon
+loxP sites
+cassette
+primers
+alleles
+Genomic
+PCR product
+bp
+genetic
+gene
+Gene
+Genetic
+genetic
+gene
+gene
+gene
+gene
+genes
+genetic
+genetic
+genes
+genetically
+genes
+genes
+gene
+pre-mRNA
+orthologs
+ortholog
+gene
+genetic
+transgene
+transgene
+transgene
+transgene
+allele
+allele(s)
+genetic
+genetic
+gene
+transgene
+genomic
+intron
+gene
+transgene
+intron
+exons
+transgene
+transcript
+transgene
+genes
+genomic
+gene
+Genes
+genes
+gene
+transgene
+gene
+allele
+Trangene
+Physical map
+transgene
+insertion point
+intron
+gene
+transgene
+transgene
+transgene
+transgene
+genomic
+insertion site
+transgene
+transgene
+intronic
+transgene
+insertion site
+breakpoint of ... insertion
+transgene
+exon
+breakpoint
+exon
+exon
+intron
+gene
+gene
+open reading frame
+exon
+exon
+coding exons
+transcript
+transcript
+transcript
+poly-A
+antisense
+antisense
+genes
+transcripts
+transcripts
+genes
+transcripts
+genes
+genes
+transcripts
+genes
+Genes
+poly-A
+transcripts
+gene
+genetic
+genetically
+Genetic
+gene
+transcript
+transcript
+transgene
+hairpin
+gene
+genetic
+transcripts
+genes
+transcript
+transcripts
+gene
+transcripts
+genes
+genes
+gene
+gene
+bidirectional ... promoter
+vector
+transgene
+transgene
+insertion site
+Genomic
+transgene
+genomic
+vector
+vector
+primer
+primer
+vector
+vector
+genome
+intron
+gene
+breakpoint of ... insertion
+transgene
+transgene
+primer
+intron
+primer
+insertion breakpoints
+allele
+primer
+allele
+allele
+Primers
+primers
+bp
+allele
+primers
+bp
+allele
+5′ UTR
+insertion site
+transcript
+primers
+exon
+forward
+exon
+reverse
+Gene
+transcripts
+transcripts
+exon
+stop codon
+exon
+start codon
+transcripts
+exon
+stop codon
+stop codon
+Genes
+transcripts
+transcripts
+intron
+gene
+Gene

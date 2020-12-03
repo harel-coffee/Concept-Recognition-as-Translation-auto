@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<synonym>
+<token id="http://purl.obolibrary.org/obo/CHEBI_24753" canonical="hygromycin">
+        <variant base="hygromycin"/>
+</token>
+</synonym>
