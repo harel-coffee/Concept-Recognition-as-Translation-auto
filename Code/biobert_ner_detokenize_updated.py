@@ -122,6 +122,7 @@ def detokenize(golden_path, pred_token_test_path, pred_label_test_path, output_d
         # print(len(bert_pred['toks']))
         # raise Exception('hold')
         for b, bert_pred_tok in enumerate(bert_pred['toks']):
+            # print('original bert info looping:', b, bert_pred_tok)
 
 
             ##answer token information
@@ -224,12 +225,15 @@ def detokenize(golden_path, pred_token_test_path, pred_label_test_path, output_d
                 bert_pred_tok_updated = ''  # reset!
                 bert_pred_labels_updated_list = []
 
-            #TODO: fix skipping stuff - check if its the case - otherwise keep going - check in general!
+
+
+            #TODO: fix skipping stuff - check if its the case - otherwise keep going - check in general! - changed 12.7.20
 
             if bert_pred_tok not in ans_tok or (bert_pred_tok_updated and bert_pred_tok_updated+bert_pred_tok not in ans_tok):
                 # print('check stuff:', ans_tok)
                 # print('skipping stuff!')
-                for j in range(ans_idx, ans_idx + 10):
+                ##made this higher range to check what is missing (found an example of 11)
+                for j in range(ans_idx, ans_idx + 15):
                     ans_tok = ans['toks'][j]
                     # print('answer tok needing to find stuff:', ans_tok)
                     # skipped stuff - assume it is outside
@@ -252,20 +256,62 @@ def detokenize(golden_path, pred_token_test_path, pred_label_test_path, output_d
                         # raise Exception('HOLD')
                         break
 
-                    elif ans_tok not in bert_pred_tok and bert_pred_tok not in ans_tok:
-                        # print('missing stuff')
+                    ##need to ensure that the match is one 3 total (one before the token, the token, and one after:
+                    ##check if they are equal
+                    elif ans_tok == bert_pred_tok:
+                        ans_idx = j
+                        # print('finished!')
+                        # print(bert_pred['toks_updated'][-3:])
+                        break
+                    ##check if ans in bert pred tok (combined tokens in bert pred)
+                    elif ans_tok in bert_pred_tok:
+                        if ans_tok+ans['toks'][j+1] in bert_pred_tok:
+                            ans_idx = j
+                            # print('finished!')
+                            # print(bert_pred['toks_updated'][-3:])
+                            break
+                        else:
+                            # print('missing stuff 1', ans_tok)
+                            bert_pred['toks_updated'] += [ans_tok]
+                            bert_pred['labels_updated'] += ['O']  # assume it is Outside!
+                    ##check if bert pred tok in ans (split up tokens in bert pred
+                    elif bert_pred_tok in ans_tok:
+                        if bert_pred_tok + bert_pred['toks'][b+1] in ans_tok:
+                            ans_idx = j
+                            # print('finished!')
+                            # print(bert_pred['toks_updated'][-3:])
+                            break
+                        else:
+                            # print('missing stuff 2', ans_tok)
+                            bert_pred['toks_updated'] += [ans_tok]
+                            bert_pred['labels_updated'] += ['O']  # assume it is Outside!
+                    ##total miss of everything - no match at all
+                    else:
+                        # print('missing stuff 3', ans_tok)
                         bert_pred['toks_updated'] += [ans_tok]
                         bert_pred['labels_updated'] += ['O']  # assume it is Outside!
 
-                    else:
-                        ans_idx = j
-                        # print('finished!')
-                        break
 
-                    if j == ans_idx + 9:
+
+
+                    # elif ans_tok not in bert_pred_tok and bert_pred_tok not in ans_tok:
+                    #     print('missing stuff', ans_tok)
+                    #     bert_pred['toks_updated'] += [ans_tok]
+                    #     bert_pred['labels_updated'] += ['O']  # assume it is Outside!
+                    #     print(bert_pred['toks_updated'][-3:])
+                    #     print(ans['toks'][ans_idx-2:ans_idx+2])
+                    #     print(bert_pred['toks'][b-2:b+3])
+                    #
+                    # else:
+                    #     ans_idx = j
+                    #     print('finished!')
+                    #     print(bert_pred['toks_updated'][-3:])
+                    #     break
+
+                    if j == ans_idx + 14:
 
                         print('bert pred token:', bert_pred_tok)
-                        print(bert_pred['toks'][b-3:b+3])
+                        print(bert_pred['toks'][b-3:b+5])
                         print('bert pred token updated:', bert_pred_tok_updated)
 
                         print('answer token:', ans_tok)
@@ -275,7 +321,7 @@ def detokenize(golden_path, pred_token_test_path, pred_label_test_path, output_d
                         print('ans info:', ans['toks'][ans_idx-5:ans_idx+15])
                         raise Exception('ERROR: DID NOT FIND THE MISSING PIECES CORRECTLY')
 
-
+                # print(bert_pred['toks_updated'][-10:])
 
             ##answer token is SEP which we don't want so we skip
             if ans_tok == '[SEP]':
@@ -378,9 +424,21 @@ def detokenize(golden_path, pred_token_test_path, pred_label_test_path, output_d
                             bert_pred_lables_split += [bert_pred_label]
 
                         else:
+                            print('error information:')
+                            print(ans_tok)
+                            print(bert_pred_tok)
+                            print(bert_pred_tok_updated)
+                            print(bert_pred_toks_split)
+                            print(b)
+                            print(bert_pred['toks'][b-5:b+10])
+                            print(ans_idx)
+                            print(ans['toks'][ans_idx-10:ans_idx+20])
+                            print(ans['toks'][ans_idx])
+                            print(bert_pred['toks_updated'][ans_idx-sep_count-10:])
+                            # print('hello', bert_pred['toks_updated'][:ans_idx])
                             raise Exception('ERROR: CANNOT SPLIT UP THE BERT_PRED_TOKEN TO BE WHAT ANS_TOK WAS!')
 
-                    raise Exception('HOLD!')
+                    # raise Exception('HOLD!')
                 else:
                     pass
 
@@ -464,7 +522,7 @@ def detokenize(golden_path, pred_token_test_path, pred_label_test_path, output_d
 
         print(bert_pred['toks_updated'][-4:])
         print("Error! : len(ans['labels']) != len(bert_pred['labels_updated']) : Please report us")
-        raise
+        raise Exception()
 
     # ##output the stuff together in conll format
     # with open(output_dir + '/NER_result_conll.txt', 'w') as out_:
@@ -478,6 +536,13 @@ def detokenize(golden_path, pred_token_test_path, pred_label_test_path, output_d
     #             idx += 1
 
     ##output the stuff together in conll format
+    print('final information:')
+    print(len(ans['toks']))
+    print(sep_count)
+    print(len(ans['labels']))
+    print(len(bert_pred['toks_updated']))
+    print(len(bert_pred['labels_updated']))
+    # raise Exception('Hold!')
 
     if gold_standard.lower() == 'true':
         with open(output_dir + '/NER_result_conll.txt', 'w') as out_:
