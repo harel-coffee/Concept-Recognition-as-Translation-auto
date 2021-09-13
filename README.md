@@ -4,8 +4,7 @@ All code and models for reformulating Concept Recognition as a machine translati
 1. Span Detection (also referred to as named entity recognition or mention detection): to delimit a particluar textual region that refers to some ontoloical concept.
 2. Concept Normalization (also referred to as named entity normalization or entitiy linking): to identify the specific ontological concept to which the text span (from span detection) refers to.
 
-To implement or use the models created here, start by cloning this github repository. Some files are too large to upload here so we uploaded them to Zenodo. 
-Download all the files from Zenodo also and put all the .tar.gz files within the Concept-Recognition-as-Translation/ folder. 
+To implement or use the models created here, start by cloning this github repository. Some files are too large to upload here so we uploaded them to Zenodo: 10.5281/zenodo.4062444. Download all the files from Zenodo also and put all the .tar.gz files within the Concept-Recognition-as-Translation/ folder. 
 Then in the command line navigate to the folder you just put them in and run Code/untar_all_files.sh which will untar all of the files (FILENAME) using the command: tar -xzvf FILENAME. This will put all the files in the correct place on your local machine. Do not unzip them using the builtin compression because it will make duplicate copies of everything. The files can be found here: 
 They include:
 1. Output_Folders-Tokenized_Files.tar.gz
