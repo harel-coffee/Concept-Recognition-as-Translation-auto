@@ -539,7 +539,7 @@ def detokenize(golden_path, pred_token_test_path, pred_label_test_path, output_d
     print('final information:')
     print(len(ans['toks']))
     print(sep_count)
-    print(len(ans['labels']))
+    #print(len(ans['labels']))
     print(len(bert_pred['toks_updated']))
     print(len(bert_pred['labels_updated']))
     # raise Exception('Hold!')
