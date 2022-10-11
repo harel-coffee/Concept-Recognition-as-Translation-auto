@@ -171,7 +171,13 @@ def eval_preprocess_docs(eval_path, articles, tokenized_files, pmcid_sentence_fi
     pmcid_sentence_dict = {} #(pmcid, sentence_num) -> [sentence, sentence_indices]
     # valid_filename = False
 
-    for root, directories, filenames in os.walk(eval_path + articles):
+    # full_article_path = ''
+    if articles.lower() == 'Articles/' or articles.lower() == '/Articles/':
+        full_article_path = eval_path + articles
+    else:
+        full_article_path = articles
+
+    for root, directories, filenames in os.walk(full_article_path):
         for filename in sorted(filenames):
             # if file_num < max_files:
             ##covid literature all with .txt and weird unique ids for names
@@ -179,7 +185,7 @@ def eval_preprocess_docs(eval_path, articles, tokenized_files, pmcid_sentence_fi
                 valid_filename = True
 
             ##for all other ontologies where we write in the evaluation files
-            elif filename.endswith('.txt') and (filename.replace('.txt', '') in evaluation_files or filename.replace('.nxml.gz.txt', '') in evaluation_files):
+            elif (filename.endswith('.txt') and (filename.replace('.txt', '') in evaluation_files or filename.replace('.nxml.gz.txt', '') in evaluation_files)) or (evaluation_files[0].lower() == 'all' and filename.endswith('.nxml.gz.txt')):
                 valid_filename = True
 
             else:

@@ -635,6 +635,8 @@ def run_models(tokenized_file_path, ontology, save_models_path, output_path, exc
                 valid_filename = True
             elif 'covid' == ontology.lower() and filename.endswith('.pkl'):
                 valid_filename = True
+            elif excluded_files[0].lower() == 'all' and filename.endswith('.pkl'):
+                valid_filename = True
             else:
                 valid_filename = False
 
@@ -2319,6 +2321,8 @@ def biobert_model(tokenized_file_path, ontologies, save_models_path, output_path
         for filename in sorted(filenames):
             if filename.endswith('.pkl') and (
                     filename.replace('.pkl', '') in excluded_files or filename.replace('.nxml.gz.pkl', '') in excluded_files):
+                valid_filename = True
+            elif excluded_files[0].lower() == 'all' and filename.endswith('.pkl'):
                 valid_filename = True
 
             else:

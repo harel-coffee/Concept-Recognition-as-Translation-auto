@@ -178,6 +178,8 @@ def biobert_eval_results_span_detection(tokenized_file_path, ontology, biobert_p
                 valid_filename = True
             elif 'covid' == ontology.lower() and filename.endswith('.pkl'):
                 valid_filename = True
+            elif excluded_files[0].lower() == 'all' and filename.endswith('.pkl'):
+                valid_filename = True
             else:
                 valid_filename = False
 

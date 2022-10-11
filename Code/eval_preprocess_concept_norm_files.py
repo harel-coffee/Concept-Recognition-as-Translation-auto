@@ -13,7 +13,7 @@ def preprocess_data(tokenized_file_path, ontology, ontology_dict, concept_norm_f
             # print(root+filename)
 
             ##grab all tokenized files per pmcid file - want to combine per ontology
-            if filename.endswith('.txt') and ontology in filename and 'local' in filename and 'pred' not in filename and filename.split('_')[-1].split('.')[0] in evaluation_files:
+            if filename.endswith('.txt') and ontology in filename and 'local' in filename and 'pred' not in filename and (filename.split('_')[-1].split('.')[0] in evaluation_files or evaluation_files[0].lower() == 'all'):
                 print(filename)
                 pmc_mention_id_index += 1 ##need to ensure we go up one always
 

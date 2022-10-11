@@ -138,7 +138,7 @@ def evaluate_all_models(concept_system_output_path, gold_standard_path, ontology
     ##loop over the gold standard documents to evaluate the models
     for root, directories, filenames in os.walk(gold_standard_path_final):
         for filename in sorted(filenames):
-            if filename.endswith('.bionlp') and filename.replace('.bionlp','') in evaluation_files:
+            if filename.endswith('.bionlp') and (filename.replace('.bionlp','') in evaluation_files or evaluation_files[0].lower() == 'all'):
                 gs_bionlp_dict = {} #(word_indices, spanned_text) -> [ont_ID, T#]
                 with open(root+filename, 'r+') as gs_bionlp_file:
                     for line in gs_bionlp_file:
